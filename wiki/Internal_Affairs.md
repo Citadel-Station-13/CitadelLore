@@ -1,0 +1,232 @@
+---
+title: Internal Affairs
+permalink: wiki/Internal_Affairs/
+layout: wiki
+tags:
+ - Jobs
+---
+
+[Internal Affairs](/wiki/Internal_Affairs "wikilink")' task is to remain
+impartial at all times, conduct investigations, and then summarize your
+findings in reports and deliver them to the relevant [Head of
+Staff](/wiki/Head_of_Staff "wikilink") of the affected department. Remember
+that you are not a [Lawyer](/wiki/Lawyer "wikilink"), it is not your job to
+determine whether or not someone should be in jail. Rather, it is your
+job to make sure that the station's staff is working efficiently and
+following [Standard Operating
+Procedure](/wiki/Standard_Operating_Procedure "wikilink") at all times.
+
+Duties of Internal Affairs Agents
+---------------------------------
+
+-   **Remain Impartial.** You are an arbitrator, first and foremost.
+    This may impact your social life, but you are required by your job
+    to put aside emotional or business attachment to any particular crew
+    member in order to function. Unlike a traditional lawyer, your goal
+    is to serve as a pseudo-judge, and not to defend an indefensible
+    perpetrator.
+-   **Follow Procedure.** NanoTrasen upholds a [Standard Operating
+    Procedure](/wiki/Standard_Operating_Procedure "wikilink") which should be
+    followed at all times.
+-   **Trust the Facts.** Acting on allegations is an easy way to get you
+    fired. Make sure you have sufficient evidence before you do
+    anything.
+
+Do Nots of Internal Affair Agents
+---------------------------------
+
+-   **Do Not Threaten** While a well written and damning report can lead
+    to someone's demotion, or outright contract termination, it is not
+    your job to wave it around like some kind of club. SEC actually has
+    clubs and fill that niche nicely.
+-   **Do Not Be a Film Noir** Criminals and other threats to the station
+    are under the purview of the SEC team, and you shouldn't have much
+    of a cause to interfere with them.
+-   **Do Not Be a Vigilante** Have a legitimate suspicion to start an
+    investigation before you attempt to do so. Consulting a head of
+    staff for more information is always a good idea when starting an
+    investigation.
+-   **Do Not Take Sides** Just don't. See line two of previous
+    paragraph.
+
+Procedure
+---------
+
+Crewman X would like to register a complaint about Crewman Y's
+behavior/conduct.
+
+It is your task to learn *Who*, *What*, *Where*, *When*, and *Why* when
+launching a new investigation.
+
+-   **Who** is involved in the incident
+-   **What** happened
+-   **Where** it happened
+-   **When** it happened
+-   **Why** it happened
+
+Interview each and every crewman involved before summarizing your
+findings into a report that you present to the offending party's
+department's head of staff. The matter at hand can range from obvious
+prisoner abuse to simply leaving the
+[Xenobiology](/wiki/Xenobiology "wikilink") pens open or refusing to serve
+drinks at the bar.
+
+Do not worry if people are loathe to answer your questions or outright
+refuse to. Refusing to answer case-related questions is a briggable
+offense. (To a minimum of ten minutes)
+
+You do not want to know what happens to people who lie to a IA Agent.
+
+### The Lone Ranger
+
+Remember that you are to remain completely impartial in your
+investigations. To do this, it may (and probably will) be necessary to
+isolate yourself from most of the crew outside of an investigation. In
+simple terms, you should not be 'buddy-buddy' with any crew members. If
+a case comes up in which your opinion could be potentially biased, it's
+recommended that you transfer the case to another IA Agent.
+
+### Security and You
+
+More often than not, [security officers](/wiki/Security_Officer "wikilink")
+and [heads of staff](/wiki/Chain_of_Command "wikilink") will ignore your
+complaints. The best course of action in this scenario is to <s>eat one
+of their officers</s> take your complaint to the [highest
+authority](/wiki/Captain "wikilink"), noting that your valid complaints were
+completely ignored. If nobody on the station is listening to you, it is
+within your power to inform [Central
+Command](/wiki/CentCom_Representative "wikilink") about the station crew's
+(lack of) cooperation. [NanoTrasen Command](/wiki/NanoTrasen "wikilink")
+usually takes the side of Internal Affairs Agents because they are loyal
+and trained in [procedure](/wiki/Standard_Operating_Procedure "wikilink") and
+[Corporate Regulations](/wiki/Corporate_Regulations "wikilink"). A single
+Internal Affairs Agent has the power to make a crewmember's life
+miserable once he or she leaves the station; **it is a bad idea to mess
+with Internal Affairs!**
+
+Commonly asked questions
+------------------------
+
+**Q:** *Exactly which departments/positions is IA allowed to
+investigate?*
+
+**A:** All departments fall under the purview of Internal Affairs. That
+is the point of Internal Affairs, to act as a check and balance system,
+as well as a non-partisan investigator into departmental and
+inter-departmental issues.
+
+**Q:** *What exactly does investigation entail, and how should it be
+prioritized in accordance with other station operations?*
+
+**A:** IA takes little direct action in all but the most extreme cases,
+advising the next in command over the affected departments of their
+findings, and offers suggestions of actions to be taken. However, if the
+chain of command is unable or unwilling to participate in the
+investigation, then a breach of integrity has occurred, and IA has been
+entrusted by CentComm to take whatever actions necessary to ensure the
+sanctity of the station.
+
+**Q:** *What actions can they take to 'resolve' issues?*
+
+**A:** Internal Affairs conducts thorough and unbiased investigations of
+all involved parties if possible. If impossible due to death,
+incapacitation, SSD, or insanity, then a detective's or suitable
+security personnel's documented findings along with verbal interview as
+well as witnesses will suffice. Their findings, once compiled into a
+cohesive summary, will then be presented to the applicable head of staff
+along with suggested actions to be taken. However, if a head of staff is
+involved, then the captain is utilized as the next go-to person for
+judgement to be passed. If the captain is involved in a potentially
+negligent, harmful, or otherwise destructive manner, then IA <s>can and
+should summarily dismiss the captain</s> should confer with the heads of
+staff for a vote for the Captain's removal. IA cannot, at any time,
+break the station's [chain of command](/wiki/Chain_of_Command "wikilink") nor
+make any decisions that would fall under a head of staff.
+
+**Q:** *At what point are their actions considered exceeding their
+authority?*
+
+**A:** At any point that an IA agent is conducting illicit or
+unwarranted interviews with any crew that is unrelated to an incident
+that is being investigated, or if there is no investigation to be
+performed, then an IA agent may be reprimanded, relieved of post, or
+otherwise made fully in-line with Internal Affairs integrity guidelines
+(additional loyalty implant, checking of current implant for defects).
+Internal Affairs agents are not exempt from the law, and as such may be
+arrested by Security in the case that an agent exceeds his or her
+official power. Demotions and/or arrests of an IA agent can only be
+authorized by the Captain or a majority vote by all Heads of Staff.
+
+**Q:** *Under which circumstances (if any) is the IA allowed to be
+completely ignored / sidelined?*
+
+**A**: If the IA agent is performing illegal investigations, or
+otherwise impeding lawful procedures of the security department in
+apprehending or sentencing a suspected criminal. This is not to say that
+an arrestee is not able to call for investigation into their bringing
+into custody, but the IA agent should not be present in any way if
+possible for the arrest and detaining of the suspected criminal. Only
+after the defendant has been placed into custody, searched, and
+investigated by the security team in a lawful manner will the defendant
+be able to call for an internal investigation into the matter.
+
+**Q:** *What exactly is the minimum level of activity to mandate IA
+participation in an issue?*
+
+**A:** Any inter-departmental issue that cannot be settled peaceably or
+willingly by any constituents, or any in-department issue that cannot be
+handled by that head of staff can be referred to an Internal Affairs
+agent for investigation. During that time, Internal Affairs agents are
+only allowed to speak of the case to those involved, and only
+information that is need-to-know, I.E. why they are being investigated,
+and if non-criminal, assuring that they are not being arrested or
+detained in any way. However, failure to cooperate with an Internal
+Affairs investigation is considered insubordination with a NanoTrasen
+official and is a briggable offense.
+
+**Q:** *What happens if a claim of abuse or malpractice is levied
+against the IA (including circumstances where there is disagreement with
+their decision)?*
+
+**A:** All decisions made by IA are finalized by the head of staff or
+captain, and are considered suggested courses of action rather than
+set-in-stone judgments. If the IA agent is acting in a malicious or
+seditious way, then he or she can be handled accordingly by following
+the previous codes.
+
+Predding
+--------
+
+You have an office with shutters. Along with your [super
+powers](paperwork "wikilink") you can convince crewmembers who aren't
+willing to go into a dark room alone with you.
+
+Preying
+-------
+
+Your non-security position also makes you ideal to grab for a quick
+snack. Attempting to push papers at the wrong crew member could let them
+decide they have [other](vore "wikilink") things to do. Have fun with
+"Internal" affairs!
+
+Roleplaying Tips
+----------------
+
+<s>Be impartial, be detached emotionally, you deal with reports of every
+idiot ever conceived in the history of ever</s>, <s>and nobody ever
+listens to your recommendations</s>, <s>your soul is crushed, there is
+no god, and at the end of it all, people hate you for trying to do your
+job.</s> This isn't fun for anyone, and isn't required. Internal affairs
+agents are always professional however, and *are* loyalty implanted.
+They answer directly to central command, but take orders from the
+captain and other heads of staff.
+
+It's generally accepted that Internal Affairs Agents are sent directly
+from CentComm and are located in a different department altogether. Most
+IA Agents are usually loyalty implanted and are, more often than not,
+extremely loyal to NanoTrasen. Extensive knowledge in [Corporate
+Regulations](/wiki/Corporate_Regulations "wikilink") and [Standard Operating
+Procedure](/wiki/Standard_Operating_Procedure "wikilink") are a must.
+
+Basically, be a moderator without the benefits and super-secret
+moderator chat.

@@ -1,0 +1,56 @@
+{{SidebarJob|jobname=Detective|img_file=Detective.png|tagline="Also staring, Alan North"|department=Security|access=Security, Detective's Office, Maintenance|duties=Investigate crimes, gather evidence, prosecute criminals|supervisors=Head of Security|difficulty=Hard|alt_titles=Forensic Technician, Investigator}}
+The [[Detective]]'s job is to investigate the remains of any crime, identify the perpetrator, and then ask Security to arrest them for you. They have no brig access because they are supposed to be an evidence collector and investigator, not a [[Security Officer]] or [[Warden]].
+
+==Detective Inspector==
+'''YOU ARE NOT SECURITY. YOU ARE A FORENSICS EXPERT.''' You shouldn't be wasting your time over arresting an assistant for petty vandalism or other minor crimes. Medium and severe crimes are the only times you should be bothered with making arrests, and only if no other security can do it for you.
+
+See [[Guide_to_Security#Standard_Procedure|standard security procedures]] for more about evidence collecting.
+
+As a detective, your primary duty is to go to crime scenes and find out who committed them. You do this with your [[Forensic Scanner]] and with the help of Medical [[Autopsies]].
+
+Your [[Forensic Scanner]] is located in your backpack. Go to the crime scene, then scan all the surfaces - you should also scan (and collect using evidence bags) any evidence you see, as well as the bodies of any dead victims. Send the body off the medical for an [[Autopsy]] and have the results sent to you. This should help identify the cause of death and the murder weapon.
+
+'''Remember to ALWAYS, ALWAYS, ALWAYS wear your gloves, or you will record your own prints when you are handling fingerprint cards. This will at best slow identification down, and at worst get you thrown into the brig for the very crime you were investigating and/or being incompetent.'''
+
+Now, head back to your office. Put your Scanner into the 'High-Res Forensic Scanning Computer'. This will consolidate any partial prints and match them in a single dossier file. It will also show the identity of any fibres on the evidence you scanned.
+
+From this point you may have one of three things on the dossier. An incomplete print, a partial print or a full print. If you have a partial or full print, grab the largest string you can get and search the records for a match.
+
+If you have no prints, try to work on fibres. Some departments have unique clothing, but often criminals will use this to try and fool you. Fibres aren't full proof, but they can give you good leads. Remember that Latex Gloves still leave material and also have a chance of leaving fingerprints.
+
+If you have multiple hits, you're going to have to do some more investigating and possibly some interviews.
+
+If you get a single hit, you've got your guy. Make sure to set him to arrest and bring him in for questioning.
+
+Make sure you write down what crimes they actually committed in the appropriate boxes, and that you tell the rest of security over the radio to arrest them, otherwise nothing will get done.
+
+== Proper Proceedings ==
+Have your printed dossiers with you or on file at all times - these dossiers act as the evidence against the criminal. They are important evidence when dealing with a tribunal.
+
+Technically, the above represents the entirety of the detective's job. Despite this, you will rarely be called upon to investigate a crime, since the victim is usually able to cry out for help and the perpetrator is quickly identified. Luckily, there are some other things that the Detective can do instead:
+
+* Patrol for any crimes, and call security to the scene. Then you can do the forensics.
+* Be a general assistant to Security.
+* Use the camera terminal in your office to scan the station - it looks like an old-fashioned TV. Look around for any crimes, then report it over the Security channel or head over there yourself. It's probably not a good idea to announce it over the general radio, or the criminal in question will usually realise that you're onto them and get away.
+* Update the security records. This is meant to be the Warden's job, but you'll be hard pressed to see him actually doing that.
+
+==Equipment==
+Here is a list of stuff that the either Detective spawns with, or is in his office:
+
+* Cigarettes and Zippo lighter - Not actually necessary.
+* A coat and hat - Not only do these make you look cool, but they act as armour.
+* [[file:BGloves.png]] The Detective's Gloves - As stated above, NEVER take these off if you are planning on being an actual detective and doing your damn job, or you will get your own prints on the fingerprint cards and mess up the evidence. Unique so that you don't get framed by fibres either.
+* [[file:secheadset.png]] A security radio headset - This gives you access to the security channel so you can tell the officers to arrest insert-criminal-name-here.
+* Your forensics scanner - Found in your backpack. Use this to scan for fingerprints and blood. Load it into your High-Res scanner to retrieve data.
+* <s>A Colt M1911 Pistol</s> Ask the HoS for a permit to get a revolver or handgun. If you're not retarded, they might allow it.
+* Spare ammo for the revolver - You may want to put these in your box. Make more at the autolathes if you run out.
+* A tape recorder - For documenting interviews with suspects. Remember, it can record anything said around you from you hand, suit storage, or pockets, holding up to 3 hours of conversations!  Pretty cool, huh?
+* A hand labeller - For labelling evidence.
+* A camera - This is supposed to be for taking pictures of evidence, but it's obsolete in the face of the forensics scanner.
+* A pair of sunglasses, for looking shady and protecting your eyes from bright lights.
+
+==Predding==
+You're one of the less powerful members of security, but you have a hat. With some [[roleplay|effort]] You can easily convince someone to go into your <s>lair</s> office!
+
+{{Jobs}}
+[[Category: Jobs]]

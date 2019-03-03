@@ -1,0 +1,2147 @@
+==Fullness==
+
+As you walk and move about on station, your starting nutrition bar will start to drain from starting green, down to dark red; if your hunger bar turns black, you've eaten way too much. The effects of fullness and hunger are equally bad, so it is best to stay at a happy medium. So keep in mind how much you've eaten and how long it has been since you last ate, and you will be fine. 
+
+Go with the rule that, "If you have a hard time getting it down, don't eat any more". Note that nutrition is typically slow-release, so if you don't fill up immediately, you will in the near future.
+
+Several reagents will increase your fullness:
+* Very effective: Nutriment, found in most foods. The main one and most effective; Corn oil; Animal Protein, found in meat and Egg Yolk.
+* Somewhat effective: Ketchup, Sugar, Sprinkles, Coco powder, Corn oil, Cherry jelly.
+* Some alcoholic drinks.
+
+===Starvation===
+
+[[File:food1.png|50px]][[File:food2.png|50px]][[File:food3.png|50px]][[File:food4.png|50px]][[File:food5.png|50px]]
+
+If you drop to dark red, you move very slowly and your description reveals your lack of eating habits. You are starving, this is not good! You will move slowly until you eat some food, so head to the [[chef]] for a burger or slice of meatbread!
+
+Some things will decrease your hunger faster:
+* Vomiting
+* Being cold (by exposure to cold environments or because you were in a cryo tube)
+* Recovering from blood loss
+* Taking Lipozine
+* Some viruses
+
+If you eat too much, your description will note that you are "chubby". Too little, and you will be described as "malnourished".
+Food will also factor into your characters Weight. Gain weight by eating food, lose weight by walking or working out in the stations [[Gym]].
+
+=== FOOD ALLERGY AND REACTIONS. ===
+While on other servers the races have mechanically included allergies (such as Skrell and animal proteins.) We have removed most code pertaining to these. But there are still reactions that you must take into account. Some drinks and food will raise and lower body temperature for example. Please be mindful of the species you are serving to. As a example Teshari should not be given Antifreeze or foods that raise their body temperature.
+
+'''''<u>Please Help us keep this list up to date!</u>''''' (if you know of a reaction not listed, Then please add it or flag someone done in our #wiki Discord Channel.
+
+{| class="wikitable"
+!Food or Drink
+!Species Effected
+!Amount needed
+!Time needed to be effected
+!Cause
+!Effect
+|-
+|AntiFreeze
+|Teshari, Promethians
+|30units 
+|near Instant
+|Increased body temperature
+|Heavy burn damage to internal organs
+|-
+|Deathbell
+|Promethian, Teshari
+|One drink
+|Instant
+|**unknown**
+|Instant limb explosion and heavy burn damage for Promethians, Heavy internal burn damage to Teshari 
+|-
+|Coldfront
+|Humans
+|**unknown**
+|**unknown**
+|Decreased body temperature
+|Heavy freeze damage to internal organs
+|-
+|Named Bullet
+|Every non-Promethean
+|**Unknown**
+|**Unknown**
+|Slime jelly.
+|Massive toxic damage to non-Prometheans, but heals Prometheans.
+|-
+|Sbiten
+|**Unknown**
+|**Unknown**
+|**Unknown**
+|Raised Temperature
+|**Unknown**
+|-
+|Vox Delight
+|All non-Vox
+|**Unknown**
+|**Unknown**
+|**Unknown**
+|Poisons Non-Vox, heals tox damage on vox.
+|-
+|Three Mile Island Iced Tea
+|**Unknown**
+|**Unknown**
+|**Unknown**
+|Uranium induced High
+|**Unknown**
+|-
+|Garble Blaster
+|**Unknown**
+|**Unknown**
+|**Unknown**
+|**Unknown**
+|Varies: Flashing colors, lights, sounds, Slurred speech.. 
+|}
+
+===Outside Recipe Lists===
+Due to how often the recipe lists change, and the nature of wiki-editing, Two external sites have been created for the purpose of offering a convenient full list of Virgos many food and drink recipes. (Warning, may also be out of date. Please check the top of the page for date of publishing. If they are out of date by a month please tell us on our [https://discordapp.com/invite/0yCTdQTDRZL5CFSN discord]. Otherwise, We will try our best to keep the recipe pages and wiki guides up to date.) '''NOTE:''' These pages will only contain what the ingredients are, not how to cook it. Consider this more a In-character friendly reference guide.
+
+Click here for the current recipe lists: [https://vore-station.net/infodump/recipes_drinks.html '''VOREStation Drink List'''] and [https://vore-station.net/infodump/recipes_food.html '''VOREStation Food List'''].
+
+==Drinks==
+
+'''IMPORTANT:'''
+Many of these drinks, while they do have toxic ingredients, are not toxic in and of themselves. However, because they have toxic ingredients, if you mess them up, you will poison your patrons--not something a good bartender wants to do. An evil one, though... 
+
+'''EXAMPLES:'''
+* Kahlua = Coffee Liqueur
+* Vodka = Tunguska Triple Distilled
+* Whiskey = Uncle Git's Special Reserve
+
+===Alcoholic Drinks===
+Alcoholic drinks contain ethanol. Each drink is given a numerical value, that reflects how much it takes to raise you one stage of drunkenness. '''Lower numbers mean the drink is stronger.''' Depending on how much you drink, you may slur your speech, get dizzy, start stumbling around, and even pass out. Just as in real life, the more slowly you drink, the less you are affected by alcohol. Some species have special reactions to alcohol: Skrell will always treat any alcohol as extremely strong, and will get very drunk, very quickly. Humans will take liver damage from drinking too much; this damage happens at around the same level where the character passes out.
+
+====Mixed Drinks====
+Since a drinking glass will hold only 30 units of liquid, it's recommended that bartenders use their drink shakers to concoct these drinks before pouring them out.
+
+{| class="sortable" border="1" cellspacing="0" cellpadding="2" align="center"
+! style="background-color:Chocolate;" |Picture
+! style="background-color:Chocolate;" |Cocktail
+! style="background-color:Chocolate;" |Ingredients
+! style="background-color:Chocolate;" |Strength
+! style="background-color:Chocolate;" |Notes
+|-
+![[File:AcidSpit.png|50px]]
+|Acid Spit
+|1 part sulphuric acid, 5 parts wine
+|30
+|Get sulphuric acid from the chemist.
+|-
+![[File:AlliesCocktail.png|50px]]
+|Allies Cocktail
+|1 part ''Classic Martini'', 1 part vodka
+|25
+| Classic Martini (2 gin, 1 vermouth)
+|-
+![[File:Aloe.png|50px]]
+|Aloe
+|1 part cream, 1 part watermelon juice, 1 part whiskey
+|15
+|The whiskey must be added last. Makes 2 parts.
+|-
+![[File:Amasec.png|50px]]
+|Amasec
+|1 part iron, 5 parts vodka, 5 parts wine
+|25
+|Makes 10 parts. Get Iron from the chemist.
+|-
+![[File:Andalusia.png|50px]]
+|Andalusia
+|1 part lemon juice, 1 part rum, 1 part whiskey.
+|15
+|Get lemons from the gardener and process them.
+|-
+![[File:antifreezeglass.png|50px]]
+|Anti-Freeze
+|1 part cream, 1 part ice, 2 parts vodka
+|12
+|Raises body temperature.
+|-
+![[File:Atomicbombglass.gif|50px]]
+|Atomic Bomb
+|10 parts ''b-52'', 1 part uranium
+|10
+|Gets you drunk immediately, and maybe high.
+|-
+![[File:B-52.png|50px]]
+|B-52
+|1 part ''irish cream'', 1 part cognac, 1 part kahlua
+|12
+| Irish Cream (2 Whiskey, 1 Cream)
+|-
+![[File:Bahamamamaglass.gif|50px]]
+|Bahama Mama
+|1 part ice, 2 parts orange juice, 1 part lime juice, 2 parts rum
+|25
+|
+|-
+![[File:BananaHonk.png|50px]]
+|Banana Mama (Banana Honk)
+|1 part banana, 1 part cream, 1 part sugar
+|12
+|Yes, it's an alcoholic drink with no alcoholic ingredients. Get Bananas from the gardener.
+|-
+![[File:Nobarsprite.png|50px]]
+|Balloon
+|1 part Cream, 1 part Blue Curacao
+|66
+|
+|-
+![[File:Barefoot.png|50px]]
+|Barefoot
+|1 part berry juice, 1 part cream, 1 part vermouth
+|30
+|Get berries from the gardener and process them.
+|-
+![[File:BeepskySmash.gif|50px]]
+|Beepksy Smash
+|1 part iron, 2 parts lime juice, 2 parts whiskey
+|12
+|Briefly stuns.
+|-
+![[File:brownglass.gif|50px]]
+|Bilk
+|1 part beer, 1 part milk
+|50
+|Get milk from the kitchen.
+|-
+![[File:Nobarsprite.png|50px]]
+|Binman Bliss
+|1 part sake, 1 part Tequila
+|24
+|
+|-
+![[File:BlackRussian.png|50px]]
+|Black Russian
+|3 part vodka, 2 part kahlua
+|15
+|
+|-
+![[File:BloodyMary.png|50px]]
+|Bloody Mary
+|2 parts tomato juice, 1 part vodka, 1 part lime juice
+|15
+|Tomato juice from booze vending machine.
+|-
+![[File:Boogerglass.gif|50px]]
+|Booger
+|1 part banana, 1 part cream, 1 part watermelonjuice, 1 part rum
+|30
+|Get bananas from the garden and process them.
+|-
+![[File:BraveBull.png|50px]]
+|Brave Bull
+|2 parts tequila, 1 part kahlua
+|15
+|
+|-
+![[File:ChangelingSting.png|50px]]
+|Changeling Sting
+|1 part ''screwdriver'', 1 part lemon juice, 1 part lime juice
+|10
+|Screwdriver (2 Vodka, 1 Orange Juice); get lemons from the gardener and process them
+|-
+![[File:Nobarsprite.png|50px]]
+|Chrysanthemum
+|1 part Sake, 1 part Melon Liquor
+|35
+|
+|-
+![[File:ClassicMartini.png|50px]]
+|Classic Martini
+|2 parts gin, 1 part vermouth
+|25
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Clover Club
+|1 part Berry Juice, 1 part Lemon Juice, 3 parts Gin
+|30
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Cold front
+|1 part Iced, 1 part Whiskey, 1 part Mint
+|30
+|Functionally the opposite of antifreeze
+|-
+![[File:CubaLibre.png|50px]]
+|Cuba Libre
+|1 part cola, 2 parts rum
+|30
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Daiquiri
+|3 rum, 2 limejuice, 1 sugar
+|25
+!
+|-
+![[File:Demonsbloodglass.gif|50px]]
+|Demons Blood
+|1 part blood, 1 part Mountain Wind, 1 part Dr.Gibb, 2 part rum
+|15
+|Blood can be drawn with a syringe or juiced from Blood Tomatoes.
+|-
+![[File:DevilsKiss.png|50px]]
+|Devils Kiss
+|1 part blood, 1 part kahlua, 1 part rum
+|15
+|Blood can be drawn with a syringe or juiced from Blood Tomatoes.
+|-
+![[File:ErikaSurprise.png|50px]]
+|Erika Surprise 
+|1 part banana, 1 part ice, 1 part lime juice, 1 part ale, 1 part whiskey
+|15
+|Get bananas from the gardener and process them.
+|-
+![[File:GinTonic.png|50px]]
+|Gin and Tonic
+|2 parts gin, 1 part tonic
+|50
+|
+|-
+![[file:GinFizz.png|50px]]
+|Gin Fizz
+|2 parts gin, 1 part soda water, 1 part lime juice
+|30
+|
+|-
+![[File:Goldschlagerglass.gif|50px]]
+|Goldschlager
+|10 parts vodka, 1 part gold
+|15
+|Grind up Gold from Mining. Can be got from a party crate through Cargo.
+|-
+![[File:Grog.png|50px]]
+|Grog
+|1 part rum, 1 part water
+|100
+|
+|-
+![[File:HippiesDelight.png|50px]]
+|Hippies Delight
+|1 part psilocybin, 1 part gargle blaster
+|15
+|Gets you high. Psilocybin comes from several types of mushroom that grow in the garden.
+|-
+![[File:brownglass.gif|50px]]
+|Hooch
+|2 parts ethanol, 1 part fuel (welder fuel), 1 part sugar
+|25
+|Is mildly toxic. Ethanol from the chemistry dispensers; welder fuel from welder fuel tanks.
+|-
+![[File:IcedBeer.png|50px]]
+|Iced Beer
+|5 parts beer, 1 part ice OR 10 parts beer, 1 part frost oil
+|50
+|Lowers body temperature.
+|-
+![[File:Irish Car Bomb.png|50px]]
+|Irish Car Bomb
+|1 part ale, 1 part ''irish cream''
+|15
+|Irish Cream (2 Whiskey, 1 Cream)
+|-
+![[File:IrishCoffee.png|50px]]
+|Irish Coffee
+|1 parts ''irish cream'', 1 parts coffee
+|15
+|Irish Cream (2 Whiskey, 1 Cream)
+|-
+![[File:IrishCream.png|50px]]
+|Irish Cream
+|2 parts whiskey, 1 part cream
+|25
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Jelly Shot
+|4 Cherry Jelly, 1 vodka
+|10
+!
+|-
+![[File:LongIslandIcedTea.png|50px]]
+|Long Island Iced Tea
+|1 part ''Cuba Libre'', 1 part vodka, 1 part gin, 1 part tequila
+|12
+|Cuba Libre (1 Cola, 2 Rum)
+|-
+![[File:Manhattan.png|50px]]
+|Manhattan
+|2 parts whiskey, 1 part vermouth
+|15
+|
+|-
+![[File:Manhattanprojglass.gif|50px]]
+|Manhattan Project
+|10 parts ''Manhattan'', 1 part uranium
+|10
+|Gets you high. Manhattan (2 Whiskey, 1 Vermouth)
+|-
+![[File:Margarita.png|50px]]
+|Margarita
+|2 parts tequila, 1 part lime juice
+|15
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Mint Julep
+|2 Whiskey, 1 water, 1 mint
+|25
+|Lowers body temperature
+|-
+![[File:Nobarsprite.png|50px]]
+|Morning after
+|1 sbiten, 5 coffee
+|60
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Mojito
+|3 rum, 1 limejuice, 1 mint
+|30
+!
+|-
+![[File:Nobarsprite.png|50px]]
+|Named Bullet
+| 4 Slime Jelly, 1 vodka
+|10
+|Gives drinker 0.2u slime jelly on drink. Massive tox damage to non-promethean, heals prometheans.
+|-
+![[File:Nobarsprite.png|50px]]
+|Negroni 
+|1 gin, 1 bitters, 1 vermouth
+|25
+!
+|-
+![[File:Neurotoxin.png|50px]]
+|Neurotoxin
+|1 part gargle blaster, 1 part soporific
+|10
+|Also stuns you. Soporific available from Medical.
+|-
+![[File:Nobarsprite.png|50px]]
+|Old Fashioned
+|3 whiskey, 1 bitters, 1 sugar
+|15
+!
+|-
+![[File:Nobarsprite.png|50px]]
+|Paloma
+|1 orange juice, 1 sodawater, 1 tequilla
+|20
+!
+|-
+![[File:GargleBlaster.gif|50px]]
+|Pan-Galactic Gargle Blaster
+|1 part gin, 1 part vodka, 1 part whiskey, 1 part cognac, 1 part lime juice
+|10
+|Gets you drunk and high.
+|-
+![[File:Patronglass.gif|50px]]
+|Patron
+|10 parts tequila, 1 part silver
+|30
+|Can be got from a party crate through Cargo. Grind up silver from Mining.
+|-
+![[File:Nobarsprite.png|50px]]
+|Pisco Sour
+|1 Wine Brandy, 1 lemon juice, 1 sugar
+|30
+!
+|-
+![[File:RedMead.png|50px]]
+|Red Mead
+|1 part blood, 1 part mead
+|30
+|Blood can be drawn with a syringe or juiced from Blood Tomatoes.
+|-
+![[File:Nobarsprite.png|50px]]
+|Rotgut Fever Dream
+|3 vodka, 1 rum, 1 whiskey, 1 cola
+|10
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Robustin
+|1 antifreeze, 1 phoron, 1 welder fuel, 1 vodka
+|10
+!
+|-
+![[File:Sbiten.png|50px]]
+|Sbiten
+|1 part capsaicin, 10 parts vodka.
+|15
+|Raises body temperature. Capsaicin is found in Chili from the garden.
+|-
+![[File:Screwdriver.png|50px]]
+|Screwdriver
+|2 parts vodka, 1 part orange juice
+|15
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Screaming Viking
+|1 vodka, 1 vermouth, 1 limejuice, 1 rum, 1 gin, 1 tonic
+|9
+!
+|-
+![[File:Nobarsprite.png|50px]]
+|Silencer
+|1 ''Nothing'', 1 cream, 1 sugar
+|12
+|Get ''Nothing'' from the mime costume crate
+|-
+![[File:singuloglass.gif|50px]]
+|Singulo
+|5 part vodka, 1 part radium, 5 part wine.
+|10
+|Get Radium from Chemistry.
+|-
+![[File:SnowWhite.png|50px]]
+|Snow White
+|1 part beer, 1 part lemon lime
+|30
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Soemmer Fire
+|2 parts Manhattan, 1 part Condensed Capsaicin
+|25
+|Raises body temperature.
+|-
+![[File:suidream.png|50px]]
+|Sui Dream
+|2 parts Space-Up, 1 parts curacao, 1 part melon liquor
+|100
+|Curacao and melon liquor are in the booze vending machine.
+|-
+![[File:SyndicateBomb.png|50px]]
+|Syndicate Bomb
+|1 part ''whiskey cola'', 1 part beer
+|10
+|Whiskey Cola (2 Whiskey, 1 Cola)
+|-
+![[File:TequillaSunrise.png|50px]]
+|Tequila Sunrise
+|2 parts tequila, 1 part orange juice
+|25
+|
+|-
+![[File:ManlyDorf.png|50px]]
+|The Manly Dorf
+|1 part beer, 2 parts ale
+|25
+|
+|-
+![[File:threemileislandglass.gif|50px]]
+|Three Mile Island Iced Tea
+|10 parts "Long Island Iced Tea", 1 part uranium
+|10
+|Also gets you high. Grind up Uranium from Mining. Long Island Iced Tea (2 Rum, 1 Cola, 3 Vodka, 3 gin, 3 Tequila)
+|-
+![[File:ToxinsSpecial.gif|50px]]
+|Toxins Special
+|2 parts phoron, 2 parts rum, 1 part vermouth
+|10
+|Raises body temperature. Grind up Phoron from Mining.
+|-
+![[File:Nobarsprite.png|50px]]
+|Virgin Sip
+|1 Driest Martini, 1 water
+|60
+!
+|-
+![[File:Nobarsprite.png|50px]]
+|Vesper
+|3 gin, 1 vodka, 1 wine
+|20
+!
+|-
+![[file:VodkaTonic.png|50px]]
+|Vodka and Tonic
+|2 parts vodka, 1 part tonic
+|15
+|
+|-
+![[File:VodkaMartini.png|50px]]
+|Vodka Martini
+|2 parts vodka, 1 part vermouth
+|12
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Vox Delight
+|3 phoron, 1 welder fuel, 1 water
+|10
+|Poisons Non-Vox, heals tox damage on vox.
+|-
+![[File:WhiskeyCola.png|50px]]
+|Whiskey Cola
+|2 parts whiskey, 1 part cola
+|25
+|
+|-
+![[File:WhiskeySoda.png|50px]]
+|Whiskey Soda
+|2 parts whiskey, 1 part soda water
+|15
+|
+|-
+![[File:Nobarsprite.png|50px]]
+|Whiskey Sour
+|2 whiskey, 1 lemon juice, 1 sugar
+|20
+!
+|-
+![[File:WhiteRussian.png|50px]]
+|White Russian
+|3 ''Black Russian'', 2 part cream
+|15
+|Black Russian (3 Vodka, 2 Kaluha)
+|}
+
+====Poured Drinks====
+{| class="sortable" border="1" cellspacing="0" cellpadding="2" align="center"
+! style="background-color:Chocolate;" |Picture
+! style="background-color:Chocolate;" |Drink
+! style="background-color:Chocolate;" |Strength
+! style="background-color:Chocolate;" |Notes
+|-
+![[File:Absinthe.png|50px]]
+|Absinthe
+|12
+|Bottles are labeled "Jailbreaker Verte". Causes alcohol effects faster than most drinks.
+|-
+![[File:Aleglass.png|50px]]
+|Ale
+|50
+|Bottles are labeled "Magm-Ale".
+|-
+![[File:beerglass.png|50px]]
+|Beer
+|50
+|Also available in the bar's back room or from the beer keg. Mix 10 corn oil and 5 universal enzyme (Catalyst).
+|-
+![[File:Pourdrinknosprite.png|50px]]
+|Bitters
+|50
+|5 mint, 5 enzyme (catalyst) Poured
+|-
+![[File:curaco.png|50px]]
+|Blue Curacao
+|15
+|Bottles are labeled "Miss Blue Curacao". Mix 10 orange juice and 5 universal enzyme (Catalyst).
+|-
+![[File:cognac.png|50px]]
+|Cognac
+|15
+|Bottles are labeled "Chateau De Baton Premium Cognac".
+|-
+![[File:glass_clear.png|50px]]
+|Ethanol
+|10
+|Comes from chemical dispenser.
+|-
+![[File:ginglass.png|50px]]
+|Gin
+|50
+|
+|-
+![[File:Kahluaglass.gif|50px]]
+|Kahlua
+|15
+|Bottles are labeled "Robert Robust's Coffee Liqueur". Mix 5 coffee + 5 sugar + 5 Enzyme (Catalyst).
+|-
+![[File:meadglass.png|50px]]
+|Mead
+|30
+|Mix 1 sugar + 1 water + 5 Enzyme (Catalyst)
+|-
+![[File:melonliquorglass.png|50px]]
+|Melon Liquor
+|50
+|Bottles are labeled "Emeraldine Melon Liquor". Mix 10 watermelon juice and 5 universal enzyme (Catalyst).
+|-
+![[File:glass_clear.png|50px]]
+|Moonshine
+|12
+| Mix 10 nutriment, 5 universal enzyme (Catalyst).
+|-
+![[File:pwineglass.png|50px]]
+|Poison Wine
+|10
+|Made from poison berries. Hallucinogenic and poisonous. Mix 10 poison berry  juice and 5 universal enzyme (Catalyst).
+|-
+![[File:rumglass.png|50px]]
+|Rum
+|15
+|Bottles are labeled "Captain Pete's Cuban Spiced Rum". Dispenser labels it "Deadrum".
+|-
+![[File:sakeglass.png|50px]]
+|Sake
+|25
+|Made from rice. Mix 10 rice and 5 universal enzyme (Catalyst).
+|-
+![[File:tequilaglass.png|50px]]
+|Tequila
+|25
+|Bottles are labeled "Caccavo Guaranteed Quality Tequilla".
+|-
+![[File:thirteenloko.png|50px]]
+|Thirteen Loko
+|25
+|Comes from [[Hacking#Vending Machines|hacked soda vending machine]]. Will also make you jittery.
+|-
+![[File:vermouthglass.png|50px]]
+|Vermouth
+|15
+|Bottles are labeled "Goldeneye Vermouth".
+|-
+![[File:vodkaglass.png|50px]]
+|Vodka
+|15
+|Bottles are labeled "Tunguska Triple Distilled". Mix 10 Potato Juice + 5 Enzyme (Catalyst).
+|-
+![[File:whiskeyglass.png|50px]]
+|Whiskey
+|25
+|Bottles are labeled "Uncle Git's Special Reserve".
+|-
+![[File:wineglass.gif|50px]]
+|Wine
+|15
+|Bottles are labeled "Doublebeard Bearded Special Wine". Mix 10 grape juice and 5 universal enzyme (Catalyst).
+|-
+![[File:Pourdrinknosprite.png|50px]]
+|Wine Brandy
+|20
+|10 wine, 10 enzyme (catalyst). Gives 5 units
+|-
+|}
+
+===Non-Alcoholic Drinks===
+{| class="sortable" border="1" cellspacing="0" cellpadding="2" align="center"
+! style="background-color:Chocolate;" |Picture
+! style="background-color:Chocolate;" |Cocktail
+! style="background-color:Chocolate;" |How to Get It
+|-
+![[File:shakenosprite.png|50px]]
+|Arnold Palmer
+|1 iced tea, 1 lemonade
+|-
+![[File:bananajuice.png|50px]]
+|Banana Juice
+|Process a banana.
+|-
+![[File:shakenosprite.png|50px]]
+|Banana Honk
+|1 part Banana Juice, 1 part Cream, 1 part Vermouth
+|-
+|[[File:Berryglass.gif|50px]]
+|Berry Juice
+|Process berries.
+|-
+|[[File:shakenosprite.png|50px]]
+|Berry shake
+|1 milkshake, 1 berryjuice
+|-
+![[File:Brownstar.png|50px]]
+|Brown Star
+|Mix 2 parts orange juice, 1 part cola
+Cold Drinks vending machine.
+|-
+![[File:CafeLatte.png|50px]]
+|Cafe Latte
+|Mix 1 part coffee, 1 part milk
+|-
+![[File:hot_coffee.png|50px]]
+|Coffee
+|Drinks dispenser; Hot Drinks vending machine.
+|-
+|[[File:shakenosprite.png|50px]]
+|Coffee Milkshake.
+|1 milkshake, 1 coffee. ((lowers body temp.))
+|-
+![[File:carrotjuice.png|50px]]
+|Carrot Juice
+|Process a carrot.
+|-
+|[[File:shakenosprite.png|50px]]
+|Chocolate Milkshake
+|1 milkshake, 1 coco
+|-
+![[File:glass_white.png|50px]]
+|Cream
+|Drinks dispenser.
+|-
+|[[File:shakenosprite.png|50px]]
+|Dream Cream
+|2 milk, 1 cream, 1 honey.
+|-
+![[File:Dr_gibb.png|50px]]
+|Dr. Gibb
+|Drinks dispenser; Cold drinks vending machine.
+|-
+|[[File:Nobarsprite.png|50px]]
+|Ent's Draught
+|1 tonic, 1 honey, 1 holy water
+|-
+|[[File:grapejuice.png|50px]]
+|Grape Juice
+|Process grapes or green grapes; Cold Drinks vending machine.
+|-
+![[File:grapesoda.png|50px]]
+|Grape Soda
+|2 parts grape juice, 1 part cola
+|-
+![[File:Grenadineglass.png|50px]]
+|Grenadine Syrup
+|10 parts berry juice, 5 parts Universal Enzyme (Catalyst)
+|-
+![[File:Icecoffeeglass.gif|50px]]
+|Iced Coffee
+|1 part ice, 3 parts coffee
+|-
+![[File:Hotcocoglass.png|50px]]
+|Hot Chocolate
+|5 parts Water, 1 part Coco Powder; Hot Drinks vending machine.
+|-
+![[File:iceglass.png|50px]]
+|Ice
+|Drinks dispenser; hacked Hot Drinks vending machine.
+|-
+![[File:Iceteaglass.gif|50px]]
+|Iced Tea
+|Mix 1 part ice, 3 parts tea; Cold Drinks vending machine.
+|-
+![[File:Kiraspecial.gif|50px]]
+|Kira Special
+|1 part orange juice, 1 part lime juice, 1 part soda water
+|-
+|[[File:lemonglass.gif|50px]]
+|Lemon Juice
+| Process a lemon.
+|-
+![[File:lemonlime.png|50px]]
+|Lemon Lime
+|Drinks dispenser.
+|-
+![[File:Lemonade.png|50px]]
+|Lemonade
+|1 part Lemon juice, 1 part sugar, 1 part Water
+|-
+|[[File:limejuice.png|50px]]
+|Lime Juice
+|Drinks dispenser; process a lime.
+|-
+![[File:drinknosprite.png|50px]]
+|Love Potion
+|1 cream, 1 berryjuice, 1 sugar
+|-
+![[File:glass_white.png|50px]]
+|Milk
+|From the biogenerator, or from a cow that has been fed Wheat.
+|-
+![[File:milkshake.png|50px]]
+|Milkshake
+|1 part cream, 2 parts ice, 2 parts milk
+|-
+![[File:space_mountain_wind.png|50px]]
+|Mountain Wind
+|Drinks Dispenser; Cold Drinks vending machine.
+|-
+![[File:nukacolaglass.gif|50px]]
+|Nuka Cola
+|1 part uranium, 6 parts space cola. Gets you high.
+|-
+|[[File:orangeglass.gif|50px]]
+|Orange Juice
+|Drinks dispenser; process an orange.
+|-
+![[File:poisonberryjuice.png|50px]]
+|Poison Berry Juice
+|Process a poison berry.
+|-
+|[[File:brownglass.gif|50px]]
+|Potato juice
+|Process a potato.
+|-
+![[File:Rewriter.png|50px]]
+|Rewriter
+|1 part Spacemoutainwind soda, 1 part Coffee
+|-
+![[File:glass_clear.png|50px]]
+|Soda Water
+|Drinks dispenser.
+|-
+![[File:space_cola.png|50px]]
+|Space Cola
+|Drinks dispenser; Cold Drinks vending machine.
+|-
+![[File:space_up.png|50px]]
+|Space-Up
+|Drinks dispenser; Cold Drinks vending machine.
+|-
+![[File:SoyLatte.png|50px]]
+|Soy Latte
+|1 part coffee, 1 part soymilk
+|-
+![[File:glass_white.png|50px]]
+|Soy Milk
+|Process a soybean.
+|-
+![[File:teacup.png|50px]]
+|Tea
+|Works as a weak anti-toxin. From drinks dispenser or hot drinks vending machine.
+|-
+![[File:DoctorDelight.gif|50px]]
+|The Doctor's Delight
+|1 part lime juice, 1 part tomato juice, 1 part orange juice, 1 part cream, 1 part tricordrazine
+|-
+![[File:tomatojuice.png|50px]]
+|Tomato Juice
+|Process a tomato; Booze vendor.
+|-
+![[File:glass_clear.png|50px]]
+|Tonic water
+|Drinks dispenser.
+|-
+![[File:drinknosprite.png|50px]]
+|Vile Lemon
+|5 Lemonade, 1 space mountain wind
+|-
+![[File:waterglass.png|50px]]
+|Water
+|Drinks dispenser, Cold Drinks vending machine, sinks, and water tanks.
+|-
+![[File:tomatojuice.png|50px]]
+|Watermelon Juice
+| Drinks dispenser; Process a watermelon slice.
+|}
+
+=Food=
+
+====Grill, deep-frier, and candy machine.====
+You can make any ingredient or existing food listed below into a variety of other interesting variants by using these kitchen machines. Even wondered what a boiled egg gobstopper would taste like? Now's your chance!
+Experiment and disgust/delight your crewmates.
+
+== [[File:Microwave.png|50px]] Microwave Recipes==
+Note: Milk, Berry Juice, Soy Sauce, Hot Sauce, Cold Sauce, and Soy Milk are all measured off of reagent units rather then containers (like in previous version). They can be poured directly into the microwave. Additionally, you only need at LEAST the suggested amount of those ingredients instead of exactly the right amount.
+
+===Burgers===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Red;" |Picture
+! scope="col" style="background-color:Red;" |Recipe
+! scope="col" class="unsortable" style="background-color:Red;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Red;" |Reagents & Notes
+|-
+![[File:Plain_Burger.png|50px]]
+!Burger
+| Bun + 1 Meat OR combine Bun + 1 Cutlet OR Bun + Meatball
+| If you use human meat, the burger will share the name of your victim. If you add a crayon in the microwave it will color the burger. 3 Nutriment, 13 Animal Protein
+|-
+![[File:Cheeseburger.png|50px]]
+!Cheeseburger
+| Combine 1 Cheese Wedge with Burger
+| 2 Animal Protein, 2 Nutriment
+|-
+![[File:tofubuger.png|50px]]
+!Tofu Burger
+| Bun + 1 Tofu
+| 6 Nutriment, 1 Animal Protein
+|-
+![[File:spell.png|50px]]
+!Spell Burger
+| Bun + 1 Wizard hat
+| You will eat this until you have had Ei Nath. 6 Nutriment, 3 or 13 Animal Protein
+|-
+![[File:ghostbur.PNG|50px]]
+!Ghost Burger
+| Bun + 1 Ectoplasm
+| Terror-ifficly tasty. 2 Nutriment, 1 Animal Protein
+|-
+![[File:Roburger.png|50px]]
+!Roburger
+| Bun + 1 Robot Head
+| 2 Nutriment, 1 Animal Protein, 5% probability of 2 units of Nanites
+|-
+![[File:Brainburger.png|50px]]
+!Brain Burger
+| Bun + 1 Brain
+| 7 Animal Protein, 6 Alkysine, 5 Blood
+|-
+![[File:Xenoburger.png|50px]]
+!Xenoburger
+| Bun + 1 Xeno Meat
+| 15 Animal Protein, 6 Polytrinic Acid
+|-
+![[File:Jellyburger.png|50px]]
+!Jelly Burger
+| Microwave 1 Bun, 5 units of Cherry Jelly/Slime Jelly
+| 5 Nutriment, 5 Slime Jelly or Cherry Jelly, 1 Animal Protein
+|-
+![[File:Clownburger.png|50px]]
+!Clown Burger
+| Bun + 1 Clown wig and mask
+| 6 Nutriment, 1 Animal Protein
+|-
+![[File:Mimeburger.png|50px]]
+!Mime Burger
+| Bun + 1 Beret
+| 6 Nutriment, 1 Animal Protein
+|-
+![[File:bigbite.png|50px]]
+!Big Bite Burger
+| 3 Meat + Burger + Egg
+| Forget the Big Mac.
+|-
+![[File:superbite.png|50px]]
+!Super Bite Burger
+| 1 Big Bite Burger, 1 Dough, 1 Meat, 1 Tomato, 1 Boiled Egg, 1 Cheese Wedge, 5 units of Salt, 5 units of Pepper 
+| If this doesn't clog their arteries, nothing will. Two bites will take you from starving to overfed.
+|}
+
+===Breads & Sandwiches===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Orangered;" |Picture
+! scope="col" style="background-color:Orangered;" |Recipe
+! scope="col" class="unsortable" style="background-color:Orangered;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Orangered;" |Notes
+|-
+![[File:bread.png|50px]]
+!{{anchor|Bread}}Bread
+| 1 Dough, 1 Egg
+| Sliceable.
+|-
+![[File:Bread_Slice.png|50px]]
+!{{anchor|Bread Slice}}Bread Slice
+| Slice up a Bread with a knife to get 5 of these
+| Sliceable.
+|-
+![[File:meatbread.png|50px]]
+!Meatbread
+| 3 Meat, 3 Dough, 3 Cheese Wedges
+| Sliceable.
+|-
+![[File:tofubread.png|50px]]
+!Tofu-Bread
+| 3 Tofu, 3 Cheese Wedges, 3 Dough 
+| Sliceable.
+|-
+![[File:xbread.png|50px]]
+!Xeno-bread
+| 3 Xeno-meat, 3 Dough, 3 Cheese Wedges
+| Sliceable. A fitting, and filling, end to xeno scum.
+|-
+![[File:Spidermeatloaf.png|50px]]
+!Spider Meatloaf
+| 3 Spider Meat, 3 Dough, 3 Cheese Wedges
+| Sliceable. Green but delicious.
+|-
+![[File:Bananabread.png|50px]]
+!Banana-nut Bread
+| 3 Dough, 5 units Milk, 15 units Sugar, 1 Banana
+| Sliceable. Contains a massive amount of banana essence.
+|-
+![[File:creambread.png|50px]]
+!Cream Cheese Bread
+| 2 Dough, 2 Cheese Wedges. 
+| Sliceable.
+|-
+![[File:baguette.png|50px]]
+!Baguette
+| 2 Dough, 1 unit Salt, 1 unit Pepper 
+| Hon hon.
+|-
+![[File:sandwich.png|50px]]
+!Sandwich
+| 2 Bread Slices, 1 Meat Steak, 1 Cheese Wedge 
+| Talking to your food may result in a trip to the [[Chaplain]].
+|-
+![[File:toastsand.png|50px]]
+!Toasted Sandwich
+| Microwave 1 Sandwich <span style="color:#F2F2F2"> What was that, Sandwich? </span>
+| <span style="color:#F2F2F2"> Kill them all. </span>
+|-
+![[File:toastsand.png|50px]]
+!Grilled Cheese Sandwich
+| Microwave 2 Bread Slices, 1 Cheese Wedge
+| Space Vegetarian, but not Space Vegan friendly.
+|-
+![[File:Jellytoast.png|50px]]
+!Jelly Toast
+| 1 Bread Slice, 5 units of Cherry Jelly/Slime Jelly
+| As if science are gonna give up their slimes for toast!
+|-
+![[File:Twobread.png|50px]]
+!Two Bread
+| 2 Bread Slices, 5 units of Wine 
+| Classy.
+|-
+![[File:Jellysandwich.png|50px]]
+!Jelly Sandwich
+| 2 Bread slices, 5 units of Cherry Jelly/Slime Jelly
+|-
+![[File:Bunbun.png|50px]]
+!Bun Bun
+| 2 Buns
+|-
+![[File:Croissant.png|50px]]
+!Croissant
+| 1 Dough, 1 unit of Salt, 5 units of Water, 5 units of Milk
+|-
+![[File:Benedict.png|50px]]
+!Benedict
+| 1 Cutlet, 1 Fried Egg, 1 Bread Slice
+| A traitorous breakfast.
+|}
+
+===Pizzas===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Orange;" |Picture
+! scope="col" style="background-color:Orange;" |Recipe
+! scope="col" class="unsortable" style="background-color:Orange;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Orange;" |Notes
+|-
+![[File:Margheritapizza.png|50px]]
+!Margherita Pizza
+| 1 Flat Dough, 4 Cheese Wedges, 1 Tomato
+| Sliceable.
+|-
+![[File:mushroompizza.png|50px]]
+!Mushroom Pizza
+| 1 Flat Dough, 5 Chantrelle Mushrooms, 1 Cheese wedge, 1 Tomato
+| Sliceable.
+|-
+![[File:meatpizza.png|50px]]
+!Meat Pizza
+| 1 Flat Dough, 3 Meat, 1 Cheese Wedge, 1 Tomato 
+| Sliceable. Extremely nutritious, despite the grease.
+|-
+![[File:vegepizza.png|50px]]
+!Vegetable Pizza
+| 1 Flat Dough, 1 Cheese Wedge, 1 Eggplant, 1 Carrot, 1 Corn, 1 Tomato 
+| Sliceable.
+|}
+
+===Pastas===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Yellow;" |Picture
+! scope="col" style="background-color:Yellow;" |Recipe
+! scope="col" class="unsortable" style="background-color:Yellow;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Yellow;" |Notes
+|-
+![[File:Lasagna.png|50px]]
+!{{anchor|Lasagna}}Lasagna
+| 2 Tomatoes, 1 Eggplant, 2 Cutlet, 2 Flat Dough
+|Fresh from Space Olive Garden
+|-
+![[File:spagettiboiled.png|50px]]
+!Boiled Spaghetti
+| 5 units of Water, 1 Spaghetti. 
+| Mama Mia!
+|-
+![[File:pastatomato.png|50px]]
+!Tomato Pasta
+| 5 units of Water, 1 Spaghetti, 2 Tomatoes. 
+| Don't put it in your pockets. That's just unsanitary.
+|-
+![[File:meatballspag.png|50px]]
+!Spaghetti & Meatballs
+| 5 units of Water, 1 Spaghetti, 2 Meatballs. 
+| That's-a a spicy meat-aball!
+|-
+![[File:Spesslaw.png|50px]]
+!Spesslaw
+| 5 units of Water, 1 Spaghetti, 4 Meatballs. 
+| Lawyer's choice!
+|-
+![[File:eggplantparmigiana.png|50px]]
+!Eggplant Parmigiana
+| 2 Cheese Wedges, 1 Eggplant
+| Clogs your arteries, healthily!
+|-
+![[File:Kitsuneudon.png|50px]]
+!Kitsune Udon
+| 3 units of Egg Yolk, 1 Spaghetti, 1 Tofu
+| Clogs your arteries, healthily!
+|}
+
+===Soups & Stews===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Khaki;" |Picture
+! scope="col" style="background-color:Khaki;" |Recipe
+! scope="col" class="unsortable" style="background-color:Khaki;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Khaki;" |Notes
+|-
+![[File:meatsoup.png|50px]]
+!Meatball Soup
+| 10 units of Water, 1 Meatball, 1 Carrot, 1 Potato
+| Out of spaghetti? Don't like stew? Here's the thing for you.
+|-
+![[File:nettlesoup.png|50px]]
+!Nettle Soup
+| 10 units of Water, 1 Nettle, 1 Egg, 1 Potato
+| Contains trace amounts of sulpheric acid.
+|-
+![[File:vegesoup.png|50px]]
+!Vegetable Soup
+| 10 units of Water, 1 Carrot, 1 Corn, 1 Eggplant, 1 Potato 
+| Force feed the Botanists this.
+|-
+![[File:tomatosoup.png|50px]]
+!Tomato Soup
+| 10 units of water, 2 tomatoes
+| What, no crackers?
+|-
+![[File:Bloodsoup.png|50px]]
+!Blood Soup
+| 30 units of Blood
+| They ''may'' think you're the [[Chef|homicidal maniac]] you are when you produce a large amount of these.
+|-
+![[File:Metriodsoup.png|50px]]
+!Slime Soup
+| 10 units of water, 5 units of slime jelly. 
+| Mmm, mmm, oh God my guts.
+|-
+![[File:Mysterysoup.png|50px]]
+!Mystery Soup
+| 10 units of Water, 1 Burned Mess, 1 Tofu, 1 Egg, 1 Cheese Wedge. 
+| This dish contains all the essential nutriment for a growing crew, and almost anything else you can feed them. 
+|-
+![[File:Mushroomsoup.png|50px]]
+!Chantrelle Soup
+| 5 units of Water, 5 units of Milk, 1 Chanterelle. 
+| The debate on whether you can use Aminitas for the soup goes on.
+|-
+![[File:Beetsoup.png|50px]]
+!Borscht
+| 10 units of Water, 1 White Beet, 1 Cabbage.
+| Feed your inner Russian with borscht.
+|-
+![[File:milo.png|50px]]
+!Milo Soup
+| 10 units of Water, 2 Tofu, 2 Soy Dope.
+| Made when the [[Botanist|hippies]] decide to only grow soy crops.
+|-
+![[File:Stewedsoymeat.png|50px]]
+!Stewed Soy Meat
+| 2 Soy Dope, 1 Carrot, 1 Tomato 
+| Like a steak dinner, only with less murder.
+|-
+![[File:stew.png|50px]]
+!Stew
+| 10 units of water, 1 meat, 1 tomato, 1 potato, 1 carrot, 1 eggplant, 1 Chantrelle mushroom. 
+| The perfect thing for when the bar starts to get cold.
+|-
+![[File:coldstew.png|50px]]
+!Cold Chili Stew
+| 1 Meat, 1 Ice Pepper, 1 Tomato
+| Ice, ice, baby!
+|-
+![[File:hotstew.png|50px]]
+!Hot Chili Stew
+| 1 Meat, 1 Chili Pepper, 1 Tomato
+|  Some like it hot, hot, HOT!
+|-
+![[File:Wishsoup.png|50px]]
+!Wish Soup
+| 20 Water
+| Make you wish the chef could cook.
+|-
+![[File:Goulash.png|50px]]
+!Goulash
+| 1 Tomato, 1 Cutlet, 1 Spaghetti
+|  Everyone's favorite set of leftovers.
+|-
+![[File:Hotsoursoup.png|50px]]
+!Hot and Sour Soup
+| 1 Cabbage, 1 Mushroom, 2 units of Salt, 2 units of pepper, 10 units of Water, 1 Tofu
+| It's Hot! It's Sour! It's a Soup!
+|-
+![[File:Onionsoup.png|50px]]
+!Onion Soup
+| 1 Onion, 10 units of Water
+| Don't cry!
+|}
+
+===Seafood===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Yellowgreen;" |Picture
+! scope="col" style="background-color:Yellowgreen;" |Recipe
+! scope="col" class="unsortable" style="background-color:Yellowgreen;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Yellowgreen;" |Notes
+|-
+![[File:carpsandwich.png|50px]]
+!Fillet -o- Carp Sandwich
+| 1 Bun, 1 Carp Fillet 
+| Slightly toxic.
+|-
+![[File:cubancarp.png|50px]]
+!Cuban Carp
+| 1 Carp Fillet, 1 Dough, 1 Chilli Pepper 
+| Slightly toxic, and very spicy.
+|-
+![[File:fishandchips.png|50px]]
+!Fish & Chips
+| 1 Space Fries, 1 Carp Meat 
+| The Brit's favorite. Good luck getting [[space carp]] meat. (Note: POISONOUS)
+|-
+![[File:Fishfingers.png|50px]]
+!Fish Fingers
+| 10 units Flour, 1 Egg, 1 Carp Meat 
+| Good luck getting [[space carp]] meat. (Note: POISONOUS)
+|-
+![[File:Sashimi.png|50px]]
+!Sashimi
+| 1 Carp Meat, 5 units of Soy Sauce
+| Made with actual fish!
+|}
+
+===Meat===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Green;" |Picture
+! scope="col" style="background-color:Green;" |Recipe
+! scope="col" class="unsortable" style="background-color:Green;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Green;" |Notes
+|-
+![[File:meatstake.png|50px]]
+!{{anchor|Meat Steak}}Meat Steak
+| 1 unit of Salt, 1 unit of Black Pepper, 1 Meat (Any Type)
+| Wait, how can it have grill marks if it's in the microwave...?
+|-
+![[File:Sausage.png|50px]]
+!Sausage
+| 1 Cutlet, 1 Meatball
+| Who even knows what or who it's made from anymore.
+|-
+![[File:Roastbeef.png|50px]]
+!Roast Beef
+| 2 Carrots, 2 Potatoes, 1 Meat
+| Just like Grandma used to make.
+|-
+![[File:Generalschicken.png|50px]]
+!General's Chicken
+| 2 units of Capsaicin, 2 units of Sugar, 10 units of Flour, 2 Meat
+| Mm! Just like they make it in Space China.
+|-
+![[File:Meatbun.png|50px]]
+!Meat Bun
+| 1 Meatball, 1 Flat Dough
+| The traditional hot pocket
+|}
+
+===Salads===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Palegreen;" |Picture
+! scope="col" style="background-color:Palegreen;" |Recipe
+! scope="col" class="unsortable" style="background-color:Palegreen;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Palegreen;" |Notes
+|-
+![[File:Herbsalad.png|50px]]
+!Tossed Salad
+| 2 Cabbages + 1 Carrot + 1 Tomato + 1 Apple
+| What if, like, WE'RE the aliens, man?
+|-
+![[File:Aesirsalad.png|50px]]
+!Aesir salad
+| 3 Ambrosia Deus + 1 Goldapple
+| Duuuuuuuuuude.
+|-
+![[File:Validsalad.png|50px]]
+!Valid Salad
+| 3 Ambrosia Vulgaris + 1 Potato
+| Heals everyone! <font color="white">Not really</font>
+|-
+![[File:Fruitsalad.png|50px]]
+!Fruit Salad
+| 1 Orange, 1 Apple, 1 Grapes, 1 Watermelon
+| Very fruity, but where does the salad part come in?
+|}
+
+===Pies===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Aquamarine;" |Picture
+! scope="col" style="background-color:Aquamarine;" |Recipe
+! scope="col" class="unsortable" style="background-color:Aquamarine;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Aquamarine;" |Notes
+|-
+![[File:pie.gif|50px]]
+!Banana Cream Pie
+| 1 Flat Dough, 1 Banana, 5 units Sugar
+| Contains a moderate amount of banana essence.
+|-
+![[File:berryclafoutis.png|50px]]
+!Berry Clafoutis
+| 1 Flat Dough, 1 Berry
+| It's like asking the deep-friers at a carnival for something healthy!
+|-
+![[File:meatpies.png|50px]]
+!Meatpies
+| 1 Meat, 1 Flat Dough 
+| Made of people, or not?
+|-
+![[File:meatpies.png|50px]]
+!Tofu Pie
+| 1 Tofu, 1 Flat Dough
+| Made of plants, or not?
+|-
+![[File:xpie.png|50px]]
+!Xeno-pie
+| 1 Xeno-meat, 1 Flat Dough
+| A delicious end to the xeno threat.
+|-
+![[File:applepie.png|50px]]
+!Apple Pie
+| 1 Flat Dough, 1 Apple 
+| The traditional dessert.
+|-
+![[File:Cherrypie.png|50px]]
+!Cherry Pie
+| 1 Flat Dough, 1 Cherry, 10 units Sugar
+| "To bake a pie, we must first invent the universe." -Carl Sagan
+|-
+![[File:Amapie.png|50px]]
+!Amanita Pie
+| 1 Flat Dough, 5 units Amatoxin
+| Only slightly toxic, really!
+|-
+![[File:Pumpkinpie.png|50px]]
+!Pumpkin Pie
+| 1 Pumpkin, 10 units Flour, 3 units Egg, 5 units of Milk, 5 units of Sugar 
+|Can be sliced. Dangerously delicious.
+|-
+![[File:Plumppie.GIF|50px]]
+!Plump Pie
+| 1 Flat Dough, 1 Plump Helmet 
+| Has a chance to be "exceptional" - it'll contain Tricordrazine!
+|-
+![[File:Gappletart.png|50px]]
+!Golden Apple Streusel Tart
+| 10 units Flour, 1 Egg, 1 Golden Apple, 5 units of Milk, 5 units of Sugar. 
+| Tastes like chaos!
+|}
+
+===Cakes===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Lightblue;" |Picture
+! scope="col" style="background-color:Lightblue;" |Recipe
+! scope="col" class="unsortable" style="background-color:Lightblue;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Lightblue;" |Notes
+|-
+![[File:regularcake.png|50px]]
+!Vanilla Cake
+| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk
+| Slicable and <s>boring</s> vanilla flavored.
+|-
+![[File:carrotcake.png|50px]]
+!Carrot Cake
+| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 3 Carrots 
+| Slicable. Heals minor eye damage.
+|-
+![[File:cheesecake.png|50px]]
+!Cheese Cake
+| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 2 Cheese Wedges 
+| Slicable. <font color="white">Does not come with scantily dressed ladies.</font>
+|-
+![[File:birthday.png|50px]]
+!Birthday Cake
+| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 1 Cake Hat 
+| Sliceable. Don't forget to make a wish.
+|-
+![[File:applecake.png|50px]]
+!Apple Cake
+| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 2 Apples 
+| Sliceable. 
+|-
+![[File:Braincake.png|50px]]
+!Brain Cake
+| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 1 Brain 
+| Sliceable. Bother the [[Roboticist]] for unusable brains.
+|-
+![[File:Orangecake.png|50px]]
+!Orange Cake
+| 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Orange 
+| Sliceable.
+|-
+![[File:Limecake.png|50px]]
+!Lime Cake
+| 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Lime 
+| Sliceable.
+|-
+![[File:Lemoncake.png|50px]]
+!Lemon Cake
+| 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Lemon 
+| Sliceable.
+|-
+![[File:Choccake.png|50px]]
+!Chocolate Cake
+| 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Chocolate Bar 
+| Sliceable.
+|}
+
+===Side Dishes===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Blue;" |Picture
+! scope="col" style="background-color:Blue;" |Recipe
+! scope="col" class="unsortable" style="background-color:Blue;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Blue;" |Notes
+|-
+![[File:cheesefries.png|50px]]
+!Cheese Fries
+| 1 Space Fries, 1 Cheese Wedge 
+| Tasty, tasty cheese fries.
+|-
+![[File:cheesepmelet.png|50px]]
+!Cheese Omelette
+| 2 Eggs, 2 Cheese Wedges
+| Can eat these with a fork. Have a medical team on standby in case of utensil-related injuries.
+|-
+![[File:friedegg.png|50px]]
+!Fried Egg
+| 1 Egg + 1 unit Salt + 1 unit Pepper
+| The ancient and sacred meal of the solar wiring engineer.
+|-
+![[File:begg.png|50px]]
+!Boiled Egg
+| 1 Egg + 5 units Water
+| Precracked, just eat!
+|-
+![[File:bakedpotato.png|50px]]
+!Loaded Baked Potato
+| 1 Potato + 1 Cheese Wedge
+| No bacon bits?
+|-
+![[File:popcorn.png|40px]]
+!Popcorn
+| 1 Corn
+| Some bites will contain unpopped kernels, which will cause brute damage.
+|-
+![[File:donkpocket.png|50px]]
+!Warm Donk Pocket
+| 1 Dough, 1 Meatball 
+| Contains tricordrazine, until they cool. Reheatable once they do.
+|-
+![[File:Hotdog.png|50px]]
+!Hot Dog
+| 1 Sausage, 1 Bun
+| Fresh footlong ready to go down on.
+|-
+![[File:Wingbasket.png|50px]]
+!Chicken Wings
+| 5 units of Capsaicin, 10 units of Flour, 4 Meat
+| Now all you need is Pizza and Beer. Complete the trifecta!
+|-
+![[File:Chocegg.png|75px]]
+!Chocolate Lizard Egg
+| 1 Lizard Egg, 1 Chocolate Bar
+| Ask your resident, egg-laying Lizard.
+|-
+![[File:Friedegg.png|75px]]
+!Fried Lizard Egg
+| 1 Lizard Egg, 1 unit of Salt, 1 unit of Pepper
+| Ask your resident, egg-laying Lizard.
+|-
+![[File:Begg.png|75px]]
+!Boiled Lizard Egg
+| 1 Lizard Egg, 5 units of Water
+| Ask your resident, egg-laying Lizard.
+|-
+![[File:Mashedpotato.png|50px]]
+!Mashed Potato
+| 1 Potato
+| Goes well with Gravy!
+|-
+![[File:Bangersandmash.png|50px]]
+!Bangers And Mash
+| 1 Mashed Potato, 1 Sausage
+| Still goes well with Gravy!
+|-
+![[File:Cheesymash.png|50px]]
+!Cheesy Mash
+| 1 Mashed Potato, 1 Cheese Wedge
+| You don't even need gravy!
+|-
+![[File:Blackpudding.png|50px]]
+!Black Pudding
+| 5 units of Blood, 1 Sausage
+| Made from real blood!
+|-
+![[File:Onionrings.png|50px]]
+!Onion Rings
+| 1 Onion, 5 units of Flour
+| A good substitute for Fries.
+|-
+![[File:Bakedbeans.png|50px]]
+!Baked Beans
+| 2 Soybeans, 5 units of Ketchup
+| The musical fruit!
+|-
+![[File:Eggroll.png|50px]]
+!Eggroll
+| 1 Fried Egg, 10 units of Soy Sauce
+| Mm, Space China.
+|-
+![[File:Eggbowl.png|50px]]
+!Egg Bowl
+| 5 units of Water, 10 units of Rice, 3 units of Egg Yolk
+| A simple, soupy breakfast!
+|-
+![[File:Porkbowl.png|50px]]
+!Pork Bowl
+| 5 units of Water, 10 units of Rice, 1 Cutlet
+| When you need a bit more protein.
+|}
+
+===Pastries===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Dodgerblue;" |Picture
+! scope="col" style="background-color:Dodgerblue;" |Recipe
+! scope="col" class="unsortable" style="background-color:Dodgerblue;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Dodgerblue;" |Notes
+|-
+![[File:donuts.png|50px]]
+!Donut
+| 1 Dough, 5 units Sugar 
+| Security members recover morale quickly with these.
+|-
+![[File:jdonut1.gif|50px]]
+!Jelly Donut
+| 1 Dough, 5 units Sugar, 5 units of Berry Juice/Cherry Jelly/Slime Jelly 
+| Security members recover more morale with these.
+|-
+![[File:donuts.png|50px]]
+!Chaos Donuts
+| 1 Dough, 5 units Sugar, 5 units Hot Sauce, 5 units Cold Sauce 
+| Produces a variety of (possibly dangerous) effects when eaten. ''Equal chance of containing 3 units of one of the following: Nutriment, capsaicin, frost oil, sprinkles, phoron, coco, Slime Jelly, banana, berry juice, and tricordrazine.''
+|-
+![[File:soylenvirdians.png|50px]]
+!Soylen Viridians
+| 10 units Flour, 1 Soybean 
+| SOYLENT VIRIDIAN IS PLANTS!
+|-
+![[File:waffles.png|50px]]
+!Waffles
+| 2 Dough, 10 units Sugar 
+| Like pancakes with syrup traps.
+|-
+![[File:roffle.png|50px]]
+!Roffle Waffles
+| 2 Dough, 10 units of Sugar, 5 units of Psilocybin. 
+| Like pancakes with hallucinogen traps.
+|-
+![[File:chawanmushi.png|50px]]
+!Chawanmushi
+| 5 units of Water, 5 units of Soy Sauce, 2 Eggs, 1 Chanterelle. 
+| Nǐ xiǎng yào chī shénme?
+|-
+![[File:fortunecookie.png|50px]]
+!Fortune Cookie
+| 1 Dough Slice, 5 units of Sugar, 1 Piece of Paper (with something written on it)
+| Bad luck and misfortune will infest your pathetic soul for all eternity.
+|-
+![[File:Sugarcookie.png|50px]]
+!Sugar Cookie
+| 5 [[Flour]] + 1 Egg + 5 units of Sugar
+| Just like your little sister used to make.
+|-
+![[File:Muffin.png|50px]]
+!Muffin
+| 1 Dough, 5 units Milk, 5 units Sugar 
+| Muffin!
+|-
+![[File:Berrymuffin.png|50px]]
+!Berry Muffin
+| 1 Dough, 5 units of Milk, 5 units of Sugar, 1 Berry
+| Muffin, but with Berries!
+|-
+![[File:Ghostmuffin.png|50px]]
+!Ghost Muffin
+| 1 Dough, 5 units of Milk, 5 units of Sugar, 1 Berry, 1 Ectoplasm
+| Spooky!
+|-
+![[File:cracker.png|50px]]
+!Cracker
+| 1 Dough Slice, 1 unit Salt 
+| Poly yells, "POLY WANNA CRACKER!"
+|-
+![[File:Poppypretzel.png|50px]]
+!Poppy Pretzel
+| 1 Dough, 1 Poppy
+| Heals brute damage with opium!
+|-
+![[File:Phelmbiscuit.png|50px]]
+!Plump Helmet Biscuits
+| 1 Plump Helmet, 5 units of Water, 5 units of Flour
+| The perfect chaser for a Manly Dorf.
+|}
+
+===Sweets===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Cyan;" |Picture
+! scope="col" style="background-color:Cyan;" |Recipe
+! scope="col" class="unsortable" style="background-color:Cyan;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Cyan;" |Notes
+|-
+![[File:Chocegg.png|50px]]
+!Chocolate Egg
+|  1 Egg, 1 Chocolate bar
+| NT regulations forbid stuffing toys in these things anymore.
+|-
+![[File:candiedapple.png|50px]]
+!Candied Apple
+| 5 units of Water, 5 units of Sugar, 1 Apple 
+| Happy <strike>Halloween</strike> generic shift!
+|-
+![[File:Reishiscup.png|50px]]
+!Reishi Cup
+| 3u of Psilocybin, 3u of Sugar, 1 Chocolate Bar
+| A popular candy treat that makes you see COLORS.
+|-
+![[File:mmmi.png|50px]]
+!Mämmi
+| 1 Orange, 10 units of Water, 10 units of Flour, 5 units of Milk, 1 unit of Salt
+| Traditional Easter Desert, in some places!
+|-
+![[File:Ricepudding.png|50px]]
+!Rice Pudding
+| 5 units of Milk, 10 units of Rice
+|}
+
+===Other===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Violet;" |Picture
+! scope="col" style="background-color:Violet;" |Recipe
+! scope="col" class="unsortable" style="background-color:Violet;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Violet;" |Notes
+|-
+![[File:monkeydel.png|50px]]
+!Monkey's Delight
+| 1 Monkey Cube, 10 units Flour, 1 Banana, 1 unit Salt, 1 unit Pepper 
+| EE EEE!
+|-
+![[File:wingchu.png|50px]]
+!Wing Fang Chu
+| 5 units of Soy Sauce, 1 Xeno-Meat
+| At least it wasn't the [[Ian|Head of Personnel's dog]].
+|-
+![[File:enchi.png|50px]]
+!Enchiladas
+| 1 Cutlet, 2 Chili, 1 Corn 
+| Spicy.
+|-
+![[File:taco.png|50px]]
+!Taco
+| Dough slice, cutlet, cheese wedge
+| Take a bite!
+|-
+![[File:Kebab.png|50px]]
+!Kebab
+| 2 Meat, 1 Metal Rod
+| You get a metal rod back after eating. May break microwave.
+|-
+![[File:Kebab.png|50px]]
+!Tofu-Kabob
+| 2 Tofu, 1 Metal Rod
+| You get a metal rod back after eating. May break microwave.
+|-
+![[File:Mint.png|50px]]
+!Mint
+| 5 units of sugar, 5 units of frost oil. 
+| It is only wafer thin.
+|-
+![[File:Boiledcore.png|50px]]
+!Boiled Slime Core
+| 5 units of water, 1 slime core 
+| Magically delicious~ Also poisonous.
+|-
+![[File:AmanitaJelly.gif|50px]]
+!Amanita Jelly
+| 5 units of Water, 5 units of Vodka, 5 Amatoxin 
+| It's evil, don't touch it!
+|-
+![[File:duff.gif|50px]]
+!Space Liberty Duff
+| 5 units of Water, 5 units of Vodka, 5 units of Psilocybin 
+| The colors, maaaan, THE COLORS.
+|-
+![[File:sushi.png|50px]]
+!Sushi Roll
+| 1 Cabbage, 20u of Rice, and 3 [[#Meat|Meat]]
+| Sliceable. Appease your inner weaboo.
+|-
+![[File:Donerkebab.png|50px]]
+!Donerkebab
+| 1 Tomato, 1 Cabbage, 1u of Salt, 1 Meat Steak, 1 Flat Dough
+| Open Kebab, Show Vagene.
+|-
+![[File:Grubball.png|50px]]
+!Bugball
+| 1 Grubmeat, 5 units of Carbon
+| Do you really want to eat this?
+|-
+![[File:Makaronilaatikko.png|50px]]
+!Makaroni
+| 15 units of flour, 5 units of Milk, 1 Grubmeat, 1 Egg, 2 Cheese Wedges
+| Krafty!
+|-
+![[File:Ruinedvirussample.png|50px]]
+!Ruined Virus Sample
+| 1 Virus Dish
+| Just like vaccination!
+|-
+![[File:Meatburrito.png|50px]]
+!Meat Burrito
+| 1 Soybean, 1 Tortilla, 2 Cutlets
+| Carne!
+|-
+![[File:Cheeseburrito.png|50px]]
+!Cheese Burrito
+| 1 Soybean, 1 Tortilla, 2 Cheese Wedges
+| Queso!
+|-
+![[File:Fuegoburrito.png|50px]]
+!Fuego Burrito
+| 1 Soybean, 2 Chili, 1 Tortilla
+| Fuego!
+|-
+![[File:Nachos.png|50px]]
+!Nachos
+| 1 Tortilla, 1 unit of Salt
+| Now if only we had some cheese...
+|-
+![[File:Cheesenachos.png|50px]]
+!Cheesenachos
+| 1 Tortilla, 1 unit of Salt, 1 Cheese Wedge
+| Now if only it were spicier...
+|-
+![[File:Cubannachos.png|50px]]
+!Cuban Nachos
+| 1 Tortilla, 1 Chili, 5 units of Ketchup
+| Perfect!
+|-
+![[File:Piginblanket.png|50px]]
+!Pig-in-a-Blanket
+| 1 Flat Dough, 1 Sausage
+| A simple breakfast treat, sometimes served for Brunch!
+|}
+
+==[[File:Icecream_Vat.png|50px]] Ice Cream Vat==
+''Ding-aling ding dong. Get your Nanotrasen-approved ice cream!''
+
+For those hot days on the station there's an Ice cream vat, which can be used to make:
+
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Yellow;" |Picture
+! scope="col" style="background-color:Yellow;" |Recipe
+! scope="col" class="unsortable" style="background-color:Yellow;" |Ingredients
+! scope="col" class="unsortable" style="background-color:Yellow;" |Notes
+|-
+![[File:Waffle_Cone.png|50px]]
+!{{anchor|Waffle Cone}}Waffle Cone
+| 1 unit of Flour + 1 unit of Sugar
+| Delicious waffle cone, but no ice cream.
+|-
+![[File:Chocolate_Cone.png|50px]]
+!{{anchor|Chocolate Cone}}Chocolate Cone
+| 1 Waffle Cone + 1 Chocolate Flavouring (obtained from Chocolate)
+| Delicious chocolate cone, but no ice cream.
+|-
+![[File:Vanilla_Icecream.png|50px]]
+!{{anchor|Vanilla Ice Cream}}Vanilla Ice Cream
+| 1 unit of Milk + 1 unit of Sugar
+| Scoop it up with a Waffle/Chocolate Cone.
+|-
+![[File:Strawberry_Icecream.png|50px]]
+!{{anchor|Strawberry Ice Cream}}Strawberry Ice Cream
+| 1 unit of Milk + 1 unit of Sugar
+| Scoop it up with a Waffle/Chocolate Cone.
+|-
+![[File:Chocolate_Icecream.png|50px]]
+!{{anchor|Chocolate Ice Cream}}Chocolate Ice Cream
+| 1 unit of Milk + 1 unit of Sugar
+| Scoop it up with a Waffle/Chocolate Cone. Chocolate flavouring is obtained from Cocoa powder.
+|-
+![[File:Blue_Icecream.png|50px]]
+!{{anchor|Blue Ice Cream}}Blue Ice Cream
+| 1 unit of Milk + 1 unit of Sugar
+| Scoop it up with a Waffle/Chocolate Cone. Blue flavouring is obtained from bluespace tomato singulo.
+|-
+|}
+
+==[[File:Blender.png|50px]] Reagents, Condiments, and Intermediate Ingredients==
+In order to create some of these items you will either need to mix the regents by hand or toss them into the blender/grinder and grind them. After which either a finished product will be produced or you will need to transfer the liquid to your CondiMaster Neo in the freezer to create it into a bottle.
+
+Any recipe listed as '''Grind''' will require the use of the blender, any recipe listed as '''Mix''' only requires the beaker. All of your juices will require the Grinder's other setting '''Juice'''.
+
+{| class="wikitable sortable" style="width:50%" align="center" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Lightgreen;" |Picture
+! scope="col" style="background-color:Lightgreen;" |Blends
+! scope="col" class="unsortable" style="background-color:Lightgreen;" |Condiments
+|-
+![[File:Nutriment.png|50px]]
+!{{anchor|Nutriment}}Nutriment
+| Grind any solid food
+|-
+![[File:Hotsauce.png|50px]]
+!{{anchor|Hot Sauce}}{{anchor|Capsicum Oil}}Hot Sauce/Capsicum Oil
+| Grind chilis
+|-
+!
+!capsaicin
+!Chili peppers and gelthi plants contain capscaisin. Condensed capscaicin can be made by a chemist using phoron and capscaisin, or from amauri plants
+|-
+![[File:Coldsauce.png|50px]]
+!{{anchor|Cold Sauce}}{{anchor|Frost Oil}}Cold Sauce/Frost Oil
+| Grind ice peppers
+|-
+![[File:Ketchup.png|50px]]
+!{{anchor|Ketchup}}Ketchup
+| Grind tomatoes
+|-
+![[File:Flour.png|50px]]
+!{{anchor|Flour}}Flour
+| Grind wheat
+|-
+![[File:Soysauce.png|50px]]
+!{{anchor|Soy Sauce}}Soy Sauce
+| Mix 40 units Soy Milk + 10 units Sulphuric Acid
+|-
+![[File:Salt.png|50px]]
+!{{anchor|Salt}}Salt
+| Mix Sodium + Chlorine (from Chem Dispenser). Salt-shakers can be found in cafe
+|-
+![[File:Pepper.png|50px]]
+!{{anchor|Pepper}}Pepper
+| Grind pepper-mills in cafe
+|-
+![[File:Cheesewheel.gif|50px]]
+!{{anchor|Cheese Wheel}}Cheese Wheel
+| Mix 40 Milk + 5 Universal Enzyme. End result will magically pop a full wheel of cheese
+|-
+![[File:Cheese_Wedge.png|50px]]
+!{{anchor|Cheese Wedge}}Cheese Wedge
+| Slice up a Cheese Wheel with a knife
+|-
+![[File:chocolatebar.gif|50px]]
+!{{anchor|Chocolate Bar}}Chocolate Bar
+| Mix 2 units Coco powder (grind a Cocoa Pod) + 2 units Milk/Soy Milk + 2 units Sugar
+|-
+![[File:Tofu.gif|50px]]
+!{{anchor|Tofu}}Tofu
+| Mix 10 soymilk + 5 Universal Enzyme
+|-
+![[File:Emptycondiment.png|50px]]
+!{{anchor|Sugar}}Sugar
+| Grind white beet or sugar cane
+|-
+![[File:Condiment.png|50px]]
+!{{anchor|Sprinkles}}Sprinkles
+| Grind donuts
+|-
+![[File:Dough.png|50px]]
+!{{anchor|Dough}}Dough
+| Mix 3 units of Egg and 10 units of Flour 
+|-
+![[File:Meatball.png|50px]]
+!{{anchor|Meatball}}Meatball
+| Mix 3 Animal Protein and 5 Flour 
+|-
+![[File:Bun.png|50px]]
+!{{anchor|Bun}}Bun
+| Microwave 1 Dough
+|-
+![[File:Flat_Dough.png|50px]]
+!{{anchor|FlatDough}}FlatDough
+| Roll out 1 Dough with Rolling Pin
+|-
+![[File:Dough_Slice.png|50px]]
+!{{anchor|DoughSlice}}DoughSlice
+| Cut Flat Dough with Kitchen Knife 
+|-
+![[File:Spaghetti.png|50px]]
+!{{anchor|Spaghetti}}Spaghetti
+| Cut Dough Slice with Kitchen Knife
+|-
+![[File:Raw_Cutlet.png|50px]]
+!{{anchor|RawCutlet}}RawCutlet
+| Cut 1 Meat (Any Type). Microwave for a Cutlet.
+|-
+![[File:Cutlet.png|50px]]
+!{{anchor|Cutlet}}Cutlet
+| Microwave for a Raw Cutlet.
+|-
+![[File:Soydope.png|50px]]
+!{{anchor|Soydope}}Soy Dope
+| Cut 1 Soybean
+|-
+![[File:Meat.png|50px]]
+!{{anchor|Meat}}Meat
+| From butchering or processing most animals (and people). Recipes that call for meat will accept any generic meat (except for specific, named meats such as the ones listed below, which have their own recipes). From the Biogenerator in Botany, or from mixing blood and Clonexadone.
+|-
+![[File:Carpfillet.png|50px]]
+!{{anchor|Carp Fillet}}Carp Fillet
+| Butcher a Carp (gibbing gives three fillets, cutting with a knife gives one.)
+|-
+![[File:Grubmeat.png|50px]]
+!{{anchor|Grub Meat}}Grub Meat
+| A slab of grub meat, it gives a gentle shock if you touch it. Butcher a Solargrub (gibbing gives three fillets, cutting with a knife gives one.)
+|-
+![[File:Xenomeat.png|50px]]
+!{{anchor|Xeno Meat}}Xeno Meat
+| Butcher a Xenomorph (gibbing gives three fillets, cutting with a knife gives one.)
+|-
+![[File:Bearmeat.png|50px]]
+!{{anchor|Bear Meat}}Bear Meat
+| Butcher a Spacebear (gibbing gives three fillets, cutting with a knife gives one.)
+|-
+![[File:Raw_Sticks.png|50px]]
+!{{anchor|Raw Potato Sticks}}Raw Potato Sticks
+| Cut up one potato.
+|-
+![[File:Carrotfries.png|50px]]
+!{{anchor|Carrot Fries}}Carrot Fries
+| Cut up one carrot.
+|-
+![[File:Tortilla.png|50px]]
+!{{anchor|Tortilla}}Tortilla
+| Microwave 1 Flat Dough
+|}
+
+==Vending Machines==
+===[[File:Vendsnack.gif|50px]] Junk Food===
+If you're hungry and the Chef is not around to make you a meal, you might want to check the nearest [[Getmore Chocolate Corp|Getmore Chocolate Corp -vending machine]] for some quick snacks to fill up your belly. Note that the Chef cannot (or doesn't want to) make these.
+
+{| class="wikitable sortable" style="width:50%" align="center" border="1" cellspacing="0" cellpadding="2"
+! scope="col" class="unsortable" style="background-color:Red;" |Picture
+! scope="col" style="background-color:Red;" |Dispenses
+! scope="col" class="unsortable" style="background-color:Red;" |Description
+|-
+![[File:Candy.png|50px]]
+!{{anchor|Candy}}Candy
+| Nougat; love it or hate it. Consists of nutriment and sugar, filling you a little.
+|-
+![[File:Ramen.png|50px]]
+!{{anchor|Cup Ramen}}Cup Ramen
+| Just add 10u of water, self heats! A taste that reminds you of your school years. 30u Dry Ramen
+|-
+![[File:Ramen.png|50px]]
+!{{anchor|Hot Ramen}}Hot Ramen
+| Makes 3 Parts Hot Ramen
+|-
+![[File:Ramen.png|50px]]
+!{{anchor|Hell Ramen}}Hell Ramen
+| Add 1 part Capsaicin to 6 parts Hot Ramen
+|-
+![[File:Chips.png|50px]]
+!{{anchor|Chips}}Chips
+| Commander Riker's What-The-Crisps. Consists of nutriment, filling you mildly.
+|-
+![[File:Jerky.png|50px]]
+!{{anchor|Scaredy's Private Reserve Beef Jerky}}Scaredy's Private Reserve Beef Jerky
+| Beef jerky made from the finest space cows. Consists of nutriment, making it a filling snack!
+|-
+![[File:Raisins.png|50px]]
+!{{anchor|4no Raisins}}4no Raisins
+| Best raisins in the universe. Not sure why. Consists of nutriment, making it a very filling snack!
+|-
+![[File:Twinkie.png|50px]]
+!{{anchor|Space_Twinkie}}Space Twinkie
+| A few bite snack consisting of small amount of sugar.
+|-
+![[File:CheesieHonkers.png|50px]]
+!{{anchor|Cheesie Honkers}}Cheesie Honkers
+| Bite sized cheesie snacks that will honk all over your mouth. Consists of nutriment, making it a filling snack!
+|-
+![[File:Breadtube.png|50px]]
+!{{anchor|Bread Tube}}Bread Tube
+| A tube of bread! A bread tube!
+|-
+![[File:Syndiecake.png|50px]]
+!{{anchor|Syndi-Cake}}Syndi-Cake
+| A delicious traitorous treat! Available from hacked Getmore Chocolate Corp Vending Machines
+|-
+![[File:SkrellSnax.png|50px]]
+!{{anchor|SkrellSnax}}SkrellSnax
+| Mm, Tastes like Skrell! Available from hacked Getmore Chocolate Corp Vending Machines
+|-
+![[File:Monkeycube.png|50px]]
+!{{anchor|Monkey Cube}}Monkey Cube
+| 10 Animal Protein; kills you as a monkey grows inside you. Add water to get a monkey. Also comes in Stok, Farwa, and Naera varieties, available through Cargo.
+|-
+![[File:Liquidfood.png|50px]]
+!{{anchor|LiquidFood Ration}}LiquidFood Ration
+| Sometimes found in Maintenance. 20 Nutriment, 3 Iron
+|-
+![[File:Honeycomb.png|50px]]
+!{{anchor|Honeycomb}}Honeycomb
+| From beekeeping
+|-
+|}
+
+=Tips=
+* Milk, Soy Milk, Berry Juice, Soy Sauce, Hot Sauce, Cold Sauce, and Sugar are all measured in reagent units rather than by number of containers. They can be poured directly into the microwave.
+* Sliceable foods can be divided into smaller portions by slicing them. Their reagents are divided equally into the slices. The slices noted here are the maximum number of slices, which you can get by using a precise cutting tool like a kitchen knife, cleaver, or scalpel; crude cutting tools, like axes, shovels, and saws will result in fewer slices.
+* Condiments are reagents can be added to food, possibly increasing their nutrition value or adding some fun extras. A chef can create condiments by grinding up things that contain them and isolating them in the CondiMaster in the back room. Condiments let you put ketchup on your fries, salt in your soup, dylovene on your fish fingers, or psilocybin on your ghost burger--the possibilities are endless. Foods hold a maximum of fifty units of reagents.
+* Some poisonous foods can be prepared safely if Dylovene is added to the finished product, or if the poisonous reagent is neutralized somehow. Experienced chefs only!
+* Traitor chefs can make some sneaky substitutions.
+** Poisonous apples can be used in all apple dishes, and the final dish will be poisoned. Unlike poisonous mushrooms, cyanide apples can easily kill.
+** Slime jelly can be substituted for cherry jelly, and will poison the resulting food.
+** Anything made with meat can be made with human meat. (It's still necessary to emag the gibber before butchering one's murder victims.)
+* Blood is not necessarily poisonous. It is always the same type as the person the brain was taken from, and if the type is incompatible with the recipient, it will cause a rejection reaction. O-negative blood is always safe.
+* Units of egg are obtained by breaking eggs into beakers.
+
+==Advanced Cooking==
+Some reagents in the finished products are poisonous, you may want to serve these items safely. This is where a little chemistry can help neutralize or remove the dangerous reagents from your food.Any given piece of food can contain only 50 units of reagents.
+
+When using Dylovene, it's okay to use more than you strictly need. Other chemicals you might use to neutralize poison aren't so forgiving, and some are poisonous themselves.
+
+{| class="sortable" width="550" style="text-align:left; background-color:#FFFFFF;" border="1" cellspacing="0"
+! style="background-color:Aqua;" |Reagent
+! style="background-color:Aqua;" |How to Neutralize
+|-
+| Animal Protein; Egg Yolk
+| Harmless to most people, animal protein, including egg yolk, is unsafe for Skrell. A one-to-one ratio of Dylovene to animal protein will make it safe for Skrell to eat.
+|-
+| Blood
+| Blood is not necessarily poisonous. It is always the same type as the person it was taken from, and if the type is incompatible with the recipient, it will cause a rejection reaction.
+O-negative blood is always safe.
+Add one unit of Dylovene for every four units of blood.
+Alcoholic drinks made with blood, of any type, are safe; just be sure there is no blood left over after the reaction.
+Blood can also be neutralized with Clonexadone (1 unit Clonexadone to 5 units Blood), or by adding drink ingredients to create a blood-based drink.
+|-
+| Carpotoxin
+| Anything made with carp meat will have carpotoxin in it. Counter it with 1 unit Dylovene per 3 units Carpotoxin. Carpotoxin also reacts with copper and cryptobiolin to form rezadone, but overdose of rezadone starts at 15 units and most carpotoxin-containing foods have five or more units of it.
+|-
+| Amatoxin
+| Found in mushrooms. Add 1 unit Dylovene per 2 units Amatoxin.
+|-
+| Toxin
+| Add 1 unit Dylovene per 2 units Toxin.
+|-
+| Slime Jelly
+| Will poison your customers no matter how much Dylovene you add. Adding Dylovene (around 30 units or so) will keep them from dying of the poisoning before they can get to Medical, but if you're not a traitor, do you want to serve them such a painful dish? (No, don't answer that. We know customers can be annoying; that's still no excuse to poison them.)
+|-
+| Radium
+| Found in roast diona and will cause radiation poisoning. Add 1 unit of Dylovene per unit of Radium; reacts to form Hyronalin.
+|-
+| Sulphuric Acid
+| Dylovene won't cut it for sulphuric acid, which will burn as well as poison anyone unlucky enough to ingest it. Instead, neutralize each 1 unit of Sulphuric acid with either 3 units of Corn Oil (creates glycerol), 4 units of Soy Milk (creates soy sauce), or 5 units of wine (creates Acid Spit, an alcoholic cocktail).
+|-
+| Polytrinic Acid
+| You're serious about serving that xeno meat, huh? Well, don't serve it plain; polytrinic acid will poison, burn, and generally kill your customers in a rather nasty manner. Like with sulphuric acid, dylovene isn't enough, but unlike sulphuric acid, it's not easy to neutralize. Polytrinic acid will react with foaming agent and either iron or aluminum to create metal foam, and 10 units of polytrinic acid and 20 units of plasticide will create plastic. When working out how to do this, remember that plasticide is poisonous and metal foam can be chipped through with a kitchen knife.
+|-
+| Alcohol
+| An equal amount of Ethylredoxrazine reacts with Alcohol (including alcoholic drinks) to make water.
+|-
+| Synaptizine
+| Synaptizine is poisonous, but the bigger problem is that it hangs around in the system for a long time. For every unit of synaptizine, you need 30 units of Dylovene.
+|-
+| Phoron
+| Really, now? You could neutralize phoron by adding 2 rum and 1 vermouth per unit, but eating phoron is still a bit of a waste.
+|-
+|}

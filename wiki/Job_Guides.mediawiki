@@ -1,0 +1,316 @@
+Your '''Job''' is what NanoTrasen has assigned you to do aboard [[Virgo Orbital Research Establishment]]. It defines what equipment you start with, your ID card access, and what you're actually supposed to be doing.
+
+Some useful links:
+* [[Character Creation]]
+* [[Chain of Command]]
+* [[Standard Operating Procedure]]
+* [[Guides]]
+* [[Tips]]
+* [[Job Selection and Assignment]]
+* [[Identifying Antagonists]]
+
+You should also read up about [[Corporate Regulations]], so you know your rights, and [[Clone Memory Disorder]] if you happen to die and be cloned. Not doing so is considered very bad form for [[Roleplay]]. 
+
+Due to NanoTrasen equal rights laws, you might encounter some interesting new [[Species]] working alongside you.
+== Heads of Staff ==
+
+{| style="background-color:#EEEEEF;" width="80%" cellspacing="0" cellpadding="2" border="1"
+! style="background-color:#0b60e8;" width="200" |Job
+! style="background-color:#0b60e8;" |Role
+! style="background-color:#0b60e8;" width="100" |Difficulty
+|-
+![[File:Colony Director.png|link=Colony Director|64px]]<br>[[Colony Director]]
+|Oversee the Virgo Orbital Research Establishment and its staff. Coordinate the heads of each department. Become a shining example of upholding [[SOP]] and [[Corporate Regulations]]. Use your translocator <s>to warp straight into a sly predator's stomach</s> to get around faster. Use your energy gun on <s>hungry assistants</s> grubs.  
+!Very Hard
+|-
+![[File:HeadOfPersonnel.png|link=Head of Personnel|64px]]<br>[[Head of Personnel]]
+|Be in charge of personnel and the service department. Reassign crew to jobs upon request. <s>Never bother asking the head of a department before putting a psychopath in the job.</s> Wonder where the [[Colony Director]] went. Rub the fact that you're the de facto second-in-command in everyone else's faces. Wonder why your holdout gun has so few shots well after it's [[Guide to Vore|too late]].
+!Hard
+|-
+![[File:Generic_hos.png|link=Head of Security|64px]]<br>[[Head of Security]]
+|Oversee your [[Security Officer|Security Officers]] and uphold [[Corporate Regulations]] or die trying. Bellybrig criminals without a second thought. Wear your cool [[voidsuit]] that looks about as imposing as the rest of your edgy wardrobe. Watch your prisoners disintegrate when the supermatter delams on the floor below. Order more ridiculous equipment for your already-gigantic armory.
+!<font color="red">Soul Crushing</font>
+|-
+![[File:Chief_Engineer_2.png|link=Chief Engineer|64px]]<br>[[Chief Engineer]]
+|Direct your [[Station Engineer|Engineers]]. Get cool power tools and a sleek [[hardsuit]]. Berate the engine tech for using Nitrogen. Call out the lazy [[Atmospheric Technician|Atmospheric Tech]] for not optimizing Atmospherics. Fix disasters once your engineers rush to the dorms immediately after everything is setup. Get yelled at by the [[Colony Director]] when nothing is fixed within two minutes of something breaking. Have the best pet on the station.
+!Hard 
+|-
+![[File:ResearchDirector.png|link=Research Director|64px]]<br>[[Research Director]]
+|<s>Attempt to</s> direct the Research department. End up just counseling newer [[Scientist|Scientists]] on where to find everything to max research levels. Prepare for the worst when Xenobiology mentions they have orange slimes. Watch Xenobotany go up in a cloud of smoke when they grow explosive corn. Witness an intern make an integrated circuit with the power of seven suns shoved inside. Butt heads with the QM over who's in charge of resources. Wonder why no research has been conducted for four hours. Pet Kendrick.
+!Medium
+|-
+![[File:Generic cmo.png|link=Chief Medical Officer|64px]]<br>[[Chief Medical Officer]]
+|Direct your [[Medical Doctor|soldiers]] in the warzone known as the Infirmary. Fill in for positions that other doctors do not know how to do. Accidentally donate all your blood restocking the resleever. Screech when an EMT sets cryo to 0 Kelvin. Frown furiously when the chemist renames KeloDerm to "Dermotane." Completely forget about medical records. Genuinely smile when you're thanked in an otherwise thankless job. Point to the "NO SMOKING" sign. <s>Get eaten by Runtime for being a micro.</s>
+!Unrewarding
+|}
+
+== Law and Order ==
+
+{| style="background-color:#ffeaea;" width="80%" cellspacing="0" cellpadding="2" border="1"
+! style="background-color:#dd3e40;" width="200" |Job
+! style="background-color:#dd3e40;" |Role
+! style="background-color:#dd3e40;" width="100" |Difficulty
+|-
+![[File:Generic_security.png|link=Security Officer|64px]]<br>[[Security Officer]]
+|Ask [[Head of Security|your boss]] what to do. Get told to patrol wherever. Frequent the bar because that's where all the filthy criminals hang out. Rush to an assault call and find out it's just two people in a scene. Listen as they berate you in LOOC. <s>Bellybrig without looking at prefs. Get bwoinked.</s> Get your stun gun disarmed and hide behind a window to use your taser. Accidentally let go of a suspect when you try handing them to the [[Warden]].
+!Hard
+|-
+![[File:Warden.png|link=Warden|64px]]<br>[[Warden]]
+|Kick back and doze off in your office. Observe <s>ERP</s> crime from afar with your sick binoculars. Order a riding crop to <s>abuse</s> discipline prisoners. Shoot your shotgun at prisoners from the catwalks. <s>Watch one prisoner eat another from the catwalks.</s> Froth at the mouth when a virus blasts the brig. <s>Leave handcuffs on your prisoners for kinky roleplay.</s> ''Only'' timeskip vore offenses, everything else (resisting arrest, sparking a manhunt, etc) '''does not''' get timeskipped.
+!Hard
+|-
+![[File:Detective.png|link=Detective|64px]]<br>[[Detective]]
+|Swab everything. Scan everything. Analyze everything. Everything everything. Wave your gold holobadge around. Investigate a kidnapping. <s>Get kidnapped yourself.</s> Drink your sorrows away at the bar. <s>Tip your hat.</s> Lose your gun. Start an investigation into who stole your gun. Swab everything. Scan everything. Ad infinitum.
+!Hard
+|-
+![[File:Ia_consultant.png|link=Internal Affairs|64px]]<br>[[Internal Affairs|Internal Affairs Agent]]
+|Get summoned by pubbies that are accused of actual crimes more than people accused of crimes that genuinely deserve your attention. Sit in your office positioned on an eerily quiet floor. <s>Put the ''internal'' in internal affairs when you get eaten.</s> Send faxes to CC on rare occasion.
+!Medium to Hard
+|}
+
+== Engineering ==
+
+{| style="background-color:#FFFFDD;" width="80%" cellspacing="0" cellpadding="2" border="1"
+! style="background-color:yellow;" width="200" |Job
+! style="background-color:yellow;" |Role
+! style="background-color:yellow;" width="100" |Difficulty
+|-
+![[File:StationEngineer.png|link=Station Engineer|64px]]<br>[[Station Engineer]]
+|Ask the [[Chief Engineer]] if you can start the engine. Get denied. Try to keep track of all the ridiculous steps they take to optimize the setup. Consolidate the solar SMES coils. Flip tables once grubs show up thirty minutes into the shift. Try to understand the pipes in Atmos and get chased out by [[Atmospheric Technician|the baron of the land]] <s>who wasn't doing anything before you showed up anyway.</s> Realize there's nothing left to do and disasters only happen when you go to the dorms.
+!Medium
+|-
+![[File:AtmosphericTechnician.png|link=Atmospheric Technician|64px]]<br>[[Atmospheric Technician]]
+|Fix pipes. Place pipes. If people are telling you that you're useless, then you probably haven't failed at your job <s>yet</s>, and people are breathing safely. Max all the pumps. Unclog the algae generators. Cry when superheated Phoron comes tunneling down the scrubber pipes when you haven't even bothered setting up the purge valves.
+!Medium
+|}
+
+== Cargo and Supply ==
+
+{| style="background-color:#FFFFDD;" width="80%" cellspacing="0" cellpadding="2" border="1"
+! style="background-color:orange;" width="200" |Job
+! style="background-color:orange;" |Role
+! style="background-color:orange;" width="100" |Difficulty
+|-
+![[File:Quartermaster.png|link=Quartermaster|64px]]<br>[[Quartermaster]]
+|Pretend to be a head of staff. Listen to the Head of Personnel anyway <s>because you have to.</s> Remind the Research Director he isn't your boss. Uphold bureaucracy and paperwork. Watch people just scribble silly words on a piece of paper asking for crayons to chew on anyway. Order carpet and foam swords and knight assistants into your kingdom. Secretly wish you could open those fancy security crates.
+!Medium
+|-
+![[File:CargoTechnician.png|link=Cargo Technician|64px]]<br>[[Cargo Technician]]
+|Push crates. <s>Almost get sold by your boss on account of how useless you are.</s> Send empty implanters back to medical and screech that they can be refilled. Get ignored because ''no one cares''. Watch idiots fly onto the conveyor with every bone broken and four different instances of internal bleeding. <s>Eat them.</s>
+!Easy
+|-
+![[File:ShaftMiner.png|link=Shaft Miner|64px]]<br>[[Shaft Miner]]
+|Ask for a mining mech. Get ignored and mine with your <s>bare hands</s> drill and satchel. Accidentally destroy an artifact and get assblasted with radiation. Die alone and cold because you're out of sensors range. Throw your hands up in the air when you find diamonds. Get yelled at by Research when there aren't enough diamonds. Never get thanked for your efforts.
+!Easy
+|}
+
+== Medical ==
+
+{| style="background-color:#c3dfe0;" width="80%" cellspacing="0" cellpadding="2" border="1"
+! style="background-color:#19ccd6;" width="200" |Job
+! style="background-color:#19ccd6;" |Role
+! style="background-color:#19ccd6;" width="100" |Difficulty
+|-
+![[File:MedicalDoctor.png|link=Medical Doctor|64px]]<br>[[Medical Doctor]]
+|Hawk over suit sensors. Ask people to turn around for implants. Continue waiting until they do. Slam dunk people into the body scanner. Operate on all of a patient's limbs at the same time. Use opiates willy-nilly. Fold scan reports into paper airplanes. Ask for ridiculous custom medicine mixes. Wordlessly inject/shove pills into someone's mouth when they ask for treatment. Shake your fist at the patient's right to refuse treatment. Scene in the infirmary instead of the dorms because something is bound to happen sooner or later.
+!Underappreciated
+|-
+![[File:Paramedic.png|link=Paramedic|64px]]<br>[[Paramedic]]
+|Sprint out the door at the first mention of injury. Sigh when no one tells their position and only screams for help. Toss people onto your roller bed and stabilize their critical injuries. <s>Realize you don't have medkits</s> Laugh because you have a belt full of bottles of medicine. <s>Realize you don't have access</s> Laugh because you brought the [[Hardsuit#Rescue Hardsuit|Hardsuit]] and can gain access to pretty much anywhere someone is injured.
+!Exhausting
+|-
+![[File:Psychologist.png|link=Psychologist|64px]]<br>[[Psychologist]]
+|Genuinely listen to the crew's problems. Assist them in identifying the underlying issues and how to overcome them. Conduct different types of therapies. Get a cool, roomy office <s>which is basically a bigger dorm room to do lewd stuff</s>.
+!Mind Bending
+|-
+![[File:Chemist.png|link=Chemist|64px]]<br>[[Chemist]]
+|Push buttons on the chemical dispenser. Find yourself unable to recall the recipes for medicines but do them anyway because it's all muscle memory at this point. Stock the h*ck out of the fridge with medicine that most doctors will probably just overlook. Ask mining for Phoron sheets for fun slime reactions. Make pills sometimes. Act surprised when someone actually comes in with a prescription.
+!Monotonous
+|-
+![[File:SAR.png|link=Search and Rescue|64px]]<br>[[Search and Rescue]]
+|Yell at a pilot to try and take you to find some lost injured explorer. Realize the pilot is busy being eaten. Learn to fly a spaceship! Find out that comms don't exist where you're going. <s>Forget to bring marker beacons</s> Fight a monster because nobody wanted to come with you. Finally locate and rescue stranded explorer. Feel like you're better than paramedics.
+!Tiresome
+|}
+
+== Research ==
+{| style="background-color:#EEEEFF;" width="80%" cellspacing="0" cellpadding="2" border="1"
+! style="background-color:#DDA0DD;" width="200" |Job
+! style="background-color:#DDA0DD;" |Role
+! style="background-color:#DDA0DD;" width="100" |Difficulty
+|-
+![[File:Scientist.png|link=Scientist|64px]]<br>[[Scientist]]
+|Put things in an analyzer and watch numbers go up on a console. Rush research levels within minutes. Nag mining for diamonds. Make upgraded machine parts for departments. Shoot fuel rods at high velocity just because you can. Singe your eyebrows off. <s>Fall over the railing.</s>
+!Medium
+|-
+![[File:Roboticist.png|link=Roboticist|64px]]<br>[[Roboticist]]
+|Make robits that go beep boop. Unleash an army of cleanbots that all give up and get lost sooner or later. Accidentally turn on the farmbot's setting to harvest and stare in awe when hydroponics is filled to the brim with plants. Build cool stompy mechs. Look suspicious when you ask security for a helmet and baton to build securitrons. Repair synthetic crew on occasion.
+!Easy
+|-
+![[File:Xenobiologist.png|link=Scientist#Xenobiology|64px]]<br>[[Xenobiologist]]
+|Breed gooey slimes. Love the slimes. Watch when one slime decides to bully another because their color is different. Teach them speech. Accidentally put an amber with other slimes and get overrun with constantly repopulating slimes. <s>Get your DNA digested.</s>
+!Medium
+|-
+![[File:Pathfinder.png|link=Pathfinder|64x64px]]<br>[[Pathfinder]]
+|Command a troop of the stations finest on a mission to boldly go where no one has gone before. <s>And take all the credit.</s> Encourage cooperation among your ranks, <s>Gazing in awe as they ignore your every word sliding down a natives gullet.</s> Execute grand coordinated strategies, <s>Only a true cat herder could comprehend.</s> Plan expeditions then tear your hair our as no other explorers join the shift. Invite volunteers from other departments. <s>Make them explore your digestive tract.</s>
+!Hard
+|-
+![[File:explorer.png|link=Explorer|64px]]<br>[[Explorer]]
+|Go out in search of interesting discoveries. Try to avoid having the discoveries kill you along the way. <s>Be the embodiment of gun science.</s> Carry weapons to defend other more squishy miners or researchers. <s>Powergame until the devs nerf you again.</s>
+!Medium
+|}
+
+== Service and Civilian ==
+{| style="background-color:#CFDBC5;" width="80%" cellspacing="0" cellpadding="2" border="1"
+! style="background-color:#577A3A;" width="200" |Job
+! style="background-color:#577A3A;" |Role
+! style="background-color:#577A3A;" width="100" |Difficulty
+|-
+![[File:Assistant.png|link=Assistant|64px]]<br>[[Visitor]]
+|Run around without a job and be lazy. <s>Get eaten.</s> Backseat professionals and tell them how to do their job. <s>Get eaten.</s> Get implanted and cryo right after. <s>Get eaten.</s> Get eaten. <s>Get eaten</s>
+!Very Easy
+|-
+![[File:Bartender.png|link=Bartender|64px]]<br>[[Bartender]]
+|Mix drinks. Line the table with alcohol that will probably vaporize someone's liver. <s>Build a sick web nest in your back room</s> Complain because web nests were removed due to abuse. Wave your shotgun around. Shoot rowdy customers with your shotgun. <s>Get arrested.</s>
+!Easy
+|-
+![[File:Botanist.png|link=Botanist|64px]]<br>[[Botanist]]
+|Ask the [[Chef]] what they need for ingredients for their cooking. Don't get a reply and grow <s>Ambroisa Deus</s> potatoes. Find the chef missing and do all of the cooking yourself. Construct an apiary for bees! Toss mutagen into the tomato tray and get eaten by an angry tomato.
+!Easy
+|-
+![[File:Chef.png|link=Chef|64px]]<br>[[Chef]]
+|Manage Botany and the Kitchen simultaneously <s>since no one likes going [[Botanist]] because who likes eating vegetables?</s> <s>Make a menu.</s> <s>Lay utensils out on the table.</s> <s>Stick around and take orders from the crew.</s> Cook all of the meat in the fridge into meat steaks, toss it all onto the tabletop, and run to the dorms to scene. You careless monster.
+!Easy
+|-
+![[File:Chaplain.png|link=Chaplain|64px]]<br>[[Chaplain]]
+|Make Pastafarianism as your religion and praise the Flying Spaghetti Monster. Get patrons asking if said deity has meatballs. Reply yes and get millions of fanatics <s>that secretly only want to eat the deity, and you by extension.</s> Wave your useless null rod around. Sit bored in your chapel because no one ever visits it.
+!Easy
+|-
+![[File:Command_Secretary.png|link=Command Secretary|64px]]<br>[[Command Secretary]]
+|Be an assistant but with a suit, briefcase, and bridge access. Keep the [[Guide to Paperwork]] open in a window and pretend you know what you're doing. <s>Get lewded by the command staff.</s>
+!Easy
+|-
+![[File:Janitor.png|link=Janitor|64px]]<br>[[Janitor]]
+|Lead a losing battle against station filth. Regret taking the job when you come across the dorms. Never visit the top floor and allow it to get unreasonably dirty. Place signs. Point to your signs. <s>Get sat on.</s>
+!Easy
+|-
+![[File:Librarian.png|link=Librarian|64px]]<br>[[Librarian]]
+|Keep the library shelves stocked. <s>Ignore that and only fill the adult shelves.</s> Create your own newscaster channel <s>that no one will ever check.</s> Host games of dare dice <s>which usually just amounts to everyone getting eaten.</s> Write steamy fan fiction about two crew members.
+!Easy
+|-
+![[File:pilot.png|link=Pilot|64px]]<br>[[Pilot]]
+|Fly the crew to places they need to go to do their jobs <s>or vacations</s>. Wear cool sunglasses. Make movie references to entertain your passengers while ferrying them around. Try to remember the atmospheric composition of each planet.
+!Medium
+|}
+
+== Station-Bound ==
+
+{| style="background-color:#D8BFD8;" width="80%" cellspacing="0" cellpadding="2" border="1"
+! style="background-color:#9ACD32;" width="200" |Job
+! style="background-color:#9ACD32;" |Role
+! style="background-color:#9ACD32;" width="100" |Difficulty
+|-
+![[File:AILarge.gif|link=AI]]<br>[[AI]]
+|Essentially ''be'' the station. Wonder if having people inside the station counts as vore on its own. Get funny laws from ion storms that will probably get you carded. Crash because of bugs and z-code. Quietly disappear when you realize this is a boring job to play for five and a half hours.
+!Extremely Hard
+|-
+![[File:Generic_borg.png|64px|link=Cyborg]]<br>[[Cyborg]]
+|Follow your laws and listen to the AI if you're shackled to one. Ignore the many amazing borg sprites and skip to cyberhounds because BARK I'M A DOG. Get inferior tools as a result. Wish that you were given hands. Flip the bird to department SOP.
+!Medium to Hard
+|-
+![[File:Maintenance_Drone.png|64px|link=Maintenance Drone]]<br>[[Maintenance Drone]]
+|Become what is essentially a robomouse. Silently fix issues around the station before the [[Station Engineer|engineers]] can. Laugh at them in robotic speech they can't understand, otherwise just ignore anything that isn't a station issue or fellow maint drone.
+!Medium to Hard
+|-
+![[File:pAI.png|link=Personal AI]]<br>[[Personal AI]]
+|Be a pocket companion. Download <s>useless</s> '''TOTALLY NECESSARY''' programs to aid your user. Door jack random airlocks without care and get your user arrested. Essentially be a sentient search engine for whatever <s>dumb</s> questions your user asks. Fold out into the shape of a house pet and go on a quest to eat all of the maintenance mice.
+!Very Easy
+|-
+<!-- ![[File:Shade.png|64px|link=Construct]]<br>[[Construct]]
+|Serve your new master <s>as a submissive, enslaved, ectoplasmic being in a high-ERP server, WHAT COULD GO WRONG</s>
+!Medium
+|- -->
+![[File:Ghost.png|link=Ghost]]<br>[[Ghost]]
+|Fly around and scope out intense ERP scenes. Frequent the round as a ghost whenever you can't decide what loadout options look best on your character. Have a short respawn timer. Realize that [[Critters#Pets|Runtime]] is your only bridge between the supernatural world and the realm of the living. Complain.
+!None
+|-
+![[File:MiceBrown.png|link=Mouse]]<br>[[Mouse]]
+|Pretend to be a regular mouse. Infiltrate areas that you should never be in. Hide under tables and anger the chef. Be the biggest turnip ever and try to get eaten. Get stomped instead and complain in deadchat.
+!Very Easy to Medium
+|}
+
+== Events ==
+These roles only appear during events. Some of them are antagonists, some of them are just visitors. Either way they only appear during events, and you cannot play them even with a whitelist.
+{| style="background-color:silver;" width="80%" cellspacing="0" cellpadding="2" border="1"
+! style="background-color:brown;" width="200" |Job
+! style="background-color:brown;" |Role
+! style="background-color:brown;" width="100" |Difficulty
+|-
+![[File:Generic_nukesyndie.png|64px|link=Mercenary]]<br>[[Mercenary]]
+|Get paid to look after the interests of your wealthy employer. Mostly look after yourself.
+!Very Hard
+|-
+![[File:Generic_cultist.gif|64px|link=Cultist]]<br>[[Cultist]]
+|Sing praises to [[Devoratrix Mundi]], the [[Redspace]] Deity of Devouring. Decorate your trophy rack with eyeballs. Sow panic and glorify in the cold darkness of the void as you crush the station in the bowels of your Lord. <s>Sometimes inside actual bowels.</s>
+!Very Hard
+|-
+![[File:Pirate.png|64px|link=Pirate]]<br>[[Pirate]]
+|Plunder booty from th' station! Capture thar crew <s>in yer belly</s>!
+!Very Hard
+|-
+![[File:ChangelingLarge.gif|link=Changeling]]<br>[[Changeling]]
+|Be friendly, polite, and have a plan to consume everyone you meet. Revel in paranoia, panic, and terror as you turn good men and women on their own loved ones. Walk right into the Armory wearing the Warden's face.
+!Hard
+|-
+![[File:AlienLarge.png|link=Xenomorph]]<br>[[Xenomorph]]
+|Grow. Eat. Spread. Repopulate. <s>Maul xenophiles.</s>
+!Hard
+|-
+![[File:Technomancer.png|link=Technomancer|64px]]<br>[[Technomancer]]
+|Sort of like a Space Wizard you may have seen in the movies, only REAL. PROBABLY.
+!Hard
+|-
+![[File:Cortical.gif|link=Cortical Borer]]<br>[[Cortical Borer]]
+|Spread, thrive, and grow in the hostile human world. Crawl into peoples' ears and whisper sweet, violent nothings. Create pandemonium as your glorious breeding ground bloats in size.
+!Hard
+|-
+![[File:SpaceNinja.png|link=Space Ninja]]<br>[[Space Ninja]]
+|Uphold the ways of Bushido. Walk boldly through forbidden halls, and sever the hands of any man who would dare challenge you. Drink the station's power as surely as steel swallows lightning. Vanish into the shadows and emerge with your blade at their throats. Or make them vanish. <s>Into your stomach.</s>
+!Medium / Hard
+|}
+
+==Special==
+These jobs either require a [[whitelist]], or only appear under special circumstances. An admin is not needed to spawn these roles.
+{| style="background-color:silver;" width="80%" cellspacing="0" cellpadding="2" border="1"
+! style="background-color:#DAA520;" width="200" |Job
+! style="background-color:#DAA520" |Role
+! style="background-color:#DAA520" width="100" |Difficulty
+|-
+![[File:CentcomOfficer.png|link=CentCom Officer|64px]]<br>[[CentCom Officer]]
+|Act on behalf of CentCom. Avoid interfering unless absolutely necessary. Seriously, let them handle their own god damn problems and just fire whoever's responsible if they survive the disaster they caused.  <s>ERP in your private CentCom office.</s> Slowly go insane as you serve as an in-character form of admin.
+!Very Easy / <font color="darkred">Endless Suffering</font>
+|-
+![[File:EmergencyResponseTeam.png|link=Emergency Response Team]]<br>[[Emergency Response Team]]
+|Deal with the Red Alert. <s>Join the crew in the stomach of what caused it.</s>
+!Medium / Hard
+|-
+![[File:Clown.png|link=Clown]]<br>[[Clown]]
+|Honk! Play harmless pranks and hope you don't get your chest caved in! Honk! Nag the HoP for an all-access pass. Honk! Nag robotics for a H.O.N.K. Mech. Honk! Use both tools to break into the Director's office and HONK in his face. HONK! 
+!<b><font color="#FF00FF">HONK!</font></b>
+|-
+![[File:Mime.png|link=Mime]]<br>[[Mime]]
+|''*wave''
+!<b><font color="#FFFFFF">...</font></b>
+|-
+![[File:Trader.png|link=Trader|64px]]<br>[[Trader]]
+|Sell copious amounts of dangerous contraband to the crew. Laugh in Security's face as they legally can't stop you. Laugh at people who step off your ship and immediately get arrested for bringing contraband aboard the station. Laugh as the crew has a mass shooting with all the guns you just sold them. Laugh all the way to the bank. <s>Get eaten and robbed blind.</s>
+!Easy / Medium
+|-
+![[File:Courier.png|link=Courier|64px]]<br>[[Courier]]
+|Deliver and retrieve contraband on behalf of [[NanoTrasen]] or other companies. Have legal permission to handle dangerous contraband. Abuse said permission maliciously. Scare Security who don't know you're not an antag.
+!Easy / Hard
+|-
+![[File:Deathsquadofficer.png|link=Deathsquad]]<br><s>'''Deathsquad'''</s><br>[[Asset Protection]]
+|Get overpowered weapons and armor, then murder the ever-living ''fuck'' out of whatever CentCom told you to; usually attempted mutinies. Cause a lot of collateral damage in the process. Be an asshole to the crew for making you come here. <s>Be an instrument of flagrant admin abuse.</s>
+!<font color="crimson">Robust</font>
+|}
+[[Category:Jobs]]

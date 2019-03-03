@@ -1,0 +1,58 @@
+The R-UST (also known as the Tokamak Fusion Reactor) is a prototype engine that harnesses the power of fusion to generate energy.
+
+This engine is rather safe, though certain setups may require some monitoring.
+
+=Safety=
+Usually the word 'nuclear' is associated with 'radiation', and this engine isn't shy of letting loose with dangerous doses of it. Luckily for you, the engineering department has everything you'll need.
+*The core of the reactor is '''vacuum''', meaning it's probably a bad idea to go in there without a voidsuit. Normally you shouldn't, anyway.
+*It's '''radioactive''', meaning [[Engineering_Items#Radiation_Suit|proper PPE]] must be worn at all times when involving yourself with the R-UST's operation.
+*The gyrotron is effectively a '''configurable emitter'''. Do not stand in front of it at any time or turn it on while the blast doors are down.
+*Certain circumstances may result in the reactor '''EMPing''' surrounding equipment.
+
+=Operation=
+<small><i>If you are new to the engine and no other experienced engineer is available, skip down to "Engine Setup" and come back to this later.</i></small>
+
+==Producing Power==
+The reactor itself generates power via fusion reactions, with one knotted wire running from under the reactor and to the SMES units. Normally Deuterium and Tritium undergo fusion inside the core's super heated field to generate Helium, which releases energy.
+
+==Power Management==
+Once fusion occurs and power is generated, energy is carried from the wire under the reactor and distributed into the SMES units to the north-east. The two SMES here - from left to right - are the Engine SMES and the Main/Distribution SMES.
+
+It should be noted that the Main SMES takes priority over the Engine SMES in regards to receiving power; ensure the input is adjusted appropriately so that the Engine SMES is not left without power.
+
+==Monitoring==
+The Engine Monitoring Room, located east of the engine itself, has a handful of different consoles, some of which are:
+*'''Fusion Core Control Console''': The console that manages the reactor itself. Provides info on the content of the field, it's temperature, it's instability, how much energy it's outputting, and allows you to adjust the size of the field.
+*'''Gyrotron Control Console''': Allows you to turn the gyrotron on and off, set the amount of power that goes into it's emissions, and the delay between emissions.
+*'''Fuel Injector Control Console''': Provides info on what fuel is in the injectors and how much is left. Also allows you to turn them on remotely.
+*'''Power Monitoring''': Allows viewing of the powernet sensors on the current level, which includes the engine output, engine room, engineering, and master grids.
+*'''Engineering Cameras''': Provides access to the cameras in the engineering department, which includes the engine room, atmospherics, solar array, and those of any engineering robots or maintenance drones.
+*'''RCON''': Monitors and controls all of the SMES on the facility.
+*'''Station Alert Computer''': Shows power, atmospheric, and fire alarms from anywhere across the facility.
+
+=Engine Setup=
+This section goes over how to setup the engine to get power rolling. Ensure you have looked over everything in the "Safety" section of this guide.
+
+===Kickstart===
+The gyrotron and field take up quite a bit of power initially, therefore a PACMAN is available along with fuel to power both for the time being.
+#Ensure the PACMAN is above a knotted wire that's connected to the gyrotron and reactor, then wrench it into place.
+#Insert fuel into the PACMAN, set the power level to 4, then turn it on.
+
+===Field Online===
+The reactor's field is where the fusion takes place.
+#Operate the '''Fusion Core Control Console''' and bring the field online, setting the field to 200.
+#*Setting the field too small may cause the fuel pellets to miss. Setting the field too high may result in machinery being EMP'd.
+
+===The Gyro===
+The gyrotron heats up the field and manages field instability.
+#Operate the '''Gyrotron Control Console''', set power to 5, and turn it on.
+#*You can go higher, though it is not advised to go higher than 10.
+
+===The Fuel===
+#Retrieve three Deuterium fuel rods and one Tritium fuel rod. You may have to use the '''Fuel Compressor''' with the respective ores in hand to obtain them.
+#Place the fuel rods in the fuel injectors and operate the '''Fuel Injector Control Console''' to begin injecting fuel.
+#Monitor the '''Fusion Core Control Console''' and wait for the temperature to spike. Once it has, fusion has begun, and power is being generated
+#Turn off the PACMAN, adjust the SMES, and alter the Gyrotron's power and delay appropriately to keep up with the core's instability (normally power 7 delay 3).
+
+[[Category:Guides]]
+{{Gameplay guides}}

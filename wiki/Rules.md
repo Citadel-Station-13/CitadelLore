@@ -1,0 +1,810 @@
+---
+title: Rules
+permalink: wiki/Rules/
+layout: wiki
+tags:
+ - Guides
+ - Rules
+---
+
+These are the rules for the server and *are subject to change without
+notice*. For further clarification, also see the guide to [Not Getting
+Banned](/wiki/Not_Getting_Banned "wikilink"). If you did get banned, there's
+probably a good reason for it, but if you disagree, you can always
+[appeal your ban](http://forum.vore-station.net/viewforum.php?f=37).
+Although these are rules, but they are not infallible, complete, or
+concrete, and probably never will be despite our best efforts. If *ever*
+something feels wrong, either don't do it, or admin-help it first. Above
+all, use your common sense, listen to the game staff, and try to keep
+the game fun for everyone; not just yourself.
+
+If you disagree with the rules as they currently stand, talk about it on
+the forum or with admins and maybe we can improve them through some
+healthy criticism and debate.
+
+List of non-rule admin decisions you can review: [Admin
+Rulings](/wiki/Admin_Rulings "wikilink").
+
+**These rules are designed to be written in such a way that you can
+*usually* understand them just by reading the headers**, because reading
+*all of this* would be insanity for most people. If you cannot
+understand a rule just by looking at it, or wish to know about possible
+exceptions or examples, click the rule to learn more.
+
+If you find yourself spending too much time reading this page, or are
+confused about any rules, please contact an admin on Discord to make
+suggestions on how these rules could be better worded.
+
+You must be 18 or older to play on this server
+----------------------------------------------
+
+<font color="red">**There are no exceptions.**</font> If the staff
+suspects that you are underage for any reason, you will be banned from
+playing on the server until you are able to prove to the satisfaction of
+the staff that you are at least 18 years old.
+
+-   Use of real world slurs, ‘lolspeak’, and other indications of
+    immaturity may be taken as signs that you are underage.
+
+<!-- -->
+
+-   Knowing another user is underaged but not reporting it is considered
+    grounds for an immediate, permanent ban.
+
+<!-- -->
+
+-   The age of consent in your country is irrelevant. Your opinion about
+    this rule is irrelevant.
+
+<!-- -->
+
+-   You may also not play a character who is under 18 years of age.
+
+Obey the community's global rules
+---------------------------------
+
+[The full global rules are covered
+here.](http://forum.vore-station.net/viewtopic.php?f=23&t=42&p=120)
+These rules apply *everywhere*, including Discord, the server, and even
+private discussions with non-admins. However, not all of the global
+rules are even possible to break in the server, so this wiki page only
+covers what's relevant to the game server. The overlap from the global
+rules are:
+
+-   No spam.
+-   No OOCly illegal discussions or content (such as child porn, drugs,
+    piracy, real world threats, etc).
+-   Respect other users, don't use real-world slurs, and don't
+    intentionally drag private conflicts or in-game conflicts into
+    public OOC (such as on the Discord server, the forum, the in-game
+    global OOC channel, or anywhere else).
+-   Don't intentionally abuse server functions to upset (grief) people,
+    or derail discussions. You know what this means, don't play stupid.
+-   No complaining about bans unless it's on the [ban appeal
+    forum](http://forum.vore-station.net/viewforum.php?f=37).
+-   Type in legible English.
+
+If you got banned for something that happened in Discord or on the
+forum, you're probably looking at the wrong page. You want [this
+link](http://forum.vore-station.net/viewtopic.php?f=23&t=42&p=120).
+
+Be respectful to other players
+------------------------------
+
+This is a game, we're all here to have fun, but try to make certain your
+type of fun fits our server and doesn't ruin things for others. Don't be
+overly offensive, rude, rapey, violent, or insulting OOCly. With IC
+there's some wiggle room, but there's still a limit to how much people
+will tolerate before they get sick of you, so keep it in moderation.
+When in doubt, use LOOC.
+
+-   Racial slurs/epithets, derogatory/defamatory language against social
+    groups, and generally any other category of bigoted language is not
+    allowed (as covered by the global rules). Using this language ICly
+    is *still* not allowed if it pertains to any real-life social group.
+    Saying that “all Tajara look the same” is fine. Saying that “all
+    niggers look the same” is not. Also, being part of some real life
+    social group doesn't grant you immunity to this rule or some special
+    ticket to use these slurs.
+-   Don't make characters with the intention of pissing off or mocking
+    people. Examples include (but are not limited to) copies of other
+    players' characters, parodies/copies of real life figures
+    (especially political ones), a character who hates some specific
+    other character for no reason aside from a backstory, etc.
+-   Do not leave the server in locked dorms. They're for scenes, not so
+    you can log out in them as your personal AFK box.
+
+### Do not inconvenience AFK or disconnected characters
+
+Under normal circumstances, do not harm, eat, or otherwise inconvenience
+characters whose player is idle, ghosted, or disconnected entirely.
+There are some exceptions to this rule, as follows:
+
+-   If they've disconnected/idle for more than 30 minutes, you can put
+    them in cryosleep. If you do that, take away all of their belongings
+    except for their jumpsuit, shoes, ID, and PDA, and return everything
+    else to its rightful department.
+-   If they've committed a crime, jail them as you normally would and
+    conduct their sentence even if they aren't connected. 20 minutes in
+    the brig is still 20 minutes in the brig.
+-   Some players will say in their OOC notes that they're okay with
+    getting devoured while AFK or offline. As long as you don't break
+    these preferences, it's okay to do things to them.
+-   Emergencies bypass this rule. If it's an emergency and you need
+    something an idle player has to fix it, you may take it.
+
+### ERP preferences must be respected
+
+Players should have their ERP prefs listed in their “OOC Metainfo” or
+“OOC Notes” on their characters. You are required to respect these
+preferences so long as they pertain to ERP. If you are unsure about the
+meaning of some of their preferences, then use LOOC to discuss it with
+them. If you accidentally go against someone’s preferences, or someone
+else goes against yours, work to correct it as quickly as possible, even
+if that means just deciding in LOOC amongst yourselves that ‘this didn’t
+happen’ and going your separate ways.
+
+Just remember that it's called **VORE** station for a reason, and not
+just because of the acronym. This server was created by and for people
+who are voraphiles. Things might be happening around you that you're not
+into. If you can't accept that you might be exposed to things you don't
+enjoy, or actively seek to prevent people from engaging in said things,
+you will be asked to leave.
+
+-   It's strongly suggested you **do not** have "no vore" in your OOC
+    preferences, even if you're not into vore. That's kind of defeating
+    the point of the server, and we've had a lot of people end up
+    *enjoying* vore who weren't into it when they first arrived here. Go
+    with the flow; experiment a little. We understand that some people
+    may not like the idea of vore but we encourage people to try new
+    things. If you don't, you'll never know what you might enjoy.
+
+<!-- -->
+
+-   If you are uncomfortable with an ERP theme that you hadn't thought
+    to add (or didn't know existed) to a list of dislikes in your OOC
+    notes, speak up in LOOC as normal, but remember to add it
+    immediately afterward so it doesn't happen again. Conversely, those
+    of you foolish enough to put 'anything goes' into your preferences,
+    or anything else vague like this, do so at your own risk. **You
+    forfeit your right to complain about preference breaking** if you do
+    not put *some* indication of your dislikes into OOC preferences.
+    Admins will only warn you about this once.
+    -   Since non-consensual scenes are common, you should at least
+        state your stance on this, and whether or not you'd call for
+        help if given the chance. Example for a prey's OOC text might
+        be, "Prey, unwilling preferred, will try calling for help if
+        attacked."
+
+<!-- -->
+
+-   Do not kinkshame others. This includes overt comments about
+    someone’s ERP preferences being ‘wrong’ or ‘immoral’, but also
+    includes passive-aggressive remarks related to preferences, such as
+    public remarks suggesting that you won’t go near someone because of
+    their OOC ERP preferences. If you have negative feelings about
+    someone’s ERP preferences, don’t interact with them, and keep it to
+    your damn self.
+
+<!-- -->
+
+-   Do not attempt to force yourself into ERP scenes where the other
+    party (or parties) involved are not comfortable with it, or not even
+    actually participating. This includes (but is not limited to)
+    repeatedly jumping into people's food as a micro, trying to do ERP
+    that a player has blatantly stated they are uncomfortable with,
+    trying to guilt players into having a pity RP with you, doing [hit
+    and run
+    ERP](https://www.reddit.com/r/SS13/comments/451jtt/hitandrun_erp_is_a_thing_now_apparently),
+    filling drinks with your bodily fluids, etc. You get the idea. Don't
+    do that.
+
+<!-- -->
+
+-   AFK/SSD/Disconnected players are not valid targets for any ERP
+    unless their OOC Notes specifically permit otherwise.
+
+Although not *really* a true rules page, you should read the [Guide to
+Vore](/wiki/Guide_to_Vore "wikilink").
+
+### The dorms are protected
+
+The ‘dorms’ area on the map are reserved for ERP and are ‘protected’
+from interruption. It is a violation of this rule to break into occupied
+dorms or harass players in dorms.
+
+-   The only exception is for security to arrest those who have
+    committed crimes. Security is not allowed to indiscriminately
+    inspect dorms for crimes, but a known criminal hiding in a dorm is
+    not protected by this rule.
+-   Conversely, it is not permissible to attempt to use dorms to hide
+    from security, or to make their job of finding you harder. The dorms
+    are for people who want to ERP in privacy. Don’t involve them in
+    your shenanigans.
+-   Dorms are protected from all (or almost all) random events.
+    Radiation, meteors, etc should not interfere with your scene in the
+    dorms.
+
+See also: [Guide to Vore - Area by Area
+Response](/wiki/Guide_to_Vore#Area-by-Area_Response "wikilink")
+
+### Do not disrupt non-public ERP scenes
+
+In fact you should really just read the [Guide to Vore - Area by Area
+Response](/wiki/Guide_to_Vore#Area-by-Area_Response "wikilink"). It covers
+this topic thoroughly.
+
+TL;DR is you should avoid screwing with scenes that are not in public
+areas. The problem is, not everyone knows what is considered public or
+private. This is especially important for
+[Security](/wiki/Security "wikilink") players to know.
+
+-   Dorms are considered private obviously. Don't mess with those under
+    any circumstances unless someone inside actively invites you.
+    (Calling for help is considered an invite.)
+-   Less obviously is finding a scene in maintenance or a room that's
+    not visible from public areas. You're not *dis*allowed from screwing
+    with the scene in such places, but you at least have to be flexible
+    and let the other party progress to a satisfying point in the RP
+    before you can interrupt. For example, discovering the party after
+    they ate their prey, digested them, or whatever you all agree on.
+    The other party will still get consequences, but you have to let
+    them enjoy themselves first before you get to have your own fun.
+-   Scenes happening in the bar however are **not** considered private
+    and you can interrupt them if you so damn please.
+-   *Intentionally* going out of your way to disrupt scenes is
+    considered breaking this rule regardless of where they occur.
+
+Again, read the guide for more details. This is just a brief summary.
+
+### Speak English
+
+We are an English server. All OOC communications are expected to be done
+in English. It's alright if your English is rough and imperfect, just as
+long as we can reasonably understand it.
+
+-   This also extends into IC communications, but is more flexible as
+    some characters have heavy accents.
+-   Having a character sometime speak smatterings of other languages is
+    acceptable, but speaking exclusively in these languages for entire
+    sentences is not.
+
+### Roleplay as long as it's feasible
+
+-   This is an HRP (Heavy RolePlay) server. You are expected to roleplay
+    your actions with other players as long as it's feasible. If someone
+    engages you in purely ‘robust’ (aka game-mechanics driven) combat
+    while you were attempting to roleplay with them, with no reasonable
+    provocation, please use the admin-help feature to inform an admin.
+    -   Reasonable provocation would be things that deem you too
+        dangerous to be given even a chance to talk. For example, openly
+        wielding a gun while threatening people, charging someone with a
+        knife, trying to create a hazard, or being the target of a
+        manhunt.
+
+<!-- -->
+
+-   If a fight does begin, you're not expected to type out every gunshot
+    and dodge and attack. That would be absurd. Generally, you roleplay
+    up until the point that it makes sense to start attacking, and then
+    use game mechanics from there. You are allowed to respond to
+    ‘robust’ violence with your own, if you desire, though you should
+    attempt to return to roleplaying as soon as feasible. The
+    environment is not designed for a focus on action, but rather for
+    character-building and roleplaying. When a fight is over, resume
+    roleplaying.
+
+<!-- -->
+
+-   Movement is considered a game mechanic for the purpose of this rule.
+    Wordlessly running at a security officer who is attempting to arrest
+    you, or wordlessly fleeing from them, is considered engaging in
+    game-mechanic combat. The security officer has valid cause to stop
+    trying to roleplay and stunlock you into the ground.
+
+### Do not join with an inappropriate ckey
+
+Ckeys, better known as BYOND user names, must be appropriate. If any are
+deemed inappropriate, the ckey will be banned and you will be unable to
+play on our server until you make an account with an appropriate name.
+
+-   Ckeys that mock certain players or groups are an example of
+    inappropriate.
+-   Ckeys that violate BYOND's terms of service may also be reported.
+
+### Do not misuse Global OOC
+
+Many servers simply mute global OOC. We do not, because the OOC command
+is useful to have on in an RP heavy server.
+
+-   Global OOC is used, for instance, to contact someone you were typing
+    a reply to had walked out of the room before you were done, and
+    you're trying to ask them to come back. It's also useful if you're a
+    new player, or an old player exploring new mechanics, who asks
+    something like, "How do I make Tricord again?" or something short
+    and similar. Short, sweet, and relevant OOC messages are generally
+    okay. Welcoming old players returning, or new players joining, is
+    also generally okay.
+
+<!-- -->
+
+-   Global OOC is *not* for idle banter, ranting, things pertaining to
+    incidents in the current round (see previous rule), in-depth
+    explanations (an explanation that takes more than a few lines),
+    shitposting memes, or discussing topics not relating directly to the
+    game. If you want to chatter OOCly, go to our Discord channel, which
+    is linked from the home page at <https://vore-station.net/> or use
+    LOOC so as to not disturb the rest of the server.
+
+<!-- -->
+
+-   Also, if someone does misuse OOC, do not complain in global OOC
+    about their misusing of global OOC. Not only are you just making the
+    problem worse, that is considered being a backseat admin, which is
+    prohibited by other rules.
+
+Keep IC and OOC separate
+------------------------
+
+-   IC (In-character) and OOC (Out-of-Character) actions and knowledge
+    should be separated as much as possible. Don't use OOC channels to
+    discuss what's going on IC until after the round is finished, don't
+    use OOC knowledge to do things your character wouldn't know, such as
+    operate medical machines when a cargo technician. You are not
+    playing yourself in the game, you are controlling a character with
+    their own wants and knowledge and the IC/OOC boundary is to help
+    reflect that.
+    -   Note that these same rules apply to LOOC as well.
+-   Don't complain in OOC when your actions IC get you in trouble. This
+    is self explanatory.
+-   Disconnecting or using other OOC means to avoid IC consequences is
+    against the rules. If you do urgently need to leave the server even
+    though you're being punished, your options are either to surrender
+    and get it over with, or use admin help to inform the admins, "I
+    know Security is after me, but I have to go because (some
+    emergency)." Failure to take ten seconds to tell an admin before
+    disconnecting may result in harsher punishment.
+
+### Metacomms, metagaming, multi-keying, (etc) are not allowed
+
+-   Metacomms: Using third-party programs, such as Discord, IRC, Skype,
+    or even the BYOND pager, to discuss and share information of the
+    ongoing round. This excludes other players, can contribute to
+    toxicity among the playerbase, and is often a tactic used by
+    griefers and thus is a no-go.
+
+<!-- -->
+
+-   Metagaming: Using information obtained from elsewhere to influence
+    IC decisions and actions. Your opinions or knowledge of other
+    players or characters obtained via OOC methods should not direct
+    your IC actions. If you have an OOC grudge against someone, you may
+    not try to antagonize them IC, for example.
+    -   Metagaming sometimes happens by accident due to game mechanics
+        behaving undesirably due to intentional features or
+        unintentional bugs and oversights. If it happens, ask an admin
+        to help straighten things out if you can't do so among
+        yourselves. (For example; accidentally doing a 'me' command when
+        you meant to do a 'subtle' command and now the whole bar knows
+        you're doing weird shit in public.)
+    -   There is one exception to this. Asking in LOOC to be cloned
+        after a vore scene is fine.
+
+<!-- -->
+
+-   Multi-keying: Logging in with multiple BYOND accounts on our game
+    server. There is never any legitimate reason for you to do this and
+    thus is not allowed.
+
+Create and play server-appropriate characters
+---------------------------------------------
+
+Although this is a roleplaying server based around the completely
+fantasy fetish of vore, that doesn't mean anything goes because that is
+possible. Suspension of disbelief is still important to a good
+experience, and breaking that suspension of disbelief is bad for
+roleplaying. Characters who break that suspension of disbelief are not
+allowed. Saying "it's what my character would do" isn't an automatic
+protection against this rule if what your character is doing breaks that
+immersion.
+
+-   Play a reasonably sane and mature character, give them a
+    non-immersion breaking first and last name, do not play obvious
+    reference characters, or characters from published works without a
+    [special character
+    application](special_character_application "wikilink") approved for
+    that character.
+
+<!-- -->
+
+-   Keep in mind that people do not like pain or dying and usually try
+    to avoid it without good reason. Give your character a reasonable
+    set of strengths, fears, and weaknesses. When writing things for IC,
+    write things out that sound like speech, not emoticons or lolspeak.
+
+<!-- -->
+
+-   The setting contains no magic. Your character cannot have any
+    superpowers, magical abilities, or anything that does not exist in
+    the setting or cannot be reasonably replicated with game mechanics.
+    If they are not someone who has a good reason to work on the
+    station, they should not be here.
+    -   The exception to this is purely private roleplay. For example:
+        If your character and another character are in a dorm by
+        themselves, and the other is OOCly fine with it, your character
+        can display potentially supernatural abilities. This is limited
+        to that roleplay, though. You should not discuss anything about
+        that in public. Use magic at your own risk however, because
+        technically the moment your RP is discovered by someone else, it
+        stops being private, putting you in potential violation of this
+        rule.
+
+<!-- -->
+
+-   Obscenely oversized or undersized characters are forbidden. Minimum
+    height is at least a few inches. Maximum height is about 30 feet.
+    Anything more or less really pushes the already shaky believably of
+    micros or macros existing on the station—and that's coming from a
+    server whose theme is *eating people*.
+
+<!-- -->
+
+-   If you are playing a whitelisted species such as Diona, Vox,
+    Xenochimera, or whatever else we add in the future, you are expected
+    to play the race as they are canonically meant to be played.
+
+<!-- -->
+
+-   OOC Notes and Flavor Text is **required**. Your OOC notes must
+    detail your ERP preferences, and your flavor text should not include
+    non-physical attributes (do not include feelings your character has,
+    or how they act).
+
+<!-- -->
+
+-   If your character is suspended, permanently killed off, or otherwise
+    removed from the station as a consequence for something horrible
+    they did in-character, you are expected to not play that character
+    anymore. See the guide about [Permanent
+    Death](/wiki/Permanent_Death "wikilink") for details.
+
+### Do not kill or attack things (including yourself) for no good reason
+
+-   This includes yourself. Even in self-defense your goal is to fight
+    off your attack and escape to go get help, killing in a fight should
+    only be done as a last-ditch effort when it's clear it's a you or
+    them situation.
+
+<!-- -->
+
+-   Suicide or self-mutilation is almost NEVER allowed. Contact an admin
+    if you want to have a character commit suicide. Typically the manner
+    in which suicide is carried out is played as an in-game attention
+    grab and without actual compelling reasons. This can upset those
+    that find this subject OOCly uncomfortable. The punishment for
+    suicide is nearly always a permanent ban, so think about that before
+    you kill yourself.
+
+<!-- -->
+
+-   Excessive responses are also covered by this. Caving in someone's
+    skull for cutting in line, stabbing yourself in the eye with a
+    screwdriver because you are bored, or jumping out an airlock because
+    you're sad, are all examples of being excessive.
+
+### Do not powergame
+
+-   Better known as 'playing to win'. As a security person this can be
+    seen as going out of your way and needlessly endangering others to
+    ‘win against’ criminals. As the station AI exploiting loopholes in
+    your laws to get yourself out of them or getting the person who
+    subverted you into trouble is another way. There is an implicit
+    allowance for lawed characters to ERP. You may create loopholes for
+    this reason only.
+
+<!-- -->
+
+-   While this shares several things in common with other rules, it
+    still is it's own entity. Play to have fun, allow yourself to lose
+    now and again and roll with the blows as it can make things
+    potentially even more interesting.
+
+<!-- -->
+
+-   Having **way** too many skills for one character is another example
+    of this. Just because you're the Colony Director and have access to
+    everywhere doesn't mean you should (or can) know how to do all the
+    different jobs. (See [Character
+    Creation](/wiki/Character_Creation#Give_them_a_set_of_skills "wikilink")
+    regarding skills for more information.)
+
+<!-- -->
+
+-   [Identifying Antagonists](/wiki/Identifying_Antagonists "wikilink") when
+    you shouldn't be able to is also a violation of this rule.
+
+### Do not godmode
+
+-   Often confused with powergaming, godmoding is to create abilities
+    out of nowhere, or do impossible things. If the action cannot be
+    reasonably emulated in the confines of the game's mechanics, and it
+    gives you some kind of advantage or is exceptionally weird, it's
+    probably not allowed. For example, if you don't have access to a
+    mechanic for turning invisible, you can't turn invisible. Saying
+    you're invisible doesn't mean squat.
+
+<!-- -->
+
+-   Creating a character who is immune to injuries or pain also falls
+    under this. The game won't let you ignore getting shot, why would
+    any player allow it either?
+    -   If your character is literally coded to ignore pain, you can
+        ignore pain. [Synthetics](/wiki/Synthetics "wikilink") are a notable
+        example. They do not feel pain. They are not immune to injury,
+        however.
+
+<!-- -->
+
+-   Accidental injuries are still in-character injuries unless an admin
+    heals you. Admin heals are generally out of character to void the
+    injury.
+
+<!-- -->
+
+-   Admins who are caught abusing admin powers to godmod will be
+    immediately removed from staff if caught, then promptly banned.
+    -   Obviously we're not going to punish things we'd do for normal
+        players. Like, nobody is going to care if you spawn a pair of
+        handcuffs for kinky times. We get admin-helps requesting such
+        things all the time. When in doubt, ahelp. Yes, you, the admin,
+        should ahelp another admin to ask permission.
+
+### Do not ‘Self-Antag’
+
+Do not be hostile to other crew for no legitimate reason. Don’t break
+things, steal things, or do other antagonistic stuff just because you’re
+bored, it's the end of the round, you “want to give Security something
+to do”, etc. If you're going to be an asshole, have a believable reason
+why you're being an asshole. Think about how a normal person would
+behave under similar circumstances.
+
+-   You cannot have a character with an “antagonist” background without
+    having an approved special character application for that character.
+    Your ex-mercenary ex-ninja ex-cultist is not allowed, but certain
+    criminal backstories might be okay. If in doubt, submit a [Special
+    Character
+    Application](https://forum.vore-station.net/viewtopic.php?f=45&t=277).
+
+<!-- -->
+
+-   We play on ‘Extended’ round type at all times, and this means that
+    there are no automatically chosen antagonist roles. Most other SS13
+    servers have antags, but we do not. Any antagonists are
+    staff-selected players, picked to play a specific role.
+
+Remember that if you *are* selected to be an antagonist-type role, it
+*does* give you some wiggle room than usual as far as the server rules
+go, but it **does not** give you permission to *break* any rules. Stick
+to your objectives, don't be over-the-top and ruining everyone else's
+fun if you can avoid it. Ask for admin help if you're not sure.
+
+### You are expected to perform the job you signed up for
+
+When your character joins the round, you are accepting the
+responsibilities that the job you have chosen brings with it. Remember:
+if you are playing in a slot, you are likely preventing other players
+from performing that role. It is important that you fulfill the tasks
+that you have signed up for!
+
+-   Security should protect the station from danger, Engineering should
+    ensure that power is up and that people can breathe, Medical should
+    provide treatment to injuries and also cloning/resleeving services,
+    Supply should bring in needed cargo on request, Science should do...
+    science stuff, and Service should provide food. Command's job is to
+    make sure at least these basics are being fulfilled, and to react
+    accordingly in an emergency.
+
+<!-- -->
+
+-   A player must take into account the qualifications (both physical
+    and mental) of their character’s role before placing them into it.
+    If staff find your character to be unsatisfactory in fulfilling the
+    requirements of the role, we may instruct you to revise your
+    character.
+    -   This includes majorly disabled characters — quadruple amputees,
+        deaf, or blind characters, and so on — which are only permitted
+        on the station in the Assistant (and associated alt-titles) job
+        slot.
+
+<!-- -->
+
+-   We reserve the right to ban players from jobs who repeatedly fail to
+    perform to an acceptable standard until we're confident that they
+    will be able to perform the job in question. For instance, joining
+    as [Colony Director](/wiki/Colony_Director "wikilink") but **never** doing
+    anything related to that job over multiple shifts.
+
+<!-- -->
+
+-   If you are going AFK for an extended period of time (more than 15
+    minutes), and are occupying a limited-number job slot (any slot
+    other than assistant), you must remove your character from the round
+    using a cryopod (or other similar means) to free the slot. Repeated
+    failure to do this may result in being banned from that job.
+
+<!-- -->
+
+-   Do not do other people’s jobs. If you joined as medical, do not
+    attempt to hunt down criminals. If you joined as engineering, do not
+    attempt to perform medical treatment on your coworkers. If you are a
+    head position, allow your staff to do work before you do the work
+    yourself; you are a supervisor and manager first and foremost as a
+    head position.
+
+<!-- -->
+
+-   Do not hijack other people's jobs. For example, if you're a chemist
+    but someone needs surgery, and there's already a surgeon who isn't
+    currently busy, then don't perform the surgery instead of letting
+    them do it. Similar examples exist with every department, so use
+    your judgement. Basically, if you're *actively getting in the way*
+    of someone else trying to play the game, you're probably breaking
+    this rule.
+
+<!-- -->
+
+-   If an emergency happens that requires you to do your job, you are
+    expected to respond if you are not in the middle of a scene that you
+    cannot feasibly escape. For instance, say you're a Paramedic and
+    somebody calls for medical help. If you're just banging an intern,
+    pull your dick out and go help, or there may be IC consequences. On
+    the other hand if you're *trapped* in that nurse's *stomach*, nobody
+    can really *force* you out except the nurse that ate you, so
+    generally you won't be punished at all for things not in your
+    character's control. If however you *knowingly start* a scene *as*
+    the emergency is happening, that's a clear violation of this rule,
+    which may result in OOC punishment (banning).
+
+### You are expected to obey the chain of command (within reason)
+
+-   The [Colony Director](/wiki/Colony_Director "wikilink") is the station's
+    boss, so listen to them. Likewise, you should obey [your
+    department's Head of Staff](/wiki/Job_Guides#Heads_of_Staff "wikilink")
+    unless directly overridden by the Colony Director. If you
+    consistently do not follow reasonable orders, you will be job
+    banned.
+
+<!-- -->
+
+-   If you're playing a role that has [AI
+    laws](/wiki/AI#Interpreting_Your_Laws "wikilink"), you must obey these
+    rules first and foremost to the best of your ability. This includes
+    even disobeying Central Command staff if your AI laws are in
+    conflict with the orders given. (Note you can disregard AI laws when
+    vore is the goal of disobeying them, but it's usually more immersive
+    to play this off as glitches or by finding loopholes that allow you
+    to eat people.)
+
+<!-- -->
+
+-   As any role without AI laws, you can disobey orders you think are
+    traitorous, harmful, immoral, or violating [Corporate
+    Regulation](/wiki/Corporate_Regulation "wikilink"). Use your judgement and
+    consider whether or not disobeying the order could get you in
+    trouble or get someone else horribly killed.
+
+<!-- -->
+
+-   If you are given an order or AI law that may break another server
+    rule, please alert the admins for a second opinion before
+    continuing.
+
+Mind you, this is **not** a rule that lets people be [fun
+police](/wiki/No_Fun_Allowed "wikilink") as heads of staff. If you feel that
+someone is ordering you do things that basically require you *not* to do
+your job, or to do your job in ways that aren't [fun](/wiki/Vore "wikilink"),
+then contact an admin for a second opinion.
+
+### You are expected to forget events leading up to an unwilling death
+
+*Non-contiguous memory disorder* (or Non-Con Disorder for short) is the
+in-character explanation for your character losing memories of recent
+events leading up to their death. You should not remember how you died,
+or who killed you.
+
+-   This is to keep things a little more sane in-round, and to allow for
+    players with preferences in non-consensual activities to have their
+    fun with people who share those prefs as victims. It is therefore
+    against this rule to remember and abuse the knowledge of who
+    killed/raped/ate you after dying and then being
+    cloned/resleeved/revived. If you died, you should not have the
+    memory to antagonize or persecute your attacker without the prior
+    OOC agreement of the other parties in the roleplay. They can include
+    this consent in their OOC Metainfo/Notes or discuss it with you in
+    LOOC before or after the roleplay.
+
+<!-- -->
+
+-   In the event that someone else breaks this rule, your character
+    should assume their word is not credible, and disregard their
+    advice.
+
+<b>The intent of the rules is more important than the letter</b>
+================================================================
+
+The purpose of the rules is to preserve a fun and enjoyable environment
+for all players. If everyone is enjoying themselves even while the
+‘letter’ of a rule is not being followed, it’s likely that no staff
+intervention will be required. On the other hand, just because something
+isn't in the rules doesn't mean it's okay or allowed if it's upsetting a
+large number of players.
+
+-   It is within admin staff's discretion to decide that certain actions
+    violate one or more rules, even if the specific action is not listed
+    as part of the rule. This is simply the job of the staff to
+    interpret the rules. You can appeal decisions to other admins if you
+    believe one has a bias against you, but doing so to more than three
+    staff members will be considered harassment.
+
+<!-- -->
+
+-   Plenty of rules are left vague enough to cover as much as possible
+    without being too oppressing. Attempting to rules-lawyer saying that
+    "this rule doesn't specifically say I can't do X", even if what you
+    are doing is disrupting the server, will generally be ignored. We
+    assume most of you have enough common sense to recognize what a
+    [sane and stable
+    individual](#Create_and_play_server-appropriate_characters "wikilink")
+    would and wouldn't do within this fictional setting.
+
+### Listen to admin staff
+
+-   One admin's word is usually as good as any other. For example, just
+    because the Server Host says it's okay to do something one moment
+    doesn't mean you can still do it when a Trial Admin later tells you
+    to stop.
+    -   If this causes a contradiction, you can (and should) inform the
+        new admin of what you were told previously. For example, a Head
+        Admin says you can do something, but that admin has left the
+        server. A lower ranked admin shows up and asks you to stop doing
+        that thing. You can explain that the Head Admin previously said
+        you could do this, but if the lower ranked admin *still* wants
+        you to stop, then you should stop. (This obviously works
+        vise-versa as well.)
+    -   Intentionally not telling a new admin about a contradiction is
+        considered lying. It's like asking your mom for ice cream, but
+        she says no, so you go ask dad because you think he'll be less
+        strict.
+-   Vorestation is not a democracy; our rules and guidelines exist for a
+    reason and we have staff dedicated to enforcing them and help set
+    further guidelines if necessary. **However, these rules are always
+    going to be incomplete, and as such, just because something isn't
+    written doesn't mean it's allowed.** If a staff member tells you to
+    do something, do it. They tell you to stop, then stop. If you
+    disagree with a ruling, don't try to argue it then and there,
+    especially if things are hectic. Once things have calmed down, or
+    preferably after the round has ended, you can try to contact the
+    staff member privately to discuss the ruling, or talk to another
+    admin if you cannot talk to or cannot convince the offending admin.
+    -   You can talk to up to three other admins. If all of them are
+        unanimous in their decision, you are probably in the wrong and
+        should give up. If you do not, it will be considered harassment.
+
+<!-- -->
+
+-   If you have a question over something unclear or questionable, never
+    be afraid to adminhelp. The staff on hand should discuss it among
+    themselves and give you a ruling, from there on if the ruling is in
+    bad judgement, it's on the admin who cleared it, not *you*. **The
+    staff should also <u>NEVER</u> ban you purely for a complaint
+    against them.** Even if you're a complete asshole about it, as long
+    as the argument stays private, you cannot be banned just for
+    arguing. <font size="-5">Although being an asshole usually won't win
+    an argument, so you probably shouldn't do that anyway.</font>
+    -   Don't confuse this for "complaining grants you immunity to
+        bans", because that's not how it works. If you are told to not
+        break windows and you complain how that isn't fair, you're still
+        getting banned for breaking windows if we disagree with your
+        complaint. What this means is we won't ban you or make an
+        existing ban worse just because you tell us we're being
+        excessively mean, confusing, or unfair to you or someone else.

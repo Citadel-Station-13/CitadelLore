@@ -1,0 +1,50 @@
+---
+title: Hharar
+permalink: wiki/Hharar/
+layout: wiki
+tags:
+ - Fluff
+---
+
+Hharar (“Highlander”)
+
+The typical Tajaran.
+
+### Physiology
+
+Hharar are the first Tajaran met by humanity and thus are regarded as
+the typical “Tajaran”, a thought not far fetched from reality : Up to
+today, Hharar is the most populated ethnicity of Ahdomai.
+
+### Origin of the Ethnicity
+
+Originated of the somewhat temperate regions of the southern hemisphere,
+Hharar were hill dwellers. Due to the warlike and expansionist mindset
+of the original Hharar, they quickly spread over the globe, where they
+intermingled with other ethnicities or replaced them completely. The
+modern Hharar hails from the northern plains.
+
+### Culture
+
+Hharar culture dominates Ahdomai and is regarded as “main culture” on
+the planet. The system of clans, and clan families originated from
+Hharar bloodline castes. The belief of S'randarr and Messa was created
+too by the Hharar. Siik'Maas and Siik'Tjar are languages which descended
+from the dialect of the Hharar.
+
+### Relation with the other Tajaran
+
+Hharar relations to other Tajaran ethnicities differ from individual to
+individual, but it can be safely assumed that there are communication
+problems and racism towards the others, as Hharar often think they are
+superior. The Overseers were almost all pure-bred Hharar.
+
+Up to today, there are influential organizations to keep Hharar pure,
+which hinders interracial politics and relationships.
+
+### Relation to Aliens
+
+Hharar are seen by the intergalatic community as “the” Tajaran.
+Generally, humanity is unaware that there are different ethnicities of
+Tajaran and see all Tajaran as Hharar, a mindset that Hharar tend to
+nurse. Especially when they see them as “true sons of the hills.”

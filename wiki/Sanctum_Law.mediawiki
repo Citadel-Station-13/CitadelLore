@@ -1,0 +1,266 @@
+=== Low Level Infractions ===
+These Infractions generally are responded to with a slap on the wrist. More serious or repeated cases generally result in counseling being given.
+
+Counseling is done by a professional volunteer. Aiding in the violator's recovery is the top priority as for them to not repeat breaches.
+
+A session of counseling is generally one hour long. Sessions can be longer if both parties wish to. In cases where a year of counseling is given, the limit is up to four sessions a week unless incarcerated. 
+{| style="background-color:#ffee99; text-align:center;" width="950px" cellspacing="0" border="1"
+! style="background-color:#ffee55; width:100px" |Incident
+! style="background-color:#ffee55; width:300px" |Description
+! style="background-color:#ffee55; width:300px" |Notes
+! style="background-color:#ffee55;" |Suggested Penalty
+! style="background-color:#ffee55;" |Additional Penalties
+|
+|-
+| '''Trespassing'''
+|Entering the home of someone else without permission, government buildings without proper permissions, generally being somewhere you're not wanted to be.
+|Intention is important. If someone wandered in without knowing, treat them as though they won't be doing it again. 
+| A five minute session with a counselor or law enforcement unit.
+| Repeat offenses should be met with weekly counseling, one hour sessions for three weeks.
+|-
+| '''Petty Theft'''
+| To take items that do not belong to you. This includes non-disposal items from other people that keep limited quantities of. Examples are, Cutlery, clothes, medicines, furniture.
+| Items that are easily replaceable but cause an inconvenience to the owner. 
+|Confiscation of stolen items and returning of items. A ten minute lecture on personal belongings.
+|Up to ten weeks of counseling should the behavior continue.
+|-
+|'''Offensive Language'''
+|To offend others, intentionally or otherwise.
+|Using words in an offensive manner, causing disgust, or being generally rude.
+|A warning.
+|One session of counseling per additional incident. Audio logging.
+|-
+| '''Minor Assault'''
+| To use, or threaten, physical force against someone, without intent to kill or seriously injure.
+| If it causes minor damage and easily treatable damage, it's minor assault. Starting fights with other citizens/visitors. Threatening counts.
+| Ten weeks of counseling, hour long sessions.
+| Should any additional incidents happen, increase the counseling to one year, weekly.
+|-
+| '''Disturbing the Peace'''
+| Intentionally and publicly engaging in erotic acts, yelling at people for no reason, throwing around stuff where it could hit someone, harassing a person or persons without provocation and following them around / refusing to leave, yelling about how terrible Sasnctum is, etc.
+| Dressing inappropriately is considered an erotic act. All skin from below the neck to toe must be covered. Some exceptions are made for heat sensitive aliens such as tajara, or other furred species. Short sleeve shirts are only acceptable with elbow length gloves. 
+
+For the more violent individuals, such as shouting and throwing things, a security unit should intervene to minimize harm.
+| Counseling up to four times a week until the individual behaves and/or is of sound mind.
+| Incarceration until the individual is of sound mind.
+|-
+| '''Slander'''
+| To spread false rumors in order to damage someone's reputation.
+| Lying about anything to make someone look bad. Such as saying someone engages physical contact in hidden alleyways, or likes to play distasteful games.
+| A warning.
+| Weekly counseling for up to six weeks.
+|-
+| '''Animal Cruelty'''
+| To inflict unnecessary suffering or harm upon animals with malicious intent.
+| Any abuse towards wildlife or pets, licensed or otherwise.
+| Weekly counseling for ten weeks.
+| Up to a year of counseling.
+|-
+| '''Vandalism'''
+| To deliberately cause damage to a person's belongings, or city belongings.
+| This can range from drawing on walls or sidewalks, to causing damage to belongings or structures.
+| One session of counseling.
+| Up to six sessions.
+|-
+| '''Failure to report damage.'''
+| Causing damage to a window with flight accidents, breaking a plate or glass at an open diner and not reporting the damages to who is responsible for the establishment.
+| The cause of damage must not be malicious. Reporting damages minimizes inconveniences for the owner of the establishment.
+| One session of counseling.
+| Up to three sessions of counseling.
+|-
+| '''Disrespect to the Dead'''
+| To abuse bodies of previously dead citizens or visitors.
+| Examples include improper destruction of corpses, abuse of corpse, or improper procedure.
+| Ten sessions of counseling.
+| Up to two years of counseling.
+|-
+| '''Minor Contraband'''
+| To be in possession of unapproved drugs, carrying a dangerous weapon such as a knife, firearm or taser.
+|Somehow coming into ownership of unapproved drugs or dangerous weapons either through trade or accidentally finding them. Approved security personnel are allowed to use approved non-lethal equipment.
+| Confiscation of unapproved equipment or drugs, one session of counseling.
+| Up to a year of Counseling.
+|-
+| '''Rubbernecking'''
+| Arriving at the scene of an emergency situation with no other intention than to see what happens.
+| An example is when Security and Medical personnel are attempting to contain a crisis, while citizens or visitors stand or fly nearby to only watch.
+| Forceful removal from area.
+| Detainment until crisis is resolved. Three sessions of counseling.
+|-
+| '''Under the influence of drugs.'''
+| Being under the influences of drugs for casual recreational purposes.
+| Someone using drugs casually without dependence on the drug. Examples include use of alcohol, tobacco, ambrosia. 
+| Confiscation of unapproved drugs. Ten weeks of counseling.
+| 
+|-
+| '''Minor Negligence'''
+| Not showing up to work or volunteered task without communicating absence.
+| If a citizen is required to work, they must show up. Should they be unable to work for that day, they must call whoever is in charge of that task and report the reason. 
+| Warning.
+| One session of Counseling per incident.
+|
+|-
+|'''Major Negligence'''
+|Failure to perform the assigned task correctly or to the require standard.
+|This can be because of honest or dishonest mistake.
+|Warning. Three sessions of counseling.
+|Up to twenty sessions of counseling and retraining/reassignment.
+|
+|}
+
+===Medium Level Infractions===
+Anything that can result in assigning of counseling over a year, or even incarceration. Additional penalties can include tracking, visual monitoring, tracking implant and implant computer usage. There are no limit to sessions.
+
+{| style="background-color:#ffcc99; text-align:center;" width="950px" cellspacing="0" border="1"
+! style="background-color:#ffaa55; width:100px" |Infraction
+! style="background-color:#ffaa55; width:300px" |Description
+! style="background-color:#ffaa55; width:300px" |Notes
+! style="background-color:#ffaa55;" |Suggested Sentence
+! style="background-color:#ffaa55;" |Additional Penalties
+|-
+!Sexual Harassment
+!Any form of unwanted sexual contact. 
+!Physical contact such as holding another, kissing, hugging and otherwise without permission is sexual harrassment.
+!Ten sessions of counseling.
+!Visual and tracking monitoring.
+|-
+|'''Resisting Arrest'''
+|To refuse to co-operate with a security unit.
+|Refusing to co-operate with a security unit, attempting to evade, fighting all fall under this law.
+|Thirty sessions of counseling.
+|Incarceration should the individual be dangerous.
+|-
+!Manslaughter
+!Causing a citizen or Visitor to require resleeving.
+!It doesn't matter if it was intentional or not. 
+!One hundred fifty sessions of counseling.
+!if caused by a visitor intentionally, deportation.
+|-
+|'''Suicide Attempt'''
+|To attempt or threaten to commit suicide.
+|A citizen or visitor attempting or threatening to commit suicide. 
+|Compulsory psychiatric examination. 
+Five years of counseling, four sessions. Temporary incarceration until proven stable.
+|Visual monitoring, tracking utilities enabled, vital signs monitoring.
+|-
+|'''Assault'''
+|To cause severe injury to another citizen/visitor or brandishing a deadly weapon with the intent of causing or threatening such an injury.
+|Anything beyond a few punches like in "Minor Assault". It has to be bad enough that a few bandages or pills won't fix it. Can be adjusted for severity. Also see "Attempted Murder" if the intent was to kill. This also includes poisoning with drugs, or using hallucinogens. Fake weapons count if the victim is not able to determine if they are real or not.
+|Counseling for a year. Up to three sessions a week.
+|Up to five years if repeated.
+|-
+|'''Unlawful Modification of AI/Cyborg Laws'''
+|To attempt to unlawfully modify an android or cyborg.
+|Giving a machine directives without proper permissions, or abusing position to subvert mechanical citizens for personal gain or otherwise. This also includes modifying one's self to have dangerous or additional capacities, such as hidden weapon compartments.
+|Incarceration and one year of counseling.
+|Release after two months.
+|-
+|'''Major Contraband'''
+|To possess, use, or distribute dangerous contraband items, including drugs.
+|The key word is '''dangerous'''. The contraband has to be dangerous to someone other than the person using it, such as guns or distributing drugs, or the contraband is designed with the specific purpose of breaking into secure areas. Authorized medical personnel may prescribe normally dangerous drugs should the need arise. 
+|Confiscation of contraband, two years of counseling once a week.
+|Incarceration should behavior continue.
+|-
+|'''Grand Theft'''
+|To steal items that are dangerous, of a high value, or of sensitive nature.
+|This includes items that are irreplaceable, 
+|One year of counseling.
+|Incarceration if the perpetrator is a visitor.
+|-
+|'''Mistreatment of ill'''
+|To intentionally mistreat the ill, mentally or otherwise.
+|Bullying for mental illness or physical illness, slandering, making them otherwise uncomfortable with seeking help.
+|One year of counseling.
+|Audio logging.
+|-
+|'''Violating citizen privacy.'''
+|Illegally accessing a citizen's implant and searching their files, watching through their visual monitoring, or spying on citizens personal home.
+|Hacking into a citizen's implant and spying on them or others with it is a serious threat. While impossible to prevent, there are multiple warning systems to notify authorities.
+|Up to Five years of counseling. Limiting implant usage permissions. Full visual monitoring, Full vitals monitoring, full implant monitoring.
+|If a visitor violates, they are to be deported.
+|}
+
+=== High Severity Infractions ===
+Infractions that threaten Sanctum as a whole.
+{| style="background-color:#ffaa99; text-align:center;" width="950px" cellspacing="0" border="1"
+! style="background-color:#ff8855;" |No.
+! style="background-color:#ff8855; width:100px" |Crime
+! style="background-color:#ff8855; width:300px" |Description
+! style="background-color:#ff8855; width:300px" |Notes
+! style="background-color:#ff8855;" |Sentence
+! style="background-color:#ff8855;" |Judgements
+|-
+| &sect;304
+| '''Terrorism'''
+| To engage in maliciously destructive actions, which seriously threaten the public or government as a whole.
+| This includes large scale destruction, damage of mental backups, damage to defense systems. 
+| Holding until judgement.
+| Removal from Sanctum.
+
+Mind upload to lawed machine.
+
+Mind upload to prison network.
+|-
+| &sect;307
+| '''Terrorist Collaboration'''
+| To act as an agent of a terrorist or anti-Corporation group.
+| Working as part of a group that intends to harm Sanctum as a whole.
+| Holding until judgement.
+| Mind upload to lawed machine. 
+
+Mind upload to prison network.
+|-
+| &sect;308
+| '''Major Sexual Assault'''
+| Actual Rape in a sane state of mind.
+|Forced sexual activities is what this law refers to. For minor cases such as unwanted physical contact, see regular sexual assault.
+| Holding until judgement.
+| Removal from Sanctum.
+
+Mind uploaded to lawed machine for twenty years.
+|-
+|309
+|'''Non cooperation with counselors'''
+|Refusing to work with counselors after committing multiple violent crimes.
+|Being a brat for a year or two doesn't count. You must be unwilling to improve your self to the standards of society. The individual must be capable of making their own decisions.
+|Holding until Judgement.
+|Removal from Sanctum. 
+
+Return is allowed after three year minimum.
+|}
+
+=== Special Infractions ===
+These Infractions do not fit into any other category, as their sentences vary greatly from case-to-case.
+{| style="background-color:#DCDCDC; text-align:center;" width="950px" cellspacing="0" border="1"
+! style="background-color:#A9A9A9;" |No.
+! style="background-color:#A9A9A9; width:100px" |Crime
+! style="background-color:#A9A9A9; width:300px" |Description
+! style="background-color:#A9A9A9; width:300px" |Notes
+! style="background-color:#A9A9A9;" |Sentence
+|-
+| &sect;402
+| '''Piracy'''
+|To attempt to rob or steal from a vessel while in Sanctum Space. 
+| This applies to any Sanctum vessels in unowned space should detainment be possible.
+| Mind uploaded to prison network for ten years. 
+
+Possibility to be moved into a lawed machine after.
+|-
+|403
+|'''Hostility to Sanctum'''
+|Existing as part of a faction or society who is hostile to Sanctum's attack force.
+|Must be a willing combatant. Those who surrender before attempting any hostility will be refereed to 404.
+|Immediate obliteration followed by mind uploaded to prison network.
+
+Should peace be established, all mind and body data will be returned.
+|-
+|404
+|'''Existing in a hostile society'''
+|Existing as a member of a faction who is hostile to Sanctum.
+|Must be a civilian member of a hostile faction.
+Should the enemy force who declared war on Sanctum surrender, they will be left alone.
+|Immediate detainment followed by a body scan and mind upload to prison network for rehabilitation. 
+
+If Rehabilitation is possible, they are to be allowed to live in a Sanctum colony. Otherwise, their mind is to be uploaded into a lawed machine.
+
+Should peace be established, all civilian mind and body data will be returned.
+|}

@@ -1,0 +1,112 @@
+{{Outdated}}
+{{Delete}}
+If you just want to have a wiki walk or maybe a general browse, then take a look at some of the pages below. Most are relatively interesting, and who knows? You might even learn something new.
+
+== Locations ==
+{{Main|:Category:Locations}}
+* [[AI Core]]
+* [[AI Upload]]
+* [[Arrivals]]
+* [[Assistant Storage]]
+* [[Atmospherics]]
+* [[Auxiliary storage]]
+* [[Bar]]
+* [[Bridge]]
+* [[Brig]]
+* [[Captain's Quarters]]
+* [[Cargo Loading Area]]
+* [[Cargo Office]]
+* [[Chapel]]
+* [[Chemistry Lab]]
+* [[Conference Room]]
+* [[Detective's Office]]
+* [[Dormitory]]
+* [[EVA]]
+* [[Escape Shuttle]]
+* [[Head of Personnel's Office]]
+* [[Hydroponics]]
+* [[Library]]
+* [[Maintenance]]
+* [[Medbay]]
+* [[Singularity Engine]]
+* [[Solars]]
+
+== Jobs ==
+{{Main|Job Guides}}
+* [[AI]]
+* [[Assistant]]
+* [[Atmospheric Technician]]
+* [[Barman]]
+* [[Botanist]]
+* [[Captain]]
+* [[Chaplain]]
+* [[Chef]]
+* [[Chemist]]
+* [[Cargo Technician]]
+* [[Chief Engineer]]
+* [[Chief Medical Officer]]
+* [[Cyborg]]
+* [[Detective]]
+* [[Geneticist]]
+* [[Ghost]]
+* [[Head of Personnel]]
+* [[Head of Security]]
+* [[Janitor]]
+* [[Librarian]]
+* [[Medical Doctor]]
+* [[Quartermaster]]
+* [[Research Director]]
+* [[Roboticist]]
+* [[Scientist]]
+* [[Security Officer]]
+* [[Station Engineer]]
+* [[Virologist]]
+* [[Warden]]
+* [[Alien]]
+
+== Items ==
+{{Main|Objects}}
+* [[Syndicate Items|Syndicate items]]
+* [[Chemistry items]]
+* [[High-risk items]]
+* [[Security items]]
+* [[Medical items]]
+* [[Engineering items]]
+* [[Clothes and internals]]
+* [[Storage items‎]]
+* [[General items]]
+
+== Machinery ==
+* [[Area power controller]]
+* [[Autolathe]]
+* [[Bookfinder]]
+
+== Game Modes ==
+* [[Game modes]]
+* [[Random events]]
+	
+== Creatures ==
+* Game controlled [[Critters]]
+* Player controllable [[Creatures]]
+
+== Guides ==
+{{Main|Guides}}
+=== Beginner's Guides ===
+* [[Starter Guide]]
+* [[Basic Construction]]
+* [[Example Paperwork]]
+
+=== Other guides ===
+
+* [[Guide to Contributing to the Wiki]]
+* [[Guide to Construction]]
+* [[Guide to Hacking]]
+
+=== Game Objective Guides ===
+	
+* [[Traitor|Traitor guide]]
+* [[Syndicate guide]]
+* [[Changeling guide]]
+* [[Cultist guide]]
+* [[Wizard guide]]
+* [[Xenos|Alien guide]]

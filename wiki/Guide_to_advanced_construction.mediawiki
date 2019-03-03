@@ -1,0 +1,196 @@
+<div class='smallpic'>
+The page details the construction of "machines", a class of fairly complex objects used aboard the station. The basic process of construction is the same for all machines; only the parts used change.
+
+*Activate a stack of at least 5 metal sheets in-hand.
+*Select 'Frame' from the list that appears
+*After a short crafting time, frame parts will be on the floor where your character is standing. [[File:Frame parts.png]]
+*Pick those up and activate them to select the type of machine you are making. (Most things just use the generic Machine frame or computer) [[File:Empty Machine Frame.png]]
+*After making a frame, right click it to rotate the facing if it's a directional machine like body scanners or consoles.
+*Use a [[wrench]] on it to secure the frame to the floor.
+*Insert the [[circuit board]] for the machine you are making into the frame. (Get these from R&D.) [[File:Circuit Frame.png]]
+*Apply a screwdriver to secure the circuit board. [[File:Machine Frame.png]]
+*Insert wires into the frame.[[File:Wired Frame.png]]
+*You can now examine the frame to see what extra parts the machine needs. (Also get these parts from R&D. You can use upgraded parts for some machines!)
+*After inserting all required parts (examining will give a message along the lines of 'Requires nothing'), use a screwdriver on it again.
+
+
+Some machines can be [[Research_Director#Upgrading_the_station|upgraded by science]] to make them more efficient.
+
+=Machines=
+{| border="2" cellspacing="1" cellpadding="2" align="left" style="margin-right: 500px;"
+! style='background-color:#9c9c9c;'|
+! style='background-color:#9c9c9c;'|Name 
+! style='background-color:#9c9c9c;'|Parts needed
+|-
+![[File:Clone.gif|64px]]
+!Cloning Pod
+!
+ 2 Pieces of Cable 
+ 2 Manipulators 
+ 2 Scanning Modules 
+ 1 Console screen 
+|-
+![[File:Scanner.gif|64px]]
+!Cloning Scanner
+!
+ 2 Pieces of Cable 
+ 1 Manipulator 
+ 1 Scanning Module 
+ 1 Console screen 
+ 1 Micro laser
+|-
+![[File:Autolathe.gif|64px]]
+!Autolathe
+!
+ 2 Pieces of Cable 
+ 1 Manipulator 
+ 3 Matter bins 
+ 1 Console screen 
+|-
+![[File:Protolathe.gif|64px]]
+!Protolathe
+!
+ 2 Small beakers
+ 2 Manipulators 
+ 2 Matter bins 
+|-
+![[File:Destructive_analyzer.gif|64px]]
+!Deconstructive Analyser
+!
+ 1 Manipulator 
+ 1 Scanning Module 
+ 1 Micro laser
+|-
+![[File:Circuit_imprinter.gif|64px]]
+!Circuit Imprinter
+!
+ 1 Matter bin
+ 1 Manipulator 
+ 2 Small beakers
+|-
+![[File:Broadcaster.gif|64px]]
+!Subspace Broadcaster
+!
+ 1 Pieces of Cable 
+ 2 Manipulators 
+ 1 subspace crystal
+ 1 subspace filter
+ 2 High-powered Micro laser
+|-
+![[File:Sreceiver.gif|64px]]
+!Subspace Receiver
+!
+ 2 Manipulators 
+ 1 Scanning Module 
+ 1 Micro laser
+ 1 subspace filter
+ 1 subspace ansible
+|-
+![[File:Exofab.png|64px]]
+!Exosuit Fabricator
+!
+ 1 Manipulator 
+ 2 Matter bins 
+ 1 Console screen 
+ 1 Micro laser
+|-
+![[File:Rndserver.png|64px]]
+!RnD Scanner
+!
+ 2 Cable coils
+ 1 Scanning module
+|-
+![[File:Hub.gif|64px]]
+!Telecoms Hub
+!
+ 2 Pieces of Cable 
+ 2 Manipulators 
+ 2 Subspace filters 
+|-
+![[File:Bus.gif|64px]]
+!Telecoms Bus
+!
+ 1 Piece of Cable 
+ 2 Manipulators 
+ 1 Subspace filters 
+|-
+![[File:Relay.gif|64px]]
+!Telecoms Relay
+!
+ 2 Pieces of Cable 
+ 2 Manipulators 
+ 2 Subspace filters 
+|-
+![[File:Server.gif|64px]]
+!Telecoms Server
+!
+ 1 Piece of Cable 
+ 2 Manipulators 
+ 1 Subspace filter 
+|-
+![[File:Pro.gif|64px]]
+!Telecoms Processer
+!
+ 2 Pieces of Cable 
+ 3 Manipulators 
+ 1 Subspace filter 
+ 2 Subspace treatment
+ 1 Subspace analyzer
+ 1 Subspace amplifier
+|-
+![[File:pacman.png|64px]]
+!P.A.C.M.A.N.-type portable Generator
+!
+ 2 Pieces of Cable 
+ 1 Micro-laser 
+ 1 Matter bin
+ 1 Capacitor
+|-
+![[File:superpacman.png|64px]]
+!S.U.P.E.R.P.A.C.M.A.N.-type portable Generator
+!
+ 2 Pieces of Cable 
+ 1 Micro-laser 
+ 1 Matter bin
+ 1 Capacitor
+|-
+![[File:CyborgRecharger.png|64px]]
+!Cyborg Recharging Station
+!
+ 2 Capacitors
+ 1 Power Cell
+ 1 Manipulator
+|-
+![[File:Freezer.gif|64px]]
+!Gas Cooling System
+!
+ 1 Matter bin
+ 1 Manipulator
+ 2 Capacitors
+ 2 Pieces of Cable
+|-
+![[File:Heater.png|64px]]
+!Gas Heating System
+!
+ 1 Matter bin
+ 1 Manipulator
+ 2 Capacitors
+ 5 Pieces of Cable
+|-
+![[File:Biogenerator.gif|64px]]
+!Biogenerator
+!
+ 1 Matter bin
+ 1 Manipulator
+|-
+![[File:Borgcharger.png|64px]]
+!Borg Recharger
+!
+ 2 Capacitators
+ 2 Manipulators
+ 1 Power cell
+ 5 Pieces of cable
+|-
+[[Category:Guides]]
+{{Gameplay guides}}
+</div>

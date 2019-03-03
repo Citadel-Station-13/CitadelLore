@@ -1,0 +1,803 @@
+For the basics on construction and deconstruction, see [[Basic Construction]].<br />
+For the construction of machines, see [[Guide to Advanced Construction]].<br />
+For the construction of weapons, see [[Improvised Weapons]].
+== Construction ==
+
+=== [[Construction materials|Advanced Materials]] ===
+
+==== [[File:Rods.png]] [[Construction materials#Rods|Rods]] ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x [[File:Metal.png|Metal]]
+|}
+
+  Use <font color="gray">'''metal'''</font> and click "2x metal rods" (makes two sets of rods)
+
+==== [[File:Floor_Tiles.png]] [[Construction materials#Floor tile|Floor tiles]] ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x [[File:Metal.png|Metal]]
+|}
+
+  Use <font color="gray">'''metal'''</font> and click "4x floor tiles" (makes 4 floor tiles)
+
+==== [[File:Glass_r.png]] [[Construction materials#Reinforced glass|Reinforced Glass]] ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x [[File:Rods.png|Rods]], 1 x [[File:Glass.png|Glass]]
+|}
+
+  Use <font color="gray">'''rods'''</font> on <font color="blue">'''glass'''</font>
+
+==== [[File:Metal_r.png]] [[Construction materials#Reinforced metal|Reinforced Metal]] ====
+Smelted with a combination of iron ore, coal and platinum ore ore at the [[Mining#The_Ores|Mining]] furnace.
+
+=== Floor ===
+
+==== [[File:Lattice.png]] Lattice ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x [[File:Rods.png|Rods]]
+|}
+ The basic base for all types of construction, this is placed directly in space.
+ Place by having rods in your hand, and clicking on a empty space tile.
+
+==== [[File:Plating.png]] Plating ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x [[File:Floor_Tiles.png|Floor tile]]
+|}
+ The basic floor which you put things like wires and pipes upon, 'all' floor is built ontop of this.
+ Place by having the floor tile in your hand, and click on a lattice.
+
+==== [[File:Floor.png]] Steel Floor ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x [[File:Floor Tiles.png|Floor tile]]
+|}
+ This is the basic "nice" floor, this floor should be considered used in all public areas, hence why 
+ there's none of these in maintence.
+  Place by having the floor tile in your hand, and click on a Plating tile.  
+
+==== [[File:LightFloor.gif]] Light Floor ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x [[File:Glass.png|Glass]], 1 x [[File:Metal.png|Metal]], 5 x [[File:CableCoils.png|Wire Coil]]
+|}
+
+  ''Assuming there already is a plating''
+  Use the wire on glass
+  Use the metal on the tile you get
+  Place the light tile on the plating
+
+=== [[File:Wall.png]] Walls ===
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|2 x [[File:Metal.png|Metal]], 2 x [[File:Metal.png|Metal]] OR any stacked material
+|}
+
+  Click the <font color="gray">'''metal'''</font> in your hand to open the construction panel,
+  Choose 'wall girders' from the list
+  Use the remaining 2 sheets of <font color="gray">'''metal'''</font> (or some other material) on the girders
+
+=== [[File:R_wall.png]] Reinforced walls ===
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|2 x [[File:Metal.png|Metal]], 4 x [[File:Metal_r.png|Reinforced metal]] OR any stacked material
+|}
+
+  Click the <font color="gray">'''metal'''</font> in your hand to open the construction panel,
+  Choose 'wall girders' form the list
+  Right-click on the girders with your <font color="gray">'''reinforced metal'''</font> (or some other material) in hand and choose "Reinforce girder"
+  Use the last sheet of <font color="gray">'''reinforced metal'''</font> (or some other material) on the reinforced girders to finish the wall
+
+=== [[File:Grille.png]] Grille ===
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|2 x [[File:Rods.png|Rods]]
+|}
+
+  Stand where you wish the grille to be placed
+  Click on the stack of 2 <font color="gray">'''rods'''</font> with the hand you have them in
+
+=== Glass panels ===
+
+==== [[File:Glass_panel.png]] One directional ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x [[File:Glass.png|Glass]], [[File:Screwdriver_tool.png|Screwdriver]]
+|}
+
+  Click the <font color="blue">'''glass'''</font> pane
+  Click the "one direct" button
+  Right-click the new pane and rotate it
+  Use the screwdriver to fasten it down
+
+  Alternatively:
+  Use the glass on a grille.
+  Right-click the new pane and rotate it
+  Use the screwdriver to fasten it down
+
+==== [[File:Glass_wall.png]] Full ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|2 x [[File:Glass.png|Glass]], [[File:Screwdriver_tool.png|Screwdriver]]
+|}
+
+  Click the <font color="blue">'''glass'''</font> pane
+  Click the "full" button
+  Use the screwdriver to fasten it down
+
+=== Reinforced glass panels ===
+
+==== [[File:Glass_panel_r.png]] One directional ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x [[File:Glass_r.png|Reinforced glass]], [[File:Screwdriver_tool.png|Screwdriver]], [[File:Crowbar.png|Crowbar]]
+|}
+
+  Click the <font color="blue">'''reinforced glass'''</font> pane
+  Click the "one direct" button
+  Right-click the new pane and rotate it
+  Screwdriver (Secure frame to floor.)
+  Crowbar (Pop pane in.)
+  Screwdriver (Secure pane.)
+
+  Alternatively:
+  Use the reinforced glass on a grille.
+  Right-click the new pane and rotate it
+  Screwdriver (Secure frame to floor.)
+  Crowbar (Pop pane in.)
+  Screwdriver (Secure pane.)
+
+==== [[File:Glass_wall_r.png]] Full ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|2 x [[File:Glass_r.png|Reinforced glass]], [[File:Screwdriver_tool.png|Screwdriver]], [[File:Crowbar.png|Crowbar]]
+|}
+
+  Click the <font color="blue">'''reinforced glass'''</font> pane
+  Click the "full" button
+  Screwdriver
+  Crowbar
+  Screwdriver 
+
+==== [[File:windoor.png]] Window-door (Windoor) ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|5 x [[File:Glass_r.png|Reinforced glass]], 4x [[File:Rods.png|Rods]], 1x [[File:CableCoils.png|Wire coil]], [[File:Wrench.png|Wrench]], [[File:Screwdriver_tool.png|Screwdriver]], [[File:Crowbar.png|Crowbar]], 1x [[File:Circuitboard.png|Circuitboard]]
+|}
+
+  Click the <font color="blue">'''reinforced glass'''</font> pane
+  Click the "Windoor" button
+  Wrench
+  Rods(Optional: To create a secure windoor)
+  Cable
+  Airlock Electronics
+  Crowbar
+
+=== Hidden Door ===
+
+==== [[File:False_Wall.gif]] Regular ====
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|4 x [[File:Metal.png|Metal]], [[File:Crowbar.png|Crowbar]]
+|}
+
+  Click the <font color="gray">'''metal'''</font> in your hand to open the construction panel,
+  Choose 'Build wall girders' form the list
+  Use crowbar on girders and wait a few seconds for the girders to dislodge.
+  Use the remaining 2 sheets of <font color="gray">'''metal'''</font> on the girders
+
+To turn a wall into a hidden door, follow the deconstruction guide for the wall type until the final wrenching, and instead proceed from the "Use crowbar on girders" line above.
+
+==== [[File:False_Wall_r.gif]] Reinforced ====
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|2 x [[File:Metal.png|Metal]],2 x [[File:Metal_r.png|Reinforced metal]], [[File:Crowbar.png|Crowbar]]
+|}
+
+  Click the <font color="gray">'''metal'''</font> in your hand to open the construction panel,
+  Choose 'Build wall girders' form the list
+  Use crowbar on girders and wait a few seconds for the girders to dislodge.
+  Use the <font color="gray">'''reinforced metal'''</font> on the dislodged girders twice to finish it
+
+=== Wall Mountings ===
+==== [[File:APC.png]] APC ====
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|2 x [[File:Metal.png|Metal]], 1x [[File:CableCoils.png|Wire coil]],  1x [[File:Circuitboard.png|Circuitboard]] Power Control Module, [[File:Screwdriver_tool.png|Screwdriver]], 1x [[File:Power_cell.png|Power Cell]], [[File:Crowbar.png|Crowbar]], [[File:Id regular.png|Authorized ID]]
+|}
+  Use the 2 sheets of metal and create an APC frame. 
+  Place the frame on the wall you wish to attach the APC to.
+  Add the Power control module to the APC 
+  add the wire coil.
+  Use the screw driver on the APC.
+  Insert the Power Cell.
+  Crowbar shut. It starts ID locked, with the cover engaged and the main switch turned off.
+APCs may only be placed in areas which have been defined as a Station Area using the Chief Engineer's [[High-risk_items|Station Blueprints]]. If you're trying to replace a broken APC, you can get the cover off by breaking it, likely with a fire extinguisher.
+
+==== [[File:AirAlarm.png]] Air Alarm ====
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|5 x [[File:Metal.png|Metal]], 1x [[File:CableCoils.png|Wire coil]],  1x [[File:Circuitboard.png|Circuitboard]] Air Alarm Electronics, [[File:Screwdriver_tool.png|Screwdriver]]
+|}
+
+ Use 5 steel sheets to construct a "Frame".
+ Pick up the "Frame Parts" that you just created.
+ With Frame Parts selected in your hands. Click on a wall to  open a menu. Select "Air Alarm." A air alarm will be placed on the wall.
+ Secure the Air alarm with a wrench.
+ Insert circuit board (Air alarm) into the Air Alarm.
+ Use screw driver on it.
+ Add 5 wires to it.
+ Use screw driver on it.
+
+==== [[File:FireAlarm.png]] Fire Alarm ====
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|5 x [[File:Metal.png|Metal]], 1x [[File:CableCoils.png|Wire coil]],  1x [[File:Circuitboard.png|Circuitboard]] Fire Alarm Electronics, [[File:Screwdriver_tool.png|Screwdriver]]
+|}
+
+ Use 5 steel sheets to construct a "Frame".
+ Pick up the "Frame Parts" that you just created.
+ With Frame Parts selected in your hands. Click on a wall to  open a menu. Select "Fire Alarm." A fire alarm will be placed on the wall.
+ Secure the Fire Alarm with a wrench.
+ Insert circuit board (fire alarm) into the Fire Alarm.
+ Use a screw driver on the fir alarm.
+ Add add 5 wires worth of cable into the fire alarm.
+ Use a screw driver on the fire alarm.
+
+=== Floor mounts ===
+
+==== Holopad ====
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|2 x [[File:Metal.png|Metal]], 2 x [[File:Glass_r.png|Reinforced glass]] , 1x [[File:CableCoils.png|Wire coil]],  1x [[File:Circuitboard.png|Circuitboard]] Holopad, [[File:Screwdriver_tool.png|Screwdriver]]
+|}
+
+ Use 2 steel sheets to build APC frame.
+ Click on the APC frame while it's in your had to open a menu.
+ Select holopad.
+ Wrench the holopad into place.
+ Insert circuit board (holopad) into the holopad.
+ Use a screwdriver on the holopad.
+ Insert 5 wires worth of cable coil into the holopad.
+ Use 2 glass sheets on the holopad
+ Use screwdriver on the holopad.
+
+=== Doors ===
+
+====[[file:Hazard Door.png]] Emergency Shutter ====
+{| style="background-color:#EEEEEE" width="350"
+!Requires
+|-
+|4 x [[File:Metal.png|Metal]], [[File:Wrench.png|Wrench]], 1x [[File:CableCoils.png|Wire coil]], 1x [[File:Circuitboard.png|Circuitboard]] Air Alarm Electronics
+|}
+
+  Use the <font color="gray">'''metal'''</font> and make an Emergency Shutter Assembly.
+  Wrench it inplace.
+  Add cables to the apparatus.
+  Add Air Alarm Electronics to it.
+
+==== [[File:Airlock.gif]] Airlock ====
+
+{| style="background-color:#EEEEEE" width="350"
+!Requires
+|-
+|4 x [[File:Metal.png|Metal]], 1x [[File:Glass_r.png|Reinforced glass]], 1x [[File:CableCoils.png|Wire coil]], [[File:Wrench.png|Wrench]], [[File:Screwdriver_tool.png|Screwdriver]], 1x [[File:Circuitboard.png|Circuitboard]]
+|}
+
+  Use the <font color="gray">'''metal'''</font> and make an Airlock Assembly 
+  Wrench it inplace
+  Use pen to name the Airlock (OPTIONAL)
+  Add reinforced glass (Only if you wish to make a glass airlock)
+  Add wires
+  Unlock the airlock electronic board with an ID
+  Use the airlock electronic board and set the access level
+  Add the airlock electronic board to the airlock frame. 
+  Screwdriver to finish
+
+  '''Damaged Airlocks'''
+  Use metal sheets to repair damaged airlocks. Destroyed airlocks must be deconstructed.
+
+=== Misc buildings. ===
+
+==== [[File:Computer_Solar.png]] Computers ====
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|5 x [[File:Metal.png|Metal]], 2x [[File:Glass.png|Glass]], 1x [[File:CableCoils.png|Wire coil]] (5 pieces), [[File:Wrench.png|Wrench]], [[File:Screwdriver_tool.png|Screwdriver]], 1x [[File:Circuitboard.png|Circuitboard]]
+|}
+
+  Use the <font color="gray">'''metal'''</font> to open the construction panel
+  Choose Computer frame
+  Wrench it inplace
+  Insert Circuitboard
+  Screwdriver
+  Wires
+  <font color="blue">'''glass'''</font>
+  Screwdriver to finish
+
+==== [[File:AI.gif]] AI Core ====
+
+{| style="background-color:#EEEEEE" width="450"
+!Requires
+|-
+|4 x [[File:Metal_r.png|Reinforced metal]], 2x [[File:Glass_r.png|Reinforced Glass]], 1x [[File:CableCoils.png|Wire Coil]], [[File:Wrench.png|Wrench]], [[File:Screwdriver_tool.png|Screwdriver]], 1x [[File:Circuitboard.png|AI Circuitboard]], optional: [[File:Brain.png|Human brain]]
+|}
+
+  [[File:0AICore.png]]Build Frame from 4 <font color="gray">'''plasteel sheets'''</font> 
+  Wrench into place 
+  [[File:1AICore.png]]Add Circuit board 
+  [[File:2AICore.png]]Screwdriver 
+  [[File:3AICore.png]]Add wires 
+  [[File:4AICore.png]]Add brain placed in an MMI or a Posibrain (only if you want a NEW AI) 
+  [[File:5AICore.png]]Add <font color="blue">'''reinforced glass'''</font>
+  Screwdriver
+
+=== [[File:Autolathe.gif]] Machine ===
+
+Their construction detailed in the [[Guide_to_advanced_construction|machine construction guide.]]
+
+=== [[File:lightfixture.png]] Light Fixture ===
+
+{| style="background-color:#EEEEEE" width="450"
+!Requires
+|-
+|2 x [[File:Metal.png|Metal]], 1x [[File:CableCoils.png|Wire Coil]], light tube/bulb,[[File:Screwdriver_tool.png|Screwdriver]]
+|}
+
+  Build frame from 2 metal sheets (or 1 metal sheet for small lights)
+  Place frame on wall
+  Add wires
+  Screwdriver
+  Add light tube (or light bulb for small fixtures)
+
+=== [[File:Security_Camera.gif]] Security Camera ===
+
+{| style="background-color:#EEEEEE" width="450"
+!Requires
+|-
+|1 x Camera Assembly, 1x [[File:CableCoils.png|Wire Coil]], [[File:Wrench.png|Wrench]], [[File:Welderon.gif|Welder]], [[File:Screwdriver_tool.png|Screwdriver]]
+|}
+
+  Place the camera assembly on the tile where'd you like the camera to be.
+  Wrench it into position
+  Weld it to the wall.
+  Add any additional upgrades. (OPTIONAL)
+  Add wire.
+  Screwdriver the camera to complete it.
+  Set camera network (default is SS13)
+  Set camera direction
+
+For upgrades, insert solid plasma for EMP proofing, a carrot for X-Ray and a proximity sensor for Motion.
+
+=== [[File:Turret.PNG]] Turrets ===
+
+{| style="background-color:#EEEEEE" width="450"
+!requires
+|-
+|7 x [[File:Metal.png|Metal]], [[File:Wrench.png|Wrench]], [[File:Screwdriver_tool.png|Screwdriver]], [[File:Welderon.gif|Welder]], 1 x any energy-based gun , 1 x proximity sensor
+|}
+  
+  Build a turret frame from <font color="gray">'''metal'''</font>
+  Use a wrench to secure the turret frame(it can be moved around before being secured)
+  Use metal on the turret frame to build the cover
+  Use a wrench on the frame to bolt the cover
+  Add the gun
+  Add the prox sensor
+  Use a screwdriver to secure it all
+  Use more <font color="gray">'''metal'''</font> on the frame
+  Finally use a welder to secure the second layer of metal
+
+=== [[File:Floorbot.gif]][[File:Generic_borg.png]][[File:Ripley.png]]Robots, cyborgs and mechs ===
+Their construction is described: [[Guide_to_robotics#Bots|robots]], [[Guide_to_robotics#Cyborgs|cyborgs]] and [[Guide_to_robotics#Mechs|mechs]].
+
+=== [[File:Flamethrower.gif]] Flamethrower ===
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x [[File:Rods.png|Rods]], [[File:Screwdriver_tool.png|Screwdriver]], [[File:Welderon.gif|Welder]], [[File:Igniter.png|Igniter]], [[File:Handheld-Plasmatank.png|Phoron Tank]]
+|}
+
+  Screwdriver the welder
+  Add rods to the welder to create the flamethrower
+  Screwdriver the igniter
+  Add the igniter to the flamethrower
+  Screwdriver to finish
+  Load a Phoron tank - high pressures work best
+
+You can also get one from a hacked [[Autolathe]], minus the plasma tank.
+It is not very useful but it is used in science and it can destroy alien weeds.
+
+=== [[File:disposal_pipe.png]][[File:disposal_bin.png]][[File:disposal_outlet.png]] Disposal Pipes and Machinery ===
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|1 x Disposal Pipe/Machine, [[File:Welderon.gif|Welder]], [[File:Wrench.png|Wrench]], [[File:Crowbar.png|Crowbar]]
+|}
+
+  Retrieve the pipe/machine from the Disposal Pipe Dispenser (found in [[Atmospherics|Atmosia]])
+  Crowbar floortile if exists to access plating
+  Move pipe over plating, rotate and flip using the rightclick menu
+  Wrench pipe
+  Weld pipe
+
+=== [[File:solar_assembly.png]][[File:solar_panel.png]][[File:solar_tracker.png]] Solar Panels and Trackers ===
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|[[File:solar_assembly.png|Solar Assembly]], [[File:Wrench.png|Wrench]], [[File:Glass.png|Glass]] or [[File:Glass_r.png|Reinforced Glass]], [[File:Circuitboard.png|Tracker Electronics]] (OPTIONAL)
+|}
+
+  Place the solar assembly on where you want to construct your solar panel/tracker. To connect it to a wire you must construct it under a wire node.
+  Wrench the solar assembly into place.
+  Add the electronics if you want to create a solar tracker (OPTIONAL)
+  Finish the construction by placing glass, or reinforced glass, into the assembly frame.
+
+=== Bookcase ===
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|5 x [[File:Planks.png]], [[File:Wrench.png|Wrench]],
+|}
+
+  Construct a frame with 4 wooden planks.
+  Wrench the frame into place.
+  Add a plank to the frame to make a shelf.
+
+== Deconstruction ==
+
+=== Floors ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Crowbar.png|Crowbar]], For light floors: [[File:Wirecutters.png|Wirecutters]]
+|}
+
+  For all floors, use a crowbar on a floor tile to remove it
+  
+  If you're working on a light floor, you can further dismantle the light floor tile:
+    Use a crowbar on the light tile to remove the metal
+    Use wirecutters on the resulting tile to separate wires from glass
+
+=== Walls ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Welderon.gif|Welder]], [[File:Wrench.png|Wrench]] (Or [[File:Crowbar.png|Crowbar]])
+|}
+
+  Weld off the plating
+  Wrench the girders apart
+  (Alternately, you can use a Crowbar to dislodge the girders and drag them out of the way)
+
+=== Reinforced walls ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Welderon.gif|Welder]], [[File:Wrench.png|Wrench]], [[File:Screwdriver_tool.png|Screwdriver]], [[File:Wirecutters.png|Wirecutters]], [[File:Crowbar.png|Crowbar]]
+|}
+
+  Wirecutters.
+  Screwdriver.
+  Welder.
+  Crowbar.
+  Wrench.
+  Welder.
+  Crowbar.
+  Screwdriver.
+  Wirecutters.
+  Wrench.
+
+=== Grille ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Wirecutters.png|Wirecutters]]<br>or<br>[[File:Screwdriver_tool.png|Screwdriver]]
+|}
+
+  Use wirecutters twice to destroy the grille OR
+  Use screwdriver to unfasten it
+
+First method destroys it, giving two sets of metal rods. Wirecutters will remove it instantly, attacking the grill will instead kick it, requiring a good few kicks. Second loosens the grille, allowing it to be pulled around. Destroying the grill in this method will leave behind a still-secured section of broken grill which may be walked over but is not aesthetically pleasing. Wirecutters will not instantly remove this remnant. However, using a lit welder will destroy it instantly.
+
+=== Glass panels ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Welderon.gif|Welder]]<br>or<br>[[File:Screwdriver_tool.png|Screwdriver]],[[File:wrench.png|wrench]]
+|}
+
+  Lots of Welder usage to destroy it
+  or
+  Screwdriver to detach it from its sockets, then wrench to dismantle it to glass sheets.
+
+=== Reinforced glass panels ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Crowbar.png|Crowbar]], [[File:Screwdriver_tool.png|Screwdriver]]
+|}
+
+  Screwdriver to loosen the pane.
+  Crowbar to pop it out.
+  Screwdriver to unscrew the frame.
+
+Hitting the pane repeatedly with a blunt item or welder will smash it into one set of metal rods and a glass shard.
+
+=== Hidden Door (Regular or Reinforced) ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Screwdriver_tool.png|Screwdriver]],[[File:Welderon.gif|Welder]], [[File:Wrench.png|Wrench]]
+|}
+
+  Screwdriver
+  Welder
+  Wrench
+
+=== Table ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Wrench.png|Wrench]]
+|}
+
+  Wrench to disassemble the plating.
+  Wrench again to dismantle the table frame.
+
+=== Reinforced Table ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Screwdriver_tool.png|Screwdriver]], [[File:Wrench.png|Wrench]]
+|}
+
+  Remove the reinforcements with the screwdriver.
+  Wrench to disassemble the plating.
+  Wrench again to dismantle the frame.
+
+=== Wall Mountings ===
+==== APC ====
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Screwdriver_tool.png|Screwdriver]], [[File:Wirecutters.png|Wirecutters]], [[File:Crowbar.png|Crowbar]], [[File:Welderon.gif|Welder]], [[File:Id regular.png|Authorized ID]],
+|}
+
+  Swipe Card to unlock APC.
+  Remove Power Cell.
+  Screwdriver to unsecure electronics.
+  Crowbar to lift floor tile in front of APC
+  Wirecutters to remove cables.
+  Crowbar to remove Power Control Board.
+  Welder to remover from wall.
+  Wrenching the frame that is now detached from the wall de-constructs it to two metal sheets.
+  
+==== Air Alarm ====
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Screwdriver_tool.png|Screwdriver]], [[File:Wirecutters.png|Wirecutters]], [[File:Crowbar.png|Crowbar]], [[File:Wrench.png|Wrench]]
+|}
+
+ Open cover with screwdriver.
+ Cut all the wires using wirecutters.
+ Cut the remaining wires by clicking on the airalarm with wirecutters.
+ Pry out the circuit using the crowbar.
+ Remove the frame from the wall using the wrench.
+
+==== Fire Alarm ====
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Screwdriver_tool.png|Screwdriver]], [[File:Wirecutters.png|Wirecutters]], [[File:Crowbar.png|Crowbar]], [[File:Wrench.png|Wrench]]
+|}
+
+ Open cover with screwdriver.
+ Cut the wires by clicking on the firealarm with wirecutters.
+ Pry out the circuit using the crowbar.
+ Remove the frame from the wall using the wrench.
+
+=== Emergency Shutter ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Welderon.gif|Welder]], [[File:Wrench.png|Wrench]], [[File:Screwdriver_tool.png|Screwdriver]], [[File:Crowbar.png|Crowbar]]
+|}
+
+  Screwdriver the shutter to open it's hatch.
+  Crowbar the Electronics out.
+  Wrench the shutter assembly to unsecure it.
+  Weld the unsecured assembly to disassemble it into sheets of metal.
+
+=== Airlock ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Welderon.gif|Welder]], [[File:Wrench.png|Wrench]], [[File:Screwdriver_tool.png|Screwdriver]], [[File:Wirecutters.png|Wirecutters]], [[File:Crowbar.png|Crowbar]], [[File:Multitool.png|Multitool]]
+|}
+
+  Screwdriver the door.
+  Use multitool and wirecutters to disable everything except the doorbolts as detailed [[Hacking#Airlocks|here.]] Doorbolts must be up for this to work.
+  Weld the door shut.
+  Crowbar the electronics out. (if the door is electrified, this won't work for some reason)
+  Wirecut the wires out.
+  Unsecure it with a wrench.
+  Weld it to deconstruct to metal plates.
+
+Cannot be done to an [[Syndicate_Items#Cryptographic_Sequencer|emagged]] airlock. RCD deconstruction must be used for that. It is possible to build a new airlock over the emagged one.
+
+=== Computers ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Welderon.gif|Welder]], [[File:Wrench.png|Wrench]], [[File:Screwdriver_tool.png|Screwdriver]], [[File:Wirecutters.png|Wirecutters]], [[File:Crowbar.png|Crowbar]]
+|}
+
+  Screwdriver to detach the screen.
+  Crowbar to pry off the screen.
+  Wirecutters to cut the cables.
+  Screwdriver to detach the circuit lid.
+  Crowbar to pry out the circuit.
+  Wrench to detach the frame.
+  Welder to disassemble the frame.
+
+Returns all components used in construction.
+
+=== Machine ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Screwdriver_tool.png|Screwdriver]], [[File:Crowbar.png|Crowbar]], [[File:Wirecutters.png|Wirecutters]], [[File:Wrench.png|Wrench]]
+|}
+
+  Screwdriver to open the cover.
+  Crowbar to pry out the circuit.
+  Wirecutters to remove the wires.
+  Wrench to disassemble the frame.
+
+Usually returns all or most components used in construction. Some components may become broken.
+
+=== Recharge Station ===
+
+{| style="background-color:#EEEEEE" width="400"
+!Requires
+|-
+|[[File:Screwdriver_tool.png|Screwdriver]], [[File:Crowbar.png|Crowbar]], [[File:Wirecutters.png|Wirecutters]], [[File:Wrench.png|Wrench]], [[File:Id regular.png|Authorized ID]]
+|}
+
+  Unlock the charger with an ID
+  Screwdriver to open the cover.
+  Wrench to dislodge the internal plating.
+  Wirecutters to remove the wires.
+  Crowbar to remove the components.
+
+Usually returns all or most components used in construction. Some components may become broken.
+
+=== Security Camera ===
+
+{| style="background-color:#EEEEEE" width="450"
+!Requires
+|-
+|[[File:Screwdriver_tool.png|Screwdriver]], [[File:Wirecutters.png|Wirecutters]], [[File:Crowbar.png|Crowbar]], [[File:Wrench.png|Wrench]], [[File:Welderon.gif|Welder]]
+|}
+
+  Screwdriver the camera to open the back panel.
+  Use your wirecutter to cut all the wires. (Cutting the alarm wire is optional)
+  Use your welder to unweld the camera from the wall.
+  Wrench the camera to unattach it from the wall.
+  Crowbar the camera assembly to remove any upgrades.
+
+
+
+=== Disposal Pipes ===
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|[[File:Welderon.gif|Welder]], [[File:Wrench.png|Wrench]]
+|}
+
+  Welder on pipe to remove its joints
+  Wrench to detach it from the plating
+
+Note: You can then click and drag the pipe segment onto the disposal pipe dispenser to delete it
+==== Disposal Machinery ====
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|[[File:Screwdriver_tool.png|Screwdriver]], [[File:Welderon.gif|Welder]], [[File:Wrench.png|Wrench]]
+|}
+  If Disposal Bin, turn off the pump
+  Screwdriver to remove power connection
+  Welder on machine to remove its joints
+  Wrench to detach it from the plating
+
+=== [[File:solar_assembly.png]][[File:solar_panel.png]][[File:solar_tracker.png]] Solar Panels and Trackers ===
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|[[File:crowbar.png|Crowbar]], [[File:Wrench.png|Wrench]]
+|}
+
+  Take out the panel with a crowbar.
+  If you are deconstructing a tracker, you can take out the electronics with your crowbar (OPTIONAL)
+  Unwrench the leftover assembly from it's place and you will be able to move it.
+
+=== Locker ===
+
+{| style="background-color:#EEEEEE" width="300"
+!Requires
+|-
+|[[File:welderon.gif|Welder]]
+|}
+
+  Open the locker.
+  Weld the locker.
+<br><br>
+[[Category:Guides]]
+{{Gameplay guides}}

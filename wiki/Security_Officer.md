@@ -1,0 +1,228 @@
+---
+title: Security Officer
+permalink: wiki/Security_Officer/
+layout: wiki
+tags:
+ -  Jobs
+---
+
+**Security Officers** are the main force behind
+[Security](/wiki/Security "wikilink") on the station. They are responsible for
+dealing with security complaints and arresting those who break
+[Corporate Regulations](/wiki/Corporate_Regulations "wikilink").
+
+Know Your Place
+---------------
+
+-   This ship is not a democracy. You take orders from the [Head of
+    Security](/wiki/Head_of_Security "wikilink"), who takes his orders from
+    the [Captain](/wiki/Captain "wikilink"), who takes his orders from
+    [Central Command](/wiki/Backstory#Nanotrasen "wikilink"). Follow the
+    orders you are provided, and try to not ask too many questions.
+-   You are effectively the police. The corporations have agreed upon a
+    set of laws that they are all beholden to. [Corporate
+    Regulations](/wiki/Corporate_Regulations "wikilink") is harsh. You are
+    individuals working for Nanotrasen Security. You aren't highly
+    trained super-soldiers, but you also aren't mall-cops with a bit
+    bigger guns. Obey the hierarchy and watch everyone with <s>utter
+    suspicion</s> hungry eyes.
+-   Your essential job function is to prevent the station from falling
+    apart in chaos.
+-   Remember to follow [standard security
+    procedures](/wiki/Guide_to_Security#Standard_Procedure "wikilink") and
+    [Standard Operating
+    Procedure](/wiki/Standard_Operating_Procedure "wikilink").
+-   Also, remember that arresting people in the middle of scenes is in
+    bad form. If the prey is calling for help, you are required to
+    roleplay.
+
+Keeping the Peace
+-----------------
+
+You are the sole guardian between the ideals of justice and the
+[employees](/wiki/Jobs "wikilink") that your company has chosen to advance its
+interests in space.
+
+Oftentimes, you will be informed over your radio that there is a problem
+in a certain area. If you are nearby, inform the rest of security over
+your [headset](headset "wikilink") using the private channel that you
+are on your way. If you are not nearby, head to the security office and
+change the records to set the suspects to arrest. The
+[robots](roboticist#securitrons "wikilink") will detain the suspects but
+someone will still have to fetch them. Then return to your patrol.
+
+Have your [Stun Baton](/wiki/Stun_Baton "wikilink") put away in your security
+belt. This will ensure that you are armed if things go sour, but that
+you are not being threatening and there is no possibility of your weapon
+being easily stolen. If you notice a crime obviously taking place when
+you arrive on the scene, stun the suspects, handcuff them, and hold them
+so they can't escape. If the area is now safe, begin questioning them.
+If the area is not safe, question them in the brig. If there is blood or
+fingerprint evidence, call the [Detective](/wiki/Detective "wikilink") to the
+scene. Once the truth comes out, charge the perpetrators, thank the
+witnesses, and inform security over your private channel of the
+situation and charges. If you do not do so, other Security Officers will
+release your prisoners thinking they've been unlawfully detained.
+
+This is an ideal situation, however. Usually you'll just happen across
+crime. Follow the procedure as best as you can from there. Restrain and
+detain only as needed. Becoming stun happy is the first step to becoming
+a bad Security Officer and encouraging the station crewmen to get you
+demoted.
+
+If things become violent or you are outmatched, immediately call for
+backup as efficiently as possible. "<Such and such> the <job title> is
+<crime committed> at <the location>", is hard to spit out while under
+attack. Try a shorter format, such as "JANITOR MAIN HALLWAY ATTACKING ME
+HELP". There will be time for clarification when you are out of harm's
+way. The key to good security work is keeping the other security forces
+informed.
+
+The Brig
+--------
+
+For more detailed instructions, see [Standard Security
+Procedures](/wiki/Guide_to_Security#Standard_Procedure "wikilink"). For a
+summary read below.
+
+As the arresting officer, you have certain responsibilities. As always,
+following the protocol will keep you safe, the station secure, and the
+criminals in line. Follow it closely.
+
+1. While the prisoner is still handcuffed, search them. Repeat offenders
+or those charged with extremely serious crimes should be stripped and
+redressed in the prison orange. Inform the prisoner and the other
+security personnel what is happening, and what the prisoner's charges
+are. Evidence goes in the evidence locker, hazardous chemicals should be
+stored to later be spaced, and all other materials go in the brig locker
+with the prisoner. The [headset](headset "wikilink") should only be
+taken if the prisoner is using it to incite rebellion, harassing other
+crew members, or as an additional punishment for repeat offences.
+
+2. Lock the [Locker](/wiki/Locker "wikilink") with your identification, remove
+your prisoner's handcuffs, and stand in the doorway to prevent escape
+while you set the time. The doors will not close and lock if a time has
+not been set in. [Consult Corporate Regulations for proper
+sentencing.](/wiki/Corporate_Regulations "wikilink") If the prisoner makes to
+escape, flash them with the brig's flash controls. They will even reach
+to just outside the cell doors. Remember that escape attempts are an
+additional crime under Corporate Regulations. Do **NOT** leave the
+prisoner handcuffed in his cell, unless you have very good reason to
+believe they are dangerous. Alternatively, if they aren't violent, you
+can just eat them and hold them for their sentence. 3. Never open the
+cell door when the prisoner is standing right on the other side. Require
+them to step back to the bed. This will allow you to react if they
+attack or attempt to escape. Even trustworthy prisoners may turn at any
+second. When in doubt, flash the cell. 4. You must be there when the
+prisoner's time is up to return their gear and escort them out of the
+brig. Failure to do this may in some cases result in your dismissal or
+attack.
+
+Security HQ
+-----------
+
+This is where you do your set up at. Also, you can arrest people with
+Beepsky (or any [securitron](/wiki/Roboticist "wikilink")) here, but **do not
+delete security records!**. If people ask nicely for your equipment just
+tell them to ask a Head of Staff instead. Passing out gear to civilians
+leads to dangerous situations at worst, arrests and misunderstandings at
+best.
+
+The first step when you arrive in your position is to find an unused
+security [locker](locker "wikilink") either in the main office or the
+single locker near the arrival shuttle. If it has all been claimed, ask
+the [Warden](/wiki/Warden "wikilink") for additional resources.
+
+### Equipment
+
+This job is one of the few jobs that will also gain access to [Ranged
+Weapons](/wiki/Ranged_Weapons "wikilink").
+
+First, you are already equipped with a soft cap and gear harness, two
+[handcuffs](handcuffs "wikilink") and your red jumpsuit. You should only
+wear your helmet and armour in [Code Blue](/wiki/Code_Blue "wikilink") or
+above situations, and only if you have reason to believe you will be
+attacked, otherwise, keep them in your backpack.
+
+[Stun Baton](/wiki/Stun_Baton "wikilink") - Your weapon of choice. It <s>deals
+HALLOSS damage, similar to tasers</s> knocks them down for long enough
+to handcuff them. Use the help intent to avoid dealing brute damage to
+the target.
+
+[Tasers](/wiki/Taser "wikilink") - Place the taser in your backpack. Replace
+your Baton with this in case you need the extra range and the
+[AI](AI "wikilink")/[Captain](/wiki/Captain "wikilink")/[Head of
+Security](/wiki/Head_of_Security "wikilink")/[Warden](/wiki/Warden "wikilink")
+refuse to open the armoury for better equipment. It is also good to use
+against runners or those equipped with a gun themselves. Use your best
+judgement.
+
+[Flashes](/wiki/Flashes "wikilink") - A good backup if your [stun
+baton](stun_baton "wikilink") runs out of charge or you need to keep a
+criminal subdued. Robotics may also want these. It's usually a courtesy
+to give them your burnt out flashes. Throw it in a pocket or hide it in
+your [backpack](backpack "wikilink")'s [box](box "wikilink"). Has the
+added benefit of stunning out of control cyborgs.
+
+[Flashbang](/wiki/Flashbang "wikilink") - Sometimes preferred by [some
+officers](shitcurity "wikilink") instead of flashes. These will blind
+and deafen targets within a reasonable radius when thrown. To throw,
+simply move the flashbang to your hand and click a tile on the floor.
+There is a small delay between throwing and detonation. It is a good
+idea to throw these as far away from you as possible as they will deafen
+and blind you if you are not wearing sunglasses. They are also useful to
+help you escape a small group assailants. Keep this in your pocket and
+throw it if you decide you really need to. It'll temporarily deafen you,
+which hurts.
+
+[Sunglasses](/wiki/Sunglasses "wikilink") - You need to equip these. Put them
+on your eyes. They are essential gear, especially if you want to man the
+brig and want to avoid the embarrassing result of succumbing to a flash
+meant only for an unruly prisoner.
+
+[Handcuffs](/wiki/Handcuffs "wikilink")- Throw these in your pockets as well.
+You will use these. A lot. Click on someone to start handcuffing them.
+You'll both need to stay next to each other for them to work. Pulling
+people then prevents them from running away. Be careful of bumping into
+people however.
+
+[Energy gun](/wiki/Energy_gun "wikilink") - A rare item for the average
+officer to possess, usually only handed out when things have really hit
+the fan. Has two modes, click the weapon in your inventory to switch
+between stun and kill. Most of the time, the weapon should be left on
+stun. It also makes a potent melee weapon. Firing on
+[kill](/wiki/Shitcurity "wikilink") at crewmembers will often result in
+demotion or a potential job ban.
+
+[Riot Shield](/wiki/Riot_Shield "wikilink") - Another uncommon weapon for
+security personnel. Protects from melee attack in the direction you are
+facing. Makes a decent melee weapon.
+
+[Laser gun](/wiki/Laser_gun "wikilink") - Possibly the least common weapon to
+find in the hands of security officers, mainly due to the lack of a stun
+mode. While more powerful than an [Energy gun](/wiki/Energy_gun "wikilink"),
+it makes a slightly less effective melee weapon. You should never have
+these unless it's a [Code Red](/wiki/Code_Red "wikilink") situation.
+
+Important: When you are done with your [Locker](/wiki/Locker "wikilink"),
+close it and lock it.
+
+### Recharge
+
+Always have your tools recharged after an arrest. If your
+[Flash](/wiki/Flash "wikilink") is burnt out, get a new one from the lockers
+or security vending machine and hand your old one to a
+[Roboticist](/wiki/Roboticist "wikilink"). Then take your energy gun or taser,
+pop them in the recharger, and wait for the light to change. Having a
+charged taser is sometimes the difference between life and death.
+
+**Note**: [Stun batons](/wiki/Stun_baton "wikilink") require their battery
+cells to be changed, and do not work in a recharger.
+
+Predding
+--------
+
+You have free access to the brig and tools to incapacitate your
+potential meals ('Roleplay is required')! Assuming you have no one to
+stop you (And the player isn't telling you not to in looc), you can also
+eat the prisoners!

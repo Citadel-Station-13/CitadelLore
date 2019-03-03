@@ -1,0 +1,1428 @@
+---
+title: Guide to Medicine
+permalink: wiki/Guide_to_Medicine/
+layout: wiki
+tags:
+ - guides
+---
+
+Foreword
+========
+
+The original guide was compiled by a community effort led by
+WickedTempest and ported here.
+
+Important reminder that it's possible to stabilize anyone no matter
+their condition, it just depends on what's available for you to treat
+them. Obviously not every situation presents ideal circumstances. Don't
+beat yourself up over something that you see now as a simple fix well
+after the whole ordeal has passed. Just learn, and keep learning.
+
+Lastly, if you're only joining medical for kinky redhead stutter slut
+nurse scenes with no intention of doing your job or learning how to do
+it, then **you really shouldn't be playing medical.**
+
+A Friendly Reminder From The Admins
+===================================
+
+As tempting as it may be to help, remember that it is against the rules
+to do things like breaking into medbay to treat patients when there are
+active medical staff on duty. Bandaging up minor injuries with the
+publicly available first aid kits is usually fine, as is performing CPR
+or otherwise preventing someone from dying until the medics arrive, but
+don't go outright doing someone's job for them.
+
+At the very least, give the medics a chance to respond - nobody wants to
+drop everything they're doing and haul ass across the station with a
+rollerbed only to find that cargo were already on the scene with a crate
+of medical supplies and healed the patient up to full in the time it
+took for them to run from medbay to the gateway.
+
+Triage
+======
+
+Triage is medical's word for "priority" regarding patients. The goal of
+triage is to **stabilize patients, not cure to 100%.** Generally this
+comes into play when there is *more than one* patient. Wearing a pair of
+![](PGlasses.png "fig:PGlasses.png") AR-Ms (HUDs work as well, though
+they are inferior) will allow you to assess a patient's overall health
+from a glance via a health bar floating above their character.
+
+-   **No Healthbar**: 100% Health
+-   ![](Hudgreen.png "fig:Hudgreen.png")**<span style="color:green">Green**:
+    78-99% Health
+-   ![](Hudyellow.png "fig:Hudyellow.png")**<span style="color:orange">Yellow**:
+    42-71% Health
+-   ![](Hudred.png "fig:Hudred.png")**<span style="color:red">Red**:
+    1-21% Health
+-   ![](Hudfred.gif "fig:Hudfred.gif")**<span style="color:crimson">Red,
+    Flashing**: -40-0% Health
+-   ![](Hudcritical.gif "fig:Hudcritical.gif")**<span style="color:maroon">Critical!**:
+    -85:-50% Health
+-   ![](Huddead.png "fig:Huddead.png")**Dead**: -100% Health
+
+Patients between Critical and Yellow deserve treatment first with
+priority starting at Critical and going up. The main exception to this
+is if any patient that isn't dead is bleeding (including internal
+bleeding) and/or has severe internal organ damage, as leaving a patient
+with these conditions may worsen their overall health rather quickly.
+From there, get all patients to at least Yellow before resolving the
+rest of their issues.
+
+### Dead Patients
+
+If the patient dies right there or is reported to have died recently,
+defib them ASAP. If they do not resuscitate, leave them be and tend to
+the other patients. Do not waste more time than you need to on dead
+people; either assign another doctor to deal with them or come back to
+them later once everyone else is healed to Yellow.
+
+### Cryogenics
+
+Cryo is all about suspending someone in animation and healing them to
+boot! If someone is in a pretty bad way, tossing them into a (correctly
+setup) cryo tube will help with most problems on the surface. Even if
+the damage isn't healed, the cryo tube is basically one gigantic stasis
+bag minus the terribly short oxygen supply.
+
+Viral Triage
+------------
+
+Though rare and seldom (if at all) seen outside of adminbus, a crew
+member that has been infected with a pathogen signifies the need to act
+quickly. This list of tasks should be accomplished:
+
+1.  Clean up all biohazards (blood, mucus, etc) within medical, instruct
+    sanitation staff to put heightened effort into carrying this out.
+2.  Retrieve a blood sample from an infected crew member and announce
+    the presence of a pathogen, and for all crew feeling ill to report
+    to medical.
+3.  Assign tasks to doctors:
+    -   One doctor to administer Spaceacillin to arriving crew members
+        and escort them to the quarantine area of Virology.
+    -   One doctor to develop antibodies in test subjects to harvest and
+        dilute to distribute to crew.
+    -   One doctor to incubate and grow a sample of the virus for
+        detailed analysis. This will allow HUDs and AR-Ms to identify
+        crew that are infected.
+4.  Distribute doses of the antibodies to crew (1u mixed in 4u of water
+    will work).
+
+Diagnostics
+===========
+
+It's important to remember that
+**![](Syringes.png "fig:Syringes.png")syringes cannot** be used on
+multiple patients, and will need to be replaced with a fresh syringe
+that doesn't have it's cap removed.
+
+Damage Types
+------------
+
+### <span style="color:red"><u>Brute</u></span>
+
+Cuts, lacerations, and bruising all make up the red number on the health
+analyzer, normally caused by physical trauma such as punching, getting
+hit with something, being dragged with open wounds, slamming into walls,
+etc. Sometimes high brute values may break bones, which will require
+[Surgery](/wiki/Surgery "wikilink"), or the limb may even become dismembered!
+Treatment for brute damage on it's own is listed below:
+
+-   [**Advanced Trauma
+    Kits**](/wiki/Medical_Items#Advanced_Trauma_Kit "wikilink"): Heals 3 brute
+    on the target limb immediately and will allow it to heal on it's own
+    if the damage is below 50. The 3 damage that's taken off works even
+    if the patient is dead, which may be useful if a defib is unable to
+    resuscitate someone due to high damage. ATKs also disinfect wounds
+    if applied early.
+-   [**Bicaridine**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A red
+    colored medicine which heals 6 brute per unit, meaning a full (15u)
+    syringe will heal 90 brute damage. Best utilized in liquid form,
+    overdoses at 30u.
+-   [**Tricordrazine**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A
+    purple medicine that heals all <u>underlined</u> damage, albeit
+    slowly, healing 1.5 damage per unit. Best utilized in liquid form
+    but not alone, no overdose.
+
+### <span style="color:orange"><u>Burn</u></span>
+
+Skins, burns, and scars make up the yellow number on the health
+analyzer, normally caused by intense temperatures such as fire,
+extremely cold temperatures, lasers, and electrocution. Exceptionally
+high burn values may vaporize a limb, and can cause bloodloss on top of
+easily becoming infected. Massive amounts of burn damage may cause your
+character to be 'husked,' unable to be resuscitated no matter what you
+do. Treatment for burn damage on it's own is listed below:
+
+-   [**Advanced Burn
+    Kits**](/wiki/Medical_Items#Advanced_Burn_Kit "wikilink"): Essentially the
+    burn variant of ATKs. Primarily used to disinfect burn wounds.
+-   [**Kelotane**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A yellow
+    colored medicine which heals 6 burn per unit, meaning a full (15u)
+    syringe will heal 90 burn damage. Overdoses at 30u.
+-   [**Dermaline**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): An
+    orange-yellow colored medicine which heals 12 burn per unit.
+    Overdoses at 15u (one full syringe, be careful).
+-   **KeloDerm**: A yellow colored medicine with Kelotane and Dermaline
+    mixed in 1:1. Since the medicines are separate, they work quicker,
+    though KeloDerm doesn't heal as much as Dermaline alone. Overdoses
+    at 30u.
+-   [**Tricordrazine**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A
+    purple medicine that heals all <u>underlined</u> damage, albeit
+    slowly, healing 1.5 damage per unit. No overdose.
+
+### <span style="color:green"><u>Toxin</u></span>
+
+Damage dealt by toxins make up the green number on the health analyzer,
+normally caused by poisons, overdosing, phoron exposure/phoron-infected
+clothes, radiation, infections/necrosis, damaged liver, and critical
+blood levels. Treatment for toxin damage on it's own is listed below:
+
+-   [**Dylovene**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A green
+    colored medicine which heals 4 toxin per unit, and can treat the
+    liver if it's damage is below 10. No overdose (there is but it just
+    treats itself).
+-   [**Carthatoline**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A grey
+    colored medicine which heals 8 toxin per unit, but has the side
+    effect of inducing nausea in the patient. Can treat liver damage. No
+    overdose.
+-   [**Arithrazine**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A green
+    colored medicine which heals 10 toxin per unit, but has the side
+    effect of causing minor brute damage. It also metabolizes very
+    slowly. Overdoses at 30u.
+-   [**Tricordrazine**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A
+    purple medicine that heals all <u>underlined</u> damage, albeit
+    slowly, healing 1.5 damage per unit. No overdose.
+
+### <span style="color:blue"><u>Suffocation (Hypoxia)</u></span>
+
+Damage dealt by lack of oxygenated blood being pumped through the body
+makes up the blue number on the health analyzer, normally caused by
+suffocation, low blood levels, heart damage, and lung damage. Treatment
+for hypoxia on it's own is listed below:
+
+-   [**Inaprovaline**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A cyan
+    colored medicine which doesn't actually heal hypoxia, but instead
+    halts any further damage. Overdoses at 60u.
+-   [**Dexalin**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A blue
+    colored medicine which heals 15 oxy per unit. Overdoses at 30u.
+-   [**Dexalin Plus**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A blue
+    colored medicine which heals **150 oxy** per unit. Best utilized in
+    pill form (though this reduces healing down to 75 oxy per unit) or
+    in a dropper set to one unit, overdoses at 15u (one full syringe).
+-   [**Tricordrazine**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A
+    purple medicine that heals all <u>underlined</u> damage, albeit
+    slowly, healing 3 oxy damage per unit. No overdose.
+
+### <span style="color:grey">Genetic</span>
+
+Damage dealt by either radiation, slime digestion, or from popping out
+of an unupgraded growing vat makes up genetic damage, which the health
+analyzer can only determine by means of a red prompt, requiring a body
+scanner for a precise measurement of genetic damage. Treatment for clone
+damage is listed below:
+
+-   [**Cryoxadone**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A pale
+    blue medicine which heals the above damage including genetic damage,
+    but requires that the body be cooled to 170 Kelvin or lower, usually
+    by means of cryo cells.
+-   [**Clonexadone**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A pale
+    blue medicine which works exactly the same as Cryoxadone, but does
+    everything faster.
+-   **Cryo-Mix**: A 1:1 mix of Cryoxadone and Clonexadone, works much
+    like KeloDerm in that the two medicines work separately, therefore
+    faster.
+-   [**Rezadone**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A grey
+    medicine which heals genetic damage without the need for cold
+    temperatures. Overdoses at 30u, though 10u may induce dizziness.
+
+### <span style="color:lime">Radiation</span>
+
+Damage dealt by exposure to the Supermatter, being EVA during a solar
+flare, being injected with radioactive reagents, or
+destroying/activating particular artifacts make up radiation damage,
+which the health analyzer can only determine by means of a red prompt,
+requiring a body scanner for a precise measurement of radiation damage.
+Treatment for radiation damage is listed below:
+
+-   [**Hyronalin**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A green
+    medicine which heals 30 radiation per unit, albeit slowly, but does
+    not heal the resulting damage of radiation. Overdoses at 30.
+-   [**Arithrazine**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A green
+    medicine which heals 70 radiation and 10 toxin per unit, but has the
+    side effect of dealing some brute damage. Overdoses at 30u.
+
+### <span style="color:purple">Organ</span>
+
+Damage represented on the body scanner that corresponds with the trauma
+inflicted on organs, either by certain poisons, severe physical trauma,
+bones moving in the area organs are present (lower body, chest, head),
+or certain items necessary for function being absent. An organ is
+considered dead at 30 damage. Treatment for organ damage is listed
+below:
+
+-   [**Peridaxon**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A purple
+    medicine which heals 1 organ damage per unit, and heals all internal
+    organs. Overdoses at 10u.
+-   [**Alkysine**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A yellow
+    medicine which heals 30 organ damage per unit, but only heals the
+    brain. Overdoses at 30u.
+-   [**Imidazoline**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A pale
+    lavender medicine medicine which heals 5 organ damage per unit, but
+    only heals the eyes. Overdoses at 30u.
+-   [**Dylovene**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A green
+    medicine which heals 2 organ damage per unit, but only heals the
+    liver if it's below 10 organ damage. No overdose.
+-   [**Carthatoline**](/wiki/Guide_to_Chemistry#Medicine "wikilink"): A grey
+    medicine, works the same as Dylovene in it's use in healing the
+    liver, but can heal it at any damage. No overdose.
+
+Other
+-----
+
+### Blood Loss
+
+Blood carries oxygen to various areas in the body of a patient, and
+without oxygenation (whether by lack of air or lack of blood, in this
+case) the patient will slowly decline in health until they die,
+therefore stopping bleeding is <u>your top priority</u>, and should be
+treated as a critical injury. For low blood levels, administering
+Dexalin will help with the oxy damage resulting from blood loss, and
+will help alleviate the risk of brain damage as a result. Critical blood
+levels, however, will result in massive spikes of hypoxia and annoying
+toxins, though this only occurs at 40% blood volume. Treatment to stop
+bleeding is listed below:
+
+-   For external bleeding cases:
+    -   **Pressure**: Getting an aggressive grab and help intent
+        clicking the limb with the grab in hand will apply pressure to
+        the wound, slowing the bleeding, but not stopping it entirely.
+        If *you* are bleeding, help intent click the limb and you will
+        begin applying pressure. This should only be used if you have
+        nothing to treat the bleeding and are waiting on someone else to
+        bring gauze/ATKs.
+    -   **[Gauze](/wiki/Medical_Items#Roll_of_gauze "wikilink")**: This is the
+        most basic item in medical to treat cuts and lacerations
+        provided you have enough of it.
+    -   **[Advanced Trauma
+        Kit](/wiki/Medical_Items#Advanced_Trauma_Kit "wikilink")**: ATKs are
+        better than gauze as they can disinfect the wound when it's
+        used, and instantly heals 3 brute damage on the limb it's
+        applied to.
+-   For internal bleeding (IB) cases:
+    -   **Cryogenics**: Placing a patient with internal bleeding into a
+        (correctly setup) cryo tube will both halt (not fix) the
+        bleeding *and* stop it from getting worse. This is a temporary
+        solution.
+    -   **[Bicaridine and
+        Inaprovaline](/wiki/Guide_to_Chemistry#Medicine "wikilink")**: These
+        two medicines together (they have to be together, not separate)
+        will prevent the internal bleeding from worsening, but will not
+        halt the bleeding.
+    -   **[Surgery](/wiki/Surgery#Internal_Bleeding "wikilink")**: The main
+        method of treating internal bleeding is through surgery by means
+        of the Fix'O'Vein.
+    -   **[Myelamine](/wiki/Guide_to_Chemistry#Medicine "wikilink")**: A
+        medicine found in (expensive) clotting kits that will seal any
+        internal bleeding. The fastest way to treat.
+    -   **[Bicaridine](/wiki/Guide_to_Chemistry#Medicine "wikilink")**:
+        Overdosing Bicaridine (30u) will, of course, deal toxins to the
+        patient, but it may clot internal bleeding. Generally a last
+        resort if none of the other methods are available.
+
+Once the bleeding has ceased, you will have to help the patient raise
+their blood count. The following are some methods to assist with that:
+
+-   **[Dexalin/Dexalin Plus](/wiki/Guide_to_Chemistry#Medicine "wikilink")**:
+    Will assist in oxygenating the blood, helping to prevent potential
+    brain damage.
+-   **Iron**: A simple reagent that *must be ingested* in order to work.
+    Replenishes 8u of blood per unit.
+-   **Nutriment**: Basic nutrients that can be found in protein shakes.
+    Must be ingested. Replenishes 4u of blood per unit.
+-   **Protein**: Animal proteins found in meat and protein shakes. Must
+    be ingested. Replenishes 4u of blood per unit.
+-   **20 Iron, 20 Nutriment, 20 Protein**: The three reagents mentioned
+    above in one 60u pill, which can replenish blood rather quickly as
+    there are three separate reagents.
+-   **IV Drip with compatible blood**: Bloodbags can hold 200u of blood
+    (a little less than half a patient's total blood volume) and is
+    generally the best method of replacing blood.
+
+### Infection
+
+Infections sprout when a wound isn't treated and disinfected in time,
+and is accompanied by a fever (check temperature). If left alone,
+infections can rapidly kill a patient, even exponentially if it's bad
+enough. Infections are commonly identified by means of the body scanner.
+The following are the levels of infection:
+
+-   **L1 (Mild)**: Pain messages and the start of fever.
+-   **L2 (Acute)**: More pain messages, infection becomes more prevalent
+    and visible.
+-   **L3 (GANGRENE)**: Beginning of lethal toxins, organ death, and
+    necrosis.
+
+The following are some symptoms of infection based on where it's
+located:
+
+-   **Meningitis (Brain)**
+    -   L1: Stiff neck
+    -   L2: Severe headache (+1 confusion at random intervals)
+-   **Conjunctivitis (Eyes)**
+    -   L1: Itchy eyes
+    -   L2: Blurred vision (+10 eye\_blurry at random intervals)
+-   **Endocarditis (Heart)**
+    -   L1: Chest tightness
+    -   L2: Chest pain (+25 halloss)
+-   **Pyelonephritis (Kidneys)**
+    -   L1: Lower back pain
+    -   L2: Malaise
+-   **Pyogenic Abscess (Liver)**
+    -   L1: Right side abdomen pain
+    -   L2: Poor blood filtration (toxins buildup)
+-   **Pneumonia (Lungs)**
+    -   L1: Coughing
+    -   L2: Shortness of breath (+30 oxyloss)
+-   **Staph Infection (All external limbs)**
+    -   L1: Pain notificiation
+    -   L2: Sharp pain temporarily disables limb
+
+L2 infections and lower require only 15u of
+[Spaceacillin](/wiki/Guide_to_Chemistry#Medicine "wikilink") and monitoring.
+L3 infections require that Spaceacillin be **overdosed (45u)**
+immediately with Carthatoline to accompany the high toxins. If Carth is
+unavailable, stack Dylovene and Tricordrazine together.
+[Corophizine](/wiki/Guide_to_Chemistry#Medicine "wikilink") can treat
+infections at any stage before total organ necrosis, and works faster
+than Spaceacillin, but is disabling and uncomfortable to the patient,
+and has other side-effects. The following will go over further necessary
+treatments:
+
+-   **Limb gangrene**:
+    -   Conduct [necrotic limb
+        repair](/wiki/Surgery#Necrotic_Limb_Repair "wikilink").
+-   **Organ necrosis**:
+    1.  Request a replacement synthetic organ from Research immediately.
+        Alternatively you may grow a sleeve of the patient and harvest
+        the sleeve's organ **with the patient's consent.**
+    2.  [Remove the organ via surgery and replace it with the synthetic
+        counterpart](/wiki/Surgery#Organ_Removal.2FTransplantation "wikilink")
+        (good luck if it's the heart).
+
+    -   If the brain or heart (unless you're fast) is necrotic, the
+        patient will need to be resleeved.
+
+**A note about necrosis**: If an organ is allegedly necrotic (namely on
+a printout) but the patient's temperature is normal and there was no
+previous infection, then *surprisingly* the organ isn't actually
+necrotic at all.
+
+### Fractures
+
+Bones fractures can be separated by three identifications: hairline,
+fracture, and broken. These three different types of fractures no longer
+play any part mechanically, though from an RP standpoint, hairline is
+the least severe while broken is the most severe (and therefore
+painful). Fractures can, however, deal damage to organs if they move
+around. Treatment for fractures is listed below:
+
+-   **[Splints](/wiki/Medical_Items#Splint "wikilink")**: A half-cast that
+    keeps the fractured bone in place and prevents it from moving.
+    **This is a temporary remedy,** and requires the following to
+    actually treat...
+-   **[Surgery](/wiki/Surgery#Bone_Repair "wikilink")**: By means of bone gel
+    and bone setter (or boneclamp if you have one), a fracture can be
+    mended rather quickly.
+-   **Osteodaxon**: A rare medicine requiring some
+    [magic](/wiki/Guide_to_Chemistry#Vorestation_specific_recipes "wikilink")
+    to obtain the precursors for, this medicine can heal fractures
+    without surgery (provided the target limb's damage isn't above the
+    fracture threshold). Do note, however, that it will cause severe
+    pain, and should probably have Tramadol administered alongside it.
+
+#### Dislocations
+
+Not actually a fracture or even a problem related to surgery, but it
+will function as a fracture in that the limb will become incapacitated.
+Fixing it simply requires that you stand next to the patient and use the
+'Undislocate-Joint' verb. If there are multiple dislocations, a prompt
+will appear asking which limb you would like to relocate.
+
+Resleeving
+==========
+
+<small><i>See also: [Resleeving](/wiki/Resleeving "wikilink")</i></small>
+
+Similar to cloning, Resleeving is a method of reviving someone - to an
+extent - via technology provided to Nanotrasen by
+[KHI](/wiki/Kitsuhana_Heavy_Industries "wikilink"). Perhaps the main
+difference between cloning and resleeving is that the mind records are
+kept separate from the body records, granting the ability to create
+custom sleeves to put yourself into without the need for brain
+transplant surgery (which would probably fail anyway due to organ
+rejection). Mind records are primarily maintained via backup implants
+provided by medical in reception which will backup the mind state of the
+patient periodically, with the added benefit of informing medbay staff
+over the medical frequency if an implant has ceased function, implying
+the patient has died. Legacy one-time mind scans are available with a
+SleeveMate, though, if patients don't like blinking pieces of metal in
+their necks.
+
+### Resleeving Procedure
+
+The following steps will entail how to correctly resleeve a patient
+without error.
+
+1.  Listen for the chime over the medical frequency about a patient's
+    backup implant ceasing to function. This may take fifteen minutes
+    after they have died. Alternatively, follow the rest of this guide
+    if a patient you are caring for has died and cannot be resuscitated.
+    -   Someone who may or may not be related to the patient's death
+        (which isn't any of your business anyway) may arrive with some
+        of their items in a bag. Take the bag with you but do not look
+        inside.
+2.  **Check the patient's records.** If there is a Do Not Resuscitate or
+    Do Not Resleeve (commonly known as a DNR), then simply heed any
+    postmortem instructions provided in the records.
+    -   If no postmortem instructions are provided, place the body in a
+        body bag with a toe tag including name and transfer to the
+        morgue.
+    -   A DNR may also be issued by the CMO if it is reasonable (e.g.
+        not "lol don't resleeve them they're a butt") or Central Command
+        as long as hard evidence is supplied that the patient has
+        committed suicide willingly.
+3.  If the patient lacks a mind record and their body is still intact,
+    scan their cadaver with a SleeveMate and select **Mind-Scan (One
+    Time)**. A mind record with their name should appear shortly.
+4.  Operate the console and **ensure the mind scan is present** before
+    growing the body.
+5.  Begin growing the body and tint the resleeving lab's windows.
+6.  Once the body has been ejected from the growing tube, place it in
+    the cryogenics tube and turn it on until their health reads 100%
+    -   Assuming the growing tube hasn't been upgraded by research, the
+        patient will be ejected with roughly 20% health due to genetic
+        damage. There's a chance they may also have mutations.
+    -   It may be a good idea to give the patient a pill of 1u of
+        Ryetalyn to immediately fix any mutations, including blindness
+        and deafness.
+7.  Eject the patient from the cryo tube and **place a uniform from the
+    spare clothing locker on them.** If you were given a backpack with
+    the patient's items, place their backpack on their back slot.
+8.  Place the patient in the resleeving tube and sleeve their mind into
+    their body. Eject from the tube and buckle them to the nearest
+    chair.
+
+### Post-Resleeving Procedure
+
+The following steps entail how to handle the patient once they are
+conscious post-resleeving. Failure to heed these instructions may
+jeopardize the patient's mental well being and the credibility of your
+medical license.
+
+1.  Shake the patient awake if they aren't already.
+2.  Ask how the patient is feeling, where they are/why they are there,
+    find out what they already know regarding their current situation.
+3.  Start with telling them that you have some bad news.
+    -   This is considered a 'warning shot' and will prepare the patient
+        to take in negative information.
+4.  Follow with informing them that they have been resleeved.
+    -   Keeping this simple for the patient to understand is important.
+        **Misinformation may be detrimental to the patient.**
+5.  Allow the patient to process this information. Some may understand
+    and be fine, others may be furious or complain, others may just
+    stare blankly and really just want to run out the door to get eaten
+    again <s>and waste your frikkin biomass</s>.
+6.  Ask the patient if they have any questions or concerns. If they ask
+    a question that you do not know the answer to, then inform them that
+    you cannot answer it. **Avoid speculation.**
+7.  Advise the patient to relax for a while and inform them of the side
+    effects of resleeving (generally fatigue).
+
+**Remember**: They are not a *clone,* they have only *been cloned,* in a
+sense. They are still themselves.
+
+### Carding
+
+If a patient doesn't have a body record and their previous body is no
+longer present or intact, then sleeving a mind record into a card may be
+necessary to help them design a new body (which will be discussed
+shortly). Sleeve cards are fully aware of their surroundings and
+situation and are even able to speak, but cannot do anything beyond
+that. There's no real reason to use this feature short of the reason
+above.
+
+### Body Design
+
+The body design console is located in the reception area of medbay and
+can be used by anyone, allowing them to design a body similar (but
+clunkier) to what they can do in character creation. This may also be
+used in case a patient doesn't have a body record and needs a new one
+designed. Once a body is designed it will need to be saved to a disk,
+which are kept in a box on a table behind the windows. Simply insert the
+disk, save the data onto it, eject it, then insert it into the
+resleeving console to grow.
+
+Races
+=====
+
+There are many races on Virgo, even a race that lets you make your own
+(kinda)! Custom Species aside, some of the vanilla races react a little
+differently to different treatments. For the purpose of this guide,
+humans will be used as a base species to compare for the rest of them.
+
+### [Human](/wiki/Human "wikilink")
+
+-   Brute Modifier: 1
+-   Burn Modifier: 1
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: Monkey
+
+Hairless apes that are smart <s>somehow</s>. Would probably make up most
+of the (consistent) population of most stations.
+
+### [Skrell](/wiki/Skrell "wikilink")
+
+-   Brute Modifier: 1
+-   Burn Modifier: 1
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: Neaera
+-   Bleed 50% faster.
+-   Take 10% less damage from overdoses.
+
+### [Unathi](/wiki/Unathi "wikilink")
+
+-   Brute Modifier: 0.85
+-   Burn Modifier: 0.85
+-   Total Health: 125
+-   Blood Volume: 840
+-   Primitive Form: Stok
+-   Have 'ribplates' on their torso and lower body, which must be cut
+    through in order to conduct any surgery in those areas.
+-   Less likely to suffer fractures, requiring higher brute values to
+    break a bone.
+-   Lack kidneys and appendix, the liver making up for their absence.
+-   Less slowdown from wearing heavy items (e.g. duffle bags)
+-   Bleed 25% slower.
+
+### [Tajaran](/wiki/Tajaran "wikilink")
+
+-   Brute Modifier: 1.15
+-   Burn Modifier: 1.15
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: Farwa
+
+Bipedal <s>catbeasts</s> furred feline-esque creatures hailing from a
+cold planet.
+
+### [Teshari](/wiki/Teshari "wikilink")
+
+-   Brute Modifier: 1.35
+-   Burn Modifier: 1.35
+-   Total Health: 50
+-   Blood Volume: 400
+-   Primitive Form: N/A
+-   Can breathe 12 kPa of oxygen from internals instead of 16 kPa.
+
+### [Sergal](/wiki/Sergal "wikilink")
+
+-   Brute Modifier: 1
+-   Burn Modifier: 1
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Forms: Saru
+
+Hungry triangle-faced beings.
+
+### [Akula](/wiki/Akula "wikilink")
+
+-   Brute Modifier: 1
+-   Burn Modifier: 1
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: Sobaka
+
+Shark-esque species raised alongside the Skrell.
+
+### [Vulpkanin](/wiki/Vulpkanin "wikilink")
+
+-   Brute Modifier: 1
+-   Burn Modifier: 1
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: Wolpin
+
+Foxes. That's about it.
+
+### [Vox](/wiki/Vox "wikilink")
+
+-   Breathes phoron. Liquid phoron is basically a Vox's version of
+    Dexalin Plus.
+-   **Actual Dexalin is lethal to Vox**, and may result in organ damage
+    if injected.
+-   Different internal organs than most other species:
+    -   Head, Brain - Prosthetic brain
+    -   Torso, Lungs - Air capillaries
+    -   Torso, Liver - Waste tract
+    -   Torso, Kidneys - Filtration bladder
+    -   Abdomen, Heart - Vox heart
+-   **Cannot be resleeved**, once they are dead, their body cannot be
+    grown and will just have to take place off-station.
+
+### [Promethean](/wiki/Promethean "wikilink")
+
+-   Brute Modifier: 0.75
+-   Burn Modifier: 2
+-   Total Health: 120
+-   Blood Volume: None, mechanically
+-   Primitive Forms: Slime
+-   Regenerates damage at 0.2 per tick.
+-   Can regenerate lost limbs.
+-   Cannot suffocate.
+-   No internal organs sans slime core, which is their brain located in
+    their chest. Healed with Alkysine.
+-   Require a Bio-Adaptive NIF if they want a NIF at all.
+    -   Can implant a NIF into them by just slam dunking it into their
+        face.
+-   Being covered in water will inhibit a Promethean's ability to
+    regenerate.
+-   Prometheans Melt on death. They can be revived by injecting their
+    core with 40u Phoron.
+
+### [Nevrean](/wiki/Nevrean "wikilink")
+
+-   Brute Modifier: 1
+-   Burn Modifier: 1
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: Sparra
+
+Bird people with beaks that don't smell. Tweet tweet.
+
+### [Zorren](/wiki/Zorren "wikilink")
+
+-   Brute Modifier: 1
+-   Burn Modifier: 1
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: N/A
+
+Found around Virgo or something.
+
+### [Vasillisan](/wiki/Vasillisan "wikilink")
+
+-   Brute Modifier: 0.8
+-   Burn Modifier: 1.15
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: N/A
+
+Spider people. Not much is really known <s>because their development is
+on hold I guess</s>.
+
+### [Rapala](/wiki/Rapala "wikilink")
+
+-   Brute Modifier: 1
+-   Burn Modifier: 1
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: N/A
+
+Birb people but more human.
+
+### [Diona](/wiki/Diona "wikilink")
+
+-   Regenerates health and nutriment when in light.
+-   Can soak lots of different types of damage.
+-   Most reagents have little to no effect on a Diona
+-   Plant-B-Gone severely poisons a Diona.
+-   Doesn’t have internal organs and isn’t affected by broken limbs.
+-   Cannot feel pain.
+-   **Cannot be resleeved.**
+
+### [Xenochimera](/wiki/Xenochimera "wikilink")
+
+-   Brute Modifier: 0.8
+-   Burn Modifier: 1.15
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: N/A
+-   Damage, Pain, and Low Nutrition are all **Feral Triggers**
+-   Jitteriness mildly contributes to Feral-ness.
+-   When Feral, lights cause hallucinations.
+    -   They'll generally flee to dark areas like maintenance tunnels.
+-   Can self-repair damage at the cost of time and nutriment, actual
+    medical treatment will generally be faster.
+-   Can revive self, if liquid nutriment is present in bloodstream.
+-   If Feral: Put in dark area, give food, attempt to fix injuries/pain.
+-   **Cannot be resleeved.**
+
+### [Xenomorph Hybrid](/wiki/Xenomorph_Hybrid "wikilink")
+
+-   Brute Modifier: 1
+-   Burn Modifier: 1
+-   Total Health: 100
+-   Blood Volume: 560
+-   Primitive Form: N/A
+
+Just a human mixed with xeno DNA. <s>Why is this whitelisted again?</s>
+
+Loadout
+=======
+
+Improving the likelihood of a patient's survival depends not only on
+your medical knowledge but also on what's available to you, particularly
+medicines and equipment on your person. The following will go over
+optimal loadouts used by many doctors, though nothing is stopping you
+from experimenting; these are merely recommendations, and it may do well
+to inquire other experienced medical players as to what their loadout
+is.
+
+Necessary Equipment
+-------------------
+
+The equipment that most doctors have equipped:
+
+-   ![](PGlasses.png "fig:PGlasses.png") A pair of [AR-M
+    glasses](/wiki/Medical_Items#AR-M "wikilink") can evaluate someone's
+    health from a glance, and even hide the health bar if their health
+    is at 100%. Can also show the patient's job icon next to the health
+    bar, but probably the biggest step up from regular HUDs is the fact
+    that it can view suit sensors in a new window. Can also view patient
+    records, allows you to set their physical status (useful for setting
+    patients to SSD or deceased), and allows you to add comments to a
+    patient's record.
+-   ![](Medicalbelt.png "fig:Medicalbelt.png") A [Medical
+    Belt](/wiki/Medical_Items#Medical_Belt "wikilink") to store your
+    medicines. Has seven slots and is obviously worn around the belt
+    slot.
+-   ![](Bottles.gif "fig:Bottles.gif") Bicaridine, KeloDerm/Dermaline,
+    Dexalin Plus, Dylovene, and Tramadol placed in your belt.
+-   ![](Syringes.png "fig:Syringes.png") A syringe to extract said
+    medicines. **Ensure that you are not sharing the same syringe
+    between patients.** Holds 15u and draws/injects by 5u with each
+    click. Can fit on your ear.
+-   ![](Traumakit.png "fig:Traumakit.png")![](Burnkit.png "fig:Burnkit.png")
+    [Advanced Trauma and Burn
+    Kits](/wiki/Medical_Items#Advanced_Trauma_Kit "wikilink") to help with
+    brute and burn wounds respectively, along with disinfecting them.
+    Typically found in the advanced kit that you spawn with.
+-   ![](Healthanalyzer.png "fig:Healthanalyzer.png") A [Health
+    Analyzer](/wiki/Medical_Items#Health_Analyzer "wikilink") for a more
+    in-depth analysis of someone's health. Gives precise numbers as to
+    someone's brute, burn, toxin, and oxy damage, and can even tell if
+    someone has genetic, radiation, or brain damage, though not how
+    much. Will also inform the user if the patient has fractures or
+    internal bleeding, but not their location.
+-   ![](Labcoat.png "fig:Labcoat.png") A
+    [Labcoat](/wiki/Medical_Items#Labcoat "wikilink") as per [Standard
+    Operating Procedure](/wiki/Standard_Operating_Procedure "wikilink"). Has
+    storage space on the inside of the coat and allows you to use the
+    suit storage slot.
+-   ![](LGloves.png "fig:LGloves.png") A pair of [Latex or Nitrile
+    gloves](/wiki/Medical_Items#Latex_Gloves "wikilink") as per SOP and to
+    prevent infection.
+-   ![](Stasis_Bag_Folded.png "fig:Stasis_Bag_Folded.png") A [Stasis
+    Bag](/wiki/Medical_Items#Stasis_Bag "wikilink") to transport critical
+    patients. Note that these bags don't halt damage at all like what
+    you may be used to, rather they instead slow it down greatly. They
+    also have a limited air supply, about <s>fifteen</s> SIX MINUTES
+    WORTH OH GOD WHY, meaning time is still of concern, and taking a
+    patient out of the bag will crumple the bag up and make it useless.
+    Two things to note, however: you can scan the patient's vitals
+    through the bag simply by clicking it with the health analyzer, and
+    you can load a syringe into the bag to inject into the patient,
+    which can later be retrieved by using a screwdriver on the bag.
+
+Additional useful equipment is as follows:
+
+-   ![](WWebbing.png "fig:WWebbing.png") [Webbing/Drop
+    Pouches](/wiki/Medical_Items#Webbing.2FDrop_Pouches "wikilink") to store
+    more items. Webbing and drop pouches are mechanically the same, the
+    only difference being the name and sprite. Attaches to the uniform,
+    found in the accessories section of the loadout tab in character
+    setup.
+-   ![](Stethoscope.png "fig:Stethoscope.png") A
+    [Stethoscope](/wiki/Medical_Items#Stethoscope "wikilink") to diagnose
+    heart and lung injuries. Attaches to the uniform.
+-   ![](Rollerbed.png "fig:Rollerbed.png") A [Roller
+    Bed](/wiki/Medical_Items#Roller_Bed "wikilink") to transport patients
+    safely without dragging. Simply control click the bed, then
+    click-drag a patient onto the bed and you can start running without
+    having to hunt for pixels to pull it. Fits on your back, though it
+    should probably be in your backpack.
+-   ![](PFreezer.png "fig:PFreezer.png") A [Portable
+    Freezer](/wiki/Medical_Items#Portable_Freezer "wikilink") to store organs
+    should someone gib or otherwise have their organs removed.
+-   ![](Defib.gif "fig:Defib.gif") A
+    [Defib](/wiki/Medical_Items#Defibrillator "wikilink") to resuscitate
+    patients that have recently died. Must go on your back in order to
+    use, on top of having the other hand empty to use the paddles. May
+    need to be recharged after each use.
+-   ![](Sleevemate.png "fig:Sleevemate.png") A
+    [SleeveMate](/wiki/Medical_Items#SleeveMate_3200 "wikilink") to scan the
+    minds/bodies of cadavers if they have no records present in the
+    resleeving console.
+
+Machinery
+=========
+
+Medical has quite a few bits and pieces of stationary equipment to help
+with the workflow, most of which are elaborated on here:
+
+### ![](Bscanner.gif "fig:Bscanner.gif")![](Bscanner_console.gif "fig:Bscanner_console.gif")Body Scanner
+
+Pretty much a CT and MRI scanner shoved into one futuristic bed and
+console, and so much more! This is probably one of the most vital pieces
+of equipment for Medical as it can diagnose pretty much anything wrong
+with a patient. Some things it can do are, but not limited to:
+
+-   Provide information on all of the damage types.
+-   How much blood the patient has.
+-   Show what reagents are in the stomach/blood stream, and how much
+    there is.
+-   Give a detailed analysis of each limb, including fractures, internal
+    bleeding, the presence of implants, and if there are foreign bodies
+    in the limb.
+-   Print condensed information to hand to a physician in the event the
+    patient requires surgery.
+
+### ![](Sleeper.gif "fig:Sleeper.gif")![](Console.gif "fig:Console.gif")Sleeper
+
+Next to - or at least not far away from - the body scanner are sleepers,
+beds that specialize in treating most side effects of trauma, but are
+otherwise an endless reservoir of some basic medicines. Some features of
+the sleeper are:
+
+-   Gives estimated readout of patient's health by means of number
+    values and colored bar graphs.
+-   Allows the injection of:
+    -   Dylovene
+    -   Inaprovaline
+    -   Paracetamol
+    -   Dexalin
+-   Can conduct dialysis on a patient to remove anything that isn't
+    blood (such as toxins, but medicines are included in this) from
+    their blood stream.
+-   Stasis ability, with multiple settings to decide how slow the
+    patient's body should take damage or process reagents.
+    -   The lowest setting skips 99 of 100 life ticks.
+
+### ![](Cryo.gif "fig:Cryo.gif")Cyrogenics
+
+A true marvel of Medical are it's cryogenic tubes, allowing the use of
+certain medicines that can only be used at sub-zero temperatures, namely
+Cryoxadone and Clonexadone, which are both capable of healing lots of
+damage over time. If not for healing genetic damage, it should be noted
+that one unit of medicine taken from the tube's beaker is multiplied
+into ten units inside the patient!
+
+#### ![](Freezer.gif "fig:Freezer.gif")How to Setup
+
+While a nice piece of equipment indeed, it requires some prep in order
+to use it to it's full capacity, namely putting the beakers in and
+setting the gas cooler. Placing the beakers inside the cryo tube is as
+simple as taking the beakers on the table in hand and clicking on the
+tubes with them. As for the gas cooler, head to the storage room and
+take the stairs to secondary storage. On the west side of the room is a
+gas cooler, just click on it and set the temperature between 10 and 80
+Kelvin, though no lower or higher. Too low could draw a lot of
+unnecessary power, while setting it too high may slow down how fast the
+medicine inside the patient can work.
+
+### ![](Clone.gif "fig:Clone.gif")![](Resleevingpod.gif "fig:Resleevingpod.gif")Resleeving Pods
+
+Probably the second most used pieces of equipment, these machines are
+what keep the crew from staying dead<s>, particularly when they get
+eaten</s>. See the Resleeving heading above about how to use this.
+
+Facilities
+==========
+
+Medical has a rather large department, which is good because some
+situations may require having a lot of room to work in. Below are the
+facilities inside the Medical department.
+
+Asteroid 3
+----------
+
+### Reception
+
+This is the entrance to medbay and where most doctors will probably wait
+by sitting behind the desk, and where many patients will move to if they
+are injured and seeking help, or if they just want an implant. Some
+features of the room are:
+
+-   Two crew monitoring consoles.
+-   A body design console.
+-   A medical records console.
+-   Four backup implanters.
+-   A SleeveMate.
+-   Three roller beds.
+-   A first aid kit.
+-   Two shortwave radios.
+
+### Emergency Treatment Center
+
+Also known as the ETC, this is the most frequented area of medical for
+conducting treatments. Some features are:
+
+-   The body scanner, along with a filing cabinet to store scan records.
+-   Two sleepers.
+-   Two cryogenic tubes.
+-   Two rechargers.
+-   A defibrillator.
+-   Two roller beds.
+-   An IV drip with O- blood bag cabinet.
+-   A requests console.
+-   Two bottles of space cleaner.
+
+### Resleeving Lab
+
+The lab where crew are resleeved whenever they [suffer tragic
+accidents](/wiki/Guide_to_Vore "wikilink"). Some features are:
+
+-   The resleeving console, which manages body and mind records.
+-   The growing pod, which synthesizes a body similar to the body record
+    provided.
+-   The resleeving pod, which sleeves the latest mind record of the
+    patient into the body inside the pod.
+-   A cryogenic tube to heal bodies with genetic damage.
+-   A locker with spare radios and jumpsuits.
+-   A SleeveMate.
+-   Some penlights to diagnose certain mutations.
+
+### CMO's Office
+
+Perhaps the smallest office of all heads of staff. Some features are:
+
+-   A medical records console.
+-   An employment records console.
+-   [Runtime](/wiki/Critters#Pets "wikilink"), the medbay cat.
+-   The CMO's locker.
+-   Several lockdown switches.
+-   A fax machine.
+-   A requests console.
+
+### Recovery Ward
+
+A large room with windows on the edge of the asteroid, giving a good
+view of space <s>and letting the occasional space carp know who's on the
+menu</s>. Some features are:
+
+-   Six beds.
+-   A NanoMed.
+-   A medical records console.
+-   A stasis bag.
+-   A restroom facility to the west.
+
+### Examination Room
+
+Essentially a larger patient room with a few tools to diagnose trivial
+ailments. Good place to update someone's medical records. Some features
+are:
+
+-   A stethoscope.
+-   A clipboard, paper bin, and pen to write notes on.
+-   A medical records console.
+-   A cane.
+-   A bed.
+-   A wheelchair.
+-   A personal locker.
+
+### Patient A, B, and C
+
+Small rooms with doors that have their access restrictions removed, but
+are otherwise quite cramped. Some features are:
+
+-   A medical records console.
+-   A bed.
+-   A personal locker.
+
+### Primary Storage
+
+Located pretty much in the middle of medbay, this room is mostly used
+either to get to Chemistry or to go down to Secondary Storage. Some
+features are:
+
+-   Some medkits.
+-   Some stasis bags.
+-   A NanoMed.
+-   Two wheelchairs.
+-   A box of Medical NIFSoft disks.
+-   An IV drip.
+-   A prescription glasses kit.
+
+### Chemistry
+
+The lab that produces invaluable medicine for doctors. Some features
+are:
+
+-   Three chem dispensers.
+-   Three ChemMasters.
+-   Three large beakers.
+-   A reagent grinder.
+
+### Operating Theatre 1
+
+A roomy operation room to conduct surgery, usually with two surgeons.
+Some features are:
+
+-   An operating console and table.
+-   Two scalpels.
+-   Two hemostats.
+-   Two retractors.
+-   Two surgical saws.
+-   Two surgical drills.
+-   Two Fix'O'Veins.
+-   One bone gel.
+-   Two bone setters.
+-   Two advanced trauma kits.
+-   Nanopaste.
+-   Anesthetics closet.
+-   An IV drip.
+-   A bottle of space cleaner.
+
+### Operating Theatre 2
+
+A smaller but still comfortable operating room for one surgeon to use.
+Some features are:
+
+-   An operating console and table.
+-   One scalpel.
+-   One hemostat.
+-   One retractor.
+-   One surgical saw.
+-   One surgical drill.
+-   One Fix'O'Vein.
+-   One bone gel.
+-   One bone setter.
+-   Two advanced trauma kits.
+-   Anesthetics closet.
+-   An IV drip with O- blood bag.
+-   A bottle of space cleaner.
+
+### Psych Room
+
+The domain of the psychologist, large and comfortable with wood flooring
+and carpet. Some features are:
+
+-   A medical records console.
+-   Some bookshelves.
+-   Some therapy dolls.
+-   A couch and chair.
+
+Asteroid 2
+----------
+
+### Secondary Storage
+
+A larger storage area that can be reached by taking the stairs from
+Primary Storage. Some features are:
+
+-   Two advanced kits.
+-   Two burn kits.
+-   Two toxin kits.
+-   Two oxy kits.
+-   Two random kits.
+-   A defibrillator.
+-   A gas cooler with three oxygen canisters connected.
+-   Three roller beds.
+-   Some medical belts.
+-   Some stethoscopes.
+-   Two toolboxes.
+-   Some stasis bags.
+-   A radiation suit.
+-   A crate of grenade casings, igniters, and timers.
+-   A SleeveMate.
+-   A straight jacket and muzzle.
+
+### Morgue
+
+Where cadavers in body bags go if they cannot be resuscitated, or have
+records stating not to resuscitate. Some features are:
+
+-   Eleven morgue trays.
+-   An operating table with autopsy scanner, scalpel, and cautery.
+-   A filing cabinet for autopsy reports.
+-   A camera.
+-   Two boxes of body bags.
+-   A SleeveMate.
+
+### Break Room
+
+A medium sized room with a few vendors and seats to allow staff to have
+a comfortable break. Some features are:
+
+-   Four vendors.
+-   A microwave with donk pockets.
+-   Two washing machines.
+-   A handheld translator.
+-   A recharger.
+-   A deck of cards.
+-   A restroom facility to the west.
+
+### EMT Bay
+
+A small area for paramedics/EMTs to prepare for work. Some features are:
+
+-   Two disassembled voidsuits.
+-   A suit cycler.
+-   Two oxygen tanks.
+-   Two suit coolers.
+-   A toolbox with multitool.
+-   A compact defibrillator.
+-   A Rescue Hardsuit.
+
+### Virology
+
+A really large area to handle viral triage, research pathogens, and
+develop cures. Some features are:
+
+-   Two incubators.
+-   Two antibody centrifuges.
+-   A pathogenic isolator.
+-   A pathogen analyzer.
+-   A virus food dispenser.
+-   A monkey cube box.
+-   A checkpoint airlock.
+-   A decontamination airlock.
+-   A virus ward with four beds and a few vendors.
+-   Two isolation cells.
+-   Disposal chutes that lead to space.
+-   **No virus samples.**
+
+### Medbay Escape Shuttle
+
+A shuttle that unlocks if an evacuation order is called, along with a
+few pieces of equipment capable of sustaining patients that require
+further medical treatment. Some features are:
+
+-   A cryogenic tube.
+-   A sleeper.
+-   A wall mounted NanoMed.
+-   Two roller beds.
+
+Surface 3
+---------
+
+### Surface Triage
+
+Essentially a mini-medbay on the surface of Virgo-3B, conveniently on
+the same floor as the bar. Rarely manned, though. Some features are:
+
+-   Four backup implanters.
+-   A crew monitoring console.
+-   Some randomized medkits.
+-   A body scanner.
+-   A sleeper.
+-   Some stasis bags.
+-   A SleeveMate.
+-   Three roller beds.
+-   A NanoMed.
+-   A defibrillator.
+-   A recharger.
+
+Surface 1
+---------
+
+### First Aid Station
+
+This isn't actually expected to be manned, this is just the first place
+people go that didn't fare so well from EVAing out onto the surface.
+Some features are:
+
+-   A sleeper.
+-   A roller bed.
+-   A defibrillator.
+-   A recharger.
+-   A first aid kit.
+
+Goodies From Departments
+========================
+
+Medical has interactions with other departments besides just treating
+their injuries, surprisingly enough. Research can fabricate new tools
+and equipment, Cargo can order important medical stuff, and Security can
+try to get you to break the Non-Disclosure Policy.
+
+Research
+--------
+
+Research, provided there are miners available, can fabricate a number of
+nice tools for Medical, most of which will be described here:
+
+### Surgical
+
+-   ![](Scalpmanager.png "fig:Scalpmanager.png")**Incision Management
+    System (IMS)**: Requires high tier research and diamonds, but this
+    tool is invaluable to have. One click can create an incision, clamp
+    bleeders, and retract the skin at the same time!
+-   ![](Boneclamp.png "fig:Boneclamp.png")**Boneclamp**: Requires silver
+    but another amazing instrument to have. Repairs a bone completely in
+    one click, though this will not work for the skull or rib cage
+    without one use of bone gel, otherwise bone repair surgery can be
+    conducted in three clicks with an IMS.
+-   ![](Laserscalp.png "fig:Laserscalp.png")**Laser Scalpel**: Different
+    versions depending on what's available to Research, but this
+    basically works as a scalpel and hemostat combined when opening an
+    incision.
+
+### Chemistry
+
+-   ![](BSBeaker.gif "fig:BSBeaker.gif")**Bluespace Beaker**: Requires
+    diamonds but is immensely useful for chemistry, holding 300u over
+    it's non-bluespace counterpart which can only hold 120u.
+-   ![](CryoBeaker.gif "fig:CryoBeaker.gif")**Cryostasis Beaker**:
+    Reagents won't mix or react inside this beaker, but it can only hold
+    60u. Not very useful outside of easier grenade production.
+-   ![](Pinkbabyslime.gif "fig:Pinkbabyslime.gif")**Pink Slime
+    Extract**: Pink slimes are essentially smarter medibots, but their
+    extract is what we're mostly interested in; injecting 5u of blood
+    will create 30u of Myelamine, while injecting 5u of phoron will
+    create Osteodaxon. Simply grind the core in the grinder to extract
+    the reagents.
+
+### Quality of Life
+
+-   ![](Mecha_odysseus.png "fig:Mecha_odysseus.png")**Odysseus**: A
+    medical mech with three attachments available, usually a syringe gun
+    with two sleepers. Probably the most important feature is the mech's
+    ability to **scan reagents and synthesize them**, allowing you to
+    replicate rare medicines.
+-   ![](Powercell.png "fig:Powercell.png")**Super Capacity/Hyper
+    Capacity Power Cells**: A few pieces of equipment, namely the Defibs
+    and [Rescue RIG](/wiki/Hardsuit#Rescue_Hardsuit "wikilink"), use power
+    cells to function. Replacing the defib cells will allow more
+    consecutive uses without having to recharge while upgrading the
+    RIG's cell will allow the user to use it's modules more without
+    worrying about losing power after a few uses.
+-   ![](AdvancedBedFolded.png "fig:AdvancedBedFolded.png")**Advanced
+    Roller Bed**: Essentially a regular roller bed but with
+    Scientific(!) blue acrylic paint smeared over it, somehow reducing
+    it's size to better fit in your backpack. Just a smaller bed, pretty
+    much.
+-   ![](Medibot.gif "fig:Medibot.gif")**Medibots**: Either helpful,
+    annoying, or totally useless. Swiping your ID over it will unlock
+    it's maintenance panel, allowing you to alter a few options. One
+    option that should be turned on is to report treatments over HUD,
+    while one option that should be turned off is the medibot's speaker
+    as leaving it on will probably make anyone go insane. Probably the
+    most important feature is allowing it to draw from a beaker that you
+    can insert, allowing you to make custom mixes. Unfortunately the bot
+    cannot tell the difference between any of the damage types, only
+    treating a patient once their overall health reaches a certain
+    threshold, therefore take care to **not load in medicines that the
+    patient can easily overdose on**.
+
+### Upgrades
+
+-   ![](Clone.gif "fig:Clone.gif")**Growing Pod**: Upgrading the growing
+    pod will result in patients that have less clone damage and less
+    chance for mutations, even to the point that all defects are gone
+    entirely. Basically saves a few seconds during the procedure, or
+    allows you to skip the cryogenics tube entirely.
+-   ![](Resleevingpod.gif "fig:Resleevingpod.gif")**Resleeving Pod**:
+    Upgrading the resleeving pod will result in less confusion and
+    dizziness for the patient, allowing the to become acquainted easier
+    with their situation.
+-   ![](Freezer.gif "fig:Freezer.gif")**Gas Cooler**: Upgrading the gas
+    cooler will allow it to cool the gasses for cryo quicker.
+
+Cargo
+-----
+
+Conveniently enough, Cargo is right next door to Medical, allowing quick
+exchanges of supplies and crates, most of which will be described here:
+
+-   ![](SMed.png "fig:SMed.png")**Clotting Kit**: A kit filled with
+    autoinjectors containing Myelamine, a medicine that can clot
+    internal bleeding. Rather expensive.
+-   ![](VMVoidsuit.png "fig:VMVoidsuit.png")**Vey-Med Voidsuit**: A
+    sleek voidsuit which is a pretty big step up from the regular
+    voidsuits that come stocked every shift.
+-   ![](Stasis_Bag_Folded.png "fig:Stasis_Bag_Folded.png")**Stasis
+    Bags**: Stasis bags are nice to have but there aren't many. In the
+    event Medical is running low, it's always a good idea to order more.
+-   ![](Scalpel.png "fig:Scalpel.png")**Surgical Tools**: If you have to
+    order this crate then something terrible has probably happened to
+    the other tools.
+-   ![](Implant_Case.png "fig:Implant_Case.png")**Virus Samples**:
+    Virology has no virus samples at the start of the shift, making your
+    job as a Virologist pretty much null. Ordering these crates requires
+    both the authorization and ID of the CMO.
+
+Security
+--------
+
+Security is an important department but also a rather nosy one. Aside
+from treating officers and their prisoners, there are some things that
+you need to remember when dealing with them. Note that Security isn't
+made up of bad people, and there are some instances where you'll want to
+call them in case something obviously terrible is happening in medbay.
+
+### Alert Codes
+
+-   <span style="color:green">**Code Green**</span>
+    -   Unless the patient consents or an officer has a warrant, Medical
+        cannot divulge information about the patient.
+    -   Warrants usually only give access to body scans and medical
+        records.
+    -   Warrants can request a psychiatric evaluation of a patient, but
+        officers are not permitted to listen in on the evaluation
+        itself.
+    -   Requesting the locations of individuals requires a very good
+        reason, or a warrant.
+-   <span style="color:blue">**Code Blue**</span>
+    -   Security does not need a warrant to access patient info such as
+        records, location, autopsies, or body scans. If it's relevant
+        and they ask for it, provide it.
+    -   Security still does not, however, have access to what a patient
+        divulged to a psychiatrist *unless* it's directly related to the
+        alert level elevation.
+-   <span style="color:red">**Code Red**</span>
+    -   You **need** to provide information about a patient upon request
+        as long as it's relevant.
+    -   Suspicious confessions from a psychiatric appointment should
+        probably be mentioned to security.
+
+### Charges
+
+-   **Trespassing**: If they aren't Medical and they don't have any
+    Medical personnel attending to them and they just ran in just
+    because they could, call Security. They don't need to be in medbay,
+    they'll get in the way of everything, and they pose a rather large
+    risk to patient confidentiality.
+-   **Neglect of Duty**: If the chemist makes only a few bottles of
+    medicine and rushes elsewhere to do something less productive then
+    you can probably smash this charge over their head. Doctors hanging
+    out in the bar instead of manning the medbay when there's patients
+    awaiting treatment? Neglect of duty, maybe even manslaughter if a
+    patient dies as a result.
+-   **Disrespect to the Dead**: Doing anything to a corpse outside of
+    what's elaborated on in their postmortem instructions may land you
+    with this charge, though this mostly only applies when someone
+    decides to butcher, mutilate, or violate the body. Oh yeah, and
+    **EATING THE CORPSE FALLS UNDER THIS AS WELL.**
+-   **Animal Cruelty**: Monkeys are used for experimentation and
+    harvesting antibodies in the event there's a viral outbreak, though
+    some experiments aren't experiments in the slightest, particularly
+    when the experiment's data doesn't yield anything useful at all,
+    namely testing reagents to see what happens, pouring acid on a
+    monkey to see how fast they die, 'experimenting' with Mutagen, et
+    cetera. Experiment ideas should probably be pitched to the CMO
+    before it is conducted.
+-   **Suicide Attempt**: While there's no real legal consequence to
+    this, the patient will have to undergo a psychiatric evaluation with
+    supervision until the shift ends. If the patient is deemed too
+    unsafe to keep within medical then they will have to be transferred
+    to the brig.
+-   **Violating Employee Privacy/Breach of Medical Confidentiality**:
+    Essentially releasing any information to anyone who isn't the
+    patient or Medical staff without the patient's consent will land you
+    with breaching the patient's privacy. You cannot divulge a patient's
+    information to anyone, not even the Colony Director or CentCom if
+    they ask you unless it's Code Blue or higher.

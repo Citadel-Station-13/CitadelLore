@@ -1,0 +1,247 @@
+---
+title: SMES Manual
+permalink: wiki/SMES_Manual/
+layout: wiki
+---
+
+![](SMES.png "fig:SMES.png") ![](terminal.png "fig:terminal.png")
+Superconducting Magnetic Energy Storage (often shortened to SMES) is a
+device used to store electrical power. While SMES units are very
+effective, they are also expensive, requiring high end circuit board and
+expensive parts. If you need to quickly replace the SMES you may try
+using cheaper but less powerful Cell Rack PSU instead. SMES units may be
+upgraded to increase their capacity and/or maximal input/output levels.
+
+Configuration
+-------------
+
+SMES units may be configured via interface which is opened by
+left-clicking with empty hand on the SMES. Alternatively you may use the
+RCON console to operate most SMESs on station. The interface looks like
+this:  
+![](SMES_GUI.png "fig:SMES_GUI.png")
+
+### Input
+
+Each SMES needs terminal to operate properly. This terminal allows you
+to charge the SMES from one power network, and output into another one.
+By using apropriate controls in the GUI you may set any input value up
+to certain cap. This cap can be increased by upgrading the SMES unit, as
+described further in this guide. Also, please note that setting larger
+input than available will cause the SMES to enter "Partially Charging"
+state. This means the SMES is still charging, but not at set input rate.
+You may choose from two input options - OFF and AUTO.
+
+### Output
+
+The SMES outputs power into wire placed directly under it. Usually, you
+want to keep output lower than input, however sometimes you may have to
+increase output to compensate for larger demand. This is common with
+main [Engine](/wiki/Guide_to_Power#Engines "wikilink") SMES when setting up
+[Substations](/wiki/Guide_to_Power#SMES_Settings "wikilink"). The output rate
+is also capped and also upgradeable. You may choose from two output
+options which are self explanatory - ONLINE and OFFLINE.
+
+### Values
+
+<small><i>See also: [Guide to
+Power](/wiki/Guide_to_Power#SMES_Settings "wikilink")</i></small>
+
+These are example settings for few SMESs around the station. You may
+choose different settings, depending on available power and other
+factors. Try to consult the [Chief Engineer](/wiki/Chief_Engineer "wikilink")
+when unsure.
+
+| Location          | Input        | Output        | Other notes                                                                                                                       |
+|-------------------|--------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| Engine Room SMES  | 250kW, Auto  | 250kW, Online | Generally, you want the Engine SMES to be charged to ensure cooling will remain operational.                                      |
+| Main SMES         | 1000kW, Auto | 950kW, Online | You may have to lower the input if engine is producing less than 750kW. On the other hand, if it's producing more increase input. |
+| Atmospherics SMES | 250kW, Auto  | 250kW, Online | Some things, especially pumps, use large amounts of power. This means atmospherics needs a lot of power.                          |
+| Substation SMESs  | Variable     | Variable      | Refer to page [Substations](/wiki/Guide_to_Power#SMES_Settings "wikilink") for more information.                                        |
+
+Deconstruction
+--------------
+
+### Required tools
+
+-   ![](Screwdriver_tool.png "fig:Screwdriver_tool.png") Screwdriver
+-   ![](Crowbar.png "fig:Crowbar.png") Crowbar
+-   ![](Wirecutters.png "fig:Wirecutters.png") Wirecutters
+-   ![](Welderon.gif "fig:Welderon.gif") Welding Tool
+-   ![](Wrench.png "fig:Wrench.png") Wrench
+-   ![](Yellowgloves.png "fig:Yellowgloves.png") Insultated Gloves
+    (optional, but reccomended)
+-   ![](Multitool.png "fig:Multitool.png") Multitool (optional, only if
+    you decide to disable failsafes)
+
+### Preparations
+
+1.  First of all you should ensure the SMES is discharged. While there
+    is a workaround, it may (read: will) cause an injury and/or damage.
+2.  Open the SMES's interface by left clicking it. Ensure both Input and
+    Output are turned Off.
+3.  Use screwdriver on the SMES to open the access panel.
+4.  Use wirecutters on the SMES to cut the terminal. If the terminal is
+    missing (or destroyed) simply skip this step.
+
+### Deconstruction Steps
+
+1.  Complete everything in Preparations
+2.  (OPTIONAL) Use multitool on the SMES to disconnect safety circuit.
+    This step may be skipped if you completely discharged the SMES. **DO
+    NOT PROCEED IF SMES IS CHARGED ABOVE 50%**, usually, anything below
+    15% is safe(with gloves). Anything above 50% is likely to kill you.
+3.  Use crowbar on the SMES to begin removing the components. This may
+    take up to 60 seconds, depending on amount of coils in the SMES.
+    Basic SMESs should take approximately 10 seconds. SMES will turn
+    into machine frame and few components. You may use these components
+    for research or for repairs/upgrades.
+4.  Use wirecutters to remove cables from the machine frame
+5.  Use wrench to dismantle the machine frame
+
+SMES Failure
+------------
+
+Disabling failsafes, as outlined in Hacking section of this page may
+cause SMES Failure when removing the components (crowbar step), or
+adding new components (inserting new coils). Chance of "something bad"
+happening is directly proportional to SMES charge percentage. SMES
+charged to 75% has 75% probability of failing, etc. If this failure
+happens, effects are once again related to charge percentage.
+
+-   **Discharge** - (Always) The SMES will lose ALL it's remaining
+    charge.
+-   **Sparks** - (Always) Mostly harmless, some sparks will fly from the
+    SMES, potentionally igniting fire if flammable material is nearby.
+-   **Electrocution** - (Always) Shocks the user. Please note that while
+    insultated gloves mitigate the effect, they aren't guaranteed to
+    100% protect you. Damage scales with charge percentage. Anything
+    above 60% charge is instant-kill even with gloves.
+-   **EM Pulse** - (above 15% charge) Causes electromagnetic pulse which
+    breaks nearby electronics. This usually trips fire alarms, breaks
+    consoles, and may even kill/injure the AI/cyborgs/people with
+    prosthetics depending on situation. Size of EM Pulse is proportional
+    to amount of stored power.
+-   **APC Overload** - (above 35% charge) Overloads lighting circuits of
+    few APCs connected to the SMES's output. Please note that having
+    something between the SMES and APC (such as, another SMES) will
+    prevent the damage. Chance is proportional to amount of stored
+    power.
+-   **APC Failure** - (above 35% charge) Completely breaks few APCs in
+    SMES's output. Same rule as above applies.
+-   **Magnetic Containment Failure** - (above 60% charge) The worst
+    thing that can happen. If SMES's magnetic containment fails
+    remaining charge is released in form of violent explosion. The SMES
+    is completely destroyed, as well as few nearby tiles. This almost
+    always causes hull breach, and the explosion may gib you. After this
+    failure is triggered you have 30-60 seconds before the SMES blows
+    up.
+
+Hacking
+-------
+
+SMES units may be hacked to enable or disable various features. Remember
+to wear your ![](Yellowgloves.png "fig:Yellowgloves.png") protective
+equipment or risk injury. To access the wiring open front panel with
+screwdriver. Then click the SMES with empty hand to open up wiring
+window. There are five wires, which have randomized colours every round.
+
+-   Input - Cutting this will cause the SMES to stop inputting. Pulsing
+    will temporarily disable input.
+-   Output - Cutting this will cause the SMES to stop outputting.
+    Pulsing will temporarily disable output.
+-   RCON - Cutting this will disable RCON (Remote CONtrol), hiding the
+    SMES from control consoles. It also disables AI control. Pulsing
+    does nothing.
+-   Failsafes - Cutting will allow you to modify the SMES even if it is
+    charged. Please note that this may result in catastrophic overload
+    if charge is large enough. Pulsing does nothing.
+-   Grounding - Cutting or pulsing this wire will overload the SMES,
+    causing quick dissipation of stored energy. This energy may however
+    damage or destroy APCs in output power network, so it is advised to
+    either disconnect the SMES, or at least use [Guide to
+    Power\#SMES\_SettingsSubstations](/wiki/Guide_to_Power#SMES_SettingsSubstations "wikilink")
+    to prevent damage to many APCs. Mending will restore grounding and
+    stop the overload. This is highly similar failure of charged SMES,
+    but with less risks involved for the user. Remember that doing this
+    as non-antagonist is not a good idea.
+
+Construction
+------------
+
+### Required Tools
+
+-   ![](CableCoils.png "fig:CableCoils.png") Cable Coil, 2x (two full
+    coils)
+-   ![](Metal.png "fig:Metal.png") Metal Sheets, 5x
+-   ![](Circuitboard.png "fig:Circuitboard.png") SMES Circuit Board -
+    May be obtained from Research, or salvaged from existing SMESs
+-   ![](SMESCoil.png "fig:SMESCoil.png") Superconducting Magnetic Coil -
+    May be obtained from Cargo or salvaged from existing SMES. You need
+    at least one coil, but adding more coils increases capacity and
+    input/output cap of the SMES. You may add up to six coils into
+    single SMES.
+-   ![](Yellowgloves.png "fig:Yellowgloves.png") Insultated Gloves -
+    Optional, but reccomended (espicially if you are going to manipulate
+    wiring)
+
+### Construction Steps
+
+1.  Use your metal sheets to build machine frame.
+2.  Use your cable coil on machine frame to add wires.
+3.  (OPTIONAL) place wire under the machine frame. The SMES will output
+    into this wire.
+4.  Use your SMES Circuit Board on wired machine frame.
+5.  Add 30 pieces of cable (one full length cable coil).
+6.  Add one superconducting magnetic coil.
+7.  Finalise the SMES with screwdriver.
+
+### Terminal
+
+New SMES starts without terminal. Furthermore, terminals may be damaged
+by explosions or similar effects. Fortunately, installing new terminal
+is easy.
+
+1.  Open interface of your SMES and turn it's input and output OFF.
+2.  Use screwdriver on the SMES to open the cover.
+3.  Use cable coil on the SMES to add new terminal. You need 10 pieces
+    of cable for this. If you make a mistake use wirecutters to remove
+    the terminal and repeat this step.
+4.  Use screwdriver on the SMES to close the cover.
+
+### RCON Settings
+
+RCON, or Remote CONtrol, allows remote operation of SMESs from RCON
+console. To allow usage of RCON you have to set RCON tag. This tag has
+to be unique (ie. do not use tag already used by another SMES). To set
+new tag click the SMES with multitool. If you wish to disable RCON you
+may either cut apropriate wire (see Hacking section), or use tag
+"NO\_TAG".
+
+Upgrading
+---------
+
+There are three types of coils in existence:  
+**Superconductive Capacitance Coils** highly increase the amount of
+energy the SMES can store.  
+**Superconductive Transference Coils** highly increase the maximum input
+and output rate.  
+**Superconductive Magnetic Coils** increase both storage and transfer
+rate, but at a lesser extent.  
+There are two of each type of coils in the Engineering Hard Storage, in
+one of the crates.  
+When building an SMES you may add only a single Magnetic Coil into it.
+However, you may add up to five more coils later. This process is
+slightly more complex than terminal replacement.
+
+1.  Ensure the SMES is discharged. Alternatively, you may disable the
+    failsafes (see point 4.). Please read the "SMES Failure" section of
+    this guide before proceeding.
+2.  Open interface of your SMES and turn it's input and output OFF.
+3.  Use screwdriver on the SMES to open the cover.
+4.  (OPTIONAL) Disable failsafes by cutting the correct wire (see
+    Hacking section).
+5.  Use your superconducting magnetic coil(s) on the SMES to install
+    them.
+6.  (OPTIONAL) Re-enable failsafes if you disabled them.
+7.  Use screwdriver on the SMES to close the cover.

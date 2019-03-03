@@ -1,0 +1,318 @@
+---
+title: Ares Confederation
+permalink: wiki/Ares_Confederation/
+layout: wiki
+tags:
+ - Lore
+---
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+
+> "I swore to never surrender to you."---
+
+<div class="mw-collapsible-content">
+
+"Why do you people keep revolting? Don't you see the futility in all of
+this? We Trans-Stellar Corporations have assets in the billions!"
+
+"You may snuff out our lives, burn our homes. Break our hearts. But we
+will not rest until we have earnt what we are owed. Our skin is ours.
+This soil is ours. We will not rest. The flames of our Revolution will
+burn on in the heads of all."
+
+`-Alleged dialogue between a peacekeeping officer and Ares rebel at the beginning of the Ares Uprising.`
+
+</div>
+</div>
+
+Even after the failure of revolts within the core worlds of Sol Central
+against the yoke of the TSCs, revolution still carries its torch into
+the deep reaches of explored space. One of these rebel factions is the
+Ares Confederation. The Ares Confederation tethers on the fringe of
+colonised space and currently holds only a dozen of planets- But exactly
+those who were coveted and exploited by their TSC overlords for their
+richness in biosphere or resources, enabling to carry much more punch
+than their size would normally allow them. While formally seperated from
+Sol Central, the USDF hesitates to fully mobilise against the unruly
+colonies, as their cause is tentatively supported by factions within Sol
+Central, as they weaken the iron grasp of TSCs on daily politics.
+
+Their seat of Government is Paraiso a Àstrea, a former pleasure world
+turned rebel fortress.
+
+History
+-------
+
+### Dawn of a Revolution
+
+Originally only a strike of miners on the dusty, arid planet of Ares in
+the year 2540, the movement was quickly radicalized as Grayson
+Manufactories Ltd. answered the public outcry with heavy asset
+protection. From there on, an outright civil war spread across the
+planet's surface. After the strike was dispersed brutally by PMCs hired
+by Grayson Manufactories Ltd., with over the half of the death being
+unaffiliated citizens, the population of Sars Mara City took up arms-
+Most of it either scavenged, stolen or outright jury rigged from mining
+equipment. Organized by retired USDF Colonel Rodrick Gellaume, the
+rebels assaulted the Sars Mara military base and seized material and
+vehicles within it. Boosted by this victory, Gellaume quickly turned the
+tides for the rebels, getting Sars Mara City and outlying mining
+facilities under control.
+
+From there on, the rebellion ground to a halt, as lack of manpower,
+trained personnel and sheer logistical issues drove the military effort
+to halt as Grayson Manufactories Ltd. began to respond with heavy asset
+protection. A long, bloody conflict broke out, with neither side able to
+dislodge the other from their entrenched positions. However, time was on
+the side of the rebellion, who have adopted the name "Zeal of Ares". The
+population was sympathetic to their cause, sick of their treatment under
+the TSCs. Collaborateurs and guerrilla warriors joined the cause,
+leading a shadow war deep within enemy territory.
+
+The elan of the rebellion gained traction again after a devastating
+sabotage against Grayson Manufactories Ltd. at New Bolkhof, as the
+Munitions Depot was destroyed by saboteurs. With their air support cut
+off Grayson Manufactories Ltd. was attacked by the "Zeal of Ares",
+supported by local partisans, the second city falling to the rebels.
+With their numbers bolstered and morale exceptionally high, the "Zeal of
+Ares" won sweeping victories against the various PMCs, which were
+eventually pulled out by their firms- The loss of material and men
+simply outweighed the profits of their respective contracts. Ares was
+officially relinquishing control from Grayson Manufactories Ltd.,
+turning it to the inhabitants of the world, broadcasting to the known
+galaxy that the people have spoken and that revolution is coming to
+their sector of the Galaxy.
+
+### Paradise on Fire
+
+Although Ares was firmly secured in the hands of rebels, Gellaume, now
+declared Military Magistrate of the Ares Confederation, knew that, if
+given time, Grayson Manufactories Ltd. would strike back and assuredly
+take back the planet. A fleet was needed, so were allies or more
+territory for the new government he helped to shape. Especially a space
+fleet was required to take over the various mining and manufacturing
+stations within the system Ares resides. Unsavoury deals have been made
+with local pirate groups, pardoning their crimes and allowing them to
+resocialize into the new society in turn for military fleet service.
+Surprisingly, quite a lot of privateers agreed to this and integrated
+into the rebellion more or less seamlessly, taking control of vital
+shipyards in Ares' orbit. Success bred ambition and with bolstered
+ranks, Gellaume set out to a Crusade through the local sector, trying to
+unite the local sector under his banner to protect all the work his
+soldiers done.
+
+But his rebellion was hungry... Literally. Ares, as an arid, hot planet,
+was not suitable for most crops and foodstuff was previously imported by
+their TSC masters. With that out of the equation, food supplies were
+dwindling. And thus, taking over a verdant world or agricultural
+powerhouse was mandatory. The decision was easy to make. Gilthari
+Exports held a fringe world in close proximity. Paraiso a Àstrea.
+Jungle, oceans full of life. Mostly untampered by human hand ot preserve
+the nature for rich corporate figures to enjoy. Military presence on the
+ground were minimal at best, with most of the protection coming from
+orbital stations and patrol frigates holding the perimeter. Again, the
+popularity of Gellaume and his policies (such as drastically reducing
+piracy by simply making the pirates his navy), helped him in securing
+the planet. Civilian personnel rebelled against Gilthari after several
+collective bargaining attempts for higher pay and holidays were denied
+and picket lines roughed up and disabled the orbital strike stations.
+The frigates had no chance against the overwhelming privateer fleet and
+Paraiso was put under blockade.
+
+Gilthari had no true interest in picking a fight in a sector where their
+only presence was a resort and quickly surrendered control over Paraiso
+in exchange for the captured and held hostage corporate figures on the
+planet surface, making Paraiso the only true, legally held territory by
+the Ares Confederation. The following months made the planet's surface
+drastically change. Military installation, FTL administration and
+agricultural complexes were constructed, feeding the rebellion and
+entrenching their hold on their tentative space even further as they
+expanded their civilian, economic and military control over their
+holdings, turning the rebel faction into a proto nation.
+
+### Limits of Zeal
+
+The following years of the so-called Ares Uprising seen more victories
+than losses. Despite setbacks and losses of planets after successful
+insurrection, the Ares Confederation steadily gained more and more
+territory, firmly entrenching their position on the Fringe as military
+and economic threat to the TSCs vying for control over resources. Still,
+the current war os a stalemate, especially with the involvement of the
+USDF. Successful lobbying by the TSCs has led to Sol Central to send out
+peacekeeping forces, limiting the military efforts of the Ares
+Confederation to skirmishes, assaults and guerrilla attacks on outlying
+TSC planets, desperately trying to keep military response by
+corporations low, while seeking political allies with the United
+Federation to recognise their sovereignty and put an end to the
+conflict. Even unlikely allies were welcomed, such as refugees of other
+rebellions, such as the communist revolutionnaries of Mars, seeking to
+make amends by helping another cause against the Transstellars. Rumour
+has it that even the Syndicate is sympathetic to the Ares Confederation,
+feeding them military equipment, schematics and information of movements
+of their enemies. While holding their position and denying any further
+pushback, their current grip on their systems is tentative and shaky.
+Currently, they publicly broadcast that anyone is welcome in the new
+interstellar nation and urge nearby colonies to take up arms as well,
+while withholding large scale tactical assistance, rather consolidating
+their military might... At least for now.
+
+Government
+----------
+
+The Ares Confederation is, contrary to its name, a largely centralised
+state. Paraiso a Àstrea holds most of the authority over the conquered
+colonies, with law enforcement, military, school system and judicracy
+paid by the federal treasury and handled by federal agents. Beyond that,
+the Ares Confederation is a parliamentarian, indirect democracy, headed
+by the Prime Minister, who also represents the state in diplomatic
+functions. Within the Confederation, two classes separate society.
+"Residents" and "Citizens". Residents are people, who are tolerated on
+the Confederation's soil. They are not allowed to hold public offices,
+cannot vote and are required to pay larger taxes than a "Citizen." In
+order to become a citizen, a resident needs to finish at least one tour
+in any of the Confederation's military branches, for a period of two
+years. This automatically elevates a resident to citizen, making them a
+fully fledged member of the Aresian society.
+
+### Legislative
+
+The legislative of the Ares Confederation consists of two houses, the
+Colonial Directive Council and the Liberty Assembly. The Liberty
+Assembly numbers 1370 senators, which gain their mandate in a
+"nation"wide election, in which all colonies, habitats and other
+permament housings of citizens are assigned to one of the 470 voting
+districts. Each citizen has two votes, one for a direct candidate and
+one for a party. With this, 470 senators are assigned a spot in the
+Liberty assembly. The direct mandate does not require membership in a
+party. The remaining 900 seats are assigned to the party based upon
+their percentage of votes they got. A party needs to have at least 5% of
+all votes to be assigned seats in the Assembly. The Liberty Assembly is
+voted for every four years.
+
+The Colonial Directive Council is, however, appointed by the local
+governments of the colonies within the Confederation. Every colony
+(currently 12) sends three delegates to the Council. The Council has no
+term periods, the appointment is formally void when a new government on
+the Colony takes power and thus a Delegate may stay infinitely as long
+his party stays in power at his local colony.
+
+The Liberty Assembly is the main parliament of the Ares Confederation
+and are those who vote for a Prime Minister and his cabinet.
+Furthermore, they create, edit and vote federal jurisprudence and laws,
+which are then legitimized by the Prime Minister. The Prime Minister is
+not allowed to veto a law initiative, unless he deems it
+unconstitutional. This decision can be vetoed by the Assembly. In this
+case, the law is judged by the Supreme Ares Court.
+
+The Colonial Directive Council has only a representative function for
+the individual colonies. In case a law does not affect a colony or is
+outside their competences (like the school system or military), they can
+declare their dissatisfaction about the law, which does not have any
+legal binding. However, if the law pertains a colony, causes higher
+administrative cost for the colony or taxes them more, The Colonial
+Directive Council needs to give their blessing to the law. In case a
+simple majority within the council is not reached, the law needs to
+revised by the Liberty Assembly or is formally jossed.
+
+### Executive
+
+The Prime Minister is both highest executive and head of state. Much
+like a president is he the highest diplomatic officer and representative
+of the state and its people.There is no term limit and the term is four
+years, exactly like the Liberty Assembly. The current Prime Minister is
+Gellaume on his second term. The Prime Minister is voted in by the
+Liberty Assembly based on the majority party and eventual coalition
+junior members, who also determine the cabinet of Ministers. The PM and
+the cabinet deal with the day to day business on the interstellar
+federal level, request the formulation of laws by the Assembly and guide
+the overal state of the Ares Confederation. Military supremacy is held
+by the Minister of Defense, or in case of war, the Prime Minister (as is
+the case for the current Ares Confederation). In case the Liberty
+Assembly deems the PM untrustworthy, they can hold a vote of confidence.
+If this vote fails to accumulate a simple majority, the PM is deposed
+and there needs to be a new one elected within two weeks.
+
+### Judiciary
+
+The Supreme Ares Court (residing on Ares) is the highest juristic
+instance within the Ares Confederation and contains 9 members, the High
+Judges. They are the guardians of the Ares Confederate Constitution and
+Declaration of Independence. While holding no iniative, they are the
+final instance in many cases, from local to federal laws if they are
+unconstitutional or not. High Judges serve for life or until retirement
+and are appointed by majority vote of the Liberty Assembly.
+
+Defense
+-------
+
+The Ares Confederation prides itself of its zealous and ever vigilant
+soldiers, protecting and expanding the confederate holdings against the
+Corporate Overlords at the fringe at all costs. Made up of highly
+disciplined volunteers of all symphatetic sapients, all military
+branches of the military are highly meritocratic and proud of being a
+protector of their people.
+
+### United Fleet Host
+
+The backbone of the military of the Ares Confederation is the United
+Fleet Host, with the seperate brances of the Space Fleet and Deep Space
+Marineers, handling space to space combat, logistics and space to ground
+invasions. Many of the officers and crewmen of the United Fleet Host are
+former local rebels, who taken up the torch for liberty across the
+stars, manning older and mothballed vessels and everything the
+Confederation managed to ramshackle build themselves by recovered
+blueprints. While their vessels may be antiquated by modern standards,
+crew and military tactics benefits from a large pool of experience -
+After all, many retired military personnel seen their opportunity to
+live up their glory days for a good cause. Thus, tactics employed by the
+United Fleet Host are highly unpredictable, rapid in response and
+capable of exploiting the most of their ships. Still, the fact of
+struggling firepower and outdated vessels is an issue. Rumour has it
+that the United Federation supports the Engineering Corps of the
+Confederation to overhaul, update and build up a proper, modern Space
+Fleet. The Modus Operandi of the UFH is as followed : Isolate,
+Exterminate and Regroup. Through precise strikes at the enemy, critical
+targets of the adversary fleet are isolated and seperated and destroyed.
+After this, the task group retreats and regroups for repairs and
+resupply.
+
+### Free Host of the Confederation
+
+Colloquially called the "Cossack Fleet", the FHC is an irregular fleet
+comprised of adventurers, mercenaries, former pirates, privateers and
+volunteers, open for anyone who is willing to fight for the
+Confederation. Wild and free, their only directives is to not hurt
+civilian and neutral targets- Thus, they wildly strike against any enemy
+of the Ares Confederation, maurading, kidnapping and raiding enemy
+convoys, installations and patrols. Made up from anything that can fly
+and carry a gun big enough to hurt another ship, it is difficult to
+clearly define the main role of the Free Host, but they specialize in
+harassing the enemy, as auxiliary escort and vanguard for the UFH. Many
+a ship has its own traditions and rules on board, which are respected by
+the Military Command of the Ares Confederation. While the UFH is highly
+disclipined and coordinated, the individual captains of the Free Host
+are not required to cooperate, many of them preferring their own thing
+and getting rich on loot, only abiding the orders of the Prime Minister.
+
+Many a Cossack Officer retires after getting enough share of plunder to
+the colonies of the Ares Confederation, enjoying the prestige they earnt
+and the status of citizen. Curiously enough, many aliens prefer to gain
+citizenship through the Cossack Fleet.
+
+### The Firebrands
+
+Saboteurs, demagogues and assassins... All of this and more is a
+Firebrand, a member of the Military Intelligence of the Ares
+Confederation. This branch-encompassing service chooses the best and
+brightest of their respective fields and trains them to do one thing :
+Bring revolution. Operating in small cells from one to five people,
+Firebrands infiltrate with minimal equipment enemy habitats and planets
+and begin to build up local resistance, liberating military equipment,
+scandalize and alienate local population, solely for the goal to create
+an uprising within the colony or installation. For this, they mostly
+have free reign, although their actions are strongly scrutinized during
+regular briefings and debriefings to avoid terrorism and too ruthless
+tactics, as this reflect badly upon the Confederation if Firebrand
+involvement is found out. After they stage an open coup against local
+magistrates, Firebrands prodive tactical and strategic support and try
+to make the new uprising assimilate into the Ares Confederation proper.

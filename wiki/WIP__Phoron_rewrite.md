@@ -1,0 +1,192 @@
+---
+title: WIP: Phoron rewrite
+permalink: wiki/WIP:_Phoron_rewrite/
+layout: wiki
+---
+
+Phoron, often referred to as the oil of the 26th century, is the primary
+means of Faster than Light Travel, the key component of medicine with
+miraculous properties and the primary component of [Supermatter
+Engine](/wiki/Supermatter_Engine "wikilink"), among other, yet undiscovered
+applications. Frequently found on celestial bodies orbiting dying suns
+in trace quantities, or harvested directly from the suns themselves,
+Phoron remains perhaps the sole commodity with true scarcity. As of
+2561, only two major celestial bodies have been observed to possess
+phoron in abundance: [Roanoke](/wiki/Roanoke "wikilink") from
+[Nyx](/wiki/Nyx "wikilink") system and Virgo-3B from
+[Virgo-Erigone](/wiki/Virgo-Erigone "wikilink") system - both of which are
+controlled by [NanoTrasen](/wiki/NanoTrasen "wikilink").
+
+Properties
+----------
+
+|                                  |                   |
+|----------------------------------|-------------------|
+| **Systematic Name**              | Phoron            |
+| **Trivial Name**                 | Plasma            |
+| **Atomic Number (Z)**            | 162               |
+| **Relative Atomic Weight**       | 405               |
+| **Specific Heat \[J/(mol\*K)\]** | 200               |
+| **Flashpoint with Oxygen**       | 126 °C / 399.15 K |
+
+Handling and Accident prevention
+--------------------------------
+
+Phoron is a highly volatile, combustible and toxic substance capable of
+causing blindness, liver failure if left untreated and will contaminate
+protective equipment. Whether in solid, liquid or gaseous phase, utmost
+care should be taken.
+
+### Treatment of exposure
+
+Upon exposure to gaseous phoron, one must remove all contaminated
+equipment at once when further exposure is unlikely. Upon successful
+prevention of decontamination, or before should the subject be in a
+critical state, an airlock pill should be administered. Should the
+victim be rendered unconscious from pain, toxic injuries or lung trauma,
+Dyvolene or Carthatoline should be administered intravenously. In case
+of lung trauma, Dexaline or Dexaline plus should be introduced
+intravenously as well alongside Inaprovaline to prevent death by
+suffocation. Should the victim's eyes also be exposed to gaseous phoron,
+administration of Imidazoline drops is recommended. Barring eye damage,
+cryogenic treatment is sufficient to stabilize most patients.
+
+Upon ingestion of solid or liquid phoron, activated charcoal must be
+administered alongside Dyvolene or Carthatoline.
+
+Due to advanced protective techniques, backpacks, duffel bags, satchels,
+purses and their contents; goggles, gas masks lab coats and winter
+coats, latex gloves and vacuum rated E.V.A suits needn't undergo
+decontamination. For everything else, use of on-board washing machines
+is sufficient.
+
+### General Handling
+
+In all cases, when working with Phoron, open flames are strictly
+forbidden. During chemical processes requiring administration of heat,
+electric heating elements must be used. The only exception is when
+combustion is desired - in such circumstances the employee must ensure
+that they possess the sufficient tools to control the combustion and
+prevent fatalities should its temperatures exceed the rated temperature
+of the containment structures. It is highly advised to introduce either
+an excess of phoron rather than the oxidizing agent to combustion
+chambers, as the excess will prevent the temperatures from rising
+rapidly. Carbon dioxide and nitrogen impurities are also recommended,
+although their respective specific heats will require additional care.
+
+### Handling of solid and liquid Phoron
+
+While in solid or liquid form, its structural properties will prevent it
+from reducing substances it should come in contact with, destabilization
+of said structure - through spillage for instance - will cause the
+liquid to evaporate in a rapid fashion, making precautions for handling
+gaseous phoron even in a pharmaceutical laboratory necessary. At the
+very least, those working with phoron in its liquid phase should wear
+goggles, jumpsuits or jumpskirts with their legs covered, latex gloves
+and either wear a sterile mask or make sure to have a gas mask at hand
+for rapid deployment. When at risk of large scale spillage, make sure to
+also have an emergency oxygen tank in pocket or on the back. Ingestion
+of the raw material is strictly forbidden.
+
+### Handling of Gaseous Phoron
+
+When working with gaseous Phoron, even in instances when not introduced
+to the atmosphere, wearing gas masks with emergency oxygen canisters in
+one's own pockets is mandatory, alongside the wearing of biohazard
+resistant uniforms, latex gloves and goggles.
+
+### Handling during an electrical storm, or other instabilities of the electrical grid
+
+All light sources at risk of bursting from over voltage, or any other
+potential sources of sparks must be turned off or disconnected from the
+grid for duration of the instability. Failure to do so may lead to
+unplanned combustion. NanoTrasen has recorded deaths in the hundreds
+that were caused by negligence of this warning.
+
+### Handling of Supermatter
+
+Unactivated Supermatter must not be directly touched, or the employee
+will be at risk of complete destruction. Use of the cart handles is
+MANDATORY.
+
+Activated Supermatter must be kept cool, at standard operating
+temperatures described in the engine manual. Even at normal operating
+temperatures, one must wear protective equipment against radiation and
+biological hazards. Activated supermatter will produce phoron, oxygen,
+heat and ionizing radiation. Being in the same local atmospheric system
+as Activated Supermatter is highly discouraged. Atmospheric technician
+voidsuits MAY be used to interact with such systems, but are not
+recommended.
+
+Exposure should be treated as a combination of gaseous exposure and
+ionizing radiation exposure.
+
+Structure and significance
+--------------------------
+
+Despite its generous industrial and medical applications by both
+NanoTrasen and otherwise, Phoron is still a barely understood substance.
+While it was proven that there *are* 162 protons present, analytical
+studies have shown an inconsistent number of neutrons despite the
+Relative Atomic Weight remaining constant. Further studies have revealed
+the presence of a yet unprecedented subatomic particle that was named
+Alden-Saraspova particle after its discoverers, whose stable existence
+appears to be tied to being present in both
+[Bluespace](/wiki/Bluespace "wikilink") and [Realspace](Realspace "wikilink").
+Through application of sufficient energy to the phoron particle, the
+transdimensional particles within collapse in Realspace, bringing with
+them a set amount of matter directly proportional to the amount of
+particles collapsed. The discovery of this phenomenon has opened the
+realm of faster-than-light travel through jump drives.
+
+Furthermore, through controlled delamination of solidified phoron
+enriched with Alden-Saraspova particles, colloqially referred to as
+Supermatter, one can produce a yet limitless source of energy. By
+products of the delamination process are ionising radiation, gaseous
+phoron and oxygen. The gaseous phoron, upon reacting with a strong
+oxidiser, collapses the remaining Alden-Saraspova particles releasing
+heat and carbon dioxide. It is not yet understood why and how, but
+engineers are more than happy to work with this phenomenon.
+
+Finally, due to its unlikely stability produced by its ties to
+bluespace, Phoron can be used to either catalyse highly endothermic
+reactions at attainable conditions, or to stabilize otherwise unstable
+compounds. This property has led to the discovery of miracle medicine
+such as Dexaline and cryo/clonexadone.
+
+[History](/wiki/Timeline "wikilink")
+------------------------------
+
+(Subject to changes. --[Ace](/wiki/User%3AAces "wikilink")
+([talk](/wiki/User_talk:Aces "wikilink")) 13:38, 4 November 2017 (EDT))
+
+Phoron was discovered in trace quantities from extrasolar asteroids
+during the late 22th century, but held no major purpose beyond baffling
+scientists with its stability. As humanity expanded and found red
+dwarves seemingly far ahead of their expected lifespans, already in
+process of dying. This development has caused quite a stir in the
+scientific community, and raised questions whose majority remain
+unanswered even today. The only possible explanation for their existence
+was the abundance of the super-heavy element, Phoron, on the celestial
+bodies surrounding said stars.
+
+However, in 2411, a group of researchers led by Eirik Alden and
+Anastasia Sarapova have made a discovery that changed the nature of
+Faster Than Light travel forever. By developing sensors for the exotic
+particles created through antimatter reactions for Bluespace jump
+drives, they discovered that both the dying red stars and phoron itself
+naturally contain the particles that bind Realspace and Bluespace
+together. In honour of their discovery, the yet mysterious, elusive
+particle of centuries past was christened the Alden-Sarapova particle,
+and modern Anomalists still praise their name in their quest to
+understand the seemingly magical artifacts scattered around asteroids
+and moons rich in phoron.
+
+By the 26th century, Humanity has pressed its best to map the stars for
+dying red dwarves, to be used as pit stops by interstellar explorers,
+and to be mined for industrial applications. So far, of all the dying
+red dwarves, only two systems were discovered to have relatively
+habitable moons with atmospheres rich in the new black gold. NanoTrasen,
+employing its vast resources, has successfully staked its claim on both
+of the moons, achieving a tentative monopoly on FTL fuel that drew the
+ire of numerous competitors.

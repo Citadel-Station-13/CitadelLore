@@ -1,0 +1,42 @@
+This is a brief list of improvised weapons that you can build from parts around the station. Keep in mind most of these count as contraband and Security will be all over you if you're found to have them.
+
+==Ranged==
+===Powered crossbow===
+* [[File:Crossbowframe0.png]] Make a crossbow frame from wooden planks.
+* [[File:Rods.png]] 3 x metal rods.
+* [[File:Welderon.gif]] Welding tool.
+* [[File:CableCoils.png]] 5 x cable.
+* [[File:Plastic.png]] 3 x plastic sheeting.
+* [[File:CableCoils.png]] 5 x cable.
+* [[File:Screwdriver tool.png]] Screwdriver to finish.
+* [[File:Power cell.png]] Add a cell (screwdriver to remove).
+
+===Pneumatic cannon===
+* [[File:Pneumatic0.png]] Make a cannon frame from metal sheets.
+* Install a length of atmos piping.
+* [[File:Welderon.gif]] Welding tool.
+* [[File:Metal.png]] 5 x metal sheets.
+* [[File:Welderon.gif]] Welding tool.
+* Install a tank transfer valve.
+* [[File:Welderon.gif]] Welding tool to finish.
+* [[File:Handheld-Plasmatank.png]] Add a gas tank (right-click, eject tank to remove).
+
+==Melee==
+=== Wired rod ===
+* [[File:Cablerestraints.png]] Make a set of cable restraints from cable.
+* [[File:Rods.png]] Use a metal rod on the cable restraints.
+
+===Spear===
+* [[File:Largeglassshard.png]] Add a glass shard to a wired rod.
+
+===Cattle prod===
+* [[File:Wirecutters.png]] Add a pair of wirecutters to a wired rod.
+* [[File:Power cell.png]] Add a cell (screwdriver to remove).
+
+===Butterfly knife===
+* [[File:Butterflyknifehandle.png]] Make a knife handle from plasteel.
+* [[File:Butterflyknifeblade.png]] Make a knife blade from metal sheets.
+* [[File:Butterflyknife0.png]] Use the blade on the handle.
+* [[File:Screwdriver tool.png]] Screwdriver to finish.
+
+[[Category: Weapons]]

@@ -1,0 +1,885 @@
+== Chemicals ==
+You have all sorts of things here, and can make so much. You can make medicines, foam, flash powder, poisons, space lube, and so much more. The limit on combinations is a limit that exists only in your creativity (and the game engine). Be sure to be careful though, mixing the wrong chemicals can be bad for your health and please make sure you know what a chemical does before you use it. Experiment at your own risk.
+
+{| class="wikitable" width="300px" style="text-align:center; background-color:#FFFFFF;" border="1" cellspacing="0"
+! style="background-color:#B452CD;" width="100px" |Row 1
+! style="background-color:#B452CD;" width="100px" |Row 1
+! style="background-color:#B452CD;" width="100px" |Row 1
+|-
+|'''Alumnium'''||'''Carbon'''||'''Chlorine'''
+|-
+|'''Copper'''||'''Ethanol'''||'''Fluorine'''
+|-
+|'''Hydrogen'''||'''Iron'''||'''Lithium'''
+|-
+|'''Mercury'''||'''Nitrogen'''||'''Oxygen'''
+|-
+|'''Phosphorus'''||'''Potassium'''||'''Radium'''
+|-
+|'''Sulph. acid'''||'''Silicon'''||'''Sodium'''
+|-
+|'''Sugar'''||'''Sulfur'''||'''Tungsten'''
+|-
+|'''Water'''
+|}
+
+== Formulas ==
+
+These are some sample formulas for you chemists out there, ask about in game to learn more! Experimentation can be dangerous, or rewarding.
+
+Pharmaceutical chemicals can usually be identified by a light pink-ish color.
+
+=== Quick Reference ===
+Quick Reference Sheet - Use only if you know what these do!
+{| class="wikitable"
+|-
+! Chemical !! Formula
+|-
+| Adranol
+|| 2 parts Milk, 1 part Hydrogen, 1 part Potassium -> 3 parts Adranol
+|-
+| Alkysine
+|| 1 part Chlorine, 1 part Nitrogen, 1 part <span title="1 part Nitrogen, 1 part Potassium, 1 part Silicon" style="text-decoration:underline">Dylovene</span> -> 2 parts Alkysine
+|-
+| Arithrazine
+|| 1 part <span title="1 part Radium, 1 part Dylovene" style="text-decoration:underline">Hyronalin</span>, 1 part Hydrogen -> 2 parts Arithrazine
+|-
+| Bicaridine
+|| 1 part <span title="1 part Carbon, 1 part Oxygen, 1 part Sugar" style="text-decoration:underline">Inaprovaline</span>, 1 part Carbon -> 2 parts Bicaridine
+|-
+| Carthatoline
+|| 0.1 part <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span>, 1 part <span title="1 part Nitrogen, 1 part Potassium, 1 part Silicon" style="text-decoration:underline">Dylovene</span>, 2 parts Carbon -> 2 parts Carthatoline
+|-
+| Clonexadone
+|| 1 part <span title="1 part Dexalin, 1 part Water, 1 part Oxygen" style="text-decoration:underline">Cryoxadone</span>, 1 part Sodium, 0.1 parts <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span>, 5 units <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span> (catalyst) -> 2 parts Clonexadone, 5 units Phoron
+|-
+| Cryoxadone
+|| 1 part <span title="2 part Oxygen, 0.1 parts Phoron, 5 units Phoron (catalyst)" style="text-decoration:underline">Dexalin</span>, 1 part Water, 1 part Oxygen -> 3 parts Cryoxadone
+|-
+| Dermaline
+|| 1 part <span title="1 part Silicon, 1 part Carbon" style="text-decoration:underline">Kelotane</span>, 1 part Oxygen, 1 part Phosphorus -> 3 parts Dermaline
+|-
+| Dexalin
+|| 2 part Oxygen, 0.1 parts <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span>, 5 units <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span> (catalyst) -> 1 part Dexalin, 5 units Phoron
+|-
+| Dexalin Plus
+|| 1 part <span title="2 part Oxygen, 0.1 parts Phoron, 5 units Phoron (catalyst)" style="text-decoration:underline">Dexalin</span>, 1 part Carbon, 1 part Iron -> 3 parts Dexalin Plus
+|-
+| Dylovene
+|| 1 part Silicon, 1 part Nitrogen, 1 part Potassium -> 3 parts Dylovene
+|-
+| Ethylredoxrazine
+|| 1 part Oxygen, 1 part <span title="1 part Nitrogen, 1 part Potassium, 1 part Silicon" style="text-decoration:underline">Dylovene</span>, 1 part Carbon -> 3 parts Ethylredoxrazine
+|-
+| Hyperzine
+|| 1 part Sugar, 1 part Phosphorous, 1 part Sulphur -> 3 parts Hyperzine
+|-
+| Hyronalin
+|| 1 part Radium, 1 part <span title="1 part Nitrogen, 1 part Potassium, 1 part Silicon" style="text-decoration:underline">Dylovene</span> -> 2 parts Hyronalin
+|-
+| Imidazoline
+|| 1 part Hydrogen, 1 part Carbon, 1 part <span title="1 part Nitrogen, 1 part Potassium, 1 part Silicon" style="text-decoration:underline">Dylovene</span> -> 2 parts Imidazoline
+|-
+| Inaprovaline
+|| 1 part Oxygen, 1 part Carbon, 1 part Sugar -> 3 parts Inaprovaline
+|-
+| Kelotane
+|| 1 part Silicon, 1 part Carbon -> 2 parts Kelotane
+|-
+| Leporazine
+|| 1 part Silicon, 1 part Copper, 5 units <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span> (catalyst) -> 2 parts Leporazine, 5 units Phoron
+|-
+| Myelamine
+|| 5 Oxygen, 5 Sugar, 20 Carbon, 30 Iron, 60 Spider Toxin, 30 Iron  -- Can also be ordered from Cargo
+|-
+| Oxycodone
+|| 1 part Ethanol, 1 part Tramadol; 1 part <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span> (Catalyst)
+|-
+| Osteodaxon
+|| 20 Phoron, 20 Carbon, 10 Sugar, 10 Oxygen, 20 Carbon, 30 Carpotoxin
+|-
+| Paracetamol
+|| 1 part <span title="1 part Inaprovaline, 1 part Ethanol, 1 part Oxygen" style="text-decoration:underline">Tramadol</span>, 1 part Sugar, 1 part Water -> 3 parts Paracetamol
+|-
+| Peridaxon
+|| 2 parts <span title="1 part Inaprovaline, 1 part Carbon" style="text-decoration:underline">Bicaridine</span>, 2 parts Clonexadone, 10 units <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span> (catalyst)
+|-
+| Rezadone
+|| 1 part CarpoToxin, 1 part <span title="1 part Potassium, 1 part Oxygen, 1 part Sugar" style="text-decoration:underline">Cryptobiolin</span>, 1 part Copper
+|-
+| Ryetalyn
+|| 1 part <span title="1 part Hyronalin, 1 part Hydrogen" style="text-decoration:underline">Arithrazine</span>, 1 part Carbon -> 2 parts Ryetalyn
+|-
+| Spaceacillin
+|| 1 part <span title="1 part Potassium, 1 part Oxygen, 1 part Sugar" style="text-decoration:underline">Cryptobiolin</span>, 1 part <span title="1 part Carbon, 1 part Oxygen, 1 part Sugar" style="text-decoration:underline">Inaprovaline</span> -> 2 parts Spaceacillin
+|-
+| Synaptizine
+|| 1 part Lithium, 1 part Sugar, 1 part Water -> 3 parts Synaptizine
+|-
+| Tramadol
+|| 1 part Inaprovaline, 1 part Ethanol, 1 part Oxygen -> 3 parts Tramadol
+|-
+| Tricordrazine
+|| 1 part <span title="1 part Carbon, 1 part Oxygen, 1 part Sugar" style="text-decoration:underline">Inaprovaline</span>, 1 part Dylovene
+
+|}
+
+=== Medicine ===
+
+The vast majority of chemicals you will be called on to make. Typically, a small amount of each should be kept on hand. Assuming the medical team is not incompetent, they should be able to keep everyone alive and quite healthy with your assistance. Formulas are formatted to be "mechanical recipe (how the game calculates it) '''OR''' practical recipe (how to make a bottle or two's worth using only a single beaker)". <u>Underlined</u> ingredients are not in the dispenser.
+
+<br />
+{{Chem
+|chemical = Adranol
+|formula = 2 parts Milk, 1 part Hydrogen, 1 part Potassium -> 3 parts Adranol
+'''OR''' 60 Milk, 30 Hydrogen, 30 Potassium -> 90 Adranol
+|effects = Fixes blurred vision, confusion and is the only chem to actually fix the jitters, with the exception of Impedrezene. Use this for resleeved patients, as well as patients being given Peridaxon or Oxycodone.
+}}
+<br />
+{{Chem
+|chemical = Alkysine
+|formula = 1 part Chlorine, 1 part Nitrogen, 1 part <span title="1 part Nitrogen, 1 part Potassium, 1 part Silicon" style="text-decoration:underline">Dylovene</span> -> 2 part Alkysine
+'''OR''' 20 Nitrogen, 20 Potassium, 20 Silicon, 30 Chlorine, 30 Nitrogen -> 60 Alkysine, 30 Dylovene
+|effects = Used for treating brain damage. Slighly lessens the pain. Metabolizes at 0.05 units per tick. Overdose is 30 units.
+}}
+<br />
+{{Chem
+|chemical = Dylovene
+|formula = 1 part Silicon, 1 part Nitrogen, 1 part Potassium -> 3 part Dylovene
+'''OR''' 40 Silicon, 40 Nitrogen, 40 Potassium -> 120 Dylovene
+|effects = A broad-spectrum anti-toxin. Heals toxin damage; will also shorten the durations of drug-related hallucinations and sleepiness, and remove toxic substances in the blood. Metabolizes at 0.2 units per tick. Does not overdose.
+}}
+<br />
+{{Chem
+|chemical = Arithrazine
+|formula = 1 part <span title="1 part Radium, 1 part Dylovene" style="text-decoration:underline">Hyronalin</span>, 1 part Hydrogen -> 2 parts Arithrazine
+'''OR''' 10 Nitrogen, 10 Potassium, 10 Silicon, 30 Radium, 60 Hydrogen -> 120 Arithrazine
+|effects = A very unstable medication used to treat the most extreme cases of radiation poisoning. It works faster than Hyronalin, but will cause some brute damage to the patient (including to the patient's cybernetic limbs). Such damage is very mild at low doses and easily treated at higher doses. It can also treat toxic damage, but not as effective as Dylovene. Metabolizes at 0.05 units per tick. Overdose is 30 units.
+}}
+<br />
+{{Chem
+|chemical = Bicaridine
+|formula = 1 part <span title="" style="text-decoration:underline">Inaprovaline</span>, 1 part Carbon -> 2 parts Bicaridine
+'''OR''' 20 oxygen, 20 sugar, 80 carbon -> 120u bicard
+|effects = An analgesic which is highly effective at treating brute damage. It is useful for stabilizing people who have been severely beaten, as well as treating less life-threatening injuries. A (poisonous) overdose will gradually slow internal bleeding. Metabolizes at 0.2 units per tick. Overdose is 30 units.
+}}
+<br />
+{{Chem
+|chemical = Carthatoline
+|formula = 0.1 part Phoron, 1 part Dylovene, 2 parts Carbon -> 2 parts Carthatoline 
+'''OR''' 20 Phoron, 10 Nitrogen, 10 Potassium, 10 Silicon, 60 Carbon -> 60 Carthatoline, 17 Phoron
+|effects = A strong evacuant used to treat severe poisoning. Heals toxins more quickly than dylovene, and can repair liver damage.
+}}
+<br />
+{{Chem
+|chemical = Cryoxadone
+|formula = 1 part <span title="2 part Oxygen, 0.1 parts Phoron, 5 units Phoron (catalyst)" style="text-decoration:underline">Dexalin</span>, 1 part Water, 1 part Oxygen -> 3 parts Cryoxadone
+'''OR''' 10 Phoron, 40 Oxygen, 20 Water, 20 Oxygen, -> 60 Cryoxadone, 8 Phoron
+|effects = Required for the proper function of cryogenics. It heals all standard types of damage very swiftly, but only works in temperatures under 170K (usually this means cryo cells). Heals clone damage slowly, such as caused by cloning or [[Slime]]s. Metabolizes at 0.2 units per tick. Does not overdose.
+}}
+<br />
+{{Chem
+|chemical = Clonexadone
+|formula = 1 part <span title="1 part Dexalin, 1 part Water, 1 part Oxygen" style="text-decoration:underline">Cryoxadone</span>, 1 part Sodium, 0.1 parts <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span>, 5 units <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span> (catalyst) -> 2 parts Clonexadone, 5 units Phoron
+'''OR''' 20 Phoron, 20 Oxygen, 10 Water, 10 Oxygen, 30 Sodium -> 60 Clonexadone, 16 Phoron
+|effects = Heals standard damage the same as Cryoxadone. This chemical reforms clones much faster then Cryoxadone. This includes damage done by [[Slime]]s. Best used in cryo cells. Only works in temperatures under 170K (usually this means cryo cells). The lower the temperature, the better it works.
+}}
+<br />
+{{Chem
+|chemical = Dermaline
+|formula = 1 part <span title="" style="text-decoration:underline">Kelotane</span>, 1 part Oxygen, 1 part Phosphorus -> 3 parts Dermaline
+'''OR''' 40 Carbon, 40 Silicon, 20 Oxygen, 20 Phosphorous -> 60 Dermaline, 60 Kelotane
+|effects = Used for treating burns. Works faster than Kelotane, but can be used simultaneously with it, to increase the effect.. Metabolizes at 0.2 units per tick. Overdose is 15 units.
+}}
+<br />
+{{Chem
+|chemical = Dexalin
+|formula = 2 part Oxygen, 0.1 parts <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span>, 5 units <span title="Grind solid phoron" style="text-decoration:underline">Phoron</span> (catalyst) -> 1 part Dexalin, 5 units Phoron
+'''OR''' 20 Phoron, 120 Oxygen -> 60 Dexalin, 14 Phoron
+|effects = Used for treating oxygen deprivation; slowly heals suffocation damage. In most cases where it is likely to be needed, the strength of Dexalin Plus will probably be more useful. Removes Lexorin from bloodstream. Metabolizes at 0.2 units per tick. Overdose is 30 units.
+}}
+<br />
+{{Chem
+|chemical = Dexalin Plus
+|formula = 1 part <span title="2 part Oxygen, 0.1 parts Phoron, 5 units Phoron (catalyst)" style="text-decoration:underline">Dexalin</span>, 1 part Carbon, 1 part Iron -> 3 parts Dexalin Plus
+'''OR''' 4 phoron, 80 oxygen, 40 carbon, 40 iron -> 120u dexalin plus
+|effects = Used in treatment of extreme cases of oxygen deprivation. It immediately counters all oxygen loss and is useful to keep lung injury patients stable during surgery. Removes Lexorin from bloodstream. Metabolizes at 0.2 units per tick. Overdose is 15 units.
+}}
+<br />
+{{Chem
+|chemical = Ethylredoxrazine
+|formula = 1 part Oxygen, 1 part <span title="1 part Nitrogen, 1 part Potassium, 1 part Silicon" style="text-decoration:underline">Dylovene</span>, 1 part Carbon -> 3 parts Ethylredoxrazine
+'''OR''' 10 Potassium, 10 Nitrogen, 10 Silicon, 30 Oxygen, 30 Carbon -> 90 Ethylredoxrazine
+|effects = Neutralises alcohol in the blood stream. Though it is commonly needed, it is rarely requested. When combined with ethanol, it produces water. It also treats dizziness, sleepiness, and stuttering. Metabolizes at 0.2 units per tick. Overdose is 30 units.
+}}
+<br />
+{{Chem
+|chemical = Hyperzine
+|formula = 1 part Sugar, 1 part Phosphorous, 1 part Sulphur
+'''OR''' 40 Sugar, 40 Phosphorous, 40 Sulphur -> 120 Hyperzine
+|effects = A highly effective, long lasting muscle stimulant. It allows greater freedom of movement in bulky clothing. Side effects include twitching, nervousness, and psychological addiction. Metabilizes at 0.03 units per tick. Overdose is 15 units.
+}}
+<br />
+{{Chem
+|chemical = Hyronalin
+|formula = 1 part Radium, 1 part <span title="1 part Nitrogen, 1 part Potassium, 1 part Silicon" style="text-decoration:underline">Dylovene</span> -> 2 parts Hyronalin
+'''OR''' 20 Nitrogen, 20 Potassium, 20 Silicon, 60 Radium -> 120 Hyronalin
+|effects = Basic treatment for radiation damage. Reduces radiation damage more slowly than Arithrazine, but without its painful side effects. Does nothing against toxic damage. Metabolizes at 0.05 units per tick. Overdose is 30 units.
+}}
+<br />
+{{Chem
+|chemical = Imidazoline
+|formula = 1 part Hydrogen, 1 part Carbon, 1 part <span title="1 part Nitrogen, 1 part Potassium, 1 part Silicon" style="text-decoration:underline">Dylovene</span> -> 2 parts Imidazoline
+'''OR''' 10 Potassium, 10 Nitrogen, 10 Silicon, 30 Carbon, 30 Hydrogen -> 60 Imidazoline
+|effects = For treating eye trauma. It heals damage caused by physical or chemical trauma, though it is ineffective in treating genetic defects in the eyes. Metabolizes at 0.2 units per tick. Overdose is 30 units.
+}}
+<br />
+{{Chem
+|chemical = Inaprovaline
+|formula = 1 part Oxygen, 1 part Carbon, 1 part Sugar -> 3 parts Inaprovaline
+'''OR''' 40 Oxygen, 40 Carbon, 40 Sugar -> 120 Inaprovaline
+|effects = Inaprovaline is a cardiac and synaptic stimulant. Commonly used to stabilize patients - it stops the rate of decline in a patient's body if it has reached 0% or lower. Weak painkiller. Metabolizes at 0.1 units per tick. Overdose is 60 units.
+}}
+<br />
+{{Chem
+|chemical = Kelotane
+|formula = 1 part Silicon, 1 part Carbon -> 2 parts Kelotane
+'''OR''' 40 Carbon, 40 Silicon, 20 Oxygen, 20 Phosphorous -> 60 Dermaline, 60 Kelotane
+|effects = Treats burn damage effectively, preventing microbial growth and vastly speeding up healing of even full thickness burns. Metabolizes at 0.2 units per tick. Overdose is 30 units.
+}}
+<br />
+{{Chem
+|chemical = Leporazine
+|formula = 1 part Silicon, 1 part Copper, 5 units Phoron (catalyst) -> 2 parts Leporazine, 5 units Phoron
+'''OR''' 10 Phoron, 30 Copper, 30 Silicon -> 60 Leporazine, 10 Phoron
+|effects = Stabilizes a patient's body temperature. Can be used to bring down a high fever before antibiotics kick in, or to raise the temperature of a hypothermia patient. Metabolizes at 0.2 units per tick. Overdose is 30 units.
+}}
+<br />
+{{Chem
+|chemical = Myelamine
+|formula = 5 Oxygen, 5 Sugar, 20 Carbon, 30 Iron, 60 Spider Toxin, 30 Iron
+|effects = Used to rapidly clot internal hemorrhages by increasing the effectiveness of platelets. Incredibly difficult to make, but can be ordered by cargo in 'clotting crates'.
+}}
+<br />
+{{Chem
+|chemical = Oxycodone
+|formula = 1 part Ethanol, 1 part Tramadol; 1 part Phoron (Catalyst)
+'''OR''' 5 Carbon, 5 Oxygen, 5 Sugar, 10 Ethanol, 10 Oxygen, 10 Phoron, 30 Ethanol -> 30 Oxycodone, 5 Inaprovaline, 10 Phoron
+|effects = Makes 1 part. An effective and very addictive painkiller. Overdose is 20 units.
+}}
+<br />
+{{Chem
+|chemical = Paracetamol
+|formula = 1 part Tramadol, 1 part Sugar, 1 part Water
+'''OR''' 5 Carbon, 5 Oxygen, 5 Sugar, 10 Ethanol, 10 Oxygen, 30 Sugar, 30 Water -> 90 Paracetamol, 5 Inaprovaline
+|effects = Most probably know this as Tylenol, but this chemical is a mild, simple painkiller. Overdose is 60 units.
+}}
+<br />
+{{Chem
+|chemical = Peridaxon
+|formula = 2 parts Bicardine, 2 parts Clonexadone, 10 units Phoron (catalyst)
+'''OR''' 20 Phoron, 20 Oxygen, 10 Water, 10 Oxygen, 30 Sodium, 20 Carbon, 10 Sugar, 10 Oxygen, 20 Carbon -> 16 Phoron, 60 Peridaxon
+|effects = Used to encourage recovery of internal organs and nervous systems; will restore damage to internal organs, including mending ruptured lungs. (Results in two units instead of four.)
+}}
+<br />
+{{Chem
+|chemical = Rezadone
+|formula = 1 part CarpoToxin, 1 part Cryptobiolin, 1 part Copper
+'''OR''' 30 Carpotoxin, 10 Oxygen, 10 sugar, 10 potassium, 30 Copper -> 90 Rezadone
+|effects = A powder derived from fish toxin, this substance can effectively treat genetic damage in humanoids without the use of cryo, though excessive consumption has side effects.
+}}
+<br />
+{{Chem
+|chemical = Ryetalyn
+|formula = 1 part Arithrazine, 1 part Carbon
+'''OR''' 5 Nitrogen, 5 Potassium, 5 Silicon, 15 Radium, 30 Hydrogen, 60 Carbon -> 120 Ryetalyn
+|effects = Repairs disabilities due to genetic damage. One unit is enough.
+}}
+<br />
+{{Chem
+|chemical = Spaceacillin
+|formula = 1 part Cryptobiolin, 1 part Inaprovaline
+'''OR''' 20 Carbon, 20 Oxygen, 20 Sugar, 20 Oxygen, 20 Potassium, 20 Sugar -> 120 Spaceacillin
+|effects = A theta-lactam antibiotic. A common and very useful medicine, effective against many diseases likely to be encountered in space. Slows progression of diseases. Treats infections. Overdose is 30 units.
+}}
+<br />
+{{Chem
+|chemical = Corophizine
+|formula = 1 part Spaceacillin, 1 part Carbon, 0.1 part Phoron (used), 5 units Phoron (catalyst)
+'''OR''' 5 Carbon, 5 Oxygen, 5 Sugar, 5 Oxygen, 5 Potassium, 5 Sugar, 30 Carbon, 3+5 Phoron -> 30 Corophizine
+|effects = A wide-spectrum antibiotic, it can treat bacterial infections (but not viruses) better than Spaceacillin. Side-effects include: hallucinations, shortness of breath, fainting, spontaneous tendon rupture. For professional care use only.
+}}
+<br />
+{{Chem
+|chemical = Synaptizine
+|formula = 1 part Lithium, 1 part Sugar, 1 part Water
+'''OR''' 40 Sugar, 40 Water, 40 Lithium -> 120 Synaptizine
+|effects = Synaptizine is toxic, but treats hallucinations, paralysis, and stunned or weakened patients. It is metabolized very slowly. One unit is enough to treat hallucinations.
+}}
+<br />
+{{Chem
+|chemical = Tramadol
+|formula = 1 part Inaprovaline, 1 part Ethanol, 1 part Oxygen
+'''OR''' 20 Carbon, 20 Oxygen, 20 Sugar, 30 Ethanol, 30 Oxygen -> 90 Tramadol, 30 Inaprovaline
+|effects = A simple, yet effective painkiller. Very effective for patients in shock. Overdoses at 30 units.
+}}
+<br />
+{{Chem
+|chemical = Tricordrazine
+|formula = 1 part Inaprovaline, 1 part Dylovene
+'''OR''' 20 Carbon, 20 Oxygen, 20 Sugar, 20 Nitrogen, 20 Potassium, 20 Silicon -> 120 Tricordrazine
+|effects = Originally derived from Cordrazine; will heal all damage types. Often used in a wide range of applications. The healing effect is weak, but as with Dylovene, there is no danger of overdose.
+}}
+<br />
+
+=== Quick Reference ===
+Quick Reference Sheet - Use only if you know what these do!
+{| class="wikitable"
+|-
+! Chemical !! Formula
+|-
+| Ammonia
+|| 3 parts Hydrogen, 1 part Nitrogen
+|-
+|Biomass
+|1 part Animal Protein, 1 part Phoron, 1 part Sugar
+|-  
+| Chloral Hydrate
+|| 1 part Ethanol, 3 parts Chlorine, 1 part Water
+|-
+| Coolant
+|| 1 part Tungsten, 1 part Oxygen, 1 part Water
+|-
+| Soporific
+|| 1 part Chloral Hydrate, 4 parts sugar
+|-
+| Cryptobiolin
+|| 1 part Potassium, 1 part Oxygen, 1 part Sugar
+|-
+| Diethylamine
+|| 1 part Ammonia, 1 part Ethanol
+|-
+| Virus Food
+|| 1 part Milk, 1 part Water, 1 part Oxygen
+|-
+| EMP
+|| 1 part Uranium, 1 part Iron
+|-
+| Explosion
+|| 1 part Potassium, 1 part Water
+|-
+| Flash Powder
+|| 1 part Sulphur, 1 part Aluminium, 1 part Potassium
+|-
+| Foaming Agent
+|| 1 part Lithium, 1 part Hydrogen
+|-
+| Foam Surfactant
+|| 2 parts Fluorine, 2 parts Carbon, 1 part Sulphuric Acid.
+|-
+| Glycerol
+|| 3 parts Corn Oil, 1 part Sulphuric Acid
+|-
+| Impedrezene
+|| 1 part Mercury, 1 part Oxygen, 1 part Sugar
+|-
+| Lexorin
+|| 1 part Phoron, 1 part Hydrogen, 1 part Nitrogen
+|-
+| Lipozine
+|| 1 part Salt, 1 part Ethanol, 1 part Radium
+|-
+| Metal Foam
+|| 3 parts Iron/Aluminium, 1 part Foaming Agent, 1 part Polytrinic Acid
+|-
+| Luminol
+|| 1 part Hydrogen, 1 part Carbon, 1 part Ammonia
+|-
+| Napalm
+|| 1 part Phoron, 1 part Aluminium, 1 part Sulphuric Acid
+|-
+| MindBreaker Toxin
+|| 1 part Silicon, 1 part Hydrogen, 1 part Dylovene
+|-
+| Nitroglycerin
+|| 1 part Glycerol, 1 part Polytrinic Acid, 1 part Sulphuric Acid
+|-
+| Paint (Crayon Dust)
+|| 1 part Plasticide, 3 parts Water, 1 part Crayon Dust
+|-
+| Paint (Ghetto)
+|| 1 part Plasticide, 3 parts Water, 5 parts (Coloring agent)
+|-
+| Plant-B-Gone
+|| 1 part Toxin, 4 parts Water
+|-
+| Polytrinic Acid
+|| 1 part Sulphuric Acid, 1 part Chlorine, 1 part Potassium
+|-
+| Potassium Chloride
+|| 1 part Potassium, 1 part Sodium Chloride
+|-
+| Potassium Chlorophoride
+|| 1 part Potassium Chloride, 1 part Phoron, 1 part Chloral Hydrate
+|-
+| Solid Phoron
+|| 5 iron, 5 frost oil, 20 phoron
+|-
+| Plastic
+|| 10 polytrinic acid, 20 plasticide
+|-
+| Condensed Capsaicin
+|| 2 Capsaicin, 5 Phoron (Catalyst)
+|-
+| Silicate
+|| 1 part Aluminum, 1 part Silicon, 1 part Oxygen
+|-
+| Smoke
+|| 1 part Potassium, 1 part Sugar, 1 part Phosphorous
+|-
+| Sodium Chloride
+|| 1 part Chlorine, 1 part Sodium
+|-
+| Space Cleaner
+|| 1 part Ammonia, 1 part Water
+|-
+| Space Drugs
+|| 1 part Mercury, 1 part Sugar, 1 part Lithium
+|-
+| Space Lube
+|| 1 part Water, 1 part Silicon, 1 part Oxygen
+|-
+| Sterilizine
+|| 1 part Ethanol, 1 part Dylovene, 1 part Chlorine
+|-
+| Synthmeat
+|| 5 Blood, 5 Clonexadone
+|-
+| Thermite
+|| 1 part Iron, 1 part Aluminium, 1 part Oxygen
+|-
+| Unstable Mutagen
+|| 1 part Radium, 1 part Phosphorus, 1 part Chlorine
+|-
+| Water
+|| 1 part Oxygen, 2 parts Hydrogen
+|-
+| Zombie Powder
+|| 5 parts CarpoToxin, 5 parts Soporific, 5 parts Copper
+
+|}
+
+=== Other Recipes ===
+
+These are either pure reactions that typically leave nothing remaining or other chemicals that have non-medicinal uses. Many of these are useful in the manufacture of grenades, but many can be quite dangerous.
+
+{{Chem
+|chemical = Ammonia
+|formula = 3 parts Hydrogen, 1 part Nitrogen
+'''OR''' 60 Hydrogen, 20 Nitrogen -> 60 Ammonia
+|effects = An effective fertilizer which is better than what is available to the botanist initially, though it isn't as powerful as Diethylamine (Results in 3 units instead of 4).
+}}
+<br />
+{{Chem|chemical=Biomass|effects=A slurry of biomatter used to refill the grower pod and bioprinter.|formula=1 part Animal Protein, 1 part Phoron, 1 part Sugar}}
+
+{{Chem
+|chemical = Chloral Hydrate
+|formula = 1 part Ethanol, 3 parts Chlorine, 1 part Water
+'''OR''' 100 Chlorine, 10 Ethanol, 10 Water, (Repeat last two steps two more times), -> 30 Chloral Hydrate, 10 Chlorine
+|effects = A powerful sedative which causes death in doses around 15 units (effect is countered by anti toxin) (Results in 1 units instead of 5).
+}}
+
+{{Chem
+|chemical = Soporific
+|formula = 1 part Chloral Hydrate, 4 parts sugar
+'''OR''' 60 Chlorine, 20 Ethanol, 20 Water, 80 Sugar -> 100 Soporific
+|effects = A less powerful sedative that takes a while to work. Is safe in large quantities. Can be counteracted with Dylovene.
+}}
+<br />
+{{Chem
+|chemical = Cryptobiolin
+|formula = 1 part Potassium, 1 part Oxygen, 1 part Sugar
+'''OR''' 40 Potassium, 40 Oxygen, 40 Sugar -> 120 Cryptobiolin
+|effects = Causes confusion and dizziness on its own, but is an essential component of Spaceacillin.
+}}
+<br />
+{{Chem
+|chemical = Diethylamine
+|formula = 1 part Ammonia, 1 part Ethanol
+'''OR''' 60 Hydrogen, 20 Nitrogen, 60 Ethanol -> 120 Diethylamine
+|effects = A very potent fertilizer.
+}}
+<br />
+{{Chem
+|chemical = Virus Food
+|formula = 1 part Milk, 1 part Water, 1 part Oxygen
+'''OR''' 40 Milk, 40 Water, 40 Oxygen -> 120 Virus Food
+|effects = Used in Virology as a growth medium. Available from a wall dispenser in Virology.
+}}
+<br />
+{{Chem
+|chemical = EMP
+|formula = 1 part Uranium, 1 part Iron
+'''OR''' 60 Uranium, 60 Iron, -> Big Boom
+|effects = This reacts immediately on mixing. It creates a large electromagnetic pulse which affects all electronic devices, including prosthetic limbs, eyes, and hearts. The more reagents you use, the more powerful the EMP will be.
+}}
+<br />
+{{Chem
+|chemical = Explosion
+|formula = 1 part Potassium, 1 part Water
+'''OR''' 60 Potassium, 60 Water, -> Even Bigger Boom
+|effects = This explodes immediately on mixing, which may knock you over or even kill you. Only useful in grenade production.
+}}
+<br />
+{{Chem
+|chemical = Flash Powder
+|formula = 1 part Sulphur, 1 part Aluminium, 1 part Potassium
+'''OR''' 40 Sulphur, 40 Aluminium, 40 Potassium -> Kinda Big But Also Really Shiny Boom
+|effects = Creates a flash similar to that of a flashbang immediately on mixing. Only useful in grenade production.
+}}
+<br />
+{{Chem
+|chemical = Foaming Agent
+|formula = 1 part Lithium, 1 part Hydrogen
+'''OR''' 60 Lithium, 60 Hyrdogen, -> 60 Foaming Agent
+|effects = Makes foam such as that required in metal foam grenades (Results in 1 unit instead of 2).
+}}
+<br />
+{{Chem
+|chemical = Foam Surfactant
+|formula = 2 parts Fluorine, 2 parts Carbon, 1 part Sulphuric Acid.
+'''OR''' 40 Fluorine, 40 Carbon, 20 Sulphuric Acid, -> 100 Fluorosurfactant (Foam Surfactant)
+|effects = Creates a large cloud of foam when mixed with an equal amount of water.
+}}
+<br />
+{{Chem
+|chemical = Glycerol
+|formula = 3 parts Corn Oil, 1 part Sulphuric Acid
+'''OR''' 90 Corn Oil, 30 Sulphuric Acid, -> 30 Glycerol
+|effects = Requires blended corn, available from the botanist. This is only useful in other reactions (Results in 1 unit instead of 4).
+}}
+<br />
+{{Chem
+|chemical = Impedrezene
+|formula = 1 part Mercury, 1 part Oxygen, 1 part Sugar
+'''OR''' 30 Mercury, 30 Oxygen, 30 Sugar -> 60 Impedrezene
+|effects = A narcotic that impedes one's ability by slowing down the higher brain cell functions. Causes massive brain damage (Results in 2 units instead of 3).
+}}
+<br />
+{{Chem
+|chemical = Lexorin
+|formula = 1 part Phoron, 1 part Hydrogen, 1 part Nitrogen
+'''OR''' 40 Phoron, 40 Nitrogen, 40 Hydrogen -> 120 Lexorin
+|effects = Temporarily stops respiration and causes tissue damage. Large doses are fatal, and will cause people to pass out very quickly.
+}}
+<br />
+{{Chem
+|chemical = Lipozine
+|formula = 1 part Salt, 1 part Ethanol, 1 part Radium
+'''OR''' 20 Sodium, 20 Chlorine, 40 Ethanol, 40 Radium -> 120 Lipozine
+|effects = Causes weight loss upon consumption (lowers satiation level).
+}}
+<br />
+{{Chem
+|chemical = Metal Foam
+|formula = 3 parts Iron/Aluminium, 1 part Foaming Agent, 1 part Polytrinic Acid
+'''OR''' 5 part Sulphuric Acid, 5 part Chlorine, 5 part Potassium, 15 Lithium, 15 Hyrdogen, 90 Iron/Aluminium -> Lotsa Foam
+|effects = Creates lightweight metal foam walls. These can be easily torn through, but may be useful for plugging hull breaches. Can be made with either iron or aluminium.
+}}
+<br />
+{{Chem
+|chemical = Napalm
+|formula = 1 part Phoron, 1 part Aluminium, 1 part Sulphuric Acid
+'''or''' 40 Phoron, 40 Aluminium, 40 Sulphuric Acid -> BIG FIRE
+|effects = Creates a large fire immediately on mixing. Only useful for grenades (Results in 1 unit instead of 3).
+}}
+<br />
+{{Chem
+|chemical = MindBreaker Toxin
+|formula = 1 part Silicon, 1 part Hydrogen, 1 part Dylovene
+'''OR''' 10 Silicon, 10 Potassium, 10 Nitrogen, 30 Hydrogen, 30 Silicon -> 90 Mindbreaker Toxin
+|effects = A potent hallucinogenic compound. Formerly known as LSD, but was renamed so people understand that it is not a "fun time". Its use and distribution is illegal, but it is a precursor to several useful psychoactive medications.
+}}
+<br />
+{{Chem
+|chemical = Nitroglycerin
+|formula = 1 part Glycerol, 1 part Polytrinic Acid, 1 part Sulphuric Acid
+'''OR''' 90 Corn Oil, 30 Sulphuric Acid, 30 Polytrinic Acid, 30 Sulphuric Acid -> INCREDIBLY LARGE BOOM
+|effects = A heavy, colourless, oily, explosive liquid obtained by nitrating glycerol. Explodes immediately on mixing (Results in 2 units instead of 3).
+}}
+<br />
+{{Chem
+|chemical = Paint (Crayon Dust)
+|formula = 1 part Plasticide, 3 parts Water, 1 part Crayon Dust
+'''OR''' 90 Water, 15 Plasticide, 15 Crayon Dust, -> 120 Paint
+|effects = 5 units of Paint. Crayons can be ground for colorful dust. Replace crayon dust with aluminium for white paint. Remove paint with space cleaner.
+}}
+<br />
+{{Chem
+|chemical = Paint (Ghetto)
+|formula = 1 part Plasticide, 3 parts Water, 5 parts (Coloring Agent)
+'''OR''' 90 Water, 15 Plasticide, 15 (Coloring Agent), -> 120 Paint
+|effects = 5 units of Paint. The coloring agent can be milk, orange juice, tomato juice, lime juice, carrot juice, berry juice, grape juice, poison berry juice, watermelon juice, lemon juice, banana juice, potato juice, carbon, or aluminum.
+}}
+<br />
+{{Chem
+|chemical = Plant-B-Gone
+|formula = 1 part Toxin, 4 parts Water
+'''OR''' 96 Water, 24 Toxin, -> 120 Plant-B-Gone
+|effects = A potent herbicide which is useful to replace the limited supply the botanist starts with.
+}}
+<br />
+{{Chem
+|chemical = Polytrinic Acid
+|formula = 1 part Sulphuric Acid, 1 part Chlorine, 1 part Potassium
+'''OR''' 40 Sulphuric Acid, 40 Chlorine, 40 Potassium -> 120 Polytrinic Acid
+|effects = An extremely corrosive chemical substance. Will destroy organic materials when sprayed or splashed, leaving a telltale gray sludge behind.
+}}
+<br />
+{{Chem
+|chemical = Potassium Chloride
+|formula = 1 part Potassium, 1 part Sodium Chloride
+'''OR''' 30 Sodium, 30 Chlorine, 60 Potassium, -> 120 Potassium Chloride
+|effects = A delicious salt that stops the heart when injected into cardiac muscle.
+}}
+<br />
+{{Chem
+|chemical = Potassium Chlorophoride
+|formula = 1 part Potassium Chloride, 1 part Phoron, 1 part Chloral Hydrate
+'''OR''' 50 Chlorine, 15 Ethanol, 15 Water, 5 Chlorine, 10 Sodium, 20 Potassium, 20 Phoron, -> 60 Potassium Chlorophoride, 25 Potassium Chloride, 5 Phoron
+|effects = A specific chemical based on Potassium Chloride to stop the heart for surgery. Not safe to eat!
+}}
+<br />
+{{Chem
+|chemical = Solid Phoron
+|formula = 5 iron, 5 frost oil, 20 phoron
+'''OR''' 80 Phoron, 20 Frost Oil, 20 Iron, -> 4 Phoron Crystals
+|effects = Phoron solidification.
+}}
+<br />
+{{Chem
+|chemical = Plastic
+|formula = 10 polytrinic acid, 20 plasticide
+'''OR''' 10 Sulphuric Acid, 10 Chlorine, 10 Potassium, 60 Plasticide, -> 3 Plastic Sheets
+|effects = 1 sheet of plastic.
+}}
+<br />
+{{Chem
+|chemical = Condensed Capsaicin (Pepper Spray)
+|formula = 2 Capsaicin, 5 Phoron (Catalyst)
+'''OR''' 5 Phoron, 30 Capsaicin(x4), -> 60 Condensed Capsaicin, 5 Phoron
+|effects = Results in 1 unit of Condensed Capsaicin.
+}}
+<br />
+{{Chem
+|chemical = Silicate
+|formula = 1 part Aluminum, 1 part Silicon, 1 part Oxygen
+'''OR''' 40 Aluminum, 40 Silicon, 40 Oxygen -> 120 Silicate
+|effects = Used to strengthen windows.
+}}
+<br />
+{{Chem
+|chemical = Smoke
+|formula = 1 part Potassium, 1 part Sugar, 1 part Phosphorous
+'''OR''' 30 Potassium, 30 Sugar, 30 Phosphorous, 30 (Reagent of Your Choice), -> Smoke Cloud With Varying Properties
+|effects = This creates a large cloud of smoke that will take on the properties of everything (if anything) in the container of the reaction. Very useful if you want to make a chloral hydrate smoke grenade for riot control.
+}}
+<br />
+{{Chem
+|chemical = Sodium Chloride (Table Salt)
+|formula = 1 part Chlorine, 1 part Sodium
+'''OR''' 60 Chlorine, 60 Sodium -> 120 Table Salt
+|effects = Commonly known as salt, Sodium Chloride is often used to  season food.
+}}
+<br />
+{{Chem
+|chemical = Space Cleaner
+|formula = 1 part Ammonia, 1 part Water
+'''OR''' 60 Hydrogen, 20 Nitrogen, 60 Water, -> 120 Space Cleaner
+|effects = This is able to clean almost all surfaces of almost anything that may dirty them. The janitor is likely to appreciate refills.
+}}
+<br />
+{{Chem
+|chemical = Space Drugs
+|formula = 1 part Mercury, 1 part Sugar, 1 part Lithium
+'''OR''' 40 Mercury, 40 Sugar, 40 Lithium -> 120 Space Drugs
+|effects = An illegal compound which induces a number of effects such as loss of balance and hallucinations.
+}}
+<br />
+{{Chem
+|chemical = Space Lube
+|formula = 1 part Water, 1 part Silicon, 1 part Oxygen
+'''OR''' 30 Water, 30 Silicon, 30 Oxygen -> 120 Space Lube
+|effects = Space Lube is a high performance lubricant intended for maintenance of extremely complex mechanical equipment (Results in 4 units instead of 3).
+}}
+<br />
+{{Chem
+|chemical = Sterilizine
+|formula = 1 part Ethanol, 1 part Dylovene, 1 part Chlorine
+'''OR''' 10 Silicon, 10 Potassium, 10 Nitrogen, 30 Ethanol, 30 Chlorine, -> 90 Sterilizine
+|effects = Sterilizes wounds in preparation for surgery.
+
+}}
+<br />
+{{Chem
+|chemical = Synthmeat
+|formula = 5 Blood, 5 Clonexadone
+'''OR''' 20 Phoron, 20 Oxygen, 10 Water, 10 Oxygen, 30 Sodium, 5 Blood -> 1 Slab of Synth Meat (+1 for every 5 blood added, up to 60 slabs)
+|effects = A tasty alternative to actual meat, allegedly used for surgery.
+}}
+<br />
+{{Chem
+|chemical = Thermite
+|formula = 1 part Iron, 1 part Aluminium, 1 part Oxygen
+'''OR''' 40 Iron, 40 Aluminium, 40 Oxygen -> VERY HOT
+|effects = A mixture that becomes extremely hot when ignited, and which can burn straight through walls when applied and ignited.
+}}
+<br />
+{{Chem
+|chemical = Unstable Mutagen
+|formula = 1 part Radium, 1 part Phosphorus, 1 part Chlorine
+'''OR''' 40 Radium, 40 Phosphorus, 40 Chlorine -> 120 Unstable Mutagen
+|effects = Causes mutations when injected into living people or plants. High doses may be lethal, especially in humans. Only useful for Botany. Will cause mutations and radiation poisoning if ingested.
+}}
+<br />
+{{Chem
+|chemical = Water
+|formula = 1 part Oxygen, 2 parts Hydrogen
+'''OR''' Just dispense water from the chem dispenser like a sane human being.
+|effects = It's water. Results in one unit.
+}}
+<br />
+{{Chem
+|chemical = Zombie Powder
+|formula = 5 parts CarpoToxin, 5 parts Soporific, 5 parts Copper
+'''OR''' 15 Chlorine, 5 Ethanol, 5 Water, 20 Sugar, 25 CarpoToxin, 25 Copper -> 10 Zombie Powder
+|effects = Paralyses people, and makes them appear dead to the most rudimentary of tests. Requires CarpoToxin, which must be harvested from Space Carp (Results in 2 units instead of 15).
+}}
+<br />
+
+== BS12 specific recipes ==
+
+{{Chem
+|chemical = Methylphenidate
+|formula = 1 part MindBreaker Toxin, 1 part Hydrogen
+'''OR''' 5 Silicon, 5 Potassium, 5 Nitrogen, 15 Silicon, 15 Hydrogen, 20 Hydrogen -> 60 Methylphenidate, 25 Mindbreaker Toxin
+|effects = Helps you concentrate. Prescribed for ADHD and similar conditions. Results in 3 units instead of 2.
+}}
+
+<br />
+{{Chem
+|chemical = Citalopram
+|formula = 1 part MindBreaker Toxin, 1 part Carbon
+'''OR''' 5 Silicon, 5 Potassium, 5 Nitrogen, 15 Silicon, 15 Hydrogen, 20 Carbon -> 60 Citalopram, 25 Mindbreaker Toxin
+|effects = Mild antidepressant. Prescribed for depression and anxiety. Results in 3 units instead of 2.
+}}
+
+<br />
+{{Chem
+|chemical = Paroxetine
+|formula = 1 part MindBreaker Toxin, 1 part Oxygen, 1 part Inaprovaline
+'''OR''' 5 Silicon, 5 Potassium, 5 Nitrogen, 15 Silicon, 15 Hydrogen, 30 Inaprovaline(10 Oxygen, 10 Sugar, 10 Carbon In a Separate Beaker), 30 Oxygen, -> 90 Paroxetine, 15 Mindbreaker Toxin
+|effects = Stronger antidepressant, with chance of hallucinations. Prescribed for severe depression.
+}}
+
+== Vorestation specific recipes ==
+{{Chem
+|chemical = Sizeoxadone
+|formula = 1 part Clonexadone, 3 part Tramadol, 1 part Phoron, 5 Phoron (Catalyst)
+'''OR''' 20 Phoron, 4 Oxygen, 2 Water, 2 Oxygen, 6 Sodium, 4 Carbon, 4 Sugar, 4 Oxygen, 12 Ethanol, 12 Oxygen, -> 60 Sizeoxadone, 7.2 Phoron
+|effects = Required ingredient for macrocillin, microcillin, and normalcillin
+}}
+<br />
+{{Chem
+|chemical = Macrocillin
+|formula = 20 part Sizoxadone, 20 part Diethylamine -> 1 part Macrocillin
+'''OR''' 30 Hydrogen, 10 Nitrogen, 30 Ethanol, 60 Sizeoxadone -> 3 Macrocillin
+|effects = You grow!
+}}
+<br />
+{{Chem
+|chemical = Microcillin
+|formula = 20 part Sizoxadone, 20 part Sodium Chloride -> 1 part Microcillin
+'''OR''' 30 Chlorine, 30 Sodium, 60 Sizeoxadone, -> 3 Microcillin
+|effects = You shrink!
+}}
+<br />
+{{Chem
+|chemical = Normalcillin
+|formula = 20 part Sizoxadone, 20 part leporazine -> 1 part Normalcillin
+'''OR''' 10 Phoron, 30 Copper, 30 Silicon, -10 Phoron, 60 Sizeoxadone, -> 3 Normalcillin
+|effects = You normalify!
+}}
+<br />
+{{Chem
+|chemical = Ickypak
+|formula = 1 parts surfactant, 4 parts hyperzine
+'''OR''' 10 Fluorine, 10 Carbon, 5 Sulphuric Acid, 30 Sugar, 30 Phosphorous, 30 Sulphur -> 112.5 Ickypak, 2.5
+|effects = Causes involuntary muscle contractions, expelling prey. Has painful side-effects.
+}}
+<br />
+{{Chem
+|chemical = Unsorbitol
+|formula = 2 parts lipozine, 3 parts unstable mutagen
+'''OR''' 5 Sodium, 5 Chlorine, 10 Ethanol, 10 Radium, 30 Radium, 30 Phosphorus, 30 Chlorine, -> 75 Unsorbitol, 45 Unstable Mutagen
+|effects = Causes absorbed prey to be released into a belly. Has extreme side-effects. Consider patient restraints.
+}}
+<br />
+{{Chem
+|chemical = Slime Jelly
+|formula = 50 parts Sugar, 50 Parts Lithium, 20 parts Phoron -> 5 parts Slime Jelly
+|effects = Toxic, has the potential to poison you to Hell and back. You’ll be needing this for the more fun reactions.
+}}
+<br />
+{{Chem
+|chemical = Healing Reaction
+|formula = 10 Bicaridine, 10 Inaprovaline, 10 Kelotane, 10 Slime Jelly, 10 Phoron
+|effects = A healing grenade that actually works, or just an instant heal in a bottle. Instantly heals 25 of the following: Brute, Burn, Toxins, Oxy, Brain Damage and Genetic Damage on everyone and everything on the screen. Even works on corpses.
+}}
+<br />
+{{Chem
+|chemical = Freezing Reaction
+|formula = 10 Coolant, 10 Slime Jelly, 10 Phoron
+|effects = Lowers the temperature of the affected area. Might also be screen-wide. If you spam this, you can cool someone down enough to use cryo-chems without putting them in a cell.
+}}
+<br />
+{{Chem
+|chemical = Frost Oil Production
+|formula = 5 Water, 5 Coolant, 5 Slime Jelly, 5 Phoron
+|effects = Produces Frost Oil in 10 unit amounts.
+}}
+<br />
+{{Chem
+|chemical = Instant Fire
+|formula = 30 Potassium, 30 Slime Jelly, 60 Phoron
+|effects = Spawns in a fire, random size, random spread. Has a chance to fizz and not do anything. If you’re looking for destruction, you’re better off using napalm.
+}}
+<br />
+{{Chem
+|chemical = Slime Glowstick
+|formula = 10 Water, 5 Slime Jelly, 5 Phoron
+|effects = It’s a glowstick/flashlight! Bioluminescence FTW.
+}}
+<br />
+{{Chem
+|chemical = Create Phoron
+|formula = 20 Uranium, 20 Slime Jelly, 20 Phoron
+|effects = Use phoron and slime jelly, and uranium, to make 10 pieces of phoron! 
+}}
+<br />
+{{Chem
+|chemical = Make Food
+|formula = 20 Nutriment, 5 Slime Jelly, 10 Phoron
+|effects = All sorts of food will spawn when this reaction is done.
+}}
+<br />
+{{Chem
+|chemical = Make Materials
+|formula = 20 Aluminum, 40 Slime Jelly, 20 Phoron
+|effects = Random material spawns, anything from cardboard to diamond.
+}}
+
+== Beyond the Dispenser ==
+Just because it isn't found in the dispenser or the guide above doesn't mean you can't use it! Holy water, Slime cores and plenty of other things can provide limitless fun for an enterprising and curious chemist.
+
+{{Gameplay guides}}

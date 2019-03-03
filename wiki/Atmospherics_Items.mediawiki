@@ -1,0 +1,284 @@
+<div class='smallpic'>
+{{BayPage}}
+A page on Canisters and other such things.
+
+==Items==
+{{anchor|Fire Extinguisher}}
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Fire Extinguisher
+ |image = FireExtinguisher.png
+ |foundin = Extinguisher lockers
+ |usedfor = Extinguishing fires and the lives of unaware command staff, ghetto jetpacks
+ |strategy = A fire extinguisher will spray water across the room to put out fires or change your direction in space.
+ |description = This has multiple uses, from being a staple of space travel to rocketing yourself down a hallway strapped to a wheeled chair, to even its intended purpose. Easily the best weapon against [[Slime]]s. A Chaplain can bless the water in a fire extinguisher to bless an entire stretch of hallway at once. Will need refilling at a water tank.
+ }}
+
+{{anchor|Miniature Fire Extinguisher}}
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Minature Fire Extinguisher
+ |image = MiniFE.png
+ |foundin = Emergency Toolboxes
+ |usedfor = Putting out small fires, ghetto jetpacks
+ |strategy = A fire extinguisher will spray water across the room to put out fires or change your direction in space.
+ |description = Functionally the same as a normal fire extinguisher, but has a smaller capactity and can fit into your pockets. Will need refilling at a water tank.
+ }}
+
+{{anchor|Emergency Oxygen Tank}}
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Emergency Oxygen Tank
+ |image = EmergencyOxygenTank.png
+ |foundin = [[Atmospherics|Atmospherics Office]], Emergency Lockers, internals box
+ |usedfor = As the name suggest, used as an emergency oxygen supply. It's not a question about '''if''' you need it, it's a question of '''when''' you need it, keep one with you at all time.
+ |strategy = Stuff it in your pocket, belt, or suit slot and leave it there, you'll need it.
+ |description = A small oxygen tank that you can wear in your belt slot or in the suit slot of various [[suits]]. It is typically kept at approximately 21 kPa with a minimal release setting. Oxygen tanks of all sizes can be filled by [[Atmospheric Technician]]s and are used with a [[breath mask]] to set up an internal air supply. You might want to set this to 16 kPa release pressure. Can be filled to 1013 kPa.
+ }}
+
+{{anchor|Oxygen Tank}}
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Oxygen Tank
+ |image = OxygenTank.png
+ |foundin = [[Tank dispensers]], Emergency Lockers, Mining Outpost EVA
+ |usedfor = Mostly used for [[hardsuit]]s as it nicely fit in to the [[suit slot]], but is sadly too big for a pocket. Also used for [[Guide to toxins|bomb making]].
+ |strategy = Don't forget one of these when you grab a [[hardsuit]].
+ |description = An emergency oxygen tank with a much bigger capacity and a ''much'' slower oxygen consuming rate. A must for miners who like to stay in space for long times. Can be filled to 1013 kPa.
+ }}
+
+{{anchor|Phoron Tank}}
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Phoron Tank
+ |image = Handheld-Plasmatank.png
+ |foundin = [[Tank dispensers]]
+ |usedfor = Used for the [[Singularity_Engine#Load_the_radiation_collectors_.28Vital.29|Singularity Engine]] and [[Guide to toxins|bomb making]].
+ |strategy = Handle with care.
+ |description = Used by [[Engineer|Engineers]] for radiation collection from the Singularity Engine, by [[Scientist|Scientists]] for bombs, and [[Assistant|your typical scoundrel]] for lightning fires with a flamethrower or releasing toxins into the air, phoron is the most hunted resource by NanoTrasen. It's the reason '''you''' are '''here'''.
+ }}
+
+==Equipment==
+{{anchor|Canister}}
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Canister
+ |image = Canister.png
+ |foundin = [[Emergency Storage]], [[Maintenance]], [[Atmospherics]], [[Toxins Lab]]
+ |usedfor = Used for holding and transporting gases like [[Oxygen]], phoron, and the like.
+ |strategy = Place around hallways, wait for [[Assistant|Assistants]] to open them for no reason.
+ |description = When new and before use, or when almost fully emptied, a label can be selected from its interface. This will change its color to indicate what it may contain (or fooling people into thinking it contains [[Oxygen]] and not [[Phoron]])
+
+Can be made with 10 sheets of [[Metal]].
+ }}
+
+{{anchor|Space Heater}}
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Space Heater
+ |image = SpaceHeater.gif
+ |foundin = [[Emergency Storage]], [[Maintenance]], [[Atmospherics]]
+ |usedfor = Heating up a cold area.
+ |strategy = Set heat to high and drag it along with you to prolong a spacesuit-less space walk.
+ |description = Made by the Space Amish, it can reliably heat up a room to livable temperature. Requires an energy cell, all of them are loaded with crappy 1000 Watt one, keep it in mind if you need free battery.
+ }}
+
+{{anchor|Portable Pump}}
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Portable Pump
+ |image = PortablePump.png
+ |foundin = [[Locker Room]], [[Atmospherics]], Hallway outside the [[Atmospherics|Atmospherics office]]
+ |usedfor = Filling a room with air. Can also be use to suck the air out of a room.
+ |strategy = Set pump direction to out and power to maximum, then watch things fly as you turn it on.
+ |description = It both sucks and blows. Be sure to connect it to the blue ports outside Atmospherics to fill it up with delicious air mix beforehand. Turn it on, and it re-pressurizes a room until the air runs out.
+ }}
+
+{{anchor|Portable Scrubber}}
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Portable Scrubber
+ |image = PortableScrubber.png
+ |foundin = [[Locker Room]], [[Atmospherics]], Hallway outside the [[Atmospherics|Atmospherics office]]
+ |usedfor = Cleaning the air from phoron and other unwanted gasses. Also used for empting phoron tanks and oxygen tanks.
+ |strategy = Pull it to the ([[Phoron]]) leak and turn it on.
+ |description = In with the bad air, out with the good air. Flip it on to clean the air very slowly. Connect it to the red ports outside Atmospherics to empty it out once it's full. Make sure you also re-fill the area with clean oxygen.
+ }}
+
+{{anchor|Pipe Dispenser}}
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Pipe Dispenser
+ |image = PipeDispenser.png
+ |foundin = [[Atmospherics]]
+ |usedfor = Making pipes and pumps.
+ |strategy = It is still possible to dispose of pipes and pumps into it when it's in movable-mode.
+ |description = Using a [[Wrench]] will toggle it between movable-mode and dispensing-mode.<br>
+When in dispensing-mode and in a powered room, it can dispense pipes and pumps for use.<br>
+Despite not being able to pick them up with your hands, you can drag the pipe onto the dispenser to dispose of extras.
+ }}
+
+==Gas System Items==
+
+===Gas Containers===
+'''Canisters''':
+
+The most used gas container on the station. Can be moved and connected to a Connector Port using a wrench.
+
+* [[File:Canister.png|64px]] '''Canister'''
+
+
+* [[File:Plasma_canister.png|64px]] '''Phoron Canister'''
+
+
+* [[File:O2_canister.png|64px]] '''O2 Canister'''
+
+
+* [[File:CO2_canister.png|64px]] '''CO2 Canister'''
+
+
+* [[File:N2_canister.png|64px]] '''N2 Canister'''
+
+
+* [[File:N2O_canister.png|64px]] '''N2O Canister'''
+
+
+* [[File:Air_Canister.png|64px]] '''Air Canister'''
+
+
+'''Pressure Tanks''':
+
+Bigger containers than canisters. Cannot be moved or attached to a connector port.
+
+* [[File:O2_Pressure_Tank.png|64px]] '''O2 Pressure Tank'''
+
+
+* [[File:Plasma_Pressure_Tank.png|64px]] '''Phoron Pressure Tank'''
+
+
+* [[File:N2_Pressure_Tank.png|64px]] '''N2 Pressure Tank'''
+
+
+* [[File:CO2_Pressure_Tank.png|64px]] '''CO2 Pressure Tank'''
+
+
+* [[File:N2O_Pressure_Tank.png|64px]] '''N2O Pressure Tank'''
+
+
+
+
+===Pipes===
+
+* [[File:Pipe.png|64px]][[File:Pipe_Manifold1.png|64px]] [[File:Pipe_Manifold2.png|64px]] '''Regular Pipes'''
+The most basic objects needed in a Gas Pipe Network.
+
+
+* [[File:Insulated_Pipe.png|64px]]'''Insulated Pipes'''
+
+
+===Devices===
+
+* [[File:Scrubber_Port.png|64px]]'''Scrubber'''
+Scrubs the nasty out of things, or acts like a vacuum
+
+
+* [[File:Vent_Port.gif|64px]]'''(Unary) Vent'''
+Can pump gasses in or out of its area. used in airlock systems.
+
+
+* [[File:Connector_Port.png|64px]]'''Connector Port'''
+Used to attach canisters, pumps or scrubbers to a pipe network. 
+
+
+* [[File:Meter.png|64px]]'''Meter'''
+Tells the pressure and temperature of the gas inside the pipes.
+
+
+* [[File:Gas_Sensor.png|64px]]'''Gas Sensor'''
+
+
+* [[File:Pump.png|64px]]'''Gas Pump'''
+The basic pumps you'll find all over atmospherics. Good for precise pressure levels. Goes up to 4500 kPa. The red mark is on the exit side of the pump.
+
+
+* [[File:Volumetric_Pump.png|64px]]'''Volumetric Pump'''
+A bit like the gas pump, but pumps via volume rather than going for pressure. 200 is its max output, but this is fairly significant. Faster than a gas pump (You can even fill canisters up past the standard 4500 kpa pressure!), so best used in systems where precise pressure isn't needed. The red mark is on the exit side of the pump.
+
+
+* [[File:Manual_Valve.png|64px]]'''Manual Valve'''
+Prevents the gas from getting through when closed. The green light means the valve is open.
+
+
+* [[File:Digital_Valve.png|64px]]'''Digital Valve'''
+Prevents the gas from getting through when closed. The green light means the valve is open.
+
+
+* [[File:Gas_Filter.png|64px]]'''Gas Filter'''
+Device that filters specific gasses.
+
+
+* [[File:Gas_Mixer.png|64px]]'''Gas Mixer'''
+Device that mixes specific gasses.
+
+
+* [[File:Air_Injector.png|64px]]'''Air Injector'''
+
+
+* [[File:Passive_Gate.png|64px]]'''Passive Gate'''
+Doesn't pump gas, but lets certain pressure through. Can let up to 4500 kPa pressure through. It should be noted that its on status can be easy to miss, being just a small red/green light.
+
+
+* [[File:Filter_Control.png|64px]]'''Filter Control'''
+
+===Heat Related Items===
+* [[File:SpaceHeater.gif|64px]]'''Space Heater'''
+Used to heat up an area.
+
+* [[File:HE_Pipes.png|64px]]'''Heat Exchange Pipes'''
+H/E pipes transfer temperatures between the environment and gas within. 
+
+* [[File:HE_Junction.png|64px]]'''Heat Exchange Junction'''
+Turns a regular pipe network into a H/E network and vice versa.
+
+* [[File:Heat_Exchanger.png|64px]]'''Heat Exchanger'''
+These devices equalize the temperature between two pipe networks without actually mixing the gasses. To use, place them facing each other. 
+
+* [[File:Heater.png|64px]] '''Heater'''
+Heats up gasses to a given temperature when connected to a pipe network.
+
+
+* [[File:Freezer.gif|64px]] '''Freezer'''
+Cools down gasses to a given temperature when connected to a pipe network.
+
+==Disposal System Items==
+* [[File:PipeDispenser.png|64px]] '''Disposal Pipe Dispenser'''
+
+* [[File:Disposal_Pipe.png|64px]][[File:Disposal_Pipe2.png|64px]][[File:Disposal_Pipe3.png|64px]]'''Disposal Pipes'''
+Those pipes are made through the disposal pipe dispenser, use them to fix or expand to the disposal system of the Exodus.
+
+* [[File:Disposal_bin.png|64px]]'''Disposal Unit'''
+Where people put their trash which are then sent to the disposal area via the disposal pipe system.
+
+* [[File:Disposal_outlet.png|64px]]'''Disposal Outlet'''
+
+* [[File:Disposal_Intake.png|64px]]'''Disposal Intake'''
+
+
+==Transit Tubes==
+* [[File:Transit_Tube1.png|64px]][[File:Transit_Tube2.png|64px]]'''Transit Tubes'''
+Transit system used on the Research Outpost of the asteroid.
+
+==Miscellaneous==
+* [[File:Atmospherics_Hardsuit.png|64px]] [[File:Atmospherics_Hardsuit_Helmet.png|64px]] '''Atmospherics [[Voidsuit]] and Helmet'''
+The Atmospheric Technician's hardsuit for emergencies.
+</div>

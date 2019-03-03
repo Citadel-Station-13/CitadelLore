@@ -1,0 +1,32 @@
+{{SidebarJob
+| jobname = Explorer
+| img_file = explorer.png
+| tagline = Space is for everyone, especially us
+| alt_titles = Explorer Technician, Explorer Medic
+| department = Science
+| access = Science, Excursion shuttle
+| duties = Exploring any points of interest accessible via wormhole or shuttle travel
+| supervisors = Research Director
+| difficulty = Medium
+}}
+
+Explorers are members of the science team who report to the [[Research Director]] like all other staff, but who's primary mission takes place far away from the station. In general, explorers are dispatched to investigate distant regions and planets, or even travel to other places in space-time via the gateway. They will typically be required to encounter danger and face extraterrestrial threats in the course of their job.
+
+== Setup ==
+Unlike other members of the science team, the explorer is very likely to require weapons and equipment that rivals security. Care must be taken to avoid this equipment from falling into the hands of untrained personnel <s>when the explorer is eaten by some other crewmember</s>. A good explorer will also take note of possible [[weather]] conditions.
+
+WIP equipment section.
+
+== Exploring ==
+The explorer's main job function is to explore, locate any devices or artifacts of interest, make contact with any indigenous life, and generally make new discoveries in the interest of science and advancing knowledge.
+
+'''WIP exploration guide.'''
+
+You should be familiar with [[Standard Operating Procedure#Scientific Expeditions|Standard Operating Procedure]] with regards to away missions, and make sure you follow the directions of the [[Pathfinder]] or [[Research Director]] if present. However, When off station the Pathfinder gains command over the Research director.
+
+== Weaponry and You ==
+Unlike the rest of science, who are not permitted to leave the R&D area with live weapons, you are permitted to carry weapons to further your job as necessary, but '''only to and from the shuttle or gateway''' <s>legally, anyway</s>. For legal purposes, you should leave your weapons in R&D or Security when going off-duty. Any explorer weapons recovered by a [[Search and Rescue]] crew member for example, should be <s>kept to defend against wily predators</s> turned over to R&D or Security for safe keeping.
+
+Security is within their rights to charge you with possessing contraband, should you be searched for some other offense while not on duty. If you assault someone in the bar and while being processed security discovers your x-ray laser, you ''may'' be charged with possessing major contraband.
+
+{{Jobs}}

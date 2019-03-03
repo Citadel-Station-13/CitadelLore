@@ -1,0 +1,22 @@
+{| align=left width=95% bgcolor=#FAF5FF style="float:left; margin-right:100%; margin-bottom:1em; font-size:large; border:1px solid #DDCEF2"
+| style="padding:15px" | [[File:GrayCrate.png]] [[File:Id_regular.png]] [[General Items]]
+| style="padding:15px" | [[File:Btoolbox.png]] [[File:Wrench.png]] [[Engineering Items]]
+| style="padding:15px" | [[File:Tasernew.png]] [[File:Handcuffs.png]] [[Security Items]]
+|-
+| style="padding:15px" | [[File:Chameleon_jumpsuit.gif]] [[File:SpaceHelmet.png]] [[Clothing and Internals]]
+| style="padding:15px" | [[File:Canister.png]] [[File:OxygenTank.png]] [[Atmospherics Items]]
+| style="padding:15px" | [[File:Tele.gif]] [[File:Icard.png]] [[High-Risk Items]]
+|-
+| style="padding:15px" | [[File:Bscanner.gif]][[File:Bscanner_console.gif]] [[Medical Items]]
+| style="padding:15px" | [[File:Comm_terminal.png]] [[File:Guestconsole.png]] [[Computers]]
+| style="padding:15px" | [[File:Airlock.png]] [[File:Biogenerator.gif]] [[Electronics|Electronics & Machinery]]
+|- 
+| style="padding:15px" | [[File:Toy_Mechs.gif]] [[File:Therapy_dolls.gif]] [[Toys]]
+| style="padding:15px" | [[File:Stool.png]] [[File:Table.png]] [[Furniture]]
+| style="padding:15px" | [[File:Custom_familyphotograph.png]] [[File:Custom_goldscalpel.png]] [[Custom Items]]
+|}
+
+See Also:
+* The [[:Category:Objects|objects category page]].
+* A list of [[Reading Material|recommended reading material]].
+* Various [[Guides|guides]] to playing the game.

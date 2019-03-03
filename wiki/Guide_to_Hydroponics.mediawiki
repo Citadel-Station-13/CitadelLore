@@ -1,0 +1,787 @@
+==Flower Power==
+
+The Hydroponics or "[[Botanist]]s" who work there are important people on the station, especially in longer rounds. [[Botanist]]s grow plants, obviously. 
+Without plants, the [[Chef]] cannot make many types of food. Without those types of food, the denizens of the station will either have to live off of beef jerky and space twinkies, or starve to death. Now that you understand why this is important, let's get started!
+
+==Plants==
+
+Here is a chart with the types of plants you can grow, in case you forgot.
+
+{| border="1" cellspacing="0" cellpadding="2" align="center" style="background-color:#99D699;"
+!style="background-color:#cc9966;" |Name
+!style="background-color:#cc9966;" |Seed
+!style="background-color:#cc9966;" |Plant
+!style="background-color:#cc9966;" |Product
+!style="background-color:#cc9966;" |Reagents; Notes
+!style="background-color:#cc9966;" |Source
+|-
+!Ambrosia Deus
+|[[File:Ambrosiadeusseed.png|50px]]
+|[[File:Ambrosiadeusplant.gif|50px]]
+|[[File:Ambrosiadeus.png|50px]]
+| 1 Nutriment, 1 Bicaridine, 1 Synaptizine, 1 Hyperzine, 1 Space drugs
+| Mutates from Ambrosia Vulgaris
+|-
+!Ambrosia Vulgaris
+|[[File:ambrosiavulgarisseed.png|50px]]
+|[[File:ambrosiavulgarisplant.png|50px]]
+|[[File:ambrosiavulgaris.png|50px]]
+| 1 Nutriment, 1 Space drugs, 1 Kelotane, 1 Bicaridine, 1 Toxin
+| Xenoflora Seed Storage
+|-
+!Apple
+|[[File:appleseed.png|50px]]
+|[[File:appleplant.png|50px]]
+|[[File:Apple.png|50px]]
+| 2 Nutriment
+| Seed Storage
+|-
+!Apple
+|[[File:appleseed.png|50px]]
+|[[File:appleplant.png|50px]]
+|[[File:Apple.png|50px]]
+| 3 Cyanide (These apples look identical to normal apples, but are extremely poisonous.)
+| Mutates from Apple
+|-
+!Bananas
+|[[File:Bananaseed.png|50px]]
+|[[File:Bananatree.png|50px]]
+|[[File:Banana.png|50px]]
+| 1 Banana Juice. Drops a slippery peel once eaten.
+| Seed Storage
+|-
+!Berries
+|[[File:Berryseed.png|50px]]
+|[[File:BerryTree.png|50px]]
+|[[File:Berry.png|50px]]
+| 2 Nutriment, 2 Berry Juice
+| Seed Storage
+|-
+!Blood Tomato
+|[[File:bloodtomatoseed.png|50px]]
+|[[File:bloodtomatoplant.png|50px]]
+|[[File:bloodtomato.png|50px]]
+| 2 Nutriment, 3 Blood
+| Mutates from Tomatoes
+|-
+!Bluespace Tomato
+|[[File:Bluespacetomatoseed.png|50px]]
+|[[File:Bluespacetomatoplant.gif|50px]]
+|[[File:Bluespacetomato.gif|50px]]
+| 1 Nutriment, 3 Singulo
+| Mutates from Blue Tomatoes
+|-
+!Blue Tomato
+|[[File:bluetomatoseed.png|50px]]
+|[[File:bluetomatoplant.png|50px]]
+|[[File:bluetomato.png|50px]]
+| 1 Nutriment, 3 Space Lube
+| Mutates from Tomatoes
+|-
+!Cabbages
+|[[File:cabbageseed.png|50px]]
+|[[File:cabbageplant.png|50px]]
+|[[File:cabbage.png|50px]]
+| 2 Nutriment
+| Seed Storage
+|-
+!Carrots
+|[[File:carrotseed.png|50px]]
+|[[File:carrotplant.png|50px]]
+|[[File:carrot.png|50px]]
+| 1 Nutriment, 5 Imidazoline, 1 Carrot Juice
+| Seed Storage
+|-
+!Chanterelle Mushrooms
+|[[File:chanterelleseed.png|50px]]
+|[[File:chanterelleplant.png|50px]]
+|[[File:chanterelle.png|50px]]
+| 1 Nutriment
+| Seed Storage
+|-
+!Cherries
+|[[File:Cherryseed.png|50px]]
+|[[File:Cherryplant.png|50px]]
+|[[File:Cherry.png|50px]]
+| 1 Nutriment, 1 sugar, 1 Cherry Jelly
+| Seed Storage
+|-
+!Chili
+|[[File:Chiliseed.png|50px]]
+|[[File:ChiliTree.png|50px]]
+|[[File:Chili.png|50px]]
+| 7 Capsaicin Oil, 1 Nutriment
+| Seed Storage
+|-
+!Cacao Pod
+|[[File:Cocoapodseed.png|50px]]
+|[[File:Cocoapodplant.png|50px]]
+|[[File:Cocoapod.png|50px]]
+| 2 Nutriment, 6 coco powder
+| Seed Storage
+|-
+!Corn
+|[[File:Cornseed.png|50px]]
+|[[File:CornPlany.png|50px]]
+|[[File:Corn.png|50px]]
+| 3 Nutriment, 3 Corn Oil. Can be used to make corn pipes.
+| Seed Storage
+|-
+!Death Berry
+|[[File:deathberryseed.png|50px]]
+|[[File:deathberryplant.png|50px]]
+|[[File:deathberry.png|50px]]
+| 1 Nutriment, 19 Toxin, 11 Lexorin
+| Mutates from Poison Berries
+|-
+!Death Nettles
+|[[File:Deathnettleseed.png|50px]]
+|[[File:Deathnettleplant.png|50px]]
+|[[File:Deathnettle.png|50px]]
+| 9 Polytrinic Acid. Can be used as a weapon; will sting and poison you if held without gloves.
+| Mutates from Nettles
+|-
+!Destroying Angels
+|[[File:Angleseeds.png|50px]]
+|[[File:Angleplant.png|50px]]
+|[[File:Angle.png|50px]]
+| 1 Nutriment, 24 amatoxin, 2 psilocybin
+| Mutates from Fly Amanitas
+|-
+!Eggplants
+|[[File:Eggplantseed.png|50px]]
+|[[File:Eggplantplant.png|50px]]
+|[[File:Eggplant.png|50px]]
+| 3 Nutriment
+| Seed Storage
+|-
+!Egg-plants
+|[[File:Eggyseed.png|50px]]
+|[[File:Eggyplant.png|50px]]
+|[[File:Egg.png|50px]]
+| Produces Eggs.
+| Mutates from Eggplants
+|-
+!Fly Amanitas
+|[[File:Amanitaseeds.png|50px]]
+|[[File:Amanitaplant.png|50px]]
+|[[File:Amanita.png|50px]]
+| 1 Nutriment, 6 amatoxin, 1 psilocybin
+| Xenoflora Seed Storage; spawns as a weed
+|-
+!Glowberry
+|[[File:glowberryseed.png|50px]]
+|[[File:glowberryplant.png|50px]]
+|[[File:glowberry.png|50px]]
+| 2 Nutriment, 5 Uranium
+| Muatates from Berries. Fruit can be planted anywhere.
+|-
+!Glowshrooms
+|[[File:Glowshroomseed.png|50px]]
+|[[File:Glowshroomplant.png|50px]]
+|[[File:Glowshroom.png|50px]]
+| 2 Radium
+| Xenoflora Seed Storage; Mutates from Reishi. Fruit can be planted anywhere.
+|-
+!Golden Apple
+|[[File:Gappleseed.png|50px]]
+|[[File:Gappleplant.gif|50px]]
+|[[File:Gapple.gif|50px]]
+| 2 Nutriment, 3 Gold
+| Mutates from Apple
+|-
+!Grapes
+|[[File:grapeseed.png|50px]]
+|[[File:grapeplant.png|50px]]
+|[[File:grape.png|50px]]
+| 2 Nutriment, 3 sugar, 2 Grape Juice
+| Seed Storage
+|-
+!Grass
+|[[File:grassseed.png|50px]]
+|[[File:grassplant.png|50px]]
+|[[File:grasstile.png|50px]]
+| 1 Nutriment. Harvested grass can be made into tiles for flooring.
+| Seed Storage
+|-
+!Green Grapes
+|[[File:greengrapeseed.png|50px]]
+|[[File:greengrapeplant.png|50px]]
+|[[File:greengrape.png|50px]]
+| 2 Nutriment, 5 Kelotane, 2 Grape Juice
+| Mutates from Grapes
+|-
+!Harebell
+|[[File:harebellseed.png|50px]]
+|[[File:harebellplant.png|50px]]
+|[[File:harebell.png|50px]]
+| 1 Nutriment
+| Spawns as a weed.
+|-
+!Ice Peppers
+|[[File:icechiliseed.png|50px]]
+|[[File:icechiliplant.png|50px]]
+|[[File:icechili.png|50px]]
+| 7 Frost Oil, 1 Nutriment
+| Mutates from Chili
+|-
+!Killer Tomato
+|[[File:killertomatoseed.png|50px]]
+|[[File:killertomatoplant.png|50px]]
+|[[File:killertomato.png|50px]]
+| Harvesting spawns Killer Tomato mobs, which are non-hostile animals.
+| Mutates from Blood Tomato
+|-
+!Kudzu
+|[[File:Kudzupodseed.png|50px]]
+|[[File:Kudzupodplant.png|50px]]
+|[[File:Kudzupod.png|50px]]
+| 1 Nutriment, 1 Dylovene. Invasive species; vines will spread to cover anything they can reach. Fruit can be planted anywhere.
+| Hydroponics Crate from Cargo
+|-
+!Lemon
+|[[File:lemonseed.png|50px]]
+|[[File:lemonplant.png|50px]]
+|[[File:lemon.png|50px]]
+| 1 Nutriment, 1 Lemon Juice
+| Seed Storage
+|-
+!Liberty Cap
+|[[File:libertycapseed.png|50px]]
+|[[File:libertycapplant.png|50px]]
+|[[File:libertycap.png|50px]]
+| 1 Nutriment, 8 soporific, 1 space drugs
+| Xenoflora Seed Storage; mutates from Reishi
+|-
+!Lime
+|[[File:limeseed.png|50px]]
+|[[File:limeplant.png|50px]]
+|[[File:lime.png|50px]]
+| 1 Nutriment, 1 Lime Juice
+| Seed Storage
+|-
+!Messa's Tear leaves
+|[[File:seed-mtear.png|50px]]
+|[[File:mtear.png|50px]]
+|[[File:mtear.png|50px]]
+| Tajaran plant containing 2 honey and 5 Kelotane.
+| Seed Storage
+|-
+!Nettles
+|[[File:Nettleseed.png|50px]]
+|[[File:Nettleplant.png|50px]]
+|[[File:Nettle.png|50px]]
+| 9 Sulphuric Acid. Can be used as a weapon; will sting and poison you if held without gloves.
+| Xenoflora Seed Storage
+|-
+!Orange
+|[[File:orangeseed.png|50px]]
+|[[File:orangeplant.png|50px]]
+|[[File:orange.png|50px]]
+| 1 Nutriment, 1 Orange Juice
+| Seed Storage
+|-
+!Peanuts
+|[[File:seed-peanut.png|50px]]
+|[[File:peanutvinesplant.png|50px]]
+|[[File:peanut.png|50px]]
+| 2 Nutriment
+| Seed Storage
+|-
+!Plastellium
+|[[File:Plastelliumseed.png|50px]]
+|[[File:Plastelliumplant.png|50px]]
+|[[File:Plastellium.png|50px]]
+| 3 Plasticide
+| Xenoflora Seed Storage; mutates from Fly Amanita
+|-
+!Plump Helmet Mushrooms
+|[[File:plumphelmetseed.png|50px]]
+|[[File:plumphelmetplant.png|50px]]
+|[[File:plumphelmet.png|50px]]
+| 2 Nutriment
+| Seed Storage; spawns as a weed
+|-
+!Poison Berry
+|[[File:poisonberryseed.png|50px]]
+|[[File:poisonberryplant.png|50px]]
+|[[File:poisonberry.png|50px]]
+| 1 Nutriment, 5 Toxin, 5 Poison Berry Juice
+| Mutates from Berries
+|-
+!Poppies
+|[[File:Poppyseed.png|50px]]
+|[[File:Poppyplant.png|50px]]
+|[[File:Poppy.png|50px]]
+| 2 Nutriment, 3 Bicaridine
+| Seed Storage
+|-
+!Potatoes
+|[[File:potatoseed.png|50px]]
+|[[File:potatoplant.png|50px]]
+|[[File:potato.png|50px]]
+| 2 Nutriment, 2 Potato Juice
+| Seed Storage
+|-
+!Pumpkin
+|[[File:pumpkinseed.png|50px]]
+|[[File:pumpkinplant.png|50px]]
+|[[File:pumpkin.png|50px]]
+| 2 Nutriment. Can be carved.
+| Seed Storage
+|-
+!Reishi
+|[[File:Reishiseed.png|50px]]
+|[[File:Reishiplant.png|50px]]
+|[[File:Reishi.png|50px]]
+| 1 Nutriment, 6 psilocybin
+| Xenoflora Seed Storage; Spawns as a weed.
+|-
+!Replicant pod (Diona Nodes)
+|[[File:Replicapodseed.png|50px]]
+|[[File:Replicapodplant.png|50px]]
+|[[File:Diona_Botany.PNG|link=Dionaea|50px]]
+| Will generate a diona nymph when harvested. The nymph may not survive.
+| Seed Storage
+|-
+!Rice
+|[[File:Ricestalkseed.png|50px]]
+|[[File:Ricestalkplant.png|50px]]
+|[[File:Ricestalk.png|50px]]
+| 1 Nutriment, 10 Rice
+| Seed Storage
+|-
+!S'randar's Hand leaves
+|[[File:seed-shand.png|50px]]
+|[[File:shand.png|50px]]
+|[[File:shand.png|50px]]
+| Tajaran plant containing 1 Bicaridine.
+| Seed Storage
+|-
+!Soybeans
+|[[File:Soybeanseeds.png|50px]]
+|[[File:Soybeansplant.png|50px]]
+|[[File:Soybeans.png|50px]]
+|1 Nutriment, 1 Soy Milk
+| Seed Storage
+|-
+!Sugarcane
+|[[File:sugarcaneseed.png|50px]]
+|[[File:sugarcaneplant.png|50px]]
+|[[File:sugarcane.png|50px]]
+| 6 Sugar
+| Seed Storage
+|-
+!Sunflowers
+|[[File:Sunflowerseed.png|50px]]
+|[[File:Sunflowerplant.png|50px]]
+|[[File:Sunflower.png|50px]]
+| 1 Nutriment. Mostly decorative, but can be used as a weak weapon.
+| Seed Storage
+|-
+!Tomatoes
+|[[File:Tomatoseeds.png|50px]]
+|[[File:Tomatoplant.png|50px]]
+|[[File:Tomato.png|50px]]
+| 2 Nutriment, 2 Tomato Juice
+| Seed Storage
+|-
+!Tower Caps
+|[[File:Tower-capseed.png|50px]]
+|[[File:Tower-capplant.png|50px]]
+|[[File:Tower-cap.png|50px]]
+| 11 Wood Pulp. Chop into planks with a Hatchet.
+| Seed Storage, spawns as weeds
+|-
+!Walking Mushrooms
+|[[File:walkingmushroomseed.png|50px]]
+|[[File:walkingmushroomplant.png|50px]]
+|[[File:walkingmushroom.png|50px]]
+| Harvesting creates a Walking Mushroom, a peaceful animal mob.
+| Mutates from Plump Helmet Mushrooms
+|-
+!Watermelon
+|[[File:watermelonseed.png|50px]]
+|[[File:watermelonplant.png|50px]]
+|[[File:watermelon.png|50px]]
+| 1 Nutriment, 1 Watermelon Juice
+| Seed Storage
+|-
+!Wheat
+|[[File:Wheatseeds.png|50px]]
+|[[File:Wheatplany.png|50px]]
+|[[File:Wheat.png|50px]]
+| 1 Nutriment, 15 Flour
+| Seed Storage
+|-
+!White Beet Plants
+|[[File:whitebeetseed.png|50px]]
+|[[File:whitebeetplant.png|50px]]
+|[[File:whitebeet.png|50px]]
+| 1 Nutriment, 3 Sugar
+| Seed Storage
+|-
+|}
+
+==Growing The Afforementioned Plants==
+
+[[File:HydroponicsTraysRow.PNG|thumb|These are some pots. You grow stuff in them.]]
+
+First, locate the hydroponics trays, sometimes referred to as "planting pots".
+this is where you will be planting the seeds. Take a seed in your hand, and click the pot. You will then get a message saying "you plant the seed in the pot.", or something along those lines. You can only plant one seed per pot. If you click the pot with an empty hand, you will get a basic analysis of the plant, and the nutrient and water level of the pot. Here is an example:
+
+'''This pot has [plant] planted.'''
+
+'''Water: 75/100'''
+
+'''Nutrients: 8/10'''
+
+This is an easy way to identify the plant, if you are not familiar with what they look like. It is also a good way to check on new species that have found their way into the "farm". If this happens, you will get a red message that says soemthing like "hydroponics tray has been overtaken by [plant]!". This can be good, bad, or a combination of both. Best case: a few Liberty Cap spores lodge themselves in the tray, and you get super duper high. Worst case: generic weeds. These grow very fast and serve no purpose as of now. All they do is take up space (get it? cause you're growing stuff on a space station?). An example of a useful weed (not the smokable kind), is the humble nettle. Nettles are a very useful plant, and a powerful weapon if grown properly. If you play the [[Botanist]] and get picked to be a [[Traitor]], then do not fret. Just wait for some nettles to show up in your garden and kill those targets with FLOWER POWER! nettles are poisonous to begin with, but with skillful harvesting and increases of the Potency level, the nettles can deal a lot of damage, and have a very high knockout chance.
+
+[[File:Nettle.PNG|thumb|This is a Nettle. nettles are your friends.]]
+
+==Caring for your Vegetable Friends==
+Mushrooms: Just feed these fertilizer, don't need to water them.
+
+Weeds: Just water them, they don't need plant food. Nettles are considered weeds.
+
+Everything else: Feed them water AND Fertilizer.
+
+The hydroponics tray will warn you of any issues with your plants with colored lights.
+
+*'''Green Light:''' Ready for harvest
+*'''Blue Light:''' Low water
+*'''Yellow Light:''' Low nutrients
+*'''Red Light:''' Low health
+*'''Red/Blue Flashing Light:''' Alert: Weeds/Pests/Toxins
+
+To fix the water problem, take your bucket, fill it with water at one of the water tanks inside the farm, and pour the appropriate amount of water onto the plant. If a pot is full of water, you will not be able to add any more and the excess will splash onto the floor. 
+
+To fix the nutrients, replace the solution using the nutrient dispenser, then taking the vial and clicking on the tray. Only do this if the tray needs nutrients.
+One should avoid replacing the solution while there is still plenty left. Excess fertilizer disappears forever, and the dispenser has a finite supply. 
+
+Weeds can be removed by clicking on the tray while holding a mini-hoe in your hand. Keep clicking until you see the message "This plot is completely devoid of weeds. It doesn't need uprooting.". 
+
+If a plant is dead, a single click will empty it from the tray. If your tray decides to sprout some annoying harebell or unwanted crops, a few sprays with the Plant-Be-Gone will kill it, albeit rather slowly.
+
+Hacking at a plant with a Hatchet will gradually kill it, allowing you to remove the plant from the tray and replant.
+
+[[File:AllHydroWarningIcons.PNG|thumb|A very, very, dead plant. Notice the pretty warning signs.]]
+
+[[File:GrowingPlant.PNG|thumb|This plant is still growing.]]
+
+[[File:HarvestPlant.PNG|thumb|This plant is ready to harvest, as noted by the greem "H".]]
+
+[[File:PlantWeeds.PNG|thumb|The triangle means that the tray is full of weeds.]]
+
+==Chemicals, Wonderful Chemicals==
+Certain chemicals do special effects on plants and mushrooms. Either it kills, heals, feeds, or mutates the plant.
+
+
+{| class="sortable" border="1" cellspacing="0" cellpadding="2" align="center"
+|-
+! Chemical
+! Water
+! Nutrient
+! Health
+! Yield
+! Mutation chance
+! Weeds
+! Pests
+! Toxins
+! Mutation
+|-
+| Anti-Toxin
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| -2
+| 0
+|-
+| Toxin
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 2
+| 0
+|-
+| Fluorine
+| -0.5
+| 0
+| -2
+| 0
+| 0
+| -4
+| 0
+| 2.5
+| 0
+|-
+| Chlorine
+| -0.5
+| 0
+| -1
+| 0
+| 0
+| -3
+| 0
+| 1.5
+| 0
+|-
+| Sulfuric Acid
+| 0
+| 0
+| -1
+| 0
+| 0
+| -2
+| 0
+| 1.5
+| 0
+|-
+| Polytrinic Acid
+| 0
+| 0
+| -2
+| 0
+| 0
+| -4
+| 0
+| 3
+| 0
+|-
+| Plantbgone
+| 0
+| 0
+| -2
+| 0
+| 0.2
+| -8
+| 0
+| 3
+| 0
+|-
+| Cryoxadone
+| 0
+| 0
+| 3
+| 0
+| 0
+| 0
+| 0
+| -3
+| 0
+|-
+| Radium
+| 0
+| 0
+| -1.5
+| 0
+| 0.2
+| 0
+| 0
+| 2
+| 8
+|-
+| Milk
+| 0.9
+| 0.1
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+|-
+| Beer
+| 0.7
+| 0.25
+| -0.05
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+|-
+| Phosphorous
+| -0.5
+| 0.1
+| -0.75
+| 0
+| 0
+| -2
+| 0
+| 0
+| 0
+|-
+| Sugar
+| 0
+| 0.1
+| 0
+| 0
+| 0
+| 2
+| 2
+| 0
+| 0
+|-
+| Soda Water
+| 1
+| 0.1
+| 0.1
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+|-
+| Ammonia
+| 0
+| 1
+| 0.5
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+|-
+| Diethylamine 
+| 0
+| 2
+| 1
+| 0
+| 0
+| 0
+| -2
+| 0
+| 0
+|-
+| Nutriment
+| 0
+| 1
+| 0.5
+| 0.1
+| 0
+| 0
+| 0
+| 0
+| 0
+|-
+| Adminordrazine
+| 1
+| 1
+| 1
+| 1
+| 1
+| -5
+| -5
+| 0
+| 0
+|-
+| EZnutrient
+| 0
+| 1
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+|-
+| Robustharvest
+| 0
+| 1
+| 0
+| 0.2
+| 0
+| 0
+| 0
+| 0
+| 0
+|-
+| Left4Zed
+| 0
+| 1
+| 0
+| 0
+| 0.2
+| 0
+| 0
+| 0
+| 0
+|-
+| Water
+| 1
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+|-
+| Unstable Mutagen
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 0
+| 15
+|-
+|}
+
+==Go Forth and Procreate==
+
+This section is about making new plants from existing ones. Remember, the seed dispenser will run dry very early into the round. And if you ask the QM for a seed crate, he will most likely laugh in your face and kick you in the dick for being stupid. So to make more seeds, you will need the help of Mr. Seed Extractor. This little box (located next to the NutriMax) is your best friend in long rounds. It is possible to use your leet [[Hacking]] skills on the seed dispenser to get more, but these are all either poisonous or full of space drugs. To extract seeds from a plant, pick up a plant product (Fruit, Vegetables, Shrooms, etc.). Then, click the seed extractor. You will then get 1-4 bags of seeds or mycellium from the product. Then, dump out the contents of one of those shiny hydroponics crates you have, and put the extra seeds inside. This will keep them neat and organized. If you don't want to waste one of your pretty green boxes, steal a crate from the [[Cargo Bay]], or those pointless rooms right next to the [[Mining Dock|mining dock]]. If a new species sprouts in your farm, keep it alive so you can make seeds from it and grow more.
+
+
+==Soil==
+
+Soil is an alternative to trays. Get some sand, use it to make sandstone, then take three sandstones to make soil. Sand can be dug by Shaft Miners on the Asteroids, alternatively you can grow grass in your existing hydroponics trays, then plant the grass tiles and dig them up with the spade (found in the back room), this will dig up some sand. Congratulations, you are no longer restricted to trays for growing now. Be warned though, it is not the most efficient method of planting, as there are no lights to indicate needs for water, fertilizer, etc. Removing soil is done with a shovel or spade.
+
+
+==Analyzing the Analysis==
+
+Upon selecting the [[Botanist]], you will find that your apron contains a handy-dandy Plant Analyzer. You use this to get a highly detailed analysis of the targeted plant. The readout looks like this:
+
+[[File:PlantAnalyzerReadout.PNG]]
+
+{| style="margin-right:25%;" border="1" cellspacing="2" cellpadding="2" align="left"
+! Age 
+| How old the plant is. When a plant's age equals it's lifespan, it dies.
+|-
+! Endurance
+| The higher this is, the lower the water and nutrient levels can get before the plant dies.
+|-
+! Lifespan
+| How long the plant will live.
+|-
+! Yield
+| The maximum amount of product it will produce in it's lifespan.
+|-
+! Production
+| How many products it will produce at once.
+|-
+! Potency
+| The FLOWER POWER the plant posesses. If it is a chili, this equals hotness or coldness (for ice peppers). For shrooms, this equals toxicity. For drugs, this equals how long it gets you high. For Nettles, this equals damage dealt.
+|}<br />
+The analyzer also shows you the status of the pot. Weeds and pests can be remedied by hoeing or a few squirts of Pest Spray. Toxicity is important for shrooms, because it tells you how deadly it is. The water and nutrition levels are self-explanatory.
+
+
+[[Category:Guides]] {{Gameplay Guides}}

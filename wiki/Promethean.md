@@ -1,0 +1,372 @@
+---
+title: Promethean
+permalink: wiki/Promethean/
+layout: wiki
+---
+
+Prometheans (*Macrolimus artificialis*) are a species of
+artificially-created gelatinous humanoids, chiefly characterized by
+their primarily liquid bodies and ability to change their bodily shape
+and color in order to mimic many forms of life. Derived from the
+Aetolian giant slime (*Macrolimus vulgaris*) inhabiting the warm,
+tropical planet of [Aetolus](/wiki/Aetolus "wikilink"), they are a relatively
+newly lab-created sapient species, and as such many things about them
+have yet to be comprehensively studied.
+
+Mechanics
+---------
+
+-   Can change their physical shape and color at will, to (crudely)
+    imitate other humanoids.
+-   Devoid of nearly all internal organs found in other humanoids,
+    including traditional bones.
+-   Can consume almost any organic matter that will fit within their
+    bodies (such as dust, dirt, blood, mice, and regular food products)
+    to gain nutrition.
+-   Capable of rapid regeneration from damage assuming their nutrition
+    is high, and can spend nutrition to regenerate lost limbs.
+-   Permeable dermal layer and decentralized internal structure renders
+    them resistant to physical attacks, but very vulnerable to burn
+    damage.
+-   Mostly unaffected by radiation.
+-   Limbs do not break as other species’ do, instead the limb severs
+    much more easily, and becomes a splattered mess.
+-   More susceptible to temperature extremes than most other humanoids.
+
+Overview
+========
+
+-   Can change their physical shape and color at will, to (crudely)
+    imitate other humanoids.
+-   Devoid of nearly all internal organs found in other humanoids,
+    including traditional bones.
+-   Capable of rapid regeneration from damage assuming their nutrition
+    is high, and can spend nutrition to regenerate lost limbs.
+    -   This ability is disabled if a Promethean is covered in water.
+-   Permeable dermal layer and decentralized internal structure renders
+    them resistant to physical attacks, but very vulnerable to burn
+    damage.
+-   Mostly unaffected by radiation.
+-   Limbs do not break as other species’ do, instead the limb severs
+    much more easily, and becomes a splattered mess.
+-   More susceptible to temperature extremes than most other humanoids.
+
+Biology
+-------
+
+![](Promethean.png "fig:Promethean.png") Much like their slime
+predecessors, all Prometheans have been observed to possess a core (or
+nucleus) that contains a substantial electrical charge at all times.
+Prometheans appear to have slight variations in their cores from
+individual to individual, similar to variations complicit in the cores
+of their slime brethren, however, the physiological significance of such
+variations is not currently understood. What is understood is that this
+core serves as the primary storage for the Promethean’s genetic
+information, and if removed, will cause immediate and irreparable
+disintegration of the surrounding body.
+
+The epidermis is comprised of a semipermeable membrane that allows
+absorption of desirable materials (namely food) while keeping unwanted
+and/or potentially harmful elements outside of the body. Promethean
+“skin” is not as strong as that of other humanoids, and therefore are
+quite sensitive to substantial air pressure or lack thereof (in other
+words, they cannot survive in space).
+
+Their “skeleton” is actually a pliable, relatively dense fluid structure
+(referred to as a macro-cytoskeleton) that supports their body, yet is
+able to be reshaped at will (the process of doing so is relatively slow
+and laborious, however). This structure is not as resistant to sudden
+shock or impact as the rest of their bodily mass, and any such impact
+can and will cause substantial damage.
+
+Outside of these organs, the majority of a Promethean’s body mass is not
+well understood. Many different cells within their body appear to be
+capable of repurposing themselves as-needed, and this behavior is
+believed to be strongly correlated to their physical regenerative
+capabilities. Confoundingly to xenobiologists, Prometheans do not show
+strong evidence of possessing organs or organ systems (such as a
+discrete nervous, vascular, respiratory, or muscular system) retained
+almost universally among other humanoid species, thus throwing their
+classification as ‘humanoids’ at all into question by the greater
+scientific community.
+
+Life Cycle
+----------
+
+Prometheans are artificially generated lifeforms, only publically known
+to have been created in Xenobiology labs using highly sophisticated
+gene-splicing and cloning techniques. While the exact process is not a
+matter of public record, the process is known to involve the synthesis
+of terrestrial primate DNA, or the genetic material of other
+non-terrestrial similarly intelligent species (such as Stok, Neaera, or
+Farwa DNA) with that of the Aetolian giant slime or its
+genetically-modified cousins.
+
+A freshly created Promethean begins life as a core surrounded by a thin
+layer of amniotic fluid. At this stage, there are no observable
+distinctions from a typical gray slime core. Almost immediately, the
+core will begin to rapidly absorb adjacent organic material and
+metabolize it. Depending on the quantity of food available, gestation
+into a fully-formed adult can take only a few minutes to complete.
+
+While physical and rudimentary cognitive development is extremely rapid
+compared to most other sapient species, more advanced behaviors such as
+speech and complex problem solving must be learned, typically through
+observation and mimicry. Depending on the seed DNA used in their
+creation, adolescent Prometheans may adopt differing techniques to
+learning about their environment, but all young Prometheans display a
+strong affinity for mimicry as a means of learning and retaining
+information. Repetition and the development of consistent behavioral
+routines appear to be very important to Promethean development. This can
+unfortunately lead to strongly antisocial behaviors becoming “imprinted”
+on an individual, which then take substantial effort to unlearn.
+
+Diet
+----
+
+Prometheans are filter feeders, subsisting on a diet of just about any
+organic matter available. Probably due to their unique chemical
+composition, they are extremely tolerant of many substances that would
+be harmful or downright lethal to many other humanoids, including most
+alkaloid toxins. Their digestive system is exceptionally efficient, and
+as such are not observed to excrete waste matter.
+
+Behavior
+========
+
+Early on in their development, Prometheans may exhibit a preference for
+a specific body color, or “resting color”, usually heavily influenced by
+the color of their parent species. Prometheans are believed to possess
+emotional capacity roughly equivalent to other humanoids, and will often
+display their emotional state via their present body color. As with
+their physical shape, they are able to change their hue at will,
+although generally maintaining a color aside from one in line with their
+current emotional state or resting color requires continuous conscious
+effort.
+
+Prometheans are a nearly universally inquisitive race, often inspired by
+their scientist creators to learn as much as they can about their
+environment. They tend to have trouble grasping abstract and non-binary
+concepts such as philosophy; preferring to focus on the physical and
+practical sciences.
+
+Otherwise, an individual’s personality may be derived from the species
+of their “parent” slime. For example, Prometheans created using DNA from
+red or orange slimes (*M. v. rubicundus and M. v. luteus, respectively*)
+may be more prone to anger than those developed from pink or cyan
+species, whereas one generated from a black slime (*M. v. ater*) may
+tend toward a timid or reserved personality.
+
+Relations
+---------
+
+As an artificially-created (or, as some might say, ‘uplifted’) species,
+formal relations with other species has not yet been established, though
+the general attitude given toward Prometheans is not often charitable.
+
+-   **[Humanity](/wiki/Humanity "wikilink")** - The [United Systems of Sol
+    Central](/wiki/United_Systems_of_Sol_Central "wikilink") has officially
+    warned against the “mass production” of Prometheans, but their
+    fundamental right to exist is protected by legislation from the
+    early Positronic Era. They tend to be viewed with more sympathy in
+    the technophilic Almach Rim, where several (often
+    positronic-majority) states have offered personhood and citizenship.
+-   **[Skrell](/wiki/Skrell "wikilink")** - Skrell typically view Prometheans
+    as another extension of humanity’s tendency to create sapient
+    species out of alien technology with little regard for the
+    consequences. Like advanced drones, they’re viewed with suspicion
+    and not found in Skrell space.
+-   **[Teshari](/wiki/Teshari "wikilink")** - Similarly lacking a unified
+    central government, Teshari have no official political stance as
+    regards Prometheans as a species. Reactions and opinions would
+    generally be on a pack-by-pack basis.
+-   **[Tajaran](/wiki/Tajaran "wikilink")** - Due to a lack of any form of
+    ‘faction’ or governmental base, Tajaran governments often lack bias
+    in either direction for Prometheans. Individuals may however have
+    such a bias.
+-   **[Diona](/wiki/Diona "wikilink")** - The Dionaea view Prometheans with
+    the same sort of detached curiosity they view most species with.
+-   **[Vox](/wiki/Vox "wikilink")** - Vox tend to find Prometheans confounding
+    and difficult to work with. They also find them to be delicious.
+
+Background
+==========
+
+Promethean Xenosociology is a nascent field currently dominated by
+speculation and controversy. Being an artificially-created species so
+new to the universe, Prometheans lack a unified, documented culture.
+Most Prometheans are isolated from their kin due to the vastness of
+space and scattered origins, though some (relatively small) population
+centers do exist — such as on their origin world of Aetolus, where
+roughly 1,000 individuals reside.
+
+Being able mimics, Prometheans will enthusiastically adapt aspects of
+other societies culture to their own purposes, and naming conventions
+are no exception. Prometheans are most commonly named by those involved
+in their creation, although the more independently-minded among them
+will choose a name that speaks to them on a more personal level. As a
+result, Prometheans do not seem to have any real consistency to their
+naming conventions, and as such may be found possessing very normal or
+very strange names indeed.
+
+Due to existing USDF regulations, Prometheans are not currently allowed
+to live completely independently. As such, all Prometheans must be
+assigned a legal guardian — typically a Xenobiologist or other trained
+caretaker who is responsible for the Promethean and their actions.
+
+Technology
+----------
+
+While being fairly quick studies and highly enthusiastic about
+technology in general, there is yet to be any new or unique technology
+to be directly attributed to Promethean ingenuity. Due to the malleable
+nature of their physical bodies, Prometheans are easily able to adapt
+other species technology not intended for their use, such as space
+suits. As such, Prometheans will be able to make prodigious use of
+whatever technology they can get their pseudopods on.
+
+Genetic Experimentation
+-----------------------
+
+While comprehensive documentation on such actions has not been released
+to the general public by any major scientific body or interstellar
+government, there have been persistent rumors regarding the
+fringe/pseudoscience of Therianthropy, or the process of mutating a
+mature (read: non-embryonic) lifeform into another species. This
+procedure has been deemed both extraordinarily dangerous to the subject
+and highly illegal under USDF law and others. In a majority of cases,
+the subject will simply meet an excruciating death, and those that
+survive the metamorphosis will be irrevocably changed, often
+experiencing a range of mental complications including the perception of
+‘headaches’, exaggerated emotional shifts and psychosis, and periodic
+bouts of short term and long term memory loss. Furthermore, the subject
+will face a daily struggle to simply retain their former personality and
+sense of selfness against a torrent of alien instincts and impulses
+fighting for dominance in whatever remains of their consciousness.
+
+Timeline:
+=========
+
+Discovery
+---------
+
+-   2495 - Katai-1 set up as a Grayson Manufactories mining site.
+    Waystation planned.
+-   2505 - Waystation set up in orbit of Kataigal under authority of the
+    USDF, serving as a refueling point and rest stop, under the name
+    SGWP Deliah.
+-   2516 - Small colony station founded by Nanotrasen in orbit of
+    Katai-2, due to the founding of Deliah. Serves as a ‘home away from
+    home’ for some begrudging Grayson employees.
+-   2522 - Aetolus considered for colonization. Aether Atmospherics sets
+    up an outpost on the planet’s surface for atmospheric filtration, in
+    preparation.
+-   2529 - Aether facility mothballed due to loss of interest, after
+    multiple small habitats are constructed nearby.
+-   2531 - Near-abandoned Aether facility acquired by Nanotrasen.
+    Repurposing begins. Colonial-Timeline Diverges here for readability.
+-   2538 - Repurposed Aether facility dubbed Nanotrasen Mining and
+    Observation Point (NMOP) Sisyphus.
+-   2541 - Nanotrasen Research Station Prometheus constructed in orbit
+    of Aetolus, as a sister station to NMOP Sisyphus.
+-   2541 - NMOP Sisyphus employees discover the original ‘slime’
+    specimen. Singular subject returned to the Prometheus for testing.
+-   2542 - Specimen duplicated, with a degree of ease surprising to the
+    station’s research team.
+-   2542 - One specimen found missing from containment. Later found in
+    the station’s chemical storage.
+-   2543 - Previously lost and reclaimed specimen ‘evolves’, forming the
+    first form of ‘Grey slime’. Rate of growth far exceeded the
+    creatures found on the planet’s surface. Other specimens terminated.
+-   2544 - Attempts made to fully sequence the creature’s genetic
+    structure fail. Only noted to seem to be some form of thickened
+    triple-helix structure, as opposed to a double-helix in most other
+    forms of life.
+-   2544 - Another specimen escapes, once more found within the chemical
+    storage module. Phoron exposure evident.
+-   2545 - Phoron-exposed ‘slime’ mutates, one of the offspring somehow
+    managing to produce the compound in miniscule amounts within their
+    core.
+-   2546 - ‘Grey slime’ cores are acquired by USDF researchers from the
+    unknowingly stolen package, and distributed among other smaller
+    research facilities.
+-   2546 - Nanotrasen mourns the loss of the ability to fully monopolize
+    the ‘Slimes’, further distributing them among its own research
+    stations, due to ease of care and low maintenance. However, the
+    exact means of their mutation remains a Nanotrasen holding, allowing
+    them to continue trying to exploit them.
+-   2547 - First Promethean created by accident in a lab aboard the NRS
+    Prometheus. Dubbed ‘Pr\[r\]-1’.
+-   2547 - After the first Promethean was created,the lab’s Director
+    self-assigned themselves to the study of the being.
+-   2547 - Second ‘Natural’ Promethean (Pr\[g\]-2) created after nearly
+    a year is spent attempting to analyze the fluid seemingly
+    responsible. The exact mechanism of biomass transformation is not
+    able to be determined, however the formation and rapid gestation of
+    some form of hybrid fetal core is assumed.
+-   2549 - Pr-1 and Pr-2 moved into separate containment after Pr-1
+    attempts to breach its own.
+-   2550 - Pr-1 and Pr-2 show signs of rapid mental development, and are
+    given various tests to assess their degree of intelligence.
+-   2551 - Pr-1 and Pr-2 continue their tests, however with the pushing
+    of the head scientist, tests are shifted to include basic morality
+    tests. Tests suggest non-primal morality concepts in the two
+    subjects.
+-   2551 - The NRS Prometheus’ Director, with the backing of the other
+    head scientists, petition for recognition of Pr-1 and Pr-2 as fully
+    sapient beings to the local state, under the name ‘Prometheans’ in
+    respect to the station they were created on.
+-   2553 - Due to their nature as a synthetically created species, they
+    are judged to fall under similar restrictions to those that early
+    positronics and drones have, under the EIO.
+-   2553 - Nanotrasen is permitted to authorize the creation of
+    Prometheans within its laboratories, under the requirement of strict
+    documentation and care that newly created forms are not a threat at
+    large. Commonly restricted to aiding and working in the facilities
+    that create them in-lab, in base maintenance, and in civilian work.
+
+Aetolus Colony ‘Aetoran’ Timeline
+---------------------------------
+
+Starting post-2531 NT Acquisitions
+
+-   2533- Habitats previously constructed by Aether are purchased by
+    multiple smaller parties, including a sizable internal fraction of
+    positronics, with the intent of colonization.
+-   2535 - Small colony set up within the habitats. Aether Atmos once
+    more requested to aid in the efforts.
+-   2536 - Habitats expanded. Planetary governmental framework
+    beginning.
+-   2536 - Official colony name, ‘Aetoran’, established, marking the
+    start of the colony’s official history.
+-   2537 - Colony publicly supports a majority agreement with the SEO,
+    due to Nanotrasen influence.
+-   2538 - Aetoran’s economic base leans toward agrarian, in agreement
+    with Nanotrasen’s previous mining rights. Mining operations
+    continue.
+-   2541 - Morpheus Cyberkinetics joins the SEO board of directors.
+    Aetoran support pushes further toward the SEO, however minor.
+-   2545 - A-class drone population increases due to lightened EIO
+    regulations the year prior.
+-   2547 - Pr-1 specimen is created aboard the NRS Prometheus.
+-   2551 - Aetoran authorities contacted by the NRS Prometheus’ onsite
+    Director regarding the petition of sapience recognition for Pr-1 and
+    Pr-2 as a new species.
+-   2551 - Legal discussion between the Aetoran government and the local
+    Nanotrasen stations ends after a full year, resulting in the Aetoran
+    government agreeing to consider them ‘persons’ akin to their
+    population of higher A-class drones.
+-   2552 - Aetoran authorities discuss the prior year’s occurrences with
+    the SGWP Deliah’s officials. More subjects created within other
+    divisions of the NRS Prometheus, following the same Pr-\#
+    designation scheme.
+-   2553 - In light of their synthetic creation the creatures, now
+    officially dubbed ‘Prometheans’, are held by Sol under similar
+    restrictions as early positronics and drones are, under the EIO.
+    While not classifiable under the drone nomenclature, they are still
+    believed to be a threat in the event of rapid genesis, and require
+    observation and yearly checks.
+-   2554 - Nanotrasen is permitted to authorize the creation of
+    Prometheans within its laboratories, under the requirement of strict
+    documentation and care that newly created forms are not a threat at
+    large.

@@ -1,0 +1,197 @@
+{{Outdated}}
+Short for '''Personal Data Assistant''', PDAs are usually useful to their owners, as they have a variety of functions, such as note keeping and messaging, as well as job-specific functions like controlling [[Beepsky]] and [[Detective|analyzing fingerprints or blood stains]], sending [[quartermaster|deliveries]], analyzing the atmosphere around you, scanning for [[medical doctor|disease]] or [[scientist|components]], checking how much [[Station Engineer|power]] are in the APCs around the station and [[traitor|causing]] [[Syndicate Items|chaos]].
+
+The PDAs message function rely's on the RD's message server. If it is powerless or broken then no one will be able to send messages to each other. The message server also logs your dirty little messages so don't expect to be able to get away with using them to rally a rebellion.
+
+Your primary use of the PDA will likely be the handy flashlight feature it comes with. Once the station descends into chaos, you won't have to go hunting around for a flashlight, as you have a weak one built right in. Just put the PDA in your hand, click it, and click "enable flashlight." This light will also count for the stacking effect other flashlights have.
+
+If you so desire you can eject the cartridge you have currently installed with the "eject cartridge button" at the top of the PDA's main menu interface, and use a new cartridge that you pilfered off someone else or spawned with a [[Syndicate Items|certain method]] into it. You will need to do this if you wish to install the [[Syndicate Items#Detomatix PDA Cartridge|Detomatix cartridge]], but remember to eject it when you are done, lest [[security]] catch you with it.
+
+==Default Features==
+* '''Messenger''': Send personal messages to any PDA with messaging enabled.
+* '''Notekeeper''': Any notes you may wish to record may be stored here. Using your PDA on a piece of [[paper]] will scan it's contents and write it in your notekeeper, overwriting your current notes.
+* '''Atmospheric Scan''': Use this to display the status of your environmental air-supply, works much like an [[analyzer]].
+* '''Flashlight''': This low powered flashlight can be used to successfully navigate through areas without lighting.
+* '''Crew Manifest ''': View the list of crew members and their status.
+* '''News''': Access the depressing News channels right from your PDA!
+
+==Default Cartridges==
+
+{| border="3" cellspacing="0" cellpadding="2" style="background-color:#EEEEFF;"
+!style="background-color:#DDDDFF;" |PDA
+!style="background-color:#DDDDFF;" |Jobs
+!style="background-color:#DDDDFF;" |Installed Cartridge Features
+|-
+![[File:Normalpda.gif]]
+|[[Assistant]]
+|None
+|-
+![[File:Atmospda.png]]
+|[[Atmospheric Technician]]
+|BreatheDeep Cartridge
+* '''Gas Scanner''': Allows you to smack your PDA into gas-containers (Such as [[canister]]s) and display the contained gas's temperature, pressure, and composition.
+|-
+![[File:Bartenderpda.png]]
+|[[Bartender]]
+|None
+|-
+![[File:Hydroponicspda.png]]
+|[[Botanist]]
+|None
+|-
+![[File:Captainpda.png]]
+|[[Captain]]
+|Value-PAK Cartridge
+* '''Set Status Display''': Allows you to modify the station-wide monitors with a variety of messages. Same functionality as the [[Computers#Communications_Console|communications console]].
+* '''Power Monitor''': Shows same info as the Power Monitoring Computer. (but only locally?)
+* '''Medical Records''': Allows you to view the crew's medical records, if they have set them.
+* '''Medical Scanner''': Turns your PDA into a weak [[health analyzer]].
+* '''Security Records''': Allows you to view the crew's security records, if they have set them.
+* '''Reagent Scanner''': Scans things for liquids and residues, then displays said liquids and residues.
+* '''Halogen Counter''': Allows you to scan for radiation.
+* '''Gas Scanner''': Allows you to smack your PDA into gas-containers (Such as [[canister]]s) and display the contained gas's temperature, pressure, and composition.
+|-
+![[File:Chaplainpda.png]]
+|[[Chaplain]]
+|None
+|-
+![[File:medicpda.png]]
+|[[Chef]]
+|None
+|-
+![[File:quterpda.png]]
+|[[Cargo Technician]] and [[Quartermaster]]
+|Space Parts & Space Vendors Cartridge
+* '''Supply Records''': Allows you to view the supply records from the cargo bay.
+* '''Delivery Bot Control''': Allows you to remotely control your MULEbots.
+|-
+![[File:Chemistpda.png]]
+|[[Chemist]]
+|ChemWhiz Cartridge
+* '''Reagent Scanner''': Scans things for liquids and residues, then displays said liquids and residues.
+|-
+![[File:Chiefengineerpda.png]]
+|[[Chief Engineer]]
+|Power-On DELUXE Cartridge
+* '''Power Monitor''': Shows same info as the Power Monitoring Computer. (but only locally?)
+* '''Halogen Counter''': Allows you to scan for radiation.
+* '''Gas Scanner''': Allows you to smack your PDA into gas-containers (Such as [[canister]]s) and display the contained gas's temperature, pressure, and composition.
+|-
+![[File:Chiefmedicalpda.png]]
+|[[Chief Medical Officer]]
+|Med-U DELUXE Cartridge
+* '''Set Status Display''': Allows you to modify the station-wide monitors with a variety of messages. Same functionality as the [[Computers#Communications_Console|communications console]].
+* '''Medical Records''': Allows you to view the crew's medical records, if they have set them.
+* '''Medical Scanner''': Turns your PDA into a weak [[health analyzer]].
+|-
+![[File:Detectivepda.png]]
+|[[Detective]]
+|D.E.T.E.C.T. Cartridge
+* '''Medical Records''': Allows you to view the crew's medical records, if they have set them.
+* '''Medical Scanner''': Turns your PDA into a weak [[health analyzer]].
+* '''Security Records''': Allows you to view the crew's security records, if they have set them.
+|-
+![[File:Engineerpda.png]]
+|[[Engineer]]
+|Power-ON Cartridge
+* '''Power Monitor''': Shows same info as the Power Monitoring Computer. (but only locally?)
+* '''Halogen Counter''': Allows you to scan for radiation.
+|-
+![[File:Geneticistpda.png]]
+|[[Geneticist]]
+|Med-U Cartridge
+* '''Medical Records''': Allows you to view the crew's medical records, if they have set them.
+* '''Medical Scanner''': Turns your PDA into a weak [[health analyzer]].
+|-
+![[File:Hoppda.png]]
+|[[Head of Personnel]]
+|HumanResources9001 Cartridge
+* '''Set Status Display''': Allows you to modify the station-wide monitors with a variety of messages. Same functionality as the [[Computers#Communications_Console|communications console]].
+* '''Security Records''': Allows you to view the crew's security records, if they have set them.
+* '''Supply Records''': Allows you to view the supply records from the cargo bay.
+* '''Delivery Bot Control''': Allows you to remotely control your MULEbots.
+* '''Custodial Locator''': [[Mop]], [[Mop Bucket]] and [[Guide to robotics#Cleanbot|Cleanbots]] finder and status.
+|-
+![[File:Hospda.png]]
+|[[Head of Security]]
+|R.O.B.U.S.T. DELUXE Cartridge
+* '''Set Status Display''': Allows you to modify the station-wide monitors with a variety of messages. Same functionality as the [[Computers#Communications_Console|communications console]].
+* '''Security Records''': Allows you to view the crew's security records, if they have set them.
+* '''Security Bot Access''': you can remotely control [[Guide to robotics#Securitron|Beepsky]].
+|-
+![[File:Janitorpda.png]]
+|[[Janitor]]
+|CustodiPRO Cartridge <!-- (need to be confirmed?) -->
+* '''Custodial Locator''': [[Mop]], [[Mop Bucket]] and [[Guide to robotics#Cleanbot|Cleanbots]] finder and status.
+|-
+![[File:Lawyerpda.png]]
+|[[Internal Affairs]]
+|P.R.O.V.E. Cartridge
+* '''Security Records''': Allows you to view the crew's security records, if they have set them.
+* '''Centcomm Messaging'''
+|-
+![[File:Librarianpda.png]]
+|[[Librarian]]
+|None
+|-
+![[File:Medicalpda.png]]
+|[[Medical Doctor]]
+|Med-U Cartridge
+* '''Medical Records''': Allows you to view the crew's medical records, if they have set them.
+* '''Medical Scanner''': Turns your PDA into a weak [[health analyzer]].
+|-
+![[File:Minerpda.png]]
+|[[Miner]]
+|None
+|-
+![[File:Reasearchdirectorpda.png]]
+|[[Research Director]]
+|Signal Ace DELUXE Cartridge
+* '''Set Status Display''': Allows you to modify the station-wide monitors with a variety of messages. Same functionality as the [[Computers#Communications_Console|communications console]].
+* '''Signaler System''': Allows you to send radio signals, works much like a [[Remote Signaling Device#Remote Signaling Device|Remote Signaling Device]].
+* '''Reagent Scanner''': Scans things for liquids and residues, then displays said liquids and residues.
+* '''Gas Scanner''': Allows you to smack your PDA into gas-containers (Such as [[canister]]s) and display the contained gas's temperature, pressure, and composition.
+|-
+![[File:Roboticistpda.png]]
+|[[Roboticist]]
+|None
+|-
+![[File:Sciencepda.png]]
+|[[Scientist]]
+|Signal Ace 2 Cartridge
+* '''Signaler System''': Allows you to send radio signals, works much like a [[Remote Signaling Device#Remote Signaling Device|Remote Signaling Device]].
+* '''Reagent Scanner''': Scans things for liquids and residues, then displays said liquids and residues.
+* '''Gas Scanner''': Allows you to smack your PDA into gas-containers (Such as [[canister]]s) and display the contained gas's temperature, pressure, and composition.
+|-
+![[File:Securitypda.png]]
+|[[Security]]
+|R.O.B.U.S.T. Cartridge
+* '''Security Records''': Allows you to view the crew's security records, if they have set them.
+* '''Security Bot Access''' You can remotely control [[Guide to robotics#Securitron|Beepsky]].
+|-
+![[File:Virologistpda.png]]
+|[[Virologist]]
+|Med-U Cartridge
+* '''Medical Records''': Allows you to view the crew's medical records, if they have set them.
+* '''Medical Scanner''': Turns your PDA into a weak [[health analyzer]].
+|-
+![[File:Wardenpda.png]]
+|[[Warden]]
+|R.O.B.U.S.T. Cartridge
+* '''Security Records''': Allows you to view the crew's security records, if they have set them.
+* '''Security Bot Access''' You can remotely control [[Guide to robotics#Securitron|Beepsky]].
+|}
+
+==Other non-Default Cartridges==
+* [[file:Pda cartrige.png|link=Syndicate Items#Detomatix PDA Cartridge|Detomatix cartridge]][[Syndicate Items#Detomatix PDA Cartridge|'''Detomatix cartridge''']]
+** '''Messenger » Detonate''': Attempt to remotely detonate other people's [[PDA]]s in a kind of weak explosion.
+** '''Toggle Door''': Opens the Syndicate shuttle blast doors.
+
+* [[file:Pda cartrige.png|Generic Signaler cartridge]]'''Generic Signaler cartridge'''
+** '''Signaler System''': Allows you to send radio signals, works much like a [[Remote Signaling Device]].
+
+
+
+[[Category:Beltwear]]
+[[Category:Tools]]
+[[Category:Objects]]

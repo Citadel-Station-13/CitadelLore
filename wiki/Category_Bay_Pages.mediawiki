@@ -1,0 +1,11 @@
+These pages are outdated and use lore from the Baystation wiki that has not been tweaked or reviewed in any way for Vorestation.
+
+To add a page to this list, simply write:
+
+{| style="background-color:#EEEEEE"
+| <code><nowiki>{{BayPage}}</nowiki></code>
+|}
+
+See [[Template:BayPage]] for more information.
+
+[[Category:Outdated]]

@@ -1,0 +1,1234 @@
+
+Supply Crates are ordered at the Cargo Bay by either a [[Cargo Technician]] or the [[Quartermaster]]. If you don't feel like walking there, you could send a request for equipment using one of the request consoles on the wall in each department. A safer alternative is to send a PDA message to the [[Cargo Technician]] or [[Quartermaster]] and receive faster feedback from them.
+
+The following is a list of the crates available.
+
+
+
+== General ==
+{| class="wikitable sortable" border="2" cellspacing="2" cellpadding="2" align="center"
+! style="background-color:lightgrey" |
+! style="background-color:lightgrey" |Name & Access Required
+! style="background-color:lightgrey" |Contents
+! style="background-color:lightgrey" |Cost
+! style="background-color:lightgrey" |Group
+|-
+![[Image:GrayCrate.png|50px]]
+!Toner cartridges
+!
+*6x Toner cartridges
+!10
+!Supply
+|- 
+![[Image:GrayCrate.png|50px]]
+!Janitorial supplies
+!
+*3x wet floor sign
+*3x bucket
+*3x Cleaner Grenade
+*1x mop
+*1x Trash bag
+*1x Damp Rag
+*1x mop bucket
+*1x space cleaner
+!10
+!Supply
+|-
+![[Image:SecureCrate.png|50px]]
+!Actor Costumes
+Theater access
+!
+*Random pick from:
+*Monkey costume
+*Pirate costume
+*Priest outfits
+*Redcoat costume
+*Chef costume
+*Fake HoP/Captain uniforms
+*Theater costumes
+*Soviet uniform
+*Ian shirt
+*Mailman uniform
+*Judge and lawyer costumes
+*Waistcoat
+!10
+!Miscellaneous
+|-
+![[Image:Closet.png|50px]]
+!Imported carpet
+!
+*50x carpet tiles
+!15
+!Miscellaneous
+|-
+![[Image:GrayCrate.png|50px]]
+!Wizard costume
+!
+*1x Wizard staff
+*1x Wizard robes
+*1x Sandals
+*1x Wizard hat
+!20
+!Miscellaneous
+|-
+![[Image:Closet.png|50px]]
+!Witch costume
+!
+*1x Witch broom
+*1x Sandal
+*1x Witch hat
+*1x Witch robe
+!20
+!Miscellaneous
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Mulebot crate
+!
+*1x Mulebot
+!20
+!Operations
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Hoverpod crate
+!
+*1x [[Guide to Robotics#Hoverpod|Hoverpod]]
+!80
+!Operations
+|-
+![[Image:GrayCrate.png|50px]]
+!Webbing crate
+!
+*1x holster
+*1x webbing
+!15
+!Miscellaneous
+|-
+![[Image:Closet.png|50px]]
+!Womens formal dress locker
+!
+*1x random dress
+!15
+!Miscellaneous
+|-
+![[Image:GrayCrate.png|50px]]
+!Collectable Hat Crate
+!
+*4x random collectable hats
+!200
+!Miscellaneous
+|-
+![[Image:GrayCrate.png|50px]]
+!Costume Hats
+Theater access
+!
+*2x random hats
+!10
+!Miscellaneous
+|-
+![[Image:GrayCrate.png|50px]]
+!Arts and Crafts Crate.
+!
+*3x wrapping paper
+*1x poster
+*1x white paint bucket
+*1x black paint bucket
+*1x violet paint bucket
+*1x yellow paint bucket
+*1x red paint bucket
+*1x blue paint bucket
+*1x green paint bucket
+*1x package wrapper
+*1x photo album
+*1x camera
+*2x film cartidge
+*1x crayons box
+!10
+!Operations
+|-
+![[Image:GrayCrate.png|50px]]
+!Contraband Crate("Unlabeled Crate")
+Requires modification of the
+supply console circuitboard.
+!
+5x random from the following:
+*blood tomato seed bag
+*zoom pill bottle
+*happy pill bottle
+*absinthe bottle
+!30
+!Operations
+|-
+![[Image:GrayCrate.png|50px]]
+!Empty box crate
+!
+*10x empty boxes
+!10
+!Supply
+|-
+![[Image:Closet.png|50px]]
+!Formalwear closet
+!
+*1x bowler hat
+*1x top hat
+*1x purple jacket
+*1x blue jacket
+*4x suit jacket
+*2x lawyer suits
+*2x black shoes
+*1x leather shoe
+*1x waistcoat
+!30
+!Miscellaneous
+|-
+![[Image:GrayCrate.png|50px]]
+!Spare PDAs
+!
+*3x PDAs
+!10
+!Supply
+|-
+![[Image:GrayCrate.png|50px]]
+!50 cardboard sheets
+!
+*50x cardboard sheets
+!10
+!Miscellaneous
+|-
+![[Image:GrayCrate.png|50px]]
+!Office Supplies
+!
+*1x filing cabinet
+*3x colored pens
+*1x paper bin
+*3x folders
+*1x hand labeler
+*1x clipboard
+*1x camera film
+!15
+!Supply
+|-
+![[Image:GrayCrate.png|50px]]
+!EFTPOS scanner crate
+!
+*1x EFTPOS scanner
+!10
+!Miscellaneous
+|}
+
+== Security ==
+
+{| class="wikitable sortable" border="2" cellspacing="2" cellpadding="2" align="center"
+! style="background-color:lightgrey" |
+! style="background-color:lightgrey" |Name & Access Required
+! style="background-color:lightgrey" |Contents
+! style="background-color:lightgrey" |Cost
+! style="background-color:lightgrey" |Group
+|-
+![[Image:GrayCrate.png|50px]]
+!Special Ops Crate
+Supply Console hacking needed
+!
+*1x box of EMP grenades
+*3x smokebomb
+*1x paralysis pen
+*1x incendiary grenade
+!20
+!Security
+|- 
+![[Image:GrayCrate.png|50px]]
+!Beanbag shells
+!
+*3x beanbag shell boxes
+!30
+!Security
+|- 
+![[Image:Secweaponscrate.png|50px]]
+!Weapons Crate
+Security access
+!
+*2x stunbatons
+*2x energy guns
+*2x NT Mk58 Pistols
+*2x boxes of flashbangs
+*2x tasers
+!40
+!Security
+|- 
+![[Image:Secweaponscrate.png|50px]]
+!Flare Gun Crate
+Security access
+!
+*1x .45 Flash Pistol
+*1x .45 Box of flash ammo
+*1x Double-Barreled Flash shotgun
+*1x Box of shotgun flash shells
+!25
+!Security
+|- 
+![[Image:Secweaponscrate.png|50px]]
+!Experimental Weapons Crate
+Head access
+!
+*2x x-ray energy guns
+*2x energy shields
+*2x laserproof vests
+!125
+!Security
+|- 
+![[Image:Secweaponscrate.png|50px]]
+!Electromagnetic Weapons Crate
+Armory access
+!
+*2x ion rifles
+*1x box of EMPs
+!50
+!Security
+|- 
+![[Image:Secweaponscrate.png|50px]]
+!Automatic Weapons Crate
+Armory access
+!
+Randomized. Contains two items. Varies from:
+*WT-550 Saber
+*Z8 Bulldog
+!90
+!Security
+|- 
+![[Image:Secweaponscrate.png|50px]]
+!Armor crate
+Security access
+!
+Randomized. Contains a total of five items. Varies.
+!40
+!Security
+|- 
+![[Image:SecureCrate.png|50px]]
+!Riot Gear crate
+Armory access
+!
+*3x stunbatons
+*3x riot shields
+*1x box of flashbangs
+*1x box of beanbags
+*1x box of handcuffs
+*3x handcuffs
+*3x riot helmets
+*3x riot armors
+!60
+!Security
+|- 
+![[Image:SecureCrate.png|50px]]
+!Energy Weapons Crate
+Armory access
+!
+*3x laser carbines
+!50
+!Security
+|- 
+![[Image:SecureCrate.png|50px]]
+!Shotgun Crate
+Armory access
+!
+*2x bulletproof vests
+*2x pump combat shotguns
+*1x box of shotgun slugs
+*1x box of shotgun pellets
+!65
+!Security
+|- 
+![[Image:SecureCrate.png|50px]]
+!Ballistic Ammunition Crate
+Armory access
+!
+*2x shotgun slugs boxes
+*2x shotgun pellet boxes
+!60
+!Security
+|- 
+![[Image:SecureCrate.png|50px]]
+!Experimental Energy Gear Crate
+Armory access
+!
+*2x energy guns
+*2x laser-proof vests
+!50
+!Security
+|- 
+![[Image:SecureCrate.png|50px]]
+!Experimental Armor Crate
+Armory access
+!
+*1x bulletproof armor
+*1x laser-proof armor
+*1x riot helmet
+*1x riot armor
+!35
+!Security
+|-
+![[Image:SecureCrate.png|50px]]
+!Energy marksman crate
+Armory access
+!
+*2x laser-proof armor
+*2x energy sniper rifles
+!50
+!Security
+|-
+![[Image:SecureCrate.png|50px]]
+!Tactical suits
+Armory access
+!
+*2x complete tactical suits
+!45
+!Security 
+|-
+![[Image:Secweaponscrate.png|50px]]
+!Security barriers crate
+!
+*4x security barriers
+!20
+!Security
+|- 
+![[Image:SecureCrate.png|50px]]
+!Wall shield generators crate
+Teleporter access
+!
+*4x shield generator
+!20
+!Security
+|}
+
+== Hospitality ==
+
+{| class="wikitable sortable" border="2" cellspacing="2" cellpadding="2" align="center"
+! style="background-color:pink" |
+! style="background-color:pink" |Name & Access Required
+! style="background-color:pink" |Contents
+! style="background-color:pink" |Cost
+! style="background-color:pink" |Group
+|-
+![[File:Freezercrate.png|50px]]
+!Kitchen supply crate
+!
+*2x milk
+*2x bananas
+*1x egg box
+*4x packets of flour
+*2x pieces of meat
+*2x pieces of tofu
+*2x cartons of milk
+!10
+!Supply
+|-
+![[File:GrayCrate.png|50px]]
+!Party Equipment
+!
+*4x beers
+*1x Boxes of Drinking Glasses
+*2x ale
+*1x Shaker
+*1x flask
+*1x Patron bottle
+*1x Goldschlager bottle
+*1x lipstick
+*1x pack of Dromedary Co. cigarettes
+!20
+!Hospitality
+|-
+![[File:Freezercrate.png|50px]]
+!Pizza crate
+!
+5 random pizzas among:
+* margherita pizza
+* mushroom pizza
+* meat pizza
+* vegetable pizza
+!15
+!Hospitality
+|}
+
+== Engineering ==
+
+{| class="wikitable sortable" border="2" cellspacing="2" cellpadding="2" align="center"
+! style="background-color:orange" |
+! style="background-color:orange" |Name & Access Required
+! style="background-color:orange" |Contents
+! style="background-color:orange" |Cost
+! style="background-color:orange" |Group
+|-
+![[File:02crate.png|32x32px]]
+!Internals Crate
+!
+*3x oxygen tank
+*3x gas mask
+!10
+!Engineering
+|-
+![[File:02crate.png|32x32px]]
+!Emergency Crate
+!
+*4x Oxygen tanks
+*5x gas masks
+*2x hazard vests
+*2x Storage vests
+*4x Space Suits
+*2x emergency toolboxes
+!45
+!Engineering
+|-
+![[File:GrayCrate.png|50px]]
+!Inflatable barrier crate
+!
+*2x inflatable barriers
+!20
+!Engineering
+|-
+![[File:GrayCrate.png|50px]]
+!SMES Coil Crate
+!
+*1x SMES Coil
+!75
+!Engineering
+|-
+![[File:GrayCrate.png|50px]]
+!Replacement Lights
+!
+*3x boxes of lightbulbs
+!10
+!Engineering
+|-
+![[File:GrayCrate.png|50px]]
+!Metal Sheets Crate
+!
+*50x metal sheets
+!10
+!Engineering
+|-
+![[File:GrayCrate.png|50px]]
+!Glass Sheets Crate
+!
+*50x glass sheets
+!10
+!Engineering
+|-
+![[File:GrayCrate.png|50px]]
+!Plastic Sheets crate
+!
+*50x plastic sheets
+!10
+!Engineering
+|-
+![[File:GrayCrate.png|50px]]
+!Electrical Maintenance Crate
+!
+*2x insulated gloves
+*2x electrical toolboxes
+*2x power cell
+*2x high-capacity power cells
+!15
+!Engineering
+|-
+![[File:GrayCrate.png|50px]]
+!Mechanical Maintenance Crate.
+!
+*2x welding helmets
+*3x utility toolbelts
+*3x hazard vests
+*1x hard hat
+!10
+!Engineering
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Fuel Tank Crate
+!
+*1x fuel tank
+!8
+!Engineering
+|-
+![[File:GrayCrate.png|50px]]
+!Solar Pack Crate
+!
+*21x solar assemblies
+*1x solar control circuit
+*1x tracker electronics
+*1x solar paper
+!20
+!Engineering
+|-
+![[File:LargeCrate.png|32x32px]]
+!Binary atmospheric circulator
+Engine access.
+!
+*1x binary atmospheric circulator
+!60
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!Emitter Crate
+CE access
+!
+*2x emitters
+!10
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!Field Generator Crate
+CE access
+!
+*2x field generators
+!10
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!Collector Crate
+CE access
+!
+*3x collectors
+!10
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!Singularity Generator Crate
+CE access.
+!
+*1x singularity generator
+!10
+!Engineering
+|-
+![[File:Radiation.png.png|32x32px]]
+!Radiation suit package
+!
+*3x radiation suits
+!20
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!Particle Accelerator Crate
+CE access
+!
+*1x particle emitter center
+*1x particle emitter right
+*1x particle emitter left
+*1x end cap
+*1x power box
+*1x control box
+*1x fuel chamber
+!40
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!Ripley Circuit Crate
+Robotic access
+!
+*1x Ripley main circuit
+*1x Ripley peripherals circuit
+*1x manual
+!30
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!Odysseus Circuit Crate
+Robotic access
+!
+*1x Odysseus main circuit
+*1x Odysseus peripherals circuit
+!25
+!Engineering
+|-
+![[File:Radiation.png.png|32x32px]]
+!Supermatter Core Crate
+!
+*1x Supermatter Core
+!150
+!Engineering
+|-
+![[Image:Secweaponscrate.png|50px]]
+!Robotics Assembly Crate
+Robotic access
+!
+*3x proximity sensor
+*4x flash
+*1x electrical toolbox
+*2x high-capacity power cell
+!10
+!Engineering
+|-
+![[File:LargeCrate.png|32x32px]]
+!RUST Injector Crate
+Engine access.
+!
+*1x RUST fuel injector
+!50
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!RUST Fuel Compressor Circuitry
+Engine access.
+!
+*1x RUST fuel compressor
+!60
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!RUST Fuel Assembly Port Circuitry
+Engine access.
+!
+*1x RUST fuel port
+!40
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!P.A.C.M.A.N. portable generator parts
+Tech store access.
+!
+*1x pacman circuitboard
+*1x micro-laser
+*1x matter bin
+*1x capacitor
+!45
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!Super P.A.C.M.A.N. portable generator parts
+Tech store access.
+!
+*1x super pacman circuitboard
+*1x micro-laser
+*1x matter bin
+*1x capacitor
+!55
+!Engineering
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!RUST Tokamak Crate
+Engine access.
+!
+*1x RUST tokamak core
+!75
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!Experimental Shield Generator Circuitry
+Engine access.
+!
+*1x shield generator circuit
+!50
+!Engineering
+|-
+![[File:SecureCrate.png|50px]]
+!Experimental Shield capacitor Circuitry
+Engine access.
+!
+*1x shield capacitor circuit
+!50
+!Engineering
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Mk1 TEG Crate
+Engine access.
+!
+*1x Mark I thermoelectric generator
+!75
+!Engineering
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Atmospheric Circulator Crate
+Engine access.
+!
+*1x atmospheric circulator
+!60
+!Engineering
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Empty gas canister
+!
+*1x empty gas canister
+!7
+!Engineering
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Air gas canister
+!
+*1x air gas canister
+!10
+!Engineering
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Oxygen gas canister
+!
+*1x oxygen gas canister
+!15
+!Engineering
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Phoron gas canister
+Atmospherics access
+!
+*1x phoron gas canister
+!60
+!Engineering
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Nitrogen gas canister
+!
+*1x nitrogen gas canister
+!10
+!Engineering
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!N20 gas canister
+Atmospherics access
+!
+*1x sleeping gas canister
+!40
+!Engineering
+|-
+![[File:LargeCrate.png|32x32px]]
+!Carbon dioxide gas canister
+Atmospherics access
+!
+*1x carbon dioxide gas canister
+!40
+!Engineering
+|-
+![[File:GrayCrate.png|50px]]
+!Station painting supplies crate
+!
+*2x pipe painters
+*2x floor painters
+!10
+!Engineering
+|}
+
+== Medical/Science ==
+
+{| class="wikitable sortable" border="2" cellspacing="2" cellpadding="2" align="center"
+! style="background-color:lightblue" |
+! style="background-color:lightblue" |Name & Access Required
+! style="background-color:lightblue" |Contents
+! style="background-color:lightblue" |Cost
+! style="background-color:lightblue" |Group
+|-
+![[File:Medical.png|32x32px]]
+!Medical crate
+!
+*1x First Aid Kit
+*1x Fire Medkit
+*1x Toxin Medkit
+*1x O2 Medkit
+*1x Antitoxin bottle
+*1x Inaprovaline bottle
+*1x Soporific bottle
+*1x Syringes box
+*1x autoinjector box
+!10
+!Medical/Science
+|-
+![[File:Medical.png|32x32px]]
+!Empty Bloodpack Crate
+!
+*3x Empty Bloodpack boxes
+!10
+!Medical
+|-
+![[File:SecureCrate.png|50px]]
+!Virus Crate
+CMO access
+!
+*4x random virus dish
+!25
+!Medical/Science
+|-
+![[File:LargeCrate.png|32x32px]]
+!Coolant tank crate
+!
+*1x coolant tank
+!16
+!Medical/Science
+|-
+![[File:Plasma.png|32x32px]]
+!Phoron assembly crate
+Toxin storage access
+!
+*3x phoron tanks
+*3x igniters
+*3x proximity sensors
+*3x timers
+!10
+!Medical/Science
+|-
+![[File:SecureCrate.png|50px]]
+!Surgery Crate
+Medical access
+!
+*1x cautery
+*1x surgical drill
+*1x medical mask
+*1x anesthetic tank
+*1x FixOVein
+*1x hemostat
+*1x scalpel
+*1x bone gel
+*1x retractor
+*1x bone setter
+*1x circular_saw
+!25
+!Medical/Science
+|-
+![[File:GrayCrate.png|50px]]
+!Sterile Equipment Crate.
+!
+*1x box of medical gloves
+*1x box of medical mask
+*2x green surgery suits
+*3x Medical belts
+!15
+!Medical/Science
+|-
+![[File:Medical.png|32x32px]]
+!Body Bag crate
+!
+*3x Body bag Boxes
+!10
+!Medical
+|-
+![[File:Medical.png|32x32px]]
+!Stasis Bag crate
+!
+*3x Stasis Bags
+!50
+!Medical
+|}
+
+== Hydroponics ==
+
+{| class="wikitable sortable" border="2" cellspacing="2" cellpadding="2" align="center"
+! style="background-color:lightgreen" |
+! style="background-color:lightgreen" |Name & Access Required
+! style="background-color:lightgreen" |Contents
+! style="background-color:lightgreen" |Cost
+! style="background-color:lightgreen" |Group
+|-
+![[File:Freezercrate.png|50px]]
+!Monkey crate
+!
+*1x monkey cube box
+!20
+!Hydroponics
+|-
+![[File:Freezercrate.png|50px]]
+!Farwa crate
+!
+*1x Farwa cube box
+!30
+!Hydroponics
+|-
+![[File:Freezercrate.png|50px]]
+!Neaera crate
+!
+*1x Neaera cube box
+!30
+!Hydroponics
+|-
+![[File:Freezercrate.png|50px]]
+!Stok crate
+!
+*1x stok cube box
+!30
+!Hydroponics
+|-
+![[File:Large-wooden-crate.png|32x32px]]
+!Corgi crate
+!
+*1x corgi (Lisa)
+!50
+!Hydroponics
+|-
+![[File:Critter-case.png|32x32px]]
+!Cow crate
+Hydroponics access
+!
+*1x cow
+!30
+!Hydroponics
+|-
+![[File:Critter-case.png|32x32px]]
+!Chicken Crate
+Hydroponics access
+!
+*5x chicks
+!20
+!Hydroponics
+|-
+![[File:Critter-case.png|32x32px]]
+!Goat crate
+Hydroponics access
+!
+*1x goat
+!25
+!Hydroponics
+|-
+![[File:5.png|32x32px]]
+!Hydroponics Crate
+Hydroponics access
+!
+*2x Plant-B-Gone
+*2x ammonia bottles
+*1x hatchet
+*1x minihoe
+*1x plant analyzer
+*1x hydro apron
+*1x leather gloves
+!15
+!Hydroponics
+|-
+![[File:5.png|32x32px]]
+!Seed Crate
+!
+*1x Chili seeds
+*1x Berry seeds
+*1x Corn seeds
+*1x Eggplant seeds
+*1x Tomato seeds
+*1x Apple seeds
+*1x Soy seeds
+*1x Wheat seeds
+*1x Carrot seeds
+*1x Lemon seeds
+*1x Orange seeds
+*1x Harebell seeds
+*1x Grass seeds
+*1x Sunflower seeds
+*1x Chanter mycelium
+*1x Potato seeds
+*1x Sugarcane seeds
+!10
+!Hydroponics
+|-
+![[File:Sechydro.png|32x32px]]
+!Weed Control Crate
+Hydroponics access
+!
+*2x Weedkiller grenades
+*2x Gas mask
+*4x Plant-B-Gone spray bottles
+!25
+!Hydroponics
+|-
+![[File:5.png|32x32px]]
+!Exotic Seed Crate
+!
+*1x Nettle seeds
+*3x Replica Pod seeds
+*1x Plump Helmet mycelium
+*1x Liberty Cap mycelium
+*1x Fly Amanita mycelium
+*1x Reishi mycelium
+*1x Banana seeds
+*1x Rice seeds
+*1x Grape seeds
+*1x Lime seeds
+*1x Eggy seeds
+!15
+!Hydroponics
+|-
+![[File:LargeCrate.png|32x32px]]
+!Water Tank Crate
+!
+*1x watertank
+!8
+!Hydroponics
+|-
+![[File:Sechydro.png|32x32px]]
+!Beekeeping Crate
+Requires modification of the supply console circuitry
+!
+*1x apiary
+*1x bee net
+*2x beezeez bottle
+*3x queen bee 
+!40
+!Hydroponics
+|-
+![[File:5.png|32x32px]]
+!Empty hydroponics tray
+!
+*1x hydroponics tray
+!30
+!Hydroponics
+|}
+
+== Voidsuits ==
+Be sure to also look at our actual [[Voidsuit]] page.
+{| class="wikitable"
+!
+!Name & Access Required
+!Contents
+!Cost
+!Group
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Heavy Duty Atmospheric voidsuits (Atmos Access)'''
+|
+* '''2 Heavy Atmospherics suits (body)'''
+* '''2 Heavy Atmospherics Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''50'''
+|'''Atmos'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Atmospheric voidsuits (Atmos Access)'''
+|
+* '''2 Atmospherics suits (body)'''
+* '''2 Atmospherics Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots'''
+|'''40'''
+|'''Atmos'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Engineering voidsuits (Engineering Access)'''
+|
+* '''2 Engineering suits (body)'''
+* '''2 Engineering  Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''40'''
+|'''Engineering'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Engineering Construction voidsuits(Engineering Access)'''
+|
+* '''2 Construction suits (body)'''
+* '''2 Construction Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''40'''
+|'''Engineering'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Engineering Hazmat voidsuit(Engineering Access)'''
+|
+* '''2 Engineering Hazmat suits (body)'''
+* '''2 Engineering Hazmat Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''45'''
+|'''Engineering'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Reinforced Engineering voidsuits(Engineering Access)'''
+|
+* '''2 Reinforced Engineering suits (body)'''
+* '''2 Reinforced Engineering Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''50'''
+|'''Engineering''' 
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Medical EMT voidsuits (Medical Access)'''
+|
+* '''2 EMT  suits (body)'''
+* '''2 EMT  Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''40'''
+|'''Medical'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Medical Bio-hazard voidsuits (Medical Access)'''
+|
+* '''2 Medical Bio-hazard (body)'''
+* '''2 Medical Bio-hazard Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''45'''
+|'''Medical'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Verry-Med Medical voidsuits (Medical Access)'''
+|
+* '''2 Verry-Med suits (body)'''
+* '''2 Verry-Med Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''60'''
+|'''Medical'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Medical voidsuits (Medical Access)'''
+|
+* '''2 Medical suits (body)'''
+* '''2 Medical Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''40'''
+|'''Medical'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Security Crowd Control voidsuits (Security Access)'''
+|
+* '''2 Security Crowd Control suits (body)'''
+* '''2 Security Crowd Control Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''40'''
+|'''Security'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Security EVA Riot voidsuits (Security Access)'''
+|
+* '''2 EVA Riot suits (body)'''
+* '''2 EVA Riot Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''50'''
+|'''Security'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Security voidsuits (Security Access)'''
+|
+* '''2 Security suits (body)'''
+* '''2 Security Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''40'''
+|'''Security'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Frontier Mining voidsuits (Cargo Access)'''
+|
+* '''2 Mining suits (body)'''
+* '''2 Mining Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''50'''
+|'''Service'''
+|-
+|[[File:SecureCrate.png|32x32px]]
+|'''Mining Voidsuits(Cargo Access)'''
+|
+* '''2 Mining suits (body)'''
+* '''2 Mining Helmets'''
+* '''2 Oxygen masks'''
+* '''2 Oxygen tanks'''
+* '''2 Mag boots''' 
+|'''40'''
+|'''Mining/Cargo'''
+|}

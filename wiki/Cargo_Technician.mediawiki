@@ -1,0 +1,43 @@
+{{SidebarJob|jobname=Cargo Technician|img_file=CargoTechnician.png|tagline=Push, pull, push|department=Cargo|access=Cargo, Maintenance|duties=Push crates, get crates where they need to go, monitor the disposals conveyor for bodies|supervisors=Quartermaster|difficulty=Easy}}
+The '''Cargo Technician's''' role is, basically, to unload crates, load the crates, make things in autolathe and mess with the MULE and mail systems. Don't forget to monitor the [[Disposals]] area as well.
+
+== Your Workplace ==
+The [[Cargo Loading Area|Cargo Bay]] is your home as a Cargo Technician and, naturally, where you start the game. It contains a [[Hand Labeler]], a [[Cell Charger]] and [[Power Cell]] set, a [[Station Bounced Radio]], some [[Rods]], a [[Multitool]], a [[Med-kit]], some empty [[Crates]], a [[Quartermaster#MULEbot|MULE]], a [[Copy Machine]], and an [[Autolathe]].
+
+== Your Boss ==
+The [[Head of Personnel]] is your superior, as is the [[Quartermaster]]. Do what they order you to do, with the [[Head of Personnel]] being the top priority.
+
+==Disposals Mailing==
+This is an alternative way of delivering items, and is usually preferable to MULE transport as long as the pipes are still intact.
+
+#Wrap your item/crate with package wrapper.
+#Pick up the destination tagger and click in your hand to set a destination.
+#Use the destination tagger on the parcel.
+#* Optional: Use a pen to write a message on the parcel, or custom set a destination.)
+#Stick it on the conveyor, or dump it in a disposals unit, and let the system handle it.
+#*Tip: Click and drag the large parcels to disposals units to put them in. This can only be done a few times however.
+
+You can also gift wrap packages, but these cannot be tagged with a destination, and have to be delivered manually. This will not work with large objects. The process is slightly more complicated.
+
+#Pick up the item you want to gift wrap.
+#Hold a sharp object in your other hand. (Wirecutters are the most common for this.)
+#Click the wrapping paper with the item you want to wrap.
+
+Gift wrapping a human is also possible, but they must have a straight jacket on and you need the wrapping paper in your hand. This is usually not a good idea.
+
+== Using the MULEBot ==
+#Drag the crate on to the MULE.
+#Set a destination with your PDA or on the control panel.
+#Send the MULE off!
+
+==How to Recharge the MULEBot==
+#Open up the maintenance panel with a screwdriver. (Make sure the controls are unlocked first!)
+#Take out the power cell. (Top entry.)
+#Insert charged power cell.
+#Close panel with screwdriver.
+
+== Traitoring ==
+You're a bit of in a pickle here, but wait. There's an [[autolathe]] that can help you GREATLY. You can also order a lot of stuff, but [[Syndicate Items#Electromagnetic Card|opening them]] is a different matter. Be careful though, if there is a Quartermaster, he will probably notice your shady activities in the Cargo Bay.
+
+{{Jobs}}
+[[Category: Jobs]]

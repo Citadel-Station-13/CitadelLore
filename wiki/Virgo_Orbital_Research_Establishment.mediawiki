@@ -1,0 +1,8 @@
+{{Delete
+|reason = Is merged with the "Map" page.}}
+
+The {{StationName}}, more commonly known as V.O.R.E., is a [[NanoTrasen]] science outpost on [[Virgo-3B|a moon]] in orbit around a phoron gas giant that is part of the [[Virgo-Erigone]] star system. The original V.O.R.E. was a station that began operation in [[Timeline#2550s|2558]], three years after the completion of the [[NSS Exodus]] entered service, which the original NSS Adephagia was based upon.
+
+The current station is a space [[tether]] which opened in 2561. The station is crewed by approximately 20 to 50 employees who transfer periodically to and from the [[Virgo-Prime|An-Nur Spaceport]], NanoTrasen's planet-side hub in the Virgo-Erigone system.
+
+[[Category:Lore]]

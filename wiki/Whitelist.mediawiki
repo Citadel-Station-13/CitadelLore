@@ -1,0 +1,53 @@
+As a high-RP server, one of the [[rules]] regarding character creation is that all players must create and play server-appropriate characters that fit in with our existing [[backstory|lore]], in order for all players to maintain reasonable suspension of disbelief. Likewise, certain character backgrounds are generally considered red flags and the admins will want to talk them over with you before you play them in order to ensure what you're creating actually ''does'' fit into the setting.
+
+There are also some species that are not available to all players by default, usually those that are more restrictive when it comes to the way in which they should be played - in such cases, it is required that you confirm that you understand and agree to abide by their lore before you will be permitted to play them.
+
+If you want to create and play such a character, please log into our forums and head to the "[https://forum.vore-station.net/viewforum.php?f=45 Special Characters]" Section and Fill out a "[https://forum.vore-station.net/viewtopic.php?f=45&t=277 Special Character Application]".
+
+== General notes ==
+
+* In some cases, you may be approached by the admins if your character's backstory or records are not in-keeping with the setting, and you'll be asked to write up an application, if only so that other admins have a record that the character has been greenlit.
+
+* Applications may be denied if they are too similar to an existing, approved character. One ex-mercenary working behind the bar in a frontier station where his past can't catch him is a cool backstory, an entire department of them will turn the interesting into the mundane.
+* Applications will be summarily denied if the character would be not capable of informed consent and sapient thought. Currently we do not accept "feral" chars who are litte more than animals. 
+* If you're not certain whether your character needs an application or not, ask an admin.
+
+=== Character Background Applications ===
+Generally speaking, mundane backgrounds for ordinary characters do not require an application. If you're just playing a guy on a space station with an unremarkable backstory, and anything unusual in their life is limited to the crazy things that happen on the station, nobody is likely to notice.
+
+* Ex-military characters are generally to be avoided unless your character served in a non-combat role, was just a grunt or was otherwise unimportant. A space marine with over 300 confirmed kills would most likely be assigned to [[Asset Protection]], not the Adephagia.
+
+* Likewise, custom-created lab-grown engineered assassins are unlikely to be found on the station. Even if they did escape from their labs after slaughtering everyone and flee to the fringes to hide from their creators. And if they ''did'' do that, they certainly wouldn't go around telling everyone on the station about it.
+* This also goes with combat drones. They generally make more sense in [[Asset Protection]] as well, not for regular station personnel that doesn't usually see higher threats than the occassional criminal or a couple of pirates. Don't need a nuke when the other side has knifes.
+
+* Working a whitelisted job (eg clown, mime) requires an application.
+
+* Any background involving a past with [[Identifying Antagonists|antagonist factions]] requires an application.
+
+* Nonstandard abilities or "powers", as well as being composed of non-standard material (eg. nanites, chocolate) require an application.
+
+* Blatant references to characters from other media require an application. Yes, this involves pure aesthetics. 
+
+* If the character has any mental quirks (besides those relating to eating or getting eaten) they may require an application. For instance, characters that are prone to "feral" episodes (besides [[xenochimera|races for which that is completely normal]]) or other reasons to go completely crazy.
+
+* Extreme amounts of off-station assets may need to be approved. If you own your own station, you'd be crew there, not here. If you're rich, you don't need the pittance NT pays. If your daddy is a CEO, you can probably get set up with a cushy job in the core systems rather than out on the frontier.
+
+* Characters that are visiting from foreign polities in any sort of official capacity may require an application.
+
+* Characters that contradict the lore for their species (eg. a tajaran with scales) may require an application.
+
+* While a full-on application is ''not'' required, if your character's backstory involves a connection to another player's character, it is required that you clear it with that player first - forcing yourself into someone else's backstory by creating their "long lost sister" is not permitted.
+
+=== Species Whitelist Applications ===
+*For an existing species that requires whitelisting, generally the purpose of the application is to ensure that you are actually familiar with the lore of that species - for instance, the [[Diona]] are generally slow, thoughtful, patient pacifists according to the lore, so the whitelist exists to ensure that Joe Pubbie can't just join the server, mash the Diona button, and head out onto the station greytiding and screaming at people over comms like an idiot. Likewise, [[Xenochimera]] tend to be rather animalistic in their behaviour, so it's fairly immersion-breaking if one of them shows up talking like they ate a thesaurus or something. Vox have a ''lot'' of cultural background that those playing them will be expected to be familiar with.
+
+* Anything from existing media that is not a part of vorestation lore requires approval. Things that are merely ''similar'' might fly under the radar though - you can't be a Ctarl-Ctarl from Outlaw Star, but it's perfectly fine to play, say, a proud warrior demihuman from Felinus 7.
+* Xenomorphs will not be approved. Xenomorph Hybrids will only conditionally approved, depending if they would... Well, fit on a station with normal personnel and not try to rape and eat them at any given moment (or only do that in secret.)
+
+* If the character has any special abilities that cannot be easily replicated in-game, an application is required if for no other reason than for the admins and more experienced players to offer suggestions on how to replicate them. This does not apply if the abilities in question are purely fluff for use in scenes, such as a character that uses pheremones to lure prey or the like.
+
+=== Event Characters ===
+Some characters are not normally playable, such as traders and the like. Applications are not strictly required for these, as it's not actually possible to spawn as them normally without admin intervention. If you want to hash out your ERT-only character's background, or have an idea for a possibly-recurring character you might like to be considered for future events (such as a trader that shows up maybe every couple of months, if you happen to be around when the admins feel like running a trader event) or similar, posting up a thread will let the admins know you're open for events. If your idea is accepted under these circumstances, this is not a greenlight to play the character whenever you feel like.
+
+Be aware that posting up a thread will leave your character open to spoilers if any other players happen to read your post, so if your event idea might be spoiled by revealing it prematurely, you will probably be better off contacting the administration staff directly.
+__FORCETOC__

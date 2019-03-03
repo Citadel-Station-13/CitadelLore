@@ -1,0 +1,27 @@
+A few stats about the VORE Station Wiki:
+{|style='text-align:center;' border=4 cellspacing=0
+! style='background-color:#BEBEBE;'|Topic
+! style='background-color:#BEBEBE;'|Number
+|-
+|'''Number of wiki pages
+|'''{{NUMBEROFPAGES}}
+|-
+|'''Number of Articles
+|'''{{NUMBEROFARTICLES}}
+|-
+|'''Number of Uploaded Files
+|'''{{NUMBEROFFILES}}
+|-
+|'''Total Page Edits
+|'''{{NUMBEROFEDITS}}
+|-
+|'''Total Users
+|'''{{NUMBEROFUSERS}}
+|-
+|'''Number of Admins
+|'''{{NUMBEROFADMINS}}
+|-
+|'''Active Users in the last 91 days
+|'''{{NUMBEROFACTIVEUSERS}}
+|}
+[[Category:Meta]]

@@ -1,0 +1,158 @@
+---
+title: Guide to Toxins
+permalink: wiki/Guide_to_Toxins/
+layout: wiki
+tags:
+ - Guides
+---
+
+Toxins Research is a division of the [Research and
+Development](/wiki/Research_and_Development "wikilink") department of the
+station. It is used to create bombs by mixing heated
+[phoron](phoron "wikilink") with oxygen to cause an explosive reaction.
+These bombs can be used to destroy the
+[Singularity](/wiki/Singularity "wikilink") if it is released, or, more
+commonly, to completely ruin the station when the bombs are left to
+traitors and idiots.
+
+Before you Begin
+----------------
+
+Before you even begin to create deadly bombs in the lab, there are a few
+things that are worth remembering:
+
+1.  If you start a fire in the mixing chamber that is **6,000 kelvins**
+    or higher, the reinforced walls of the mixing chamber **will begin
+    to melt**. Once the melting process has begun, there will not be
+    enough time for you to notice and run away. **You will have a bad
+    time**.
+2.  Ensure the mixing chamber and any pipes are completely empty before
+    you start. Open the blast doors, and use a portable air-pump
+    connected to the ports and the direction set to "In" to empty the
+    outgoing pipe. Close the valves, pumps, and blast doors when you're
+    done.
+3.  The bomb you're making needs to be, on mixing, above the **phoron
+    flashpoint** of about **100 degrees Celsius** (or 373 kelvins).
+    **You do not need to have a super-heated bomb to create a large
+    explosion!**
+
+Finally:
+
+-   Leave the release valves for each canister **closed** at all times.
+    Gas will still flow from the canister into the pipes!
+
+Heating Gas
+-----------
+
+First, you'll need to leave toxins, go up the hallway and through the
+purple doors into Toxins Storage. You'll want to grab **2 Phoron
+canisters** and **an Oxygen canister** for now.
+
+Hit "Cycle to interior" to open the interior airlock of the mixing
+chamber, head inside and make sure **both pumps** are set to their
+**default setting, about 101.25 kPa**.
+
+Using one of the Phoron canisters, fill the mixing chamber with **Two
+entire canisters of Phoron**. Wrench the canister to the **middle port**
+and open the manual valve on the floor so that the green light is facing
+the direction of the mixing chamber. Once the canister is empty, close
+the manual valve on the floor and disconnect the canister with a wrench.
+
+The speed at which gases flow into and out of the Chamber depends on
+what the kPa is set to on the "Desirable Output Pressure" section of the
+gas pumps. The higher the pressure, the quicker the gas will flow. This
+is particularly useful for speeding up the process of emptying the
+Phoron canisters, though if the Oxygen canister is left attached for too
+long you may put too much Oxygen in the Chamber and end up will
+wall-melting temperatures. You will most likely have a bad time if you
+hit wall-melting temperatures.
+
+Next, grab your **Oxygen canister**. Your goal is to put only a very
+small, minuscule amount of oxygen into the mixing chamber. Open the
+manual valve for the bottom port and connect the oxygen canister **for
+only 1 or 2 seconds** (IF you set the Output Pressure to it's maximum).
+Remember, if you add too little oxygen, you can always add more, but if
+you add too much oxygen, you could have a potential headache.
+
+Ignite the chamber. It shouldn't burn for long if you've only added a
+small amount of oxygen.
+
+While the fire is burning, grab one of the empty yellow canisters and
+drag it to the **bottom port** connected to the mixing chamber.
+
+Once the fire has burned out, pump a little bit of the resulting burned
+mix into your empty yellow canister. **Check the canister's temperature
+before going on.** If the temperature is at or above around **200 C**,
+then **do not** add any more oxygen. You have your hot phoron.
+
+-   If the temperature is too low, pump that mix straight back into the
+    mixing chamber. Then, add another tiny amount of oxygen. Repeat
+    until you have phoron/CO2 mix that is hot enough.
+
+Once you're all done close off the transfer valves and disconnect your
+canisters.
+
+If in the event that your mixture stops flowing into the canister after
+only 100kPa or so, set the exit gas pump's "Desirable Output Pressure"
+to a higher kPa, MAX if necessary.
+
+Sealing the Deal: Setting Us up the Bomb
+----------------------------------------
+
+Now you'll want to start off by dispensing **one or two phoron tanks**,
+load it into the white air scrubber next to the dispenser, and get rid
+of all that phoron.
+
+Then, take the phoron tanks to the **yellow canister** that now has your
+hot phoron in it and fill the entire phoron tank with hot gas mix.
+
+Once you have the empty tanks, go and slot them into one of your yellow
+canisters, again making sure that the output pressure is at **1013
+kPa**, and fill them all up with hot gas mix.
+
+Now take these tanks of heated gas and attach each one to a tank
+transfer valve. Once you've done that, head back to the tank dispenser.
+
+This time get an equal amount of **oxygen tanks** from the dispenser and
+fill them with oxygen from the **oxygen canister** you got at the start
+of this section. Make sure the canister's release pressure is set to its
+maximum setting, 1013.25 kPa, before attempting to fill each tank. Now
+attach each to a transfer valve that already has a phoron tank on it and
+you'll have a bomb (or several).
+
+From here on you have 3 options: **timers**, **proximity sensors** and
+**remote signaling devices**.  
+Each of these is a method of setting off your bomb. For your first bomb,
+you should probably use a remote signaling device or a timer. To attach
+these devices to a tank transfer valve you need to use a screwdriver on
+them before attaching it to the tank. In the case of proximity sensors,
+however, don't, because they come pre-ready for attachment. Grab a
+readied device and click on a tank transfer valve to attach it. All
+done! You have a bomb, ready for use.
+
+Remote Signaling Devices
+------------------------
+
+Some jokers like to randomly signal the default frequencies of these
+devices so either before or as soon as you've attached one to a bomb
+you'll want to open its control panel by clicking it or the bomb in your
+hand and change the frequency and code so that you don't get a nasty
+surprise.
+
+Testing Your Creations
+----------------------
+
+The toxins room has a nice built-in testing arena, good for one decent
+bomb. If you follow the corridor to the right and through two sets of
+doors you should come to a room full of screens with a mass driver. Just
+drop your bomb on the mass driver, make sure to set the timer if you've
+used one, and press the button and off it goes. Then you click a screen,
+choose a camera, send the signal from another signaling device or wait
+for your timer, and enjoy seeing the result of your hard work in toxins.
+
+Notes
+-----
+
+Seriously, **don't** go and randomly set these off on the station if you
+aren't a syndicate or otherwise antagonistic character, you'll probably
+get **job-banned** or **permabanned**.

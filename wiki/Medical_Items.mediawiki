@@ -1,0 +1,325 @@
+{{BayPage}}
+{{toc_right}}
+
+== [[File:Med.png|64px]] Items ==
+
+===[[File:Splint.png|64px]] Splint===
+Used to secure broken bones to lessen pain before transporting a patient.
+
+===[[File:Bpack.png|64px]]Roll of gauze===
+Some sterile gauze to wrap around bloody stumps.
+
+===[[File:oint.png|64px]]Ointment===
+Used to treat burns.
+
+===[[File:Traumakit.png|64px]]Advanced Trauma Kit===
+Effectively a stronger version of the roll of gauze.
+
+===[[File:Burnkit.png|64px]]Advanced Burn Kit===
+Effectively a stronger version of ointment.
+
+===Aid Kits===
+====[[File:SMed.png|64px]]First Aid Medical Kit====
+* [[File:Bpack.png]]'''x3''' Rolls of gauze
+* [[File:oint.png]]'''x2''' Ointments
+* [[File:Injector.png]]'''x1''' Autoinjector
+* [[File:Healthanalyzer.png]]'''x1''' Health Analyzer
+
+====[[File:AMed.png|64px]]Advanced Medical Kit====
+* [[File:Traumakit.png]]'''x3''' Advanced Trauma Kit
+* [[File:Burnkit.png]]'''x2''' Advanced Burn Kit
+* [[File:Splint.png]]'''x1''' Splint
+* [[File:Injector.png]]'''x1''' Auto Injector
+
+====[[File:Tmed.png|64px]]Toxins Medical Kit====
+* [[File:Syringes.png]]'''x3''' Syringe (Dylovene)
+* [[File:pills.gif]]'''x3''' Dylovene pill
+* [[File:Healthanalyzer.png]]'''x1''' Health Analyzer
+
+====[[File:Bmed.png|64px]]Burn Medical Kit====
+* [[File:oint.png]]'''x2''' Ointments
+* [[File:Healthanalyzer.png]]'''x1''' Health Analyzer
+* [[File:Syringes.png]]'''x1''' Syringe (Inaprovaline)
+* [[File:pills.gif]]'''x3''' Kelotane pills
+
+====[[File:O2med.png|64px]]Oxygen Deprivation Medical Kit====
+* [[File:pills.gif]]'''x4''' Dexalin pill
+* [[File:Syringes.png]]'''x2''' Syringe (Inaprovaline)
+* [[File:Healthanalyzer.png]]'''x1''' Health Analyzer
+
+===[[File:Plight.png|64px]]Pen Light===
+Teeny weeny flashlight that goes on your ear. Turn it on, aim at your patient's eyes, and click on the patient to check to see if their pupils are reacting to light.
+
+===[[File:Space_Cleaner.png|64px]]Space Cleaner===
+Used to clean any mess in Medbay. Particularly useful for cleaning up chemical spills, blood stains (especially in the OR), biological contaminants, and the bloody/half-digested clothes of people you are resleeving.
+
+===[[file:Bottles.gif‎‎|64px]]Bottle===
+Disposable container for liquids, can hold 60 units. They can be made by a [[Chemist]] at a ChemMaster and are mostly used to fill syringes.
+
+===[[file:beaker.png|64px]]Beaker===
+Useful for mixing in. Primarily used in chemical dispensers and ChemMasters. Holds 60 units, large variants hold 120 units.
+
+===[[File:BSBeaker.gif|64px]]Bluespace Beaker===
+A large beaker supplied by Research that can hold 300u.
+
+===[[File:CryoBeaker.gif|64px]]Cryostasis Beaker===
+A 60u beaker that prevents mixtures and reactions from happening inside of it.
+
+===[[File:Eyedropper.png|64px]]Dropper===
+A precision tool that can transfer liquids from one storage medium to another in 5 units or less.
+
+===[[File:Srybox.png|64px]][[File:Syringes.png|64px]]Syringes===
+A syringe is a container especially used for holding injectable liquids. They have two modes -- inject and draw. While in draw mode, a syringe takes liquids from other liquid containers such as bottles and beakers 5u at a time, or takes a 15u blood sample from [[crew|people]]. While in inject mode it will push its contents 5u at a time into a target, including people or other containers. Note that one single syringe '''cannot be used on multiple patients,''' and will infect the patient with terrible things if this is ignored. If a syringe has its cap removed, then it is no longer safe to use that syringe on another patient. Holds 15u, found in NanoMeds and syringe boxes.
+
+===[[File:PFreezer.png|64px]]Portable Freezer===
+A small freezer used to store organs so that they don't rot as quickly, usually used to store brains whenever someone gets crushed by the elevator.
+
+===[[File:Sgun.png|64px]]Syringe Gun===
+Fire at people at a range with a syringe, useful if choral hydrate or acid is in the needles. Not good for medicine applications (does minor damage each hit) unless you're trying to sedate a panicked or violent patient, in which case it may be worth the minor damage.
+
+===[[File:Straight.png|64px]]Straight Jacket===
+A vest used to restrict a human's movement. People who wear this can't use their hands.
+
+===[[File:Muzzle.png|64px]]Muzzle===
+Stops those pesky patients from screaming! People who wear this can't use their mouths to speak, and they can't use their teeth to chew their hands off.
+
+===[[File:Hspray.png|64px]]Hypospray===
+A fast air needle that can be loaded with up to 25u of any chemical, and injects instantly 5u at a time. The [[CMO]] has a Mk II version of the hypospray with detachable vials.
+
+===[[File:Resleevingbook.png|64px]]Resleeving, the New Cloning?===
+A book outlining the basic operations of resleeving equipment.
+
+===[[File:Implant_Case.png|64px]]Virus Sample===
+Sample used in Virology lab to research viruses. Samples must be ordered through cargo and the crate must be unlocked by the [[CMO]].
+
+===[[File:Body_Bag_Box.png|64px]][[File:Body_Bag.png|64px]]Body Bag===
+A bag used to transport the deceased, to the morgue usually. Use a pen to add a toe tag.
+
+===[[File:Stasis_Bag_Folded.png|64px]][[File:Stasis_Bag.png|64px]]Stasis Bag===
+A non-reusable bag designed for the preservation of an occupant's body by stasis. Actually it only slows down damage, still useful! Can hold a syringe that will inject the moment a patient is released from the bag. Use a health analyzer on the bag to scan the patient's vitals without having to open the bag.
+
+== Devices ==
+
+===[[File:Healthanalyzer.png|64px]]Health Analyzer===
+Click on people with this to give a readout of their current health. These should generally only be used by [[Medical Doctor|trained personnel]]. It is broken up into sections:
+*Temperature
+*Damage Type
+*Overall health percentage
+*Unknown Substance Detected (can mean a virus, or just a chemical in their bloodstream)
+
+Ideal Reading:
+
+{| class="wikitable"
+|-
+! <span style="color:#0000ff">Analyzing Results for (Character Name):<br>
+	 Overall Status: 100% healthy<br>
+	 Damage Specifics: 0-0-0-0<br>
+Key: Suffocation/Toxin/Burns/Brute<br>
+Body Temperature: 34.3943°C (93.9098°F)
+Subject bloodstream oxygen level normal |<br> Subject bloodstream toxin level minimal |<br> Subject burn injury status O.K |<br> Subject brute-force injury status O.K<br>
+</span>
+|}
+
+[[Roboticist]]s can also use these to make Medibots.
+
+=== [[File:MS.png|64px]]Mass Spectrometer ===
+A device for analyzing chemicals in the blood.
+
+=== [[File:AMS.png|64px]]Advanced Mass Spectrometer ===
+A device for analyzing chemicals in the blood and their quantities.
+
+===[[File:Sleevemate.png|64px]]SleeveMate 2300===
+A device used to backup the mind and body of a user, which will update into the resleeving console. Can also download someone's brain, though this process takes a while.
+
+===[[File:Sink.png|64px]]Sink===
+Used for washing your hands before and surgery (empty hands), washing objects if you're holding them, and as a water source.
+
+===[[File:Rollerbed.png|64px]]Roller Bed===
+This is used to lie in, sleep in or strap on. Useful to safely transport critical patients to the medbay. Can be folded and picked up by hand; click and drag the bed to your character. Also fits in your backpack.
+
+===[[File:AdvancedBedFolded.png|64px]][[File:AdvancedBed.png|64px]]Advanced Roller Bed===
+A blue roller bed that's smaller and fits in your backpack easier.
+
+===[[File:Bed.png|64px]]Bed===
+A simple bed, for the patients to lie in and rest.
+
+== Wearable ==
+
+===[[File:LGloves.png|64px]]Latex Gloves===
+Sterile gloves that all doctors should be wearing, also makes it easier to wash off blood.
+
+===[[File:BreathingMask.png|64px]]Medical Masks===
+Normally used alongside anesthetic tanks for patients.
+
+===[[File:Sterilemask.png|64px]]Sterile Masks===
+Grants a pretty big boost against airborne viruses. All doctors should have these handy.
+
+===[[File:WWebbing.png|64px]]Webbing/Drop Pouches===
+Holds medical equipment. Attaches to your uniform and can be accessed by clicking on it.
+
+===[[File:Medicalbelt.png|64px]]Medical Belt===
+Used for holding medical equipment, usually bottles of medicine. A black EMT variant is available in EMT lockers.
+
+===[[File:Labcoat.png|64px]]Labcoat===
+Part of the standard medical uniform. It has pockets to store small items.
+
+===[[File:Stethoscope.png|64px]]Stethoscope===
+A small diagnostic tool that can be used to listen for heart or lung problems in a patient. Can be attached to the uniform.
+
+===[[File:Biohazard_Suit.png|64px]][[File:Biohazard_Helmet.png|64px]]Biohazard Suit & Helmet===
+This suit is the best protection against viral infection, especially useful for the [[Virologist]].
+
+===[[File:Medical_Hardsuit.png|64px]]Medical Voidsuit===
+Stored in EVA (with an [[Voidsuit#EMT|EMT]] variant available in the EMT Bay), the voidsuit is helpful to reach wounded personnel in unwelcoming environments.
+
+===[[File:Rescuesuit.png|64px]][[Hardsuit#Rescue_Hardsuit|Rescue Hardsuit]]===
+Stored in the Medical EMT Bay, this hardsuit is a boon to EMTs that need to get into places that they are not able to reach normally.
+
+===[[File:MedGlasses.png|64px]]Health Scanner Hud===
+Wearing one will let you see at a glance the general health of people around you.
+
+===[[File:PGlasses.png|64px]]AR-M===
+Useful glasses found in NanoMeds that display the general health of patients ''and'' can display suit sensors, all at the same time!
+
+===[[File:Anesthetics.png|64px]]Sleeping Agent Tank===
+A tank filled with Nitrous Oxide to use as anesthesia during surgery.
+
+===[[File:Pglasses_Box.png|64px]][[File:PGlasses.png|64px]]Prescription Glasses===
+Nothing special, a pair of nerdy glasses.
+
+===[[File:Cane.png|64px]]Cane===
+Given to patients who have difficulties walking.
+
+===[[File:Secpack.png|64px]]Medical Backpack===
+A medic styled backpack, same size as the normal ones.
+
+===[[File:Defib.gif|64px]]Defibrillator===
+An auto-resuscitator unit that's worn on your back with paddles (that require both hands) that can be placed on a patient's chest to restart their heart.
+
+===[[File:ComDefib.gif|64px]]Compact Defibrillator===
+A smaller defib that's worn on the belt but works exactly the same. The [[CMO]] has a combat version with restrictions and safeties removed, allowing you to defib a patient through their armor, regardless of whether or not they're dead.
+
+== Surgery ==
+
+===[[File:Scalpel.png|64px]]Scalpel===
+An extremely sharp knife used to make an incision during surgery. It is a precise cutting tool.
+
+===[[File:Hemostat.png|64px]]Hemostat===
+Surgical instrument used to extract objects from body cavities and stop bleeding.
+
+===[[File:Retractor.png|64px]]Retractor===
+Used after the hemostat to keep an incision open.
+
+===[[File:Saw.png|64px]]Circular Saw===
+A saw used for cutting bone, usually the skull or the ribs. Can also be used to dismember limbs in the event the limb is gangrenous, <strike>or if someone needs to be decapitated I guess.</strike>
+
+===[[File:Drill.png|64px]]Surgical Drill===
+A drill normally used for cavity implants.
+
+===[[File:Bone_gel.png|64px]]Bone Gel===
+Gel to help mend bones during surgery.
+
+===[[File:Bone_setter.png|64px]]Bone Setter===
+A surgical tool to set a bone back to its healthy position.
+
+===[[File:Fixovein.png|64px]]FixOVein===
+Used for fixing severed veins during surgery.
+
+===[[File:Cautery.png|64px]]Cautery===
+Surgical tool used to close wounds.
+
+===[[File:Autopsy_scanner.png|64px]]Autopsy Scanner===
+Used during [[Guide to Cadavers|autopsy]] to detect the origin of the wounds and to print an autopsy report. Scan all limbs to get a full report.
+
+===[[File:Bloodbag.png|64px]] Blood Bag===
+Used with the IV drip to give or take blood from a patient. Medbay has all types of bloodbags (O-, O+, A-, A+, B-, B+, AB-, and AB+) as well as empty bags for blood donations.
+
+===[[File:IVdrip.png|64px]]IV drip===
+Used with a blood bag to give or take blood from a patient. Right click and use the context menu to toggle whether it gives or draws blood.
+
+== Advanced Surgical Instruments ==
+The following items are obtained from RnD.
+
+===[[File:Scalpmanager.png|64px]]Incision Management System===
+An advanced tool that can create an incision, stop bleeders, and keep an incision open all in one go, very useful.
+
+===[[File:Boneclamp.png|64px]]Boneclamp===
+An instrument that removes the need to use bonegel for bone repair surgery.
+
+===[[File:Laserscalp.png|64px]]Laser Scalpel===
+A scalpel that cauterizes bleeders while an incision is being performed. Scalpel and hemostat in one tool, but does not replace both entirely.
+
+== Machines ==
+
+===[[File:Medicalrecords.gif|64px]]Medical Records===
+Contains the medical records of all Nanotrasen employees currently on staff, a virus information database, and updates on the station's medbots. It has a lot more personal information than the Crew Monitoring computer, most of which is found in their important information (which is, indeed, important).
+
+===[[File:Nano.gif|64px]]NanoMed Plus===
+* Dylovene bottle: 4
+* Inaprovaline bottle: 4 
+* Soporific bottle: 4 
+* Toxin bottle: 4 
+* Syringe (Spaceacillin): 4 
+* Syringe: 12 
+* Health Analyzer: 5
+* Beaker: 4
+* Dropper: 2
+* Advanced Trauma Kit: 3
+* Advanced Burn Kit: 3
+* Medical Splints: 2
+* ([[Hacking|Hacked) Toxins pill: 3 
+* (Hacked) Soporific pill: 4
+* (Hacked) Dylovene pill: 6
+
+===[[File:Morgue.png|64px]]Morgue===
+Holds one person (preferably dead) on the tray within. Unlike the identical chapel crematorium, bodies in these will stay fresh indefinitely. Will flash green if a player is still occupying the body.
+
+===[[File:Sleeper.gif|64px]][[File:Console.gif|64px]]Sleeper & Sleeper Console===
+Has a small selection of medicine that can be injected into the patient, and a dialysis system to extract all non-blood reagents from their bloodstream (Note: ''Not'' their stomach).
+
+===[[File:Bscanner.gif|64px]][[File:Bscanner_console.gif|64px]]Body Scanner & Body Scanner Console===
+Used to detect most medical problems in a patient, from fractures to brain damage.
+
+===[[File:OpCom.png|64px]][[File:OpTable.gif|64px]]Operating Computer & Operating Table===
+The most optimal place to lie a patient down for surgery.
+
+===[[File:Cryo.gif|64px]][[File:Freezer.gif|64px]]Cryo Cell & Freezer===
+These high-tech devices can bring crewmembers back from the brink of death. The station starts with three, but they have to be set up first. See the [[Guide to Medicine#Cryogenic_Chambers|guide to medicine]] for instructions.
+
+===[[File:Crewmonitor.gif|64px]]Crew Monitoring Computer===
+The huge benefit of this privacy-violating machine is its ability to report the location and vital statistics of the crew via their suit sensors. The downside is that it's entirely dependent on the crew bothering to turn their sensors on. Other than Medical, only the Heads and AIs have access to it.
+
+===[[File:Medcom.gif|64px]][[File:Clone.gif|64px]][[File:Resleevingpod.gif|64px]]Growing Pod and Resleeving Pod===
+Two pieces of equipment that can essentially clone a patient. First a deceased patient's body is grown in the Growing Pod, then it is placed in a cryogenics tube to mend imperfections, lastly it is placed in the Resleeving Pod where it will have the patient's backed up mind record sleeved into the body.
+
+===[[file:Chem dispenser.png|64px]]Chem Dispenser===
+The primary tool at the [[Chemist]]'s disposal. Has cartridges containing 500 units each, all capable of regenerating after some time.
+
+===[[file:Pandm.gif|64px]]ChemMaster 3000===
+Separates, bottles, and makes tablets out of the chemical you loaded inside. Just select the amount of each chemical you wish to work with. Ejecting a beaker while working on a chemical will make the chemical go to waste. You can make up to 60-unit pills and 60-unit bottles this way.
+
+===[[file:Blender.png|64px]]Reagent Grinder===
+Grinds, crushes, liquefies and extracts reagents from materials placed into it. If there is a significant reagent associated with the item, the Reagent grinder will distill a pure sample inside the collection beaker.
+'''Works on:'''
+* Refined sheets of mined minerals (phoron, gold, uranium, and silver)
+* Cooked and grown foods (bananas, liberty caps, corn, carrots, and chilis)
+* Other grown items (nettles and death nettles)
+
+== Virology Machines ==
+{{Main|Guide to Virology}}
+All of these machines can be found in Virology and are used primarily by the [[Virologist]].
+
+===[[File:OpCom.png|64px]] Disease Splicer===
+Used for splicing diseases.
+
+===[[File:Pathogenic_Incubator.png|64px]] Pathogenic Incubator===
+Used to allow pathogens to grow to maturity.
+
+===[[File:Pathogenic_Isolator.png|64px]] Pathogenic Isolator===
+Used to isolate pathogens in blood samples.
+
+===[[File:diseaseanalyser.png|64px]] Disease Analyzer===
+Used to analyze the symptoms of a disease.
+
+===[[File:Virus_Food_Dispenser.png|64px]] Virus Food Dispenser===
+A Dispenser giving liquid food for virus growth.

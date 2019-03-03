@@ -1,0 +1,143 @@
+---
+title: Janitor
+permalink: wiki/Janitor/
+layout: wiki
+tags:
+ -  Jobs
+---
+
+As the **Janitor**, your job is simple. Keep the station clean and tidy,
+and do all the dull maintenance work that the
+[engineers](/wiki/Station_Engineer "wikilink") are too busy to look at. This
+is a fairly relaxing and unimportant role, and very useful for new
+players to get comfortable with the game mechanics and roleplaying.
+
+Equipment
+---------
+
+-   **Galoshes**: These are your special shoes for when you're on
+    cleaning duty. They prevent you from slipping on absolutely
+    everything except for [space lube](/wiki/Chemist "wikilink").
+-   **Bio Suit**: Used for those particularly bad messes. Do not wear
+    this everywhere, it's considered very bad [RP](/wiki/RP "wikilink").
+-   **Mop, Mop Bucket, and Wet Floor Signs**: Standard cleaning duty
+    equipment. The mop bucket must be pulled behind you, and you have a
+    spare mop in case your first goes missing.
+-   **Water Tank and Bucket**: Used to fill the mop bucket with water.
+-   **Space Cleaner**: This is a small spray bottle of non-slip,
+    instant-cleaning fluid. These are generally used for when you're on
+    something other than cleaning duty, without your mop and bucket, and
+    see a small mess - just spray it and the floor is clean, without any
+    signage required. If you need a refill, the chemists should be more
+    than happy to oblige.
+-   **Cleaner Grenades**: These grenades, when detonated, flood a small
+    area with sterilizing foam. You shouldn't ever need to use this
+    except in the cases of extremely huge messes and, as the foam slips
+    people, are very annoying when used otherwise!
+-   **Trash Bag**: This is used to pick up litter you see in the
+    hallways.
+-   **Replacement Lights boxes**: Used to replace damaged lights around
+    the station.
+-   **Flashlight**: Used to help you see in the process of replacing
+    said damaged lights.
+-   **Light Replacer**: Takes bulbs from a replacement lights box in
+    your inventory and slots them into a light fixture more easily than
+    by hand.
+-   **Janicart**: A cart that you can ride on by holding the keys in
+    your hands (they say Pussy Wagon) and clicking and dragging yourself
+    onto the cart. It can hold a trash bag. It goes rather fast, and you
+    can still use your mop from it, but you can't drag the mop bucket
+    around. To get out just click on the cart with an empty hand,
+    without a trash bag in the cart.
+
+Garbage Patrol
+--------------
+
+Listed below are the jobs you will be expected to perform aboard the
+station.
+
+### Cleaning Duty
+
+This is the main task associated with janitors. You should always keep a
+space cleaner bottle handy if you're walking around doing other things
+and see a stain, but if you see a larger mess or get called out
+somewhere to clean up, head back to your closet. Grab the blue bucket
+and fill it with water from the large tank, and fill your yellow mop
+bucket with it. If it's a radium spill from chemistry put on your
+haz-mat suit, otherwise simply pick up a mop, get a wet floor sign or
+two, put on your galoshes, pull the yellow bucket and head to the area
+that requires cleanup.
+
+To clean, simply use the mop on the bucket to wet it, and then click the
+tile you want to clean. Before you start put down a wet floor sign near
+the area that you are scrubbing and leave it there for about 5 minutes
+after you're done, so that people are aware of the slipping danger. It's
+also nice to warn people over the radio in order to further ensure that
+[Security](/wiki/Security_Officer "wikilink") don't arrest you for creating a
+workplace hazard. Now you can return to your closet and put away all
+your equipment, seeing as they're extremely movement-impeding and it's
+good for RP.
+
+IMPORTANT: If you're cleaning up a crime scene,*' MAKE SURE THE
+[DETECTIVE](/wiki/Detective "wikilink") HAS ALREADY BEEN THERE AND DONE HIS
+THING*'. Otherwise Security will be very upset with you.
+
+### Litter Picking
+
+You have a trash bag in your closet in order to pick up all the litter
+people leave lying around - put this on your belt every round before you
+go out on janitor patrol. Right-click the trash bag to select between
+'Pick up one item at a time' and 'Pick up all the items on a tile',
+depending on the magnitude of litter you're dealing with, and simply
+click the items you want gone with the bag to put them inside. Use the
+bag on a disposals bin to empty everything within and the bin will
+automatically activate to get rid of all the disgusting garbage. Common
+litter you will need to dispose of include cigarette butts, snack
+wrappers and discarded pens.
+
+### Low-Level Maintenance
+
+Arguably what you will spend most of your time doing. Usually this means
+replacing broken lights, using the spares you have in your closet. While
+you're doing this, make sure to take the broken light you just replaced
+and put it in your box. When you run out of working lights, take the
+broken ones down to the autolathe, put them in, and then make some new
+ones.
+
+If the station gets hit by an electrical storm, get ready to work hard,
+because this means that more than half of the station's lights have been
+blown. Use the flashlight if you're having a tough time working in
+heavily affected areas.
+
+You are not an engineer, so do not go fixing walls, or the like. Mending
+tables and chairs is fine however.
+
+### Waste Management
+
+Litter picking is no good if disposals isn't doing its job, and as the
+janitor you need to be making sure that all the garbage is being dealt
+with. The disposals centre is located in the south end of Arrivals,
+directly below the vacant office, and you need to go through a
+maintenance tunnel to get to it. Switch the lever to REVERSE so that the
+conveyor is moving trash to the mass driver and press the switch to open
+the blast door. Check back now and again to launch the mass driver when
+there is trash on it. Due to the fact that this set-up will cause the
+disposals belt to be completely void of air, you can tell the AI to bolt
+down the conveyor belt maintenance door if you like.
+
+Also, disposed objects must go through the cargo bay conveyor first
+before reaching disposals, so make sure you tell the [cargo
+techs](/wiki/Cargo_Technician "wikilink") to start up their belt as well.
+
+Predding
+--------
+
+You can fill your spray bottle with water and use some cable restraints
+to turn the tide on any one chasing you (RP 'IS' required.)
+
+Preying
+-------
+
+As a janitor, you're extremely likely to be snatched off the corner of
+the hallway! People aren't very likely to complain either if they call
+you once and you never show up! Expect not to be missed.

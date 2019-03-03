@@ -1,0 +1,57 @@
+So, you're an [[Engineer]] huh? Well here's the guide for you then. Engineering, the NanoTrasen way!
+
+== The Basics ==
+
+Engineering is rather complex, but in itself teaches you many of the game's core mechanics. Even a new player, who can pick up and empty a toolbox is able to become a good engineer. If you're a completely new player however, you should first take a glance at the [[The Basics|starter guide]].
+
+== The Engine, Solars and Power ==
+
+=== Generating Power ===
+The primary purpose of engineering is to maintain the station's power. To do this, you will need to start the [[Supermatter Engine|engine]]. The [[Supermatter Engine|linked guide]] should show you how to do that.
+
+The solars are the next thing you need to worry about. As starting the singularity can be a bit risky, you should watch others do it before you attempt it alone. In the mean time, you can do the wiring of [[Solars|the solars]]. To do this you will need the [[RIG Suit|RIG suit]] as well as internals (oxygen tank and gas mask), all of which can be found in engineering. Note that it is a good idea to return the RIG suit once you're done. More on wiring solars can be found [[Solars|here]].
+
+=== Wiring ===
+
+''For a more in-depth guide, see the [[Basic_Construction#Wiring|Basic Construction Guide's section on Wiring]]''
+
+If a part of the station loses power it is likely wires have been cut somewhere. To search for cut wires under floors you will need a [[T-Ray Scanner]]. To cut wires, use the wirecutters and to place new ones click on the floor where you'd like them to be placed. The wire will be placed on the targeted tile from the tile you're standing on. You can also place wires on the tile you're currently on by clicking the tile. the wire will be placed in the direction you're currently facing. To place smooth wires, click on the red dot (end point) of an existing wire with more wire in your hand.
+
+Wiring intersections demand special mention. Making an intersection requires all the wire pieces to be end-points. If you make a smooth wire going south to north and place a half-wire going east, they will not be connected. To connect them you have to remove the smooth wire and replace it with two half-wires. Once all of them are placed, if you right click the tile you should see three wire pieces, all of which meet in the center. In case of a knot, just cut the wire, and then hit the knot.
+
+=== Power Monitoring and Distribution ===
+An [[Area Power Controller]] (or APC)  is located in every room. It is usually locked, but you can unlock it by swiping your ID on it. Functioning APCs contain a [[Engineering Items#Power Cell|power cell]]. You can shut off a room's power or disable or enable lighting, equipment, or atmospheric systems with it. Every room can have only one APC. The guide to their construction and deconstruction can be found in the [[Guide to construction|guide to construction]]. APC's can also be [[Hacking#APCs|hacked]]; it's good practice to know how to hack into APCs in a pinch. However, avoid practicing hacking techniques on APCs in sensitive areas, like the [[Engine Room]].
+== Station Structural Integrity ==
+An educated word which basically means wall repairs.
+
+=== Walls ===
+Walls come in two forms: Regular and reinforced. Building a regular wall is a two step process: constructing girders and adding plating. To construct a girder have a stack of two or more sheets of metal on you (right click the metal and examine it to see how many sheets are in the stack). Left click the metal for a construction window to appear. Choose "Construct wall girders" from the list and wait a few seconds while they're built. Once they're built, click on the girders with another stack of two or more metal to add the plating. 
+
+Note that only fully built walls will prevent air from escaping freely through them. Reinforced walls share the first step: the building of the girders. After this, grab a stack of two or more metal (or reinforced plasteel), right-click on the girders, and choose "Reinforce girder". Finally, add plating to the wall with either regular metal or with reinforced plasteel. Walls reinforced with plasteel are much stronger than regular walls and take much longer to get through using regular tools.
+
+For more on construction see the [[Guide to Construction]].
+
+=== Pretty glass ===
+Notice how most of the glass around the station is built as a double pane, which surrounds a grille. Making this by hand can be a bit tricky at first, but is simple once you get the hang of it. To build such a wall, you'll need 4 sheets of glass and 3 sheets of metal, alternatively you can have 6 sets of rods. You'll also need a screwdriver and crowbar, though having wirecutters and a welder with you is a good idea, as you'll likely get it wrong the first time and will need those to dismantle the grille. 
+
+First you have to prepare your materials. Use the metal on itself and create 6 sets of rods (2 are made each time). Now pick the rods up (you can stack them, but don't click too quickly or the game might think you wanted to build a grille). After this, use 4 of the rods on 4 sheets of glass to create 4 sheets of reinforced glass. Now pick up all your tools (put them on your utility belt if you have one or in your backpack) and pick up the remaining two rods in one hand and the 4 sheets of reinforced glass in your other (remember, you can stack glass too). Now stand where you'd like the glass to be. Use the rods on themselves and this will create a grille. DO NOT MOVE! Now use the glass on itself 4 times and create a single paned glass every time. Right click on the glass to rotate it until you have 3 of the 4 sides covered. The remaining side is your escape route. use the combination of screwdriver - crowbar - screwdriver on each of the 3 panes which are already in place to secure them. Now move out of the grille and rotate the last window so it covers the last side. Fasten that with the same screwdriver - crowbar - screwdriver combination. Congratulations. You've just made a proper window. You're already better at construction than most. 
+
+For more on construction see the [[Guide to Construction]].
+
+== Robots, Artificial Intelligence, and Computers ==
+As an engineer, it is required of you to understand how most computers are operated, how they work and how they're created, dismantled, and repaired. You're also the best equipped station employee to prevent the AI from taking a life of it's own.
+
+=== Computers ===
+Computers are everywhere on SS13. Engineering has a power monitoring computer, several solar computers and a general alerts computer. Almost everything you can control is done through a computer. Making them is described in the [[Guide to Construction#Computers|guide to construction]], as is their dissasembly (for those which can be deconstructed). To learn how to operate different computer you'll need to start using them and find out how they work while doing so. There are too many to explain them all here.
+
+== Getting Crew out of Danger ==
+It's your job to save lives when they cry out for help.
+
+=== Firefighting ===
+Engineers get access to maintenance hallways, which contain several [[Firesuit|firesuits]] and extinguishers. If a fire breaks out somewhere, put it out. [[Firesuit|Firesuits]] allow you to walk in almost any fire. Extinguishers have a limited capacity. Refill them with water tanks, which can be found all around the station.
+
+=== Physical Rescue ===
+If someone cries that he can't get out of somewhere and no one can get him out, then it's your job to do so. [[Hacking#Airlocks|Hacking airlocks]], [[Guide_to_construction#Walls_2|deconstructing walls]]; basically whatever it takes to get to them. I don't need to point out that you should never put others or yourself at risk in doing so!
+
+[[Category:Guides]]
+{{Gameplay Guides}}

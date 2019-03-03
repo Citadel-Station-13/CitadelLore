@@ -1,0 +1,203 @@
+{{BayPage}}
+{{Delete|reason = Race that never existed, nor does anyone care about.}}
+{{Infobox country
+|micronation =        <!--yes if a micronation-->
+|conventional_long_name = Colony of Yuclite<!--Formal or official full name of the country in English-->
+|native_name =      <!--Country's name (usually full name) in its native language, hence in italics (double quotemarks)-->
+|common_name =       <!--Common name in English (used for wikilinks and to produce a default iso3166 code)-->
+|status =        Yuclite   <!--Status of country, especially useful for micronations (COMMON NAME)-->
+|image_flag =         <!--e.g. Flag of country.svg-->
+|alt_flag =           <!--alt text for flag (text shown when pointer hovers over flag)-->
+|flag_border =        <!--set to no to disable border around the flag-->
+|image_flag2 =        <!--e.g. Second-flag of country.svg-->
+|alt_flag2 =          <!--alt text for second flag-->
+|flag2_border =       <!--set to no to disable border around the flag-->
+|image_coat =         <!--e.g. Coat of arms of country.svg-->
+|alt_coat =           <!--alt text for coat of arms-->
+|symbol_type =        <!--emblem, seal, etc (if not a coat of arms)-->
+|national_motto =  <!--in inverted commas and wikilinked if link exists-->
+|englishmotto =       <!--English language version of motto-->
+|national_anthem =    <!--in italics (double quotemarks) and wikilinked if link exists-->
+|royal_anthem =      <!--in italics (double quotemarks) and wikilinked if link exists-->
+|other_symbol_type =  <!--Use if a further symbol exists, e.g. hymn-->
+|other_symbol =
+|image_map =          <!--e.g. LocationCountry.svg-->
+|loctext =      '''Yuclite''', [[Nyx]]    <!--text description of location of country-->
+|alt_map =            <!--alt text for map-->
+|map_caption =        <!--Caption to place below map-->
+|image_map2 =         <!--Another map, if required-->
+|alt_map2 =           <!--alt text for second map-->
+|map_caption2 =       <!--Caption to place below second map-->
+|capital =       Greendeer (de facto)     <!--Name of country/territory's capital, wikilinked if link exists-->
+|capital2 =            <!--Name of country/territory's capital, wikilinked if link exists-->
+|latd= | latm= | latNS= |longd= |longm= |longEW= <!--capital's latitude and longitude in degrees/minutes/direction-->
+|largest_city =       <!--Name of country/territory's largest city. Use "capital" (without quotemarks) if it's the capital.-->
+|largest_settlement_type = <!--Type of settlement if largest settlement not a city-->
+|largest_settlement = <!--Name of largest settlement-->
+|official_languages = <!--Languages recognised in legislation, constitution, etc-->
+|national_languages = <!--Country/territory-wide languages recognised but not necessarily in country/territory-wide law, etc-->
+|regional_languages = <!--Languages recognised or associated with particular regions within the country/territory-->
+|languages_type =     <!--Use to specify a further type of language, if not official, national or regional-->
+|languages =          <!--Languages of the further type-->
+|languages_sub =      <!--Is this further type of language a sub-item of the previous non-sub type? ("yes" or "no")-->
+|languages2_type =    <!--Another further type of language-->
+|languages2 =         <!--Languages of this second further type-->
+|languages2_sub =     <!--Is the second alternative type of languages a sub-item of the previous non-sub type? ("yes" or "no")-->
+|ethnic_groups =      <!--List/breakdown of ethnic groups within the country/territory-->
+|ethnic_groups_year = <!--Year of ethnic groups data (if provided) or use to place a <ref>-->
+|nationalities =      <!--List/breakdown of nationalities within the country/territory-->
+|religion =           <!--Religion-->
+|demonym =    Yuclitean       <!--Term/s describing those associated with the country/territory (e.g. "Belgian" for the country Belgium)-->
+|government_type =  Corporate oligarchy  <!--(often a compound multi-wikilinked term, e.g. "Federal semi-presidential constitutional republic", etc)-->
+|leader_title1 =    Central Colonial Administrator  <!--(for a country, usually the head of state's (wikilinked) title, e.g. "President", "Monarch")-->
+|leader_name1 = Ned Crispan of [[Gilthari Exports]]
+|leader_title2 =   Vice Central Colonial Administrator  <!--(could be "Vice President", otherwise "Prime Minster", etc, etc)-->
+|leader_name2 = Corné Sander of [[Aether Atmospherics]]
+|leader_title3=
+|leader_name3=
+|leader_title4=
+|leader_name4=
+<!--......-->
+|leader_title6 =      <!--(up to six distinct leaders may be included)-->
+|leader_name6 =
+|legislature =        <!--Name of the country/territory's governing body, e.g. "Parliament", "Congress", etc-->
+|upper_house =       <!--Name of governing body's upper house, if given (e.g. "Senate")-->
+|lower_house =       <!--Name of governing body's lower house, if given (e.g. "Chamber of Deputies")-->
+|sovereignty_type =   <!--Brief description of country/territory's status ("Independence [from...]", "Autonomous province [of...]", etc)-->
+|sovereignty_note =
+|established_event1 = <!--First key event in history of country/territory's status or formation-->
+|established_date1 =  <!--Date of first key event-->
+|established_event2 = <!--Second key event-->
+|established_date2 =  <!--Date of second key event-->
+<!--......-->
+|established_event9 = <!--(up to nine distinct events may be included)-->
+|established_date9 =
+|area_rank =
+|area_magnitude =
+|area =               <!--Major area size (in [[Template:convert]] either km2 or sqmi first)-->
+|area_km2 =           <!--Major area size (in square km)-->
+|area_sq_mi =         <!--Area in square mi (requires area_km2)-->
+|area_footnote =      <!--Optional footnote for area-->
+|percent_water =
+|area_label =         <!--Label under "Area" (default is "Total")-->
+|area_label2 =        <!--Label below area_label (optional)-->
+|area_data2 =         <!--Text after area_label2 (optional)-->
+|population_estimate = 44,000
+|population_estimate_rank =
+|population_estimate_year = 2559
+|population_census =
+|population_census_year =
+|population_density_km2 =
+|population_density_sq_mi =
+|population_density_rank =
+|nummembers =         <!--An alternative to population for micronation-->
+|GDP_PPP =                     <!--(Gross Domestic Product from Purchasing Power Parity)-->
+|GDP_PPP_rank =
+|GDP_PPP_year =
+|GDP_PPP_per_capita =
+|GDP_PPP_per_capita_rank =
+|GDP_nominal =
+|GDP_nominal_rank =
+|GDP_nominal_year =
+|GDP_nominal_per_capita =
+|GDP_nominal_per_capita_rank =
+|Gini =                        <!--(Gini measure of income inequality; input number only; valid values are between 0 and 100)-->
+|Gini_ref =                    <!--(for any ref/s to associate with Gini number)-->
+|Gini_rank =
+|Gini_year =
+|HDI_year =           <!-- Please use the year to which the data refers, not the publication year-->
+|HDI =                <!--(Human Development Index; input number only; valid values are between 0 and 1)-->
+|HDI_change =         <!--increase/decrease/steady; rank change from previous year-->
+|HDI_rank =
+|HDI_ref =            <!--(for any ref/s to associate with HDI number)-->
+|currency =           <!--Name/s of currency/ies used in country/territory-->
+|currency_code =      <!--ISO 4217 code/s for currency/ies (each usually three capital letters)-->
+|time_zone =          <!--e.g. GMT, PST, AST, etc, etc (wikilinked if possible)-->
+|utc_offset =         <!--in the form "+N", where N is number of hours offset-->
+|time_zone_DST =      <!--Link to DST (Daylight Saving Time) used, otherwise leave empty-->
+|utc_offset_DST =     <!--in the form "+N", where N is number of hours offset-->
+|DST_note =           <!--Optional note regarding DST use-->
+|antipodes =          <!--Place/s exactly on the opposite side of the world to country/territory-->
+|date_format =        <!--numeric dates (dd-mm-yyyy, yyyy.mm.dd, etc) plus era (CE, AD, AH, etc)-->
+|drives_on =         <!--"right" or "left" (side of road)-->
+|cctld =       Fiskap      <!--Internet country code top-level domain identifier (e.g. [[.br]], [[.de]], etc) (CREATED BY)-->
+|iso3166code =        <!--Use to override default from common_name parameter above; omit using "omit".-->
+|calling_code =       <!--e.g. [[+1]], [[+531]], [[+44]], etc-->
+|image_map3 =         <!--Optional third map position, e.g. for use with reference to footnotes below it-->
+|alt_map3 =           <!--alt text for third map position-->
+|footnote_a =         <!--For any footnote <sup>a</sup> used above-->
+|footnote_b =         <!--For any footnote <sup>b</sup> used above-->
+<!--......-->
+|footnote_h =         <!--For any footnote <sup>h</sup> used above-->
+|footnotes =         <!--For any generic non-numbered footnotes-->
+}}
+
+==Demographics==
+===Species makeup=== 
+96% Human<br>
+4% other
+
+===Religious makeup=== 
+Primarily agnosticism and atheism.
+
+==History==
+The first recent contact with the planet of Yuclite was performed in the year 2548, by the Sol Central exploration fleet that had arrived on the Nyx system a year earlier. Most, if not all the ships sent to this specific mission had returned safely, bringing back valuable information: the presence of old ruins and other xenoarcheological artifacts, dating to approximately 570 million years back.
+
+Despite of this discovery, no coordinated colonization effort was organized until 2554, right after the collapse of the Brinkburn colonies. A group of approximately 30 independent scientists landed on the planet and created a small, makeshift archeological camp.
+
+This settlement, Greendeer, wouldn’t grow much until 2556, where a contact with several TSCs back on Sol was performed. This small group of independent, but wealthy scientists desired further assistance to create a larger colony on Yuclite, a place that could potentially become the most populated and relevant city in the entire system. With a larger population and better infrastructure, more scientists could be attracted, thus it would be possible to reveal the secrets of the planet faster.
+
+Two TSCs became interested in this proposition: Gilthari Exports, and Aether Atmospherics. It was decided that both entities would organize a far larger colonization effort, and eventually be allowed to jointly manage any resulting settlements as well. A few months later, still in 2556, the colonizing teams had arrived.
+
+A lot of manpower and construction materials were imported by both TSCs. By early 2557, the former exhausted archeological camp of Greendeer was fully transformed into a domed city. Corporate and independent workers would start flocking in the settlement during 2557 and 2558, bringing in an acceptable number of researchers as well.
+
+The settlement of Greendeer remained profitable, and the administration was effective. Gilthari Exports would primarily focus on the farming, mining and xenoarcheological efforts, while Aether Atmospherics would use up their resources to maintain the dome’s atmospherics and gravity generators. Both corporations were benefiting moderately from this project.
+
+Gaining a moderate income from the settlement wasn’t enough for the colonial administrators, however. A couple of more drastic measures were taken all over 2558, such as significantly higher taxes for individual settlers and higher toll rates. This would slowly end up in the colony having a more basic and crude standard of living, along with a lesser immigration.
+
+In late 2558, an additional settlement was built in a good surface location that had ample ore reserves and presence of old civilization ruins, approximately 800 kilometres away from Greendeer. It was named Northpond Camp, and it would be more specialized in general research.
+
+Both settlements retain their original administration and are fully active in 2559. Nowadays, only wealthier settlers that aren’t excessively affected by the taxation and toll rates tend to come here now. Poorer settlers might arrive as well to work in the more basic occupations, as the settlement itself hasn’t been raided by larger groups of criminals yet.
+
+==Politics, law and defense==
+Yuclite is directly managed by two TSCs: Gilthari Exports and Aether Atmospherics. Both corporations will assign colonial administrators to each of the official settlements that have been established by them.
+
+Private security staff in both settlements are tasked with keeping the order and enforcing any Sol Central approved laws and regulations. The criminal rate on this colony is acceptably low, but in like much of the Nyx system, the off-planet supply lines are unfortunately fairly susceptible to pirate raids. Off-planet defense is managed by both founding corporations as well.
+
+Yuclite is typically considered to be the de facto capital of Nyx, as the colony has the largest combined population in the system. Due to all this, Sol Central tries to keep a small permanent presence on Greendeer, but since their overall presence on Nyx is so pathetically low, this is barely ever noticed.
+
+==Geography==
+Yuclite is a fairly large terrestrial, rocky planet, with a diameter of approximately 18000 km. It has a very high gravity, and despite that modern medicines can easily deal with many of the ailments caused by it, all formal settlements have artificial gravity generators to reduce this gravity to a more livable level.
+
+The atmosphere of the planet is not breathable. There is barely any oxygen on it, and it’s primarily composed of nitrogen and carbon dioxide. Along with this, the planet is extremely cold, with temperatures that can range from -50º to -80º celsius. Domed city infrastructure is required to maintain any long-term human presence here, and large-scale terraforming is simply not viable due to the planet’s large size.
+
+Natural, surface water reserves don’t exist on the planet at the moment, along with indigenous life.
+
+==Culture==
+Not much can be said about the culture of Yuclite since it’s still a recent settlement, but there tends to be a fairly large wealth disparity here, especially when compared to other colonies in the system. This is reflected in the general standard of living.
+
+==Economy==
+Yuclite has one of the most diversified economies in the Nyx system. The colony is fairly self-sustainable when it comes to food production as it has a sizable agricultural sector, but water supplies have to be imported from off-planet. The mining sector is less relevant as there aren’t many valuable ore resources here. Ore extraction tends to be limited to iron.
+
+Industry exists, with most of the required raw resources for it being imported from off-planet as well. Robotics has become a more important force since late 2558.
+
+But by far, the most prevalent sector of Yuclite’s economy is the research one. Most efforts are prioritized in artifact extraction and their research, that are then sold to more developed systems for it’s high monetary value, or put in display in local museums. Approximately 3000 researchers are active in the planet today, and so far, experts claim that only a 2% of the planet's prior civilization has been researched in the course of roughly 5 years.
+
+Despite of it's small size and population, educational facilities have been prevalent in here. The University of Greendeer was founded in 2558 by Aether Atmospherics, which prioritizes in engineering studies. It's currently one of the most influential universities in this freshly colonized frontier system.
+
+Medical facilities are prevalent as well, and their quality is very high when compared to other surface colonies in Nyx.
+
+==Notable settlements==
+===Greendeer===
+By far the largest and most populated individual settlement on Yuclite, Greendeer is a domed settlement that was first founded in 2554 as an xenoarchelogical camp, but wasn't reformed into a domed city until 2556. The interior of the dome has a breathable atmosphere, complete with artificial fauna, vegetation, and water. That might sound ideal for any colonist in Nyx, and although the domed city does have many varied services, the cost of living is rather high due to the conditions that the corporations have imposed on the citizens of Greendeer, such as high rents and taxes for public services such as roads or the water supply. Regardless of the relative lack of opportunities in the city, it's still one of the most preferred places in Nyx for a person of a middle-class or affluent background who can afford said expenses, with many corporations and businesses from other systems being based here. It's economy is highly based on farming with some minor industrial activity, where most of the poor populace works on.
+
+Total population: approximately 40000.
+
+===Northpond Camp===
+Northpond Camp is yet another domed city, located 800 km away from Greendeer and nearby of some of the most important and active xenoarcheological camps in the planet. It was designed specifically to house most of the scientists which were working in the active nearby camps, with several research facilities also having been built by external corporations, in an effort to attract even more of them. Most of it's conditions and economy can be compared to Greendeer, although the pseudo-governments influence isn't as high here when it comes to providing protection and law enforcement, which leads to slightly higher criminal rates.
+
+Total population: approximately 4000.
+
+
+
+[[Category:Fluff]] [[Category:Colonies]]

@@ -1,0 +1,21 @@
+---
+title: Dark Age of Space
+permalink: wiki/Dark_Age_of_Space/
+layout: wiki
+---
+
+The name Gaians have given for an era of space travel between the 2220s
+and 2240s in which the black market of organs in the Koi Starzone was
+thriving in the colonies unbeknownst to the Federation-Alliance
+government. The thriving underground economy was due to the harsh
+environments the colonists had to endure in space.
+
+The name comes from the harsher reality of the black market network,
+that being the string of kidnappings conducted for fresh organs and
+biological material for lab-grown organs.
+
+Government records have ended it officially in 2243 when a squad of
+police officers arrest a colony governor and his corporate executive
+benefactor for heading the network responsible for the black market.
+Historians would argue that the age truly ends in 2294 when a Project
+Jasher colonist springs genetics research forward.

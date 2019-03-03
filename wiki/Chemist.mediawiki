@@ -1,0 +1,78 @@
+{{SidebarJob|jobname=Chemist|img_file=Chemist.png|tagline=No smoking in here!|department=Medical|access=ETC, Chemistry, Maintenance|duties=Make medicine for doctors, refill prescriptions, experiment with custom mixes|supervisors=Chief Medical Officer|difficulty=Easy|alt_titles=Pharmacist}}
+As a '''Chemist''' your job is to mix chemicals for the others to use. Your work will be needed mostly by [[Medical Doctor]]s. You also have the option to make grenades, but using them or making them without clearance can get you brigged (or possibly banned).
+
+== Overview ==
+You mix and deliver chemicals. That's it. Some of the time you can do whatever you feel like doing, but for most of the round you'll be making chemicals for the medical staff.
+
+== Common Chemicals ==
+As a chemist you'll either be swamped with requests or have none at all. A good chemist revels in finding work for themselves regardless.
+
+=== Useful Chemicals ===
+* Your first priority: Medication for the doctors.
+** Bicaridine, dermaline, dexalin plus, and dylovene for the four major damage types.
+** Inaproviline to stabilize critical patients.
+** Alkysine for brain damage, imidazoline for eye damage, spaceacillin for infections, ethylredoxrazine for alcohol poisoning, and Tramadol for pain.
+** Upgrade the Cryoxadone in the cryo tubes to clonexadone.
+** Peridaxon is time-consuming to make, but will heal organ damage.
+** Check medical records for prescriptions to fill.
+* Research & Development and Robotics will want sulfuric acid to etch circuits. Depending on the amount of work they're doing, they may want as much as 600 units. R&D would also appreciate your extra phoron, if you can spare it. Make sure to keep some for yourself.
+* Virology will want radium.
+* The bartender or chef may ask you for chemicals to cook or mix drinks with. Some of them are safe, others are not. Use your judgment. 
+* The janitor will want Space Cleaner refills.
+* The gardener will want fertilizer (diethylamine or ammonia), and Xenobiology will also want unstable mutagen for their plant experiments.
+* Synthmeat can be manufactured for the kitchen, or as biomass for the cloning equipment.
+
+=== Mixing ===
+You can mix chemicals in a few ways, but the easiest way is to add a beaker to the chemical dispenser and then dispense appropriate amounts of base chemicals. If the mixture is correct, the solution will bubble and you'll now have a some of your end product.
+
+Mixing directly from other beakers, droppers and syringes also helps if you need a certain amount of each chemical. Just click one holder on another to pour some of the solution.
+
+Adding any solution to a ChemMaster 3000 will let you isolate and make pills or bottles of chemicals you add to it.
+
+=== Grenades ===
+As a chemist, you don't have access to grenade materials, but if you can get your hands on some, you can make grenades. You can fit two regular beakers in a grenade casing. This means potentially 100 units of whatever concoction you want. It is possible to use medicine, water, or more devious items in a grenade. The mixing and matching of different chemical formulas may not always go as planed, but that's just how science goes. Keep in mind, making and using grenades that harm others will get you brigged in the least, and possible job banned if you weren't an antagonist.
+
+==== Building Grenades 101 ====
+#Use a screwdriver on an igniter to make it attachable.
+#Attach the igniter to the timer, or some other triggering device (proximity, signaler, etc.)
+#Screwdriver the Igniter-timer assembly to make it attachable.
+#Attach the assembly to the grenade case.
+#Add your beakers of chemicals, then screwdriver the case again.
+#Using it in your hand opens up a window, where you can set the control mechanism of the grenade.
+Note that the case must be on the ground to do this correctly!
+
+=== Pills ===
+Pills are a great way to give large amount of medicine at once. If you are going to make medicine that will be single serve, make it pill form. Each pill can hold 50 units of material at one time. Up to 14 pills will fit into a pill bottle, which itself is still small enough to fit into a box or pocket. As a cautionary note, remember that most chemicals will cause toxic damage from overdose over 30 units, so be careful how much you add to a pill.
+
+'''Good Examples for pills:'''
+A typical pill will have about 15 units of medication in it. This is a good amount because it's a large enough dose for most situations, but even if you accidentally double-dose someone, you still won't go over the 30 unit overdose limit.
+* '''Alkysine''': Heals brain damage.
+* '''Dexalin Plus:''' Heals suffocation damage and helps keep someone with heart or lung damage alive.
+* '''Bicaridine''': Heals brute damage.
+* '''Dermalin''': Heals burn damage.
+* '''Dylovene''': Heals toxin damage.
+* '''Spaceacillin''': Stops the progression of a virus and treats infections.
+
+=== Bottles ===
+Bottles should contain material that is not medicine, such as acids, or medicines that are not used all at once, like Clonexadone. Each bottle can hold only 30 units, and can be splashed onto things. 
+
+Some doctors prefer bottled medicines because using a syringe to inject medication lets them choose the dose in 5-unit increments, and because they don't have to deal with pill bottles. However, injecting medication through the ports on a space suit is time-consuming.
+
+'''Good Example for Beakers:'''
+* '''Thermite'''
+* '''Silicate'''
+* '''Clonexadone'''
+* '''Regular medicines'''
+
+=== Injectors ===
+You have a supply of autoinjectors, initially loaded with inaproviline. The inaproviline can be drawn out of the autoinjectors and other substances injected into them with syringes. Autoinjectors are one-use items for delivering a 5u dose of medication quickly, effective if your target is not wearing a space suit. They are usually modified to hold inaproviline/dexalin plus mixtures (to stabilize a suffocating person), soporific (to sedate a combative patient) or various potent poisons, if you happen to be an antagonist. Be sure to label any autoinjectors you have modified, unless you don't want people to know they've been modified...
+
+The CMO's hypospray, initially filled with inaproviline, can also be refilled this way. It works like a multi-use autoinjector.
+
+== Traitoring ==
+Chemistry is one of the most dangerous jobs on the Med/Sci staff, and it's easy to be a good [[Traitor]]. A LOT of the chemicals you have access to will kill when injected. Access to grenades is a plus, not the mention for infinite sedative refills. Remember to keep it sane and stealthy. A bunch of naplam grenades thrown around will not win you any points.
+
+Like any job in Medical, chemistry lends itself to malpractice-style traitoring. "Accidentally" contaminate your medication, or hand out overdoses. Or maybe your traitor is more of a recreational chemist than a medical chemist (mindbreaker toxin, anyone?). 
+
+{{Jobs}}
+[[Category:Jobs]]

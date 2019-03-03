@@ -1,0 +1,638 @@
+---
+title: Xenochimera
+permalink: wiki/Xenochimera/
+layout: wiki
+---
+
+IC Lore
+-------
+
+An extraterrestrial colony organism, xenochimera are unusual in that
+they have no real defining physiology of their own - effectively,
+xenochimera mimic other beings, or parts of other beings, by consuming
+them and mutating their own cellular structure to imitate whatever
+evolutionary advantages they may find.
+
+On the cellular level, these creatures are composed of a hive of
+microscopic organisms - these form the basis of the majority of their
+bodily systems. When they feed on another being, effectively these
+organisms will consume the prey like a flesh-eating bacteria, rather
+than the more typical acidic digestion used by many other species (note:
+that doesn't mean that a particular example of the species hasn't found
+that a traditional stomach is a desirable evolutionary trait to copy)
+and, once having consumed enough, the cells will split, possibly
+mutating to mimic that which was eaten, and assimilate themselves into
+the rest of the hive. Individual chimera cells are capable of
+rudimentary communication with their neighbours, forming a sort of
+primitive neural network, but are not capable of anything resembling
+intelligence beyond primitive survival instinct. Effectively, the
+default state of a xenochimera is an order of intelligence on a par with
+an ant colony - not an individual *ant* but the colony itself, driven by
+little more than to survive at all costs.
+
+That is, unless they manage to assimilate and mimic something with a
+complex nervous system. At this point, provided that the hive
+successfully copies it, they can find themselves awakening to a greater
+degree of understanding than they have ever managed before - however,
+they are still the colony when all is said and done, and pressing
+survival needs will override whatever refined thoughts they may hold in
+their heads, leaving them generally prone to panic and fight-or-flight
+responses in extremely stressful situations, when injured or damaged, or
+driven to feed when hungry. The most common term used to describe a
+xenochimera that has reverted to primitive instinct in this manner is
+"feral".
+
+Xenochimera do not reproduce sexually. Genetic diversity is attained
+through their diet, making the evolutionary advantages of mating a
+somewhat moot point. Typically, their digestive, immune, and
+reproductive systems are all one and the same - individual cells within
+the colony locate foreign cellular material, consume it, and then split
+into more chimera cells. The process by which new *colonies* are formed
+is not wholly understood, though exposing a laboratory mouse to a
+suitably large dose of chimera cells has resulted in the mouse being
+consumed and the resulting cellular mass forming into a proto-mouse
+copy. Either way, typically reproductive organs are absent from
+xenochimera colonies as they serve no useful purpose to them.
+
+In most cases medical treatment is fairly standard as the colonies are
+mimicking the basic physiology of other species - if they are leaking
+fluids, then bandage them as normal. If they are poisoned, administer
+the usual pharmacy treatments. If they have suffered organ damage,
+provide surgical treatment. However, it should be noted that their
+bizarre genetic structure is completely incomprehensible to all
+available cloning technology. They are rather hardy creatures, though,
+and even if a colony is damaged to the extent that it appears "dead", as
+long as there is still some viable material present they can likely be
+revived, in a fashion, by injecting the body with a concentrated
+nutrient solution to prompt whatever remaining living cells are present
+to come out of hibernation and go about regrowing themselves. The
+process is not pretty, as the colony will effectively cannibalise any
+unviable biomass and grow a new body from scratch. This process can take
+anything from minutes to weeks, depending on the extent of the damage,
+and is extremely draining on the colony's resources - they will most
+likely be in a feral state when they emerge, and will almost certainly
+be suffering from neural degradation as a result of the trauma.
+Regrowing and repairing nervous tissue is extremely troublesome for
+them, and a colony that has suffered neural damage will often require an
+extensive period of recuperation and hibernation to come even close to
+fixing it themselves.
+
+Typically, a colony will do whatever it can to avoid the need for such
+drastic measures - extremely stressful situations will prompt them to
+adapt on the fly in an attempt to minimise damage in whatever way they
+can - as one enterprising tajara scientist found out, even to the point
+of mimicking a host's own cells and hiding within their body, leading to
+some speculation among xenobiologists that the ability to hide inside a
+host from any potential immune responses may have even been the original
+evolutionary purpose of their cellular mimicry (the scientist suffered
+no ill-effects, though was quoted as saying "She will find otherr mice
+outside the lab to eat next time.")
+
+Xenochimeras can be extremely voracious, especially when in a feral
+state due to hunger. While in this state, they will be unable to use
+most objects; primarily guns and other "advanced" items. A feral
+xenochimera is not always identifiable at first glance (even in their
+more lucid moments, they have a tendency to display instinctive
+behaviour, sometimes even the instincts of whatever creatures they are
+composed of), but can usually be spotted upon closer examination. The
+only way to get a feral xenochimera out of this feral state is to remove
+whatever source of stress is driving them into a feral state in the
+first place - if they are hungry, feed them - and be aware that the
+majority are obligate carnivores, and the closer the meat is to being
+alive, the better. If they are panicking, remove whatever is scaring
+them. If they are injured, let them heal. An entire crew descending on
+them to rubberneck will often elicit the same response that one would
+get from *any* cornered and frightened animal.
+
+If there *are* offshoots of the species as a whole, nobody has yet
+managed to identify them. Due to the wide range of diversity *within*
+the species, even if a specimen were to be obtained, it would be
+near-impossible to conclusively show that they were a different
+sub-species and not just another colony. For instance, it has been
+suggested that another species, dubbed "endochimera" is a genetic
+offshoot, while others believe they evolved independently and are
+another species entirely despite the superficial similarities.
+
+Despite some similarities, particularly details like "eating someone's
+genes and copying them", they are not the spacer legends known as
+[changelings](changelings "wikilink") - mimicking a particular person
+outright is far beyond their capabilities. At most, they might be able
+to pass as a particular species at a distance if they keep their
+hybridisation to a minimum.
+
+<figure>
+<img src="Galactic-Map-with-Vilous-and-Virgo-xenochimera-overlay.png" title="Known distribution of xenochimera, and suspected origin area." alt="Known distribution of xenochimera, and suspected origin area." width="400" /><figcaption>Known distribution of xenochimera, and suspected origin area.</figcaption>
+</figure>
+
+### Origins
+
+**Home planet**: Not known, presumed no longer extant
+
+**Home system**: Not known, suspected to originate from Norma Arm,
+somewhere between Virgo-Erigone and the galactic core.
+
+The origins of xenochimera are presently unknown - xenochimera biomass
+has been found frozen in space, buried in asteroids, and in rare cases
+mistaken for fossils in xenoarchaeological digs, with at several
+examples of such a creature making planetfall in a meteorite - although
+it could be better described as a "seed" than a "creature" at that
+point. The majority has been found in asteroids that have been captured
+by stellar and planetary gravity wells - theoretically, more may be
+found in interstellar space, but due to the use of bluespace drives to
+cover such distances, any FTL-capable craft will simply bypass them.
+
+*Known* planets that have experienced landfall tend to be found in the
+Scutum-Centaurus Arm, and the clustering suggests an impact in the
+Virgo-Erigone system is possible. Asteroids, but no (presently known)
+planetary impacts have been traced further out towards the edges of the
+galaxy, implying a point of origin further towards the core. So far, no
+impacts or asteroids have been reported around Sol or the Orion Spur,
+where human traffic is heaviest. Limited human exploration has lead to
+no data being available on the Norma Arm or much further past
+Virgo-Erigone.
+
+The first known encounter with xenochimera biomass was the survey ship
+*Roanoake*, which suffered a meteoroid impact in 2382 while traversing
+the Scutum-Centaurus arm on a course 30 degrees from the Sol-A\* axis.
+This is visible on the map to the right as a red dot on the edge of the
+shaded area. The crew of the vessel apparently scuttled the ship after
+contracting an unknown contagion after the impact, and being far beyond
+settled space at the time, set the ship on a deorbital trajectory and
+ejected the black box rather than risk infecting would-be rescuers. In
+2437, a mining colony encountered a disease with similar symptoms, but
+the connection was not made until 2456 when a third site reported a
+similar contagion and samples could be compared, revealing that the same
+microorganisms were present in asteroids many thousands of light years
+apart. A survey was sent to the *Roanoake's* last known coordinates, and
+samples taken from comets in the area confirmed them to be the same
+disease, now titled Roanoake Syndrome. Laboratory testing shows that the
+organisms are capable of mimicking other microbes, but are too
+unpredictable to be useful in medical applications.
+
+It was not until 2514 that a macroorganism was discovered that appeared
+to be an asymptomatic carrier of Roanoake Syndrome - no other species
+like it could be found in the area, though it had hybrid characteristics
+of several indigenous life-forms. Further study revealed that every cell
+in its body was a Roanoake microbe mimicking the function of its
+counterpart cells - due to its hybrid nature, the creature was
+designated as "Xeno-Chimera 1". Within three years, the first
+artifically-created macroorganism was created in a lab, a hybrid of a
+white mouse and a cockroach. Such "Roanoake-hybrids" remained a
+xenobiological curiosity with few practical benefits due to the
+unpredictability of the results, though effective treatments were
+developed to screen for and prevent Roanoake Syndrome from becoming a
+threat.
+
+In 2542, the first positive identification was made of a Roanoake-Hybrid
+derived from a sapient species, showing signs of having crudely, but
+effectively, replicated the capability for intelligence. As a result of
+this discovery, the species is officially designated as "Xenochimera",
+after the name assigned to the first known example. Other xenochimera
+specimens are subsequently identified, some of which had been living
+scattered among frontier settlements for some time. In most cases they
+were known to be some sort of unusual lifeform but their exact nature or
+the connection was previously unknown.
+
+Present theories suggest a catastrophic impact of some kind that
+shattered their planet of origin and scattered the biosphere and topsoil
+into deep space - denser areas of the galaxy such as the core and major
+arms are considered likely to experience such impacts with greater
+frequency than those on the outer arms. As for the vast distances
+involved between the furthest discovered examples, it's projected that
+such an impact occurred relatively recently in astronomical terms -
+possibly younger than the Chicxulub impact - but certainly before
+present space-faring civilisations were around. However, it is unclear
+how any biomass could have survived such an impact itself, certainly one
+capable of imparting enough velocity to escape the gravity well of its
+star, never mind traverse such vast interstellar distances while
+remaining viable. Other hypotheses include the possibility of a close
+encounter with a rogue planet, possibly even a black hole, passing close
+enough to send it on a slingshot course out of orbit - such an encounter
+would certainly be capable of breaking the planet apart due to tidal
+forces. So far, no theory has come close to being definitively proven.
+
+The most recent discovery of xenochimera material was on the outskirts
+of the Virgo-Erigone system, where an asteroid struck the rear of a
+hauling ship as it was completing a jump. The asteroid was composed of
+flash-frozen topsoil-like material with roots and other plant-matter
+present along with fibrous, fungus-like threads of xenochimera cells,
+and geologically appears far too young to have drifted any kind of
+interstellar distance - bubbles of nitrogen-oxygen air and water were
+found throughout the asteroid, suggesting that it had only been in space
+for months rather than the multiple millennia it would take to drift
+from another star. The only clue as to how it got there was an
+exceptionally high Alden-Sarapova particle count, indicating heavy
+bluespace exposure.
+
+Common IC knowlege
+------------------
+
+Xenochimera are something of an unusual race, even by the standards of
+the various things that show up on station. Actually, that's probably an
+understatement. Xenochimera are *weird*. Most of the information on this
+page is not going to be known IC to characters who haven't had any
+interaction with xenochimera before.
+
+If your character is experienced in xenobiology, it's likely that
+they've read about them in journals. Likewise, medical staff may have
+read about some of the bizarre creatures they may have to treat, and
+security have briefing materials available about working with
+potentially feral crewmembers.
+
+### Service Staff
+
+Rumour has it that blending a good supply of meat (such as some steak)
+with a nervous system depressant (such as a shot of whisky) has been
+known to calm them down when they get into their little moods, even more
+so than may be expected from feeding them what effectively amounts to an
+entire pint of prime beef. The problem is getting them to hold still and
+drink it. Enterprising bartenders have nicknamed this concoction the
+Monster Tamer. Apparently it's popular with other carnivorous species
+too.
+
+### Xenobiologists
+
+If your character is a xenobiologist, most of the information in the
+above section can be researched or looked up in the various scientific
+journals that deal with weird alien life, and getting one to voluntarily
+sit still for experimentation is something that most biologists with a
+passion for their work would jump at. It should be noted that Nanotrasen
+(and indeed, most larger organisations in civilised space that have to
+care about PR) do not condone non-consensual biological or medical
+testing on sentient life. Officially.
+
+### Medical Staff
+
+Medical staff will have information available to them on any unusual
+species that might be brought into the sick bay. Fortunately,
+xenochimera being what they are, medical staff will often have an easier
+time keeping them alive than they do with less hardy lifeforms. Those
+with training in Virology will likely be aware of the medical term
+"Roanoake Syndrome" for a crewmember that has been infected with
+primordial chimera matter, but modern medical treatments are capable of
+bringing such an infection under control rather handily - simple
+spaceacillin treatment has proven effective at putting a Roanoake
+infection into remission.
+
+Xenochimera are generally identical to other biological crew when it
+comes to most medical treatment, with the exception that they are immune
+to infections. Low body temperatures put them into a torpid state,
+however, so if you resort to using the cryocells, don't expect much
+sense out of them afterwards.
+
+Xenochimera bodies cannot be grown artificially (such as by the sleeve
+pod) nor can their bodies be defibrillated, however they can regenerate
+themselves, even from "death", though they may need assistance. If a
+member of medical encounters a passed-out or apparently-deceased
+xenochimera, check the following:
+
+-   **If they're alive**, and in no danger of dying in the immediate
+    future, just leave them to it. Move them somewhere with a moppable
+    floor such as a patient room.
+-   **If they're dying**, attempt to stabilize. Once the patient is
+    stable, but doesn't seem to resume consciousness, see above.
+-   **If they're dead**, or die during the above, they will need
+    additional nutrition in order to revive. **Inject them with 15 units
+    of animal protein.** If this is unavailable, 30 units of nutriment
+    will suffice. Double the quantities if taken orally. Once the
+    patient has been supplied with appropriate nutrition, the process
+    can be accelerated further - 5 units of Clonexadone, and an equal
+    quantity of Monster Tamer, if allowed to mix in the bloodstream,
+    have been known to react and force a regenerative response.
+
+### Security
+
+Security staff that have been assigned to a station with xenochimera on
+the crew will have basic briefing materials available to them on how to
+handle the crewmember in question's feral tendencies.
+
+The most common contributing factors for a feral episode are hunger,
+pain, injury, and (rarely) overstimulation. One can be a contributing
+factor to the others - a starving chimera is less likely to retain its
+composure while hurt, for example. It should be noted that tasers and
+other stun weapons hurt *a lot*. The energy net mode of a "Hunter"
+capture gun, not so much. A syringe (or slab of meat) full of soporific
+won't hurt at all. That's not to say a taser won't drop them (it will),
+but you won't get much sense out of them until they've calmed down.
+
+Otherwise, the best way to neutralise any threat posed by a feral
+chimera is to remove whatever is agitating them in the first place. If
+they're injured then they're more likely to run off and hide somewhere,
+in which case they're only a threat if people provoke them. If they're
+hungry, leave some food around the place <s>or find a volunteer</s>. If
+someone's fed them a quadruple-espresso, you may be in for an
+*interesting time* until they stop vibrating.
+
+OOC lore (not IC knowledge)
+---------------------------
+
+What with their planet of origin not being known to NT (and quite
+probably no longer around - the most commonly accepted theory is that
+wherever they came from was involved in some sort of impact with another
+celestial body) there are a lot of details about the species that are
+simply... not known in-character. Not for certain. After all, the
+discovery that they could be sapient at all was a discovery made only a
+couple of decades ago, and that was just one example. Others have popped
+up in the meantime now people know to look for them, with the occasional
+example of one that far-flung colonists had known for years, who'd just
+been passed off as some sort of mutant or alien because it never occured
+to anyone that those hybrid-things that scientists play with might be
+capable of holding a conversation with you. Stories like that tended to
+be more common in seedier frontier colonies where nobody really
+questions why the visiting "free traders" have an arthropod as their
+first mate.
+
+### Myths and Rumours
+
+As with anything else, when people don't know about something, they're
+inclined to open their mouths and say stuff anyway. While the speed of
+information has finally managed to break the light barrier thanks to the
+development of bluespace drives, somehow misinformation always manages
+to find a whole new set of physical laws to break.
+
+#### A xenochimera could eat an entire planet's biosphere!
+
+Well, one thing to remember here is that planets are big. Like, really,
+really big. Huge, really. Even if one were inclined to do so, this is
+something that would take them a very, very long time to accomplish, on
+the order of millennia, and would run into very definite limits, such as
+simply reaching the physical limit of the size of body they can sustain.
+The inverse cube law still applies to xenochimera, and the bigger the
+body they attempt to grow, the more energy it would need to sustain
+itself. It would need even more energy to sustain a body that was mobile
+enough to hunt. In reality, a chimera of this size would simply starve
+and expire before it came even close to depleting a planet's biomass.
+
+The largest sustainable form that a xenochimera could adopt would likely
+be a life form on the order of something like a [Honey
+Fungus](wikipedia:Armillaria "wikilink") - not exactly the rampaging
+monster that people imagine. A xenochimera this size *might* reach the
+complexity to form rudimentary intelligence on its own without having to
+copy a brain, though the transmission delays resulting from its size
+would make it a very *slow* intelligence.
+
+#### They can come back from a single cell!
+
+Eh. A single cell, if fed, might be enough to grow a new one, but it
+won't be the same one. It'd be "them" in the sense that taking a biopsy
+of a human's leg and cloning the cells there would be "that human",
+except there's probably even less resemblance. If they're minced or
+incinerated or cremated or gibbed <s>or dissolved in acid and
+enzymes</s>, that's just as lethal to them as it is to anyone else, and
+if there isn't a brain left for them to recover their memories or
+personality from, it's better to think of anything that does happen to
+grow out of whatever few cells remain viable as a completely newborn
+creature. NT policy is to give them mindscans just like anyone else.
+
+#### They're all indigestible.
+
+Not... really. This isn't an *inherent* trait to them. Probably
+survivorship bias. While a lot of them have developed defences against
+this sort of threat, the ones that haven't either don't tend to last
+long in Virgo-Erigone, or are so high up the food chain that the subject
+never comes up.
+
+#### They can grow a new body in minutes, completely perfect!
+
+Growing a body properly takes ages. Days, if not weeks, in hibernation.
+It's the kind of thing they take time off to do, cocooned in their
+habitat like a pupating caterpillar. Xenochimera are typically very
+reclusive when it comes to this sort of process as it's a rather
+vulnerable state to be in, and requires gorging themselves on food
+beforehand. While they *can* grow a new body in a matter of minutes,
+these bodies are... far from perfect. Sure, they'll work in the short
+term, but as one might expect for something that they're throwing
+together in an emergency under an immense time-pressure, it'll be
+*flawed*. Maybe not in an immediately apparent way, but there will be
+mistakes. Usually these mistakes manifest in the form of what, for any
+other species, would be considered congenital defects. Malignant tumours
+tend to be another manifestation of these flaws, and while the chimera
+can keep them in check by cannibalising the cells as and when they pop
+up, they'll want to do the job properly as soon as it's safe to do so.
+
+Roleplaying a xenochimera
+-------------------------
+
+The short way of putting this is that typically, xenochimera are *odd*.
+Even the more lucid specimens have very strong instincts, even when
+they're *not* snapping and eating anything that moves. Not really voices
+in the back of their head, but definitely... urges. It takes willpower
+to keep these urges in check and pretend to be anything resembling a
+civilised member of society.
+
+The first thing to bear in mind is that they are what they eat.
+Literally. They eat stuff, then the bits of that stuff they like is
+replicated, forming a hybrid of their prey. And they are *not* a sapient
+species by default. In order to attain that lofty status, they had to
+get a complex nervous system from somewhere - this fact alone is likely
+to mean that a xenochimera is likely to have been shunned in most parts
+of the galaxy simply for existing, as the simple fact that they're
+walking on two legs and talking means at least *one* sentient creature
+has been part of their diet at some point in the past.
+
+That's not to say that a xenochimera can't be civilised, depending on
+their upbringing. One raised by the Skrell or Diona may well have been
+given some instruction in keeping their urges at bay, through meditation
+or other such mental discipline. It's entirely feasable for a chimera
+to, say, take full responsibility for the fact that their sentience was
+only possible with the consumption of another being, and to take steps
+to make amends for this. It's equally likely that they just won't care
+and figure it was just another meal, especially if they're hanging
+around the parts of the galaxy where people eating each other is seen as
+a pretty normal thing to be doing.
+
+They're not a great species to play if you're wanting to get into ERP.
+The concept is somewhat alien to them (and in some cases, deemed rather
+silly) - considering that they literally reproduce by killing something
+and spewing a bunch of flesh-eating microbes onto it, such niceties as
+"sex" are somewhat beyond them. They *may* have picked up and replicated
+some instincts from whatever creatures they're primarily composed of,
+however, or may have unwittingly incorporated a pleasure response to
+something or other into their brains, so it's not completely beyond
+them, it just doesn't serve much of a reproductive purpose.
+
+### Going Feral
+
+Xenochimera go feral when subjected to stress factors - notably: pain,
+jitteriness, and hunger. You'll get a big red warning when this happens,
+along with occasional nudge messages to remind you of your state. You'll
+twitch, and you'll hallucinate - this isn't so much a "bugs coming out
+of the walls" crazy, it's more of a "the station is a strange, alien
+place that your instincts can't fully comprehend" situation. Ideally,
+you'll want to retreat and hide somewhere, preferably somewhere dark. If
+the light level is low enough, the hallucinations will stop, but you
+won't start to come out of your feral state until *all* stress factors
+have been resolved. As a rule, it takes less pain/hunger to *keep* a
+xenochimera feral than it does to *make* them feral.
+
+In order to keep from interfering with scenes, these hallucinations will
+cease when you have someone on your screen, but you'll still get
+periodic nag messages.
+
+The main piece of advice from a roleplaying perspective is that when
+you're feral, *you are an animal*. Not some wildly aggressive,
+pain-ignoring killing machine that laughs at danger, just an animal.
+Usually a rather scared, possibly wounded, possibly hungry animal in a
+strange, unnatural place. You're going to want to hide. You're going to
+want to eat. You're going to be scared by loud noises and large crowds.
+Pain will definitely motivate you. Displays of aggression will provoke a
+fight-or-flight response, or displays of your own. Technology will seem
+strange and complicated and you're not likely to be doing anything fancy
+like operating computers or hacking doors, even guns will be more of a
+"see this in someone's hand and you'll sorta be aware that you're about
+to have a really bad time" thing than actually knowing what it is or how
+to use one.
+
+tl;dr - you're a wild animal. Act like one.
+
+### Resleeving and off-site cloning
+
+Their unusual biology is beyond the abilities of a body-printer, but a
+mind-scan is perfectly capable of recording them (even if their bodies
+do tend to spit out the implants as a foreign body). Fortunately, being
+as difficult as they are to actually kill off completely, as long as
+there's enough left of the body to scrape into a jar - including being
+completely blown to pieces or forced through an industrial shredder -
+what's left of them can be used to seed the growth of a new body
+suitable for re-implanting a mind-scan. This is, however, a lengthy
+process - if they get gibbed, they're not coming back in the same shift,
+or possibly even in the same week depending on how badly central screw
+it up. As an absolute last resort, the same off-site mind-scan
+facilities are available to xenochimera as to other crew in the event of
+total bodily destruction, even if CentCom forgot to keep a tissue sample
+on ice and they have to spend a few days as a synth rooting around in
+their apartment for an old skin or whatever. If there's still a corpse
+but they're not revived on-site, CentCom's current procedure is to toss
+the body into a bathtub of meat and let it sort itself out.
+
+Many xenochimera experience discomfort when sleeved into a
+non-xenochimera body, with the feeling that something of them is
+"missing" - even if they can achieve a certain clarity of thought that
+isn't possible with their more feral instincts constantly gnawing at
+them, it feels *wrong* somehow - psychiatrists have noted similarities
+to extreme cases of body dysmorphia.
+
+### Life Cycle and reproduction
+
+A younger chimera will typically grow from whatever biomass is
+available. They can start off from cast-offs of another chimera,
+infections of chimera cells in a living host, or occasionally,
+still-viable chimera cells will make contact with life-bearing planets
+(or vessels) via meteorite/asteroid impact. The latter appears to be the
+manner in which xenochimera reached this sector of the galaxy - to date,
+nobody has been able to determine a point of origin, or even estimate
+how long they've been drifting through interstellar space.
+
+Once grown into a mobile life form, the chimera will be driven by the
+singular instinct to survive and evolve, which will entail consuming
+whatever it can get its various limbs on. Whether they successfully
+capture and mimic a sentient neural structure or not, this early stage
+typically involves a flurry of rapid change and mutation as each new
+thing is incorporated into it - rather like the early fossil records on
+Earth, where evolution seemed to throw all sorts of crazy ideas out
+there to see what would work. Even sentient chimera are prone to
+experimenting with their bodies at this young stage, as they try out
+different traits and tweaks just to see what they like, though they
+typically end up stabilising once they've found a formula that works for
+them.
+
+The process of regrowing and mutating their bodies comes naturally to
+them, and will usually take place while the chimera is resting. Their
+body will simply cannibalise any parts that are no longer required, and
+grow new ones in its place. For drastic changes, or when severely
+damaged, they may hibernate while their entire body reverts into a base
+cellular state (save the outer skin) and regrows into the new form -
+rather like an earth caterpillar.
+
+While xenochimera are technically androgynous, those that have been
+raised by other cultures (typically, most sentient examples) may end up
+adopting a gender identity just for the sake of convenience and/or
+fitting in. While it serves no real biological purpose to them, there
+are examples of chimera mimicking sexual dimorphism, such as a "female"
+growing breasts purely for the sake of signalling their identity to
+their host species. Others simply do not bother, or consider themselves
+so different that gender is irrelevant: a typical human cannot always
+tell a tomcat from a queen at a distance, after all.
+
+Once a chimera colony is sufficiently mature, it may seek to split or
+reproduce. This is usually a simple matter of casting off some of its
+own biomass and letting it grow independently of its own body. Usually
+some feedstock is required. As with a lot of chimera biology, the
+process is rather unpleasant to most civilised species and will
+typically entail hunting and killing another creature then seeding the
+fresh cadaver with chimera cells (read: vomiting on it). Given time, the
+chimera cells will consume the donor mass and proceed to mutate into a
+new creature.
+
+If a chimera approaches someone in a seductive manner and propositions
+them with a chance of reproductive acts, therefore, it is recommended
+that they get a mind/body scan in medbay before accepting. Worth it?
+Well, we're not going to judge.
+
+Traits and Abilities
+--------------------
+
+Xenochimera have a few buttons in the "abilities" tab. Most of these are
+identical to those available as traits on custom species, but there are
+a couple of unique aspects:
+
+### Inherent traits
+
+Xenochimera really don't give a shit about things like "germs", given
+what they are. Cold temperatures will make them uncomfortable and slow,
+though will not deal any permanent damage. While low pressure
+environments will cause them some problems and possible organ damage
+while they're up and active, they are completely spaceworthy while
+hibernating.
+
+### Reconstitute Form
+
+This verb is found on the "Abilities" tab.
+
+Something of a last resort ability - when someone mentions their ability
+to "regenerate", this is probably what they're talking about. In short,
+the chimera goes into a state of hibernation, rebuilding an intact body
+for themselves from the ground up (except for their outer skin, which is
+left in place for them to grow a new body inside, then discarded).
+
+Using this ability will bring up a confirmation box to ask you whether
+you really want to go through with it, and tell you how long it will
+take. The time taken is dependent on your nutrition level - hungry
+characters take longer to regenerate, but the range is between 4 and 20
+real-life minutes. This is *considerably* slower than resleeving.
+
+Upon confirmation, the following will occur:
+
+-   Your character will be paralysed *immediately*. While you're not put
+    into the "sleep" state, this is only to avoid interfering in scenes.
+-   Any internal bleeding you might be suffering from will cease, just
+    so you won't die from it while regenerating.
+-   You will cease to require oxygen. A hibernating chimera is
+    effectively spaceworthy, but pretty much unable to act. Calling for
+    help and mashing the button to put yourself into stasis until help
+    arrives is a perfectly valid use of this ability.
+
+Once the timer has elapsed, you will receive a notification and the
+"hatch" verb will appear in your abilities panel. Press it to complete
+the process of regenerating.
+
+-   You'll burst out of your old skin with a horrible and obvious
+    message, splatting gore everywhere. Oh, and you'll drop your
+    clothing.
+-   Your character will be immediately healed of all injuries and
+    maladies. You'll even have your markings set in accordance with your
+    save file. Yes, you can adjust your character's appearance to an
+    extent, save the character slot, then regenerate to grow yourself a
+    new set of stripes or whatever.
+-   Your nutrition value will be cut in half.
+-   A cooldown of one hour will be applied to reconstituting yourself
+    again.
+
+Note: if you actually *die*, either before hitting the button or before
+you finish hatching, the process will abort. You'll need
+protein/nutriment in your system to continue - Injecting 15 units of
+protein is enough. Double the quantities for other nutriment sources,
+and double again for ingested rather than injected.
+
+If you press the button while dead, and get revived in the meantime
+somehow, you won't need to hatch. You'll just get up.

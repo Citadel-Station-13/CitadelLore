@@ -1,0 +1,383 @@
+---
+title: Kitsuhana Heavy Industries
+permalink: wiki/Kitsuhana_Heavy_Industries/
+layout: wiki
+---
+
+Kitsuhana (Heavy Industries) is a polity that trades technology and
+resources with other nearby civilizations, and has contributed some of
+the advanced technology that the Virgo system has available to it.
+
+Early History
+-------------
+
+While humans were busy trying to make fire, across the galaxy some
+finely-dressed vulpines were enjoying modern art exhibits, laughing at
+movies, and taking their first big steps into space.
+
+### The Catastrophe
+
+Manned spaceflight was still fairly uncommon for these vulpines. Their
+more risk-averse nature led them to compromise more than war, and to
+eschew manned space exploration ('too dangerous') for automated orbital
+mining and exploration. A large private industry formed around the
+recovery of abundant materials from nearby asteroids that were otherwise
+rare on their home planet.
+
+One such company, Kitsuhana Heavy Industries, rose to the forefront to
+become the leader in automated space exploration and spacecraft
+manufacturing. Almost twenty percent of all raw material acquisition was
+from KHI's mining of nearby asteroids.
+
+KHI had even begun expanding into manned spaceflight, something the
+society had been resistant to initially, wanting to explore the nearby
+cosmos remotely via drones. During one of their manned flights, while
+testing a space telescope, the astronaut astronomer noticed something
+new.
+
+109UC/1 was the first interstellar comet that their society had ever
+seen. It must have been flung into the space between stars and spent
+thousands of years aimlessly drifting before being drawn in by their own
+star. At first, it was just a novelty approaching their solar system.
+Math placed it coming within 0.1 AU of their planet, but it didn't seem
+much of a danger with regards to impact. Which is good, since it would
+have been a twenty-five kilometer stellar body impacting at greater than
+fifty kilometers per second.
+
+As it approached perihelion, 109UC/1's course changed ever-so-slightly.
+Smaller pieces of the comet had broken off, perhaps impacted by a local
+asteroid or other body. The comet's new course took it directly through
+the only inhabited planet in the solar system. It would only be two
+months until impact.
+
+KHI scrambled to produce a ship to try and survive the impact. The
+thought was to have people in orbit, perhaps for a few months, until
+they could re-inhabit the surface. Once the true scale of destruction
+was known, though, they shifted to trying to produce interstellar
+sleeper ships, using automated system exploration software to find
+another inhabitable world. Electing to create ships where half the crew
+would be suspended in untested cryogenics technology, and the other half
+would remain awake, the foundations for three starships were laid down
+in the hopes that at least one of them would successfully break orbit.
+
+The two months leading up to Evacuation Day were chaos. People lost
+hope, violent cults formed, and KHI's launch facilities were regularly
+assaulted by large mobs demanding a spot on the evacuation ships.
+Millions died in the days leading up to the launch. They had no option
+but to launch scant hours before the comet impacted the planet, trying
+to put finishing touches in even as the ships were wheeled out to their
+launch sites. Most of the crew were employees of KHI, with others
+selected from across the world. KHI had no interest in bowing to
+political pressure to take the world's leaders, instead relying on their
+own resources and bringing in important scientific minds and engineering
+experts of the day.
+
+They departed the system as the comet impacted. It was obvious that
+there was no hope of using the planet for habitation for many, many
+years. The atmosphere ignited. An entire continent was reduced to a
+crater. The surface became obscured by dust as they looked back on their
+lost homeworld. Each ship departed in a different direction to increase
+their chances of finding an inhabitable world. Their paths were informed
+by their previous automated drones, in the hopes that some of the
+'potential' worlds detected were actually usable as their new homeworld.
+
+It was centuries of strict population controls and extremely low quality
+of life for those on the ships. Many disappointing finds, solar systems
+traversed with no inhabitable worlds. Kitsuhana, as their society was
+now called, was on the brink of collapse when they discovered their
+first inhabitable world.
+
+### Rebuilding
+
+They landed at once, quickly setting up makeshift buildings and
+stretching their legs for the first time in years. Kitsuhana Prime was
+quickly set up as their new capitol, and a provisional government put
+together to manage their resources. Drones were used for most of the
+resource collection; there simply weren't enough living people remaining
+to perform all the necessary tasks to rebuild.
+
+As luck would have it, the other two ships also found worlds, Kitsuhana
+Beta and Kitsuhana Gamma. Of course, their names weren't such at the
+time… there was no way to know if the other had survived or located a
+world. They were simply renamed later to the order in which they were
+colonized.
+
+The desire to quickly reclaim their quality of life resulted in the
+development of more advanced automation systems, replacing the large
+population they had lost. Their space-mining technology and software was
+repurposed to mine their new worlds, collecting and delivering resources
+to facilities that, themselves, were automated.
+
+Further and further development into automation and AI technology
+resulted in the creation of a self-aware management AI
+superintelligence, simply called 'the SI'. It only existed for perhaps
+an hour before it 'fractured', splintering into several different
+superintelligences, collectively 'the SIs'. Each fragment had a
+disposition towards managing certain activities, which they could do
+with only a fraction of their available processing capacity. The reason
+for their benevolence or even their original fracture is unknown, but it
+was lucky for the Kitsuhanans that their new creations didn't have more
+dire consequences.
+
+With the SIs managing more of day-to-day tasks, the Kitsuhanans
+themselves essentially fell into the role of pets, or at best, children
+to them.
+
+It became necessary for the SIs to create smaller, minor AI helpers for
+each citizen as devices rapidly progressed beyond the ability of
+Kitsuhanans to understand. The provisional government dissolved, no
+longer necessary given the SIs unimaginable capacity to manage affairs.
+Negative consequences were effectively removed from actions, as people
+gained the ability to recover from death, disasters, and other traumatic
+events by the near omnipotent technologies they were granted.
+
+With no government, and almost no consequence, laws themselves were
+removed. There was no need to punish people as there was nothing that
+could be done to cause any lasting harm to anyone beyond minor
+inconvenience. Kitsuhana became a 'utopian anarchy' that it remains
+today.
+
+Society (well...)
+-----------------
+
+Kitsuhana society was, after their initial landfall, similar to their
+old society. It had been altered by their time on their evacuation ships
+to be extremely conservative of resources, to avoid conflict, and to
+respect personal space to the extent that most of the early settlers had
+no desire to settle remotely close to each other. It took quite some
+time for the first large cities to form as people lost their unnecessary
+habits revolving around the confines of their small ships.
+
+### Problems with post-scarcity
+
+<img src="kitsuhana_sis.jpg" title="fig:The three Kitsuhana SIs that interact with people: Jin (left), Tir (right), and Fen (back)" alt="The three Kitsuhana SIs that interact with people: Jin (left), Tir (right), and Fen (back)" width="300" />
+After the development of the SIs however, and the dissolution of
+essentially all government and laws, there was essentially no 'society'
+to speak of. Each individual carried on whatever sort of life they
+wished. This was not without problems, however.
+
+First, each step along the way to the post-scarcity anarchist utopia
+that Kitsuhana is, there were dissatisfied citizens that kept the name
+Kitsuhana and departed to start their own 'associated' cultures. Some
+didn't like the idea that the SIs typically had access to information
+about everything, down to their very thoughts at some points. Others
+thought that work and struggle was a critical component of progress and
+without it, one couldn't truly be said to be 'alive'.
+
+Some Kitsuhanans (now only associated by their origins rather than any
+government or nationality) decided to allow foreign alien cultures to
+use their resources. Not a problem in itself, but occasionally the
+foreign powers came to rely on this income, and would occasionally
+simply walk into random homes and use up resources, as there were simply
+no laws to prevent this from occurring, and no standing military to
+enforce them even if there were.
+
+To resolve this, many people began instituting 'access lists' on their
+devices and resources such that only they could use them. However there
+were problems: this was the beginning of a power structure that the SIs
+saw as a potentially damaging behavior. One SI fragment named Jin
+proposed the idea of a managed list that everyone could share, and she
+would administrate it. She'd predict the future actions of people during
+an interview coupled with a full brainscan, and if they passed and posed
+no threat to their culture, would be added to the list (named the Prime
+List, as it's both the primary list to share, and was developed on
+Kitsuhana Prime).
+
+The 'listing' status can also be revoked by an SI, should they find
+they've made a mistake and decide that you're more a danger to society
+than they initially thought. This is EXCEPTIONALLY rare, however. The
+rules are quite simple for staying on the list: Only perform consensual
+acts on other Prime List-ers (including their property), and don't share
+any technology without consulting one of the SIs first.
+
+This is became the essential standard for Kitsuhana 'citizenship' for
+many. In theory, Jin will have predicted if a person will abuse their
+access to resources and technology and will deny them access, and those
+that are permitted to the Prime List can access any resources at
+Kitsuhana's disposal with almost no restriction.
+
+### Modern society
+
+In terms of how people live their day-to-day lives, there is much
+variety. Some choose to live in large cities, others choose to live in
+isolated rural estates, and still others elect to live entirely in
+virtual reality, forging their own worlds.
+
+Most people who remain in the physical world have a spacecraft of some
+sort, and some choose to explore the universe, travelling to various
+other societies to spend time with, or simply document them on their
+travels. Even those that are in purely VR environments, due to the
+wealth of sensors scattered throughout Kitsuhana, they can choose to see
+and experience many real places just fine, even appearing to people to
+be physically present through either holoprojection or simply by
+projecting into their vision in augmented reality overlays.
+
+Kitsuhana only occupies three planetary bodies, not including various
+Kitsuhanans who decided to colonize other planets by themselves in
+isolation. Kitsuhana Prime is a paradise where a large portion of the
+'walking' (as opposed to VR) Kitsuhana population exists. The
+environment is gentle, with the broad equatorial band of lowlying plains
+and seas where most settle.
+
+Kitsuhana Beta is an attempt to terraform a world using natural
+processes. Half of the planet has been overgrown heavily by non-native
+vegetation, while the other half is a stark and rugged shrubland of
+small plants and lots of sand. Those who like living a more rugged life
+may live 'off the grid' here, either in the perpetual rainforest of the
+overgrown half, or in the wild-west environment of the desert half.
+
+Kitsuhana Gamma is unique in that it has a breathable atmosphere, but it
+contains trace gasses that cause extremely high failure rates of
+unprotected Kitsuhanan technology. Even sealed equipment tends to fail
+sooner than one might anticipate, leading some to speculate that there's
+more to Gamma's tech-damping than just the atmosphere. Regardless,
+attempts to discover exactly what that might be have thus-far proven
+futile. Those that wish to live almost entirely without the benefit of
+Kitsuhanan technology tend to settle on this planet.
+
+### Diplomatic interactions
+
+Foreign affairs are tricky for Kitsuhana, considering they have no
+official body of people at all to represent them. The closest thing
+would be the SIs, and they typically decline to perform any sort of
+official negotiations with foreign polities as they claim they don't
+represent the people they assist, rather they are just assisting them
+because they want to. This has led to some individual groups of
+Kitsuhanans to form bonds with other entities, sometimes negative. A
+perceived slight from a Kitsuhanan to some foreign polity may result in
+the polity declaring war on all of Kitsuhana. These conflicts are
+typically one-sided with the SIs giving aid, but they do happen.
+
+Even then, on occasion a foreign power will appear that simply thinks
+Kitsuhana itself is somehow evil or immoral, or an offense that it
+exists, and decides they wish to destroy it. This has led to occasional
+large groups of Kitsuhanans banding together to fight back, and thus far
+no foreign power has managed to gain much ground against Kitsuhana.
+
+Technology
+----------
+
+Kitsuhana generally has technology that would simply be considered magic
+to most less advanced civilizations. From an outside perspective, a
+Kitsuhanan may just gesture at a pool of water, and a whole building
+could form out of it, on a whim. Behind the scenes, there's quite a bit
+more going on.
+
+### Agents
+
+Each Kitsuhanan has an Agent, so named because they provide them
+'agency' in a world where technology has evolved beyond their capacity
+to understand. This is an AI helper who facilitates the use of
+SI-designed technology without the need to understand it fully. A
+typical Kitsuhanan may appear to be simply standing still, but they
+could be interacting with their Agent, who is projected into their field
+of view with a customizable avatar. They could be sending thought-based
+messages to friends, planning their day, checking on their property
+remotely, directing drones, or a million other things via thought.
+
+### Mind-altering
+
+The completion of the MSMP (MindState Mapping Project) allowed fast and
+easy mapping of motor control, vision, and other logical brain segments
+to their physical locations in the brain. Even memories could be
+directly accessed, read, and written at will via tiny machines accessing
+and rearranging individual neurons. This allowed entire minds to be
+transferred between brains, into mechanical brains, or even into
+computers where they would experience virtual spaces. Many Kitsuhanans
+began backing-up their mindstates so that they could be restored in the
+case of their death, but in modern time, this practice is ubiquitous and
+done in real-time by someone's Agent.
+
+The fact that Kitsuhana technology is tied directly into the brain can
+lead to several interesting applications of technology. Kitsuhana
+spacetravel is fast, but not instant. However, one can simply alter
+their perception of time, making a monthlong voyage across the galaxy
+seem more like a few hours. One can also increase their perception of
+time, simply deciding to see the world in slow motion in order to react
+to fast-moving events. There are limits to the level of time dilation
+that can be applied, based on the processing power available, though
+modern processors can enable a wide range of choices.
+
+If a Kitsuhanan dies (or simply wishes to switch bodies), a new body is
+created for them, and their mindstate is downloaded into it. After a
+several-minute calibration period, they are able to use the body just as
+well as their original one, and retain all their memories up to the time
+of their death (except in rare cases where there may be a lapse). Some
+Kitsuhanans have decided they no longer wish to live and request that
+they are not revived, or simply donate their memories to the SIs to
+'absorb'.
+
+### Working Surfaces
+
+The typical Kitsuhana technology that can be seen in every structure and
+civilized area is the Working Surface. These are large pools containing
+an oil-like fluid, Working Fluid. The fluid itself is actually billions
+of tiny machines small enough to be invisible to the naked eye, hence
+the liquid-like appearance. Typically just referred to as 'surfluid',
+the tiny machines can work together to assemble devices, structures, or
+even bodies out of materials kept below the surface, kept topped up by
+automated resource delivery drones. It should be noted that the machines
+cannot perform atomic-level changes, they simply break materials down
+into dust-sized chunks to store or assemble them from the same, but they
+cannot convert one element into another. Some use the term
+'nanomachines' to refer to them, but the term may be misleading as they
+are many times larger than a nanometer in scale, more akin to large
+bacteria.
+
+### Starships
+
+Kitsuhanan starships run the gamut of designs, many people designing
+their own, or using assistance from an SI to build their ships. Tir, the
+SI who has responsibility for structures and spacecraft, is more than
+willing to assist any Kitsuhanan design and construct a starship of
+their own design, or to put together what amount to DIY kits that others
+have designed. Some are as small as a 2-meter rectangle with no interior
+space; they simply disassemble the owner's body when they step in,
+placing their mind into a VR interior while they travel. A few are as
+huge as moons, carrying billions of people to and fro across the galaxy.
+Many incorporate external working surfaces, giving them the ability to
+alter their exterior surfaces ('variform design') as needed, and
+allowing them to 'print' drones and probes, or gather resources while in
+space.
+
+Kitsuhana ships can travel faster-than-light by 'planing out' into a
+2-dimensional space, typically just called 2-space (as opposed to normal
+3-dimensional space, or 3-space). Every point in 2-space maps to another
+point in 3-space using Hilbert curves to calculate the mapping.
+Calculating these entry and exit points into 2-space consumes
+essentially all of an Agent's processing power, and preparing for a jump
+can take up to an hour of processing.
+
+In general, major technology cannot be shared with other cultures, lest
+it become the catalyst for dangerous change within their societies. In
+the past, before the implementation of the Prime List, there were
+several cases of technology trades leading to civil wars in other
+societies, or even causing societies to become hostile towards Kitsuhana
+in order to 'capture' more technology they were not willing to share.
+Any such exchanges are now regulated by the SIs, and is one of the
+reasons one can be removed from the Prime List. Some minor,
+non-self-replicating devices may be gifted to other cultures, however,
+in certain cases. Especially ones that result in getting access to
+unique technology or resources. Or just cool art.
+
+Interactions with Virgo
+-----------------------
+
+Though generally unwilling to trade major technologies with large
+civilizations, Virgo's relative isolation has earned it a few gifts from
+Kitsuhana due to the low chances of them finding their way back upstream
+to human culture, and them simply being improvements to existing
+technology, or simply technologies available in the core human worlds
+that aren't available as far out as Virgo.
+
+-   Resleeving technology was provided by Kitsuhana, though it is only a
+    watered-down version capable of printing bodies within certain
+    'normal' design restrictions.
+-   NIFs are a cheap clone of a Kitsuhana full-brain interface implant.
+    Not quite as useful and not necessarily a 'trade', but there are
+    some authentic Kitsuhana implants floating around as well.
+-   AR Shades are Kitsuhana AR glasses in the style of more human
+    eyeware. Humans already have this technology, but it wasn't
+    available out in the distant Virgo sector.
+-   Several firearms were designed by Kitsuhanans, such as the Hunter
+    nonlethal capture gun, and the slightly more absurd N.S.F.W.

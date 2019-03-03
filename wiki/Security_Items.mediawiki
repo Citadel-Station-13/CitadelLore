@@ -1,0 +1,173 @@
+{{outdated}}
+<div class='smallpic'>
+==Items==
+
+===[[File:PFlash.gif|64px]]Portable Flash===
+A portable flasher is an effective device that when secured to the ground, will automatically emit a bright light, stunning anyone who runs past and is not wearing a form of protection against bright lights.
+To prepare a portable flasher, first bring it to the desired area, then use a wrench to secure the bolts to the ground. Once you have done that, the portable flasher will draw power from the local APC.
+A secured portable flasher will emit a bright flash when it's motion sensors detect someone moving past at running speeds.
+If you are not wearing a form of bright light eye protection (such as sunglasses or a welding helmet) you will become momentarily stunned if you are close to the portable flasher when it goes off.
+
+===[[File:Deployable_Barrier.gif|64px]]Deployable Barrier===
+A deployable barrier that can be used to block an entrance or as a barricade against armed forces during red alerts.
+
+===[[File:Recharger.gif|64px]]Recharger===
+A conventional energy device recharger is a useful device which can recharge any energy based device should it run out of power. As a member of security you will most likely be using these to recharge your energy guns and tasers.
+The recharge time of your energy based devices will vary depending on their maximum capacity.
+
+===[[File:Implantbox.png|64px]]Tracking Implant===
+Box full of tracking utensils.
+
+===[[File:Implantbox.png|64px]]Chemical Implant===
+Box of stuff used to implant chemicals.
+
+===[[File:Handcuffsbox.png|64px]][[File:Handcuffs.png|50px]]Handcuffs=== 
+Throw a pair in your pocket, more can be dispensed from the SecTech. It prevents doors from opening, items being held, and escape if the [[crew|person]] being restrained is being pulled. A restraint for the hands, in order to restrain a suspect simply pull him while he is handcuffed. Be careful not to bump into anybody else! It may loosen the prisoner from your grip, allowing him to run free.
+
+To handcuff a perp, you must grab the suspect in an aggressive grab before being able to cuff him/her. Do so by setting to grab intent and grabbing him with an empty hand.
+
+A [[Syndicate_Items#Freedom Implant|freedom implant]] can remove them instantly, but everyone else has to struggle with them for two or more minutes in a private area to get them off without outside help. Can be combined with orange prison [[shoes]] to make foot shackles, which force a person to always walk.
+
+Keep in mind a prisoner is capable of removing handcuffs in roughly two minutes. If you see them attempt this and they are not yet secured in the brig it is standard protocol to use a hand-held flash to briefly incapacitate them. Simply warn them that this is resisting arrest. Only if they attempt to remove the handcuffs a second time should you penalize them for it.
+
+===[[File:SpaceLaw.png|64px]] Corporate Regulations === 
+An official copy of [[Corporate Regulations]] is made available to all security personnel. Ensure that you understand it and don't be afraid to literally throw the book at anyone who contests it.
+
+===[[File:Flash.gif|64px]]Flash=== 
+A versatile tool! Flashes are a small device capable of producing an extremely bright light, that is capable of blinding someone for approximately one second if they are immediately adjacent to you. This light will overcome visual senses, causing disorientation while the brain tries to process or block the sudden input overload and fleeting pain or discomfort. If you target them specifically with the flash you will not only blind them, but knock them down with enough time to handcuff them. This is an acceptable alternative to a [[stun baton]] in a pinch. However, it will not work against anybody wearing protective eye coverings such as [[Welding Helmets]] or [[Sunglasses]] (note: this does not apply to [[Borgs]], strangely. Overexposure can cause blindness, and the flash's bulb is prone to burning out. Despite having Flashes implanted as occular devices, hand held flashes can be used to stun a rogue [[cyborg]]). Carry it in your pocket. Distributed by SecTech vendors.
+
+Some [[Game_Modes#Revolution|revolutionary]] leaders can use flashes to brainwash other members of the crew if they are not wearing protective gear.
+
+===[[File:Pepperspray.png|64px]]Pepperspray=== 
+Just a pepperspray, used to temporarily blind a criminal. Best used instead of a stun baton when your opponent doesn't have any eye protection, because unlike a stun baton, even if they disarm you, they can't use it against you as long as you're wearing your own Security HUD glasses. Aim for the eyes.
+
+===[[File:Hailer.png|64px]]Hailer===
+Device used to tell people to stop, without having to shout it yourself.
+
+===[[File:RiotS.png|64px]][[File:Metal_Riot_Shield.png|64px]]Riot Shield===
+Protects against melee attack from the direction you're facing. Also makes a decent melee weapon.
+
+===[[File:Scanner.png|64px]]Forensic Scanner===
+Used for identifying blood and finger prints on any object. Wearing [[gloves]] prevents finger prints being left behind. It has two modes, one in which it just scans and another where it will print out a card outlining the results of that scan as well. The [[detective]] starts with one of these and has a spare in his locker.
+
+===[[File: Tape Recorder.gif|64px]]Tape Recorder===
+When activated, it records all spoken conversations around a specific area. It is able to print out transcripts of the recordings on-demand. It spawns in various locations around the station, including (but not limited to) the [[Library]] and [[Brig]]. 
+
+===[[File:Box.png|64px]] [[File:Evidence_Bag.png|64px]]Evidence Bag===
+Bags used to hold criminal evidence preserving the DNA and fingerprints on it.
+
+== Weapons ==
+
+===[[File:StunBaton.gif|64px]]Stun Baton=== 
+Security's bread and butter. Stun batons have two modes: on and off. While on, the baton delivers 'HALLOSS' damage, and the first hit will cause the target to slow down, while  the second hit will cause him to lose consciousness, similar to taser hits.
+
+To recharge a stun baton, take out its battery using a screwdriver, and recharge it at a cell recharger, before sticking the battery back into the baton.
+
+ '''Note:'''Stunning someone on harm intent will cause him/her to bleed, giving him brute damage. Be a professional officer and do not use the baton on harm intent.
+
+===[[File:Telebaton.png|64px]]Telescopic Baton===
+A baton used by the head of security and the Captain. Extremely harmful. Not to be used if you still want the suspect to be able to talk.
+
+===[[File:Tasernew.png|64px]]Taser=== 
+This is a ranged alternative to the [[stun baton]], however it only has five charges. Maintain both this at a [[recharger port]]. 
+
+Like the baton, you should wear this on your belt and carry the other in your backpack. The taser fires an incandescent ball of energy at low velocity, the projectile is stopped by windows, grills, walls, and various other obstructions. These bolts cause temporary paralysis because of the convulsions and speech will be painfully slurred.
+
+Clicking on someone adjacent to you on any non-harm intent will cause you to stun them much like a [[stun baton]], except for a much longer time.
+
+Melee use of this weapon is inappropriate except for the most extreme cases [[Space_law#Major_Crimes|(see Corporate Regulations section Dangerous Criminals)]]. When aiming for the head, tazers are exceptional melee weapons even when out of charge, very often knocking the opponent unconscious with a single blow.
+
+===[[File:egun.gif]]Energy Gun===
+Distributed by the [[Warden]]. The combination of a [[tazer]] and a [[laser gun]], just click to alternate between a killing laser and a stunning tazer; they default to stun. More shots will be fired if exclusively used in kill mode than exclusively used in stun mode before its energy is depleted, but it can be recharged. Like tasers, energy guns make exceptional melee weapons due to their uncanny ability to knock people unconscious when aimed for the head. The [[Captain]], [[head of Personnel]], and [[Head of Security]] all have energy guns in their quarters. More are stored in the armoury and can be ordered in a [[Supply_crates#SECURITY|secure crate]] by the [[quartermaster]]s. They are to be distributed only under the [[Space_law#Major_Crimes|most extreme circumstances]].
+
+===[[File:Laser.png|64px]]Laser Gun=== 
+Distributed by the [[Warden]]- It is a more lethal version of the [[energy gun]] and lacks a non-lethal function. Usually distributed along with [[Riot Shields]] in extreme cases. It is very heavy, useful for the beating up of people. A ranged energy weapon that shoots lasers, which deal a great deal of brute damage. The bolts fire through glass and grills. These also can be ordered by the [[quartermaster]]s in a [[Supply_crates#SECURITY|secure weapons crate]], which itself can only able to be opened by a [[security]] officer or military head of staff, It can be recharged.
+
+===[[File:Laser.png|64px]] Practice Laser Gun===
+A modified version of the laser gun, this one fires less concentrated energy bolts designed for target practice. It is found and used at the Firing Range. 
+
+===[[File:Ion_Rifle.png|64px]]Ion Rifle===
+A man portable anti-armor weapon designed to disable mechanical threats
+
+===[[File:Combat_Shotgun.png|64px]]Combat Shotgun===
+Available only if ordered through the [[Supply_Crates|Supply Department]] or through an armory random spawn. Ammo available in the [[Autolathe]] Six types of shells can be used:
+* [[File:Slshell.png|64px]] Slug Shell- Very Harmful. Standard shotgun shell.
+* [[File:Shotgun_shell_red.png|64px]] Pellet Shell - very harmful at close range. Less harmful than standard at longer ranges. More shrapnel embedding.
+* [[File:Shotgun_shell_green.png|64px]] Beanbag Shell - non-lethal shell, also used by the bartender.
+* [[File:Shotgun_shell_yellow.png|64px]] Flash Shell - Emits a white burst of light.
+* [[File:Shotgun_shell_white.png|64px]] Blank Shell - Blank Shell - pretty much harmless.
+* [[File:Stunshell.png|64px]] Stun Shell - used to stun people.
+
+===[[File:Revolver.png|64px]]Detective Revolver===
+A .38 caliber revolver loaded with rubber bullets.
+
+===[[File:Speed_loader_.38.png|64px]]Speedloader===
+A device used to quickly reload a revolver.
+
+===[[File:Flashbang_box.png|64px]][[File:Flashbang.gif|64px]]Flashbang=== 
+This is an advanced piece of equipment because it is so difficult to use. Also distributed by SecTech vendors or the Warden. In room breaches where multiple or armed personnel are expected, you may use a flashbrang to "breach' the room. Select it, press the button, and throw it immediately. It will blind everyone nearby for a short period of time and deafen them for a longer period of time. If all goes well, they will be on the ground, having dropped their weapons, and awaiting your handcuffs.
+  S.O.P If you are in a situation that requires flashbangs. CALL for backup.
+
+===[[File:Ntmk58.png|64px]]NT Mark 58 Pistol===
+Ordered through [[Supply_Crates|Cargo]] or found in the armory; this pistol is the pinnacle of sidearm technology, using .45 calibre bullets. (Found in the [[Autolathe]]. The availability of lethal and non-lethal shells makes this a well rounded weapon for all scenarios.
+
+===[[File:Wt550.png|64px]]WT-550 Automatic Rifle===
+A machine gun that uses top-mounted 9mm magazines; it can be ordered through [[Supply_Crates|Cargo]] or found in the armory. Used in emergencies where heavy, yet reliable firepower is needed; and the need for an intact suspect is paramount. The availability of lethal and non-lethal magazines in the [[Autolathe]] for this gun also vary its uses.
+
+===[[File:Z8.png|64px]]Z8 Bulldog===
+An extremely deadly weapon; orderable through [[Supply_Crates|cargo]] or found in the armory, only whip this baby out when shit hit the fan so bad; you want to shred anything that stands in your way. Uses the anti-armor 5.56 magazines, found in a hacked [[Autolathe]].
+
+== Wearable ==
+
+===[[File:Helmet.png|64px]]Helmet===
+A component of [[roboticist#securitrons|securitrons]] and a distinguishing feature of [[security Officer|security officer]]s. They protect against damage to the head very well. Some come with a siren. They can be found in security [[locker]]s or hacked [[Vending machine#Security vending machine|security vending machines]]. The Warden will also have a few spare in the back room.
+
+===[[File:Riot_Helmet.png|64px]]Riot Helmet===
+It's a helmet specifically designed to protect against close range attacks.
+
+===[[File:NTbadge_Armor.png|64px]][[File:Detective_Armor.png|64px]][[File:armor.png|64px]]Body Armor===
+There's little to be said here! Wear it! It is very important to keeping you safe. You can find replacements in lockers found in the [[main office]] as well as within the arrival checkpoint. If these supplies have been exhausted, the [[Warden]] can provide you with some. Its for the Protection of one's self in around the chest from brute damage, but not temperature extremes.If you have an open slot in your exo-suit, then equip it, it wont slow you down.
+
+===[[File:Riot_Suit.png|64px]]Riot Suit===
+A suit of armor with heavy padding to protect against melee attacks. Looks like it might impair movement.
+
+===[[File:Ablative_Armor_Vest.png|64px]]Ablative Armor===
+A vest that excels in protecting the wearer against energy projectiles.
+
+===[[File:BulletProof_Vest.png|64px]]Bulletproof Vest===
+A vest that excels in protecting the wearer against high-velocity solid projectiles.
+
+===[[File:Detective_Vest.png|64px]]Detective Vest===
+A slighly armoured vest, used by the Detective.
+
+===[[File:HoS_coat.png|64px]]Head of Security Armored Trenchcoat===
+An armoured trenchcoat, property of the Head of Security
+
+===[[File:Holster.png|64px]]Holster===
+A holster put on a suit that can hold a gun
+
+===[[File:Webbing_Vest.png|64px]]Webbing Vest===
+Robust black synthcotton vest with lots of pockets to hold whatever you need, but cannot hold in hands.
+
+===[[File:Security_Hardsuit.png|64px]]Security Voidsuit===
+A Hardsuit for Security forces to go in space.
+
+===[[File:Security_Hardsuit_Helmet.png|64px]]Security Voidsuit Helmet===
+Used with the harsuit to go in space.
+
+===[[File:JOrshoe.png|64px]]Shackles=== 
+These are used well in conjunction with the handcuffs. Simply use a pair of cuffs on a pair of orange shoes found in the brig lockers. Remove your suspect's footwear and replace them with the shackles and they will no longer be able to run free if bumped from your grasp. This is a very useful tool.
+  If you do use the shackles, it is your obligation as an officer to carry the suspects footwear and distribute them to him upon release.
+
+===[[File:Secbelt.png|64px]]Security Belt=== 
+The standard belt for security officers. Can hold a taser, [[stun baton]], flashbang, flash, pepperspray, handcuffs.
+
+=== [[File:Sunglasses.png|64px]]Sunglasses === 
+Sunglasses are found in [[security]] and [[maintenance]]. They protect against [[flashes]] of all kinds, but only mildy against [[Welding Tool]]s when using them. While wearing sunglasses, it's very hard to be [[screwdriver|stabbed]] [[combat|in the eyes]].
+
+=== [[File:SecHud.png|64px]]HUDSunglasses === 
+These function exactly the same at protecting your eyes, but allow you to see the [[Security HUD|jobs and wanted level]] of a person at a glance, as well as any tracking or loyalty implants.
+
+===[[File:Earmuffs.png|64px]]Earmuffs===
+Protects your hearing from loud noises, and quiet ones as well.
+</div>

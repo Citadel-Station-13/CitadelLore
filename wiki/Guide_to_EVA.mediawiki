@@ -1,0 +1,53 @@
+EVA is an often used phrase that means '''Extravehicular Activity''', which more often than not refers to going out into space, or '''spacewalking''', but mostly just involves going out on the surface of Virgo 3B. EVA may also refer to Surface EVA on Surface 1 or EVA Equipment on Asteroid 2.
+
+=Space Suits and Equipment=
+In order to not succumb to vacuum and have your blood boil out of your pores, you must wear protective equipment. Below are the different types of equipment available.
+
+==[[File:Softsuit.png|64px]]Softsuits==
+Softsuits are your most basic protective equipment against vacuum and space. They are commonly found in the blue emergency oxygen closets placed around the station. The suit and helmet are separate, but also quite fragile and susceptible to puncturing and tearing, which would render the suit useless against space. They are also clunky, encumbering, and colored very brightly.
+
+==[[File:VMVoidsuit.png|64px]]Voidsuits==
+<small>See also: [[Voidsuit]]s</small>
+
+Voidsuits are much more advanced over softsuits, and provide a slightly better range of options. The only downside is that they must be refit in a [[Guide to EVA#Suit_Cycler|suit cycler]] to fit your species/anatomy if you are not human. Voidsuits, however, contain a suit slot for oxygen tanks so that you don't have to place one on your back. On top of this, voidsuits can also be assembled and compacted down to a single item, which will be covered below. Despite what some may look like, voidsuits are ''not'' suits of armor, and can still be damaged beyond optimal operation. Punctures must be repaired with a welder, and scorches require steel sheets.
+
+===Assembly===
+Assembly is done by taking a voidsuit component and clicking on the main suit with it. This will attach it to the suit, and will deploy once the main suit is equipped ''as long as nothing is in the way,'' shoes being an exception for magboots. To remove components, use a screwdriver on the suit. Assembly is optional but very much encouraged.
+* [[File:Medical_Hardsuit_Helmet.png|64px]]'''Voidsuit helmet:''' Occupies helmet slot. Removes the need for an oxygen mask as long as it's worn.
+* [[File:Medical_Hardsuit.png|64px]]'''Voidsuit:''' Occupies exo slot.
+* [[File:Mashoe.png|64px]]'''Magboots:''' Occupies shoe slot. Will fit over any shoes you're already wearing.
+* [[File:Oxygen_tank.png|64px]]'''Oxygen tank:''' Occupies suit storage slot. Provides breathable oxygen. Can be ejected by right clicking the suit.<br>'''OR'''<br>
+* [[File:Suit_cooler.png|64px]]'''Suit cooler:''' Occupies suit storage slot. Cools the internal atmosphere of the suit for synthetic users. Can be ejected by right clicking the suit.
+
+==[[File:Evasuit.png|64px]]Hardsuits==
+<small>See also: [[Hardsuit|Hardsuit Operation]]</small>
+
+Hardsuits are perhaps the most advanced pieces of EVA equipment supplied by Nanotrasen. They resemble control modules that fit on your back to deploy and manage components and modules at the press of a button. Refitting hardsuits is unnecessary (and impossible) because the hardsuit will conform to a user's anatomy as soon as it deploys. They also contain a detachable oxygen tank, power cell, jetpack, heatsink, and bone support. They are much sturdier than voidsuits and may even work as armor, depending on the control module you're wearing. Hardsuits have more utility over voidsuits in that they contain modules that can perform a variety of tasks, depending on the control module you're wearing. The downsides of hardsuits, however, are that they inflict a speed penalty (some of which can be negated by keeping the chestpiece undeployed, or picking the Hardy trait) and they are uncommon, only eight in total belonging to the station.
+
+==[[File:Jetpack_black.gif|64px]]Jetpacks==
+Unless you're using a hardsuit, jetpacks are necessary to navigate environments without gravity, otherwise you will drift perpetually unless another force acts on your character, such as throwing or coming into contact with an object. Activating a jetpack will allow you to move around quickly, and activating stabilization (at the cost of more propellant) will allow for more precise movement. Jetpacks must be placed on your back to work, and '''should not be used as internals''' if the paint on the jetpack is black. If you are not granted the luxury of using a jetpack, a fire extinguisher will work as well.
+
+=[[File:Suit_cycler.png|64px]]Suit Cycler=
+This large stationary machine refits voidsuits to a race's anatomy, particularly ones that are not human. There are different cyclers for different department voidsuits, all locked to prevent other departments from obtaining or impersonating another department's color. As long as you have access, you are able to lock and unlock a suit cycler.
+
+==Operation==
+A small window of options should appear once the cycler is unlocked. Options range from recoloring and refitting suits to sterilizing the voidsuit in UV light. To refit a suit, place the voidsuit and helmet inside the cycler, select the type of suit (which will just change the sprite, the suit will still have the same stats as before), and select your race. Click '''Begin Customization Routine''' and wait for around ten seconds until the cycler pings. Remove the voidsuit and helmet and ensure that they fit on your character.
+
+=Exiting the Station=
+[[File:Airlock prompt.png|frame|Airlock panel. Controls airlock doors and atmosphere control.]]
+Once your have the gear you need, you're ready to take on the elements... or lack thereof. Most of the time, exiting the station is done by cycling through an airlock, which will depressurize the room you're in momentarily and open to the outside. If the airlock has not been operated before or it is not cycled to your side of it, you must press the button on your side of the door to open it. From there, click the control panel and select '''Cycle to Exterior.''' ''DO NOT'' click any buttons that will force the doors, otherwise the whole room will depressurize and you'll probably fly out of the airlock. It is highly recommended that your activate your internals and magboots before operating the airlock in case an accident occurs during the cycling procedure. Once the vents shut off and the opposite door opens, you are free to walk through.
+
+==Exploring Space==
+Space is... well, space. Aesthetically and mechanically. There's no air, no floor, and no gravity. Without a jetpack, you will be forced to use magboots and cling to the exterior of the station to navigate. If you fall out of range of the station wall, you will have to throw something in the direction you are traveling in order to send yourself back. If someone is unconscious in space, they will have to be pulled towards the station, though your pull will let go automatically. If they are fully conscious but unable to maneuver in space, switching to an intent other than help and bumping into them will move them 
+
+===Returning===
+To cycle back into the station, simply click '''Cycle to Interior''' and wait for the room to pressurize. The door will open shortly after, and you may turn off your internals and other equipment once you are out of the airlock.
+
+==Exploring Virgo-3B==
+Virgo 3B is the moon of the phoron giant Virgo 3, and therefore shares a similar atmosphere to it's larger celestial body. In short, the surface of the moon that the station is established on '''has phoron for atmosphere,''' and proper protection must be equipped against the unforgiving elements. A full voidsuit will be enough to survive without issues on the surface, though if you are without one, a winter coat and protective goggles/gasmask with internals are required, otherwise you may freeze, go blind, asphyxiate, or all of the above. It is important to remember that, despite the odd atmosphere, [[Critters#Vore_Critters|life does exist on this moon]], and some are less friendly than others.
+
+===Returning===
+Cycling back into the station from the moon is a little different, but the instructions are the same. Click '''Cycle to Interior''' and wait for the stationary scrubbers to remove the phoron from the airlock while vents pump breathable air back into the room. This will take some time, so please be patient. It is also worth mentioning that '''sparks or flames will turn the airlock into an inferno,''' therefore you should inform emergency personnel if you have damaged prosthetics. Once the airlock opens, you are free to turn off your internals, and encouraged to wash your clothing in the washing machine and take an airlock pill if you did not equip a voidsuit.
+
+{{Gameplay guides}}
+[[Category:Guides]]

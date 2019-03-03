@@ -1,0 +1,114 @@
+---
+title: Admin Rulings
+permalink: wiki/Admin_Rulings/
+layout: wiki
+---
+
+This is a list of admin decisions in chats or the forums about issues
+that have come up in gameplay, divided up by department. They are not
+necessarily rules, however complying with them will, at the very least,
+avoid long discussions about whether you should have done something or
+not.
+
+General
+-------
+
+-   'Mentally' underage characters are still considered underage
+    characters and are against the server rules. The opposite is also
+    true ("young body, old mind").
+-   Soul stuff: [See This Article](/wiki/Souls "wikilink")
+-   Prey's responsibility to notify pred in LOOC before calling for
+    help, unless pred preference notes specify that it is fine, or prey
+    preference notes specify that they always do.
+-   CentCom characters are not "walking admins". Don't metagame and
+    treat them weird or assume that everything they say is now a rule.
+    Unlike admins, CentCom characters are *characters*, and sometimes
+    have biases, grudges, and other things that are the result of
+    in-character incidents.
+-   You don't HAVE to have different characters for different
+    departments, but it's preferred. It starts to push the powergaming
+    and realistic character rules if your one character knows how to do
+    many jobs across different departments, even if they only stick to
+    one job per shift.
+-   Is someone who has previous training in a job (Job A) but is working
+    another job (Job B) in the same department obligated to fulfill the
+    duties of Job A? No. There is no **obligation** to do a job you are
+    familiar with but are not currently working in. You can volunteer.
+    If you're a Psychiatrist, but a surgeon is needed, you are not
+    required to suddenly become a surgeon unless you are literally the
+    only person there who can currently do the job, in which case you
+    might want to try to help them for the sake of their gameplay time
+    and not leaving them crippled. At that point it is more an OOC favor
+    to that player to allow them to continue playing.
+
+Command
+-------
+
+Engineering
+-----------
+
+-   The following two are related to each other:
+    -   Is someone that works in engineering in a job that isn't
+        specifically engineering/engine tech and has no engine training
+        required to set the engine? The answer is 'no' without
+        supervision/on-site training, due to lack of ability to
+        troubleshoot. A person should use this as an opportunity to RP
+        with an engineer.
+    -   Should someone who DOES have previous training but is in a
+        different job be able to touch the engine? This falls under the
+        general ruling on doing someone else's job, meaning you are not
+        obligated to touch the engine unless there is a pressing need to
+        do so, or there is nobody else in the department with a more
+        appropriate role.
+
+<!-- -->
+
+-   Please do not fuck with the engine if it has already been set up and
+    is running smoothly. Unless you are prepared to sit there and
+    monitor it because you're experimenting with it, don't do it, or you
+    risk a job ban if something goes wrong.
+
+Security
+--------
+
+-   You should not patrol maintenance regularly, for the sake of
+    actually allowing the other side of the game (people trying to get
+    away with things) a chance.
+-   The Head of Security (or whoever is the securityboss) can issue a
+    blanket license to carry e-guns for sec officers if they wish, if
+    people are being particularly problematic with guncargo or R&D guns
+    or something. Or if they want to. It's their prerogative.
+
+<!-- -->
+
+-   A victim can drop charges directly relating to them *except for
+    Murder.*
+    -   However if both pred and prey, IC and OOC want to drop charges
+        over their scene, then it should be dropped.
+
+Medical
+-------
+
+-   People needing resleeving may OOCly **ask** for one but may not
+    OOCly **demand** it because they have alternative respawing
+    abilities to use in the event asking fails. Demand in this case
+    means to aggressively ask for something with no regard to the other
+    player's own activities and being obscenely unreasonable in the
+    process. At the same time, doctors should at least make the effort
+    to resleeve that specific person at least **once**. After that one
+    time for that specific person, the doctor may prioritize other
+    activities for a reasonable period of time.
+
+Cargo
+-----
+
+Science
+-------
+
+-   Please don't try to solo gateway missions by yourself. People later
+    in the shift, or even your coworkers may have wanted to participate
+    in the mission. If you complete it by yourself, then you're
+    depriving other people of the enjoyment of it. Admins reserve the
+    right to purposely set you up for failure if you try to solo the
+    mission, as it is borderline unrealistic for a character to just
+    charge gung-ho into the gateway.

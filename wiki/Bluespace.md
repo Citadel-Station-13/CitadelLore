@@ -1,0 +1,81 @@
+---
+title: Bluespace
+permalink: wiki/Bluespace/
+layout: wiki
+---
+
+<small>*The following is an excerpt from the "Vilous Journal of Higher
+Physics"...*</small>
+
+Bluespace
+---------
+
+Not a single discovery since electricity has been so impactful than the
+discovery of Bluespace for Humanity. Without it, the interstellar
+society humanity has built would have been absolutely impossible and
+just a pipe dream. But what is Bluespace? Which properties does it hold?
+And how does Humanity exploit this phenomenon? The following article
+will try to explain.
+
+### What is Bluespace
+
+First of all, it is to be determined what Bluespace is. Which is harder
+to do than simply explaining how a cell functions. First of all, we are
+not exactly sure what it is. Fact is, we cannot access it with any other
+means beyond "creating" bluespace by isolating a pocket of realspace and
+saturate it with the natural catalysts that cause phenomenons associated
+with Bluespace. This has led to the theory that Bluespace as such does
+not exist.
+
+What is known, however, that Bluespace seems to work on lower
+frequencies of excited matter than our universe, henceforth called
+"Realspace". This places it "under" realspace, as opposite of
+"redspace", the higher excited matter plane discovered by Dr. Kisuke
+Gema.
+
+Bluespace dimensional space is remarkably malleable and the constants of
+physical properties can be changed with impulses of simple electrical
+currents and mathematical formulas amplifying or diminishing amplitudes
+of frequency - Thus, a correctly executed series of events can change
+the volume, mass and other physical properties of the created Bluespace
+bubble and the objects within.
+
+### What are catalysts
+
+'When we speak of catalysts, we chiefly speak of a sub particle of
+quantum mechanics, the Alden-Saraspova particle. Currently, only the
+material "Phoron" is known to exhibit Alden-Saraspova particles
+naturally, making it chiefly used to facilitate Bluespace Effects, as
+the synthetic process of creating these catalysts is both dangerous and
+energy intensive. Enriched phoron is an extremely important resource for
+Humanity, as it makes extrasolar travel both possible and comfortable.
+
+### How do we use Bluespace
+
+The main use of Bluespace is evident as soon as we gaze upon the stars -
+Travel amongst them. This is facilitated by the acceleration of a ship
+capable of interstellar travel and opening an isolated spot of Realspace
+and enriching it with the catalysts needed and boring through this
+bubble into another spot of Realspace, creating a tunnel. Then, through
+aforementioned excitement through electrical currents, the catalysts are
+arranged to compress their volume between these two spots. The ship
+passes through the bubble to the destination by a much shorter,
+compressed distance. This is not quite true faster-than-light travel, as
+the ship never reaches relativistic speeds, but currently it is
+impossible to reach lightspeed in Realspace anyway.
+
+The other main use is communication, where ansibles and quantum
+entangled is supplemented with optical light signals through miniature
+bluespace tunnels to communication sattelites and towers, creating a
+sort of optical network similar to early 21th century Internet, making
+it possible to near lagless communication across vast distances. An
+email from Vilous to Sol only takes 10 minutes with moderate noise in
+the network! However, this speed is diminshed when someone tries to
+download larger packets of information through the extranet, as well
+making packet loss a dangerous prospect to everyone who thinks he can
+send out his mindstate through the extranet.
+
+There are several, more esoteric usages of bluespace, like hammerspace
+backpacks or experimental teleportation devices. There is even rumours
+of extradimensional travel or Einstein-Rosen Bridges into the future or
+past. This, however, is still unproven and likely not possible.

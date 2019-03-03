@@ -1,0 +1,388 @@
+---
+title: Not Getting Banned
+permalink: wiki/Not_Getting_Banned/
+layout: wiki
+---
+
+The [Rules](/wiki/Rules "wikilink") are there for everyone to have fun, but
+still leave some room for interpretation. If you want to play it safe,
+here are some pointers. Note this page isn't updated as often as the
+actual rules so if you notice a conflict, change this page so it aligns
+with the rules. It's also a touch wordier in places, as the rules page
+is long enough already without going into nitty gritty specifics and
+examples.
+
+It's also used for things that should't *need* to be said, but
+apparently do because "don't be a raging asshole" is too complicated for
+some people and they insist on an actual wiki page to *specifically*
+state that it isn't permissible to chop someone's head off because their
+OOC notes say they're a predator.
+
+LISTEN TO THE ADMINS
+--------------------
+
+Most importantly of all; **if an admin PMs you about something,
+absolutely do not ignore them.** If you won't respond when the admins
+try to speak with you, then you leave them with little choice *but* to
+ban you. To reply to an admin-PM, just click on the admin's name - if
+you're busy with something in-game, such as being actively chased, or
+attempting to perform first-aid or some other time-critical task, a
+simple quick note just saying '1 sec' to let us know you got the message
+and will respond when you get a chance is fine.
+
+Almost as important; if you are playing and an admin contacts you
+questioning you on your behavior, or asking you to change something,
+listen to them and do as they say. Of course, admins aren’t omniscient
+nor perfect. Sometimes they're assholes. Sometimes they're just flat out
+incorrect. So if you think they are in the wrong, feel free to try to
+explain your point of view and your reasoning, but if they are still not
+convinced, then just do as they say for the moment. You can always
+contact another admin later if you felt like you were treated unfairly.
+**DON’T** try to bicker over it until a settlement is reached for the
+immediate incident. You are in the middle of the game and the game won’t
+stop for you to discuss it.
+
+Even if you think the admin is wrong, if they insist that you cease or
+change the behavior, just do it for the time being. Later, when you have
+the opportunity, discuss it with them again, preferably involving other
+admins and players. The Discord group is good for this (though make sure
+it isn’t the same round, as that could be IC in OOC). Another good
+alternative is making a forum post about it or complaining directly to
+the host or a supervisor admin.
+
+Whatever happens, don’t hate the admins. They are just doing their job,
+a job they do for free, by the way. Keep in mind that almost every
+griefer thinks what they are doing is fine, and the admin is wrong. If
+the admins let anyone who thought they were right do what they wanted,
+we'd all be screwed.
+
+That is why admins need to enforce their opinion. Sadly, this means that
+their opinion will be enforced even when it is wrong, but this is not
+something that can be helped. Just accept the unfortunate event and try
+to prevent it from happening again by bringing the "wrongful" judgment
+to the light of the community. Don’t hate the admins; it won’t achieve
+anything other than make they want to ban you more and for longer. The
+admins don't have the patience to hate you either. They'd much rather a
+peaceful, respectful relationship with the players.
+
+DON'T BE A SARCASTIC TWATBUCKET
+-------------------------------
+
+If you're being confronted by admins or other players, don't abuse
+sarcasm. Sarcasm at a bad time is a great way to get yourself banned. Be
+straight with us. Sarcasm does not work well over the internet because
+text does not convey tone or body language so it's hard to tell when
+someone is joking, serious, or just that stupid (yes, sadly, people who
+are *actually that stupid* do exist). The admins certainly do not
+appreciate sarcasm and snarky behavior when we are trying to make sense
+of a situation, and have been known to ban just because they get sick of
+dealing with someone being a smart ass.
+
+Sarcasm just wastes everyone's time and annoys people if used in the
+wrong context, so please just don't use it when there's a conflict going
+on. It's not respectful. Especially sarcastic/ironic smiley faces at the
+end of messages. Just don't.
+
+Likewise, meming in your flavortext or OOC notes are a good way to make
+other players assume you're not actually here to play and are just here
+to stir shit. It attracts attention you don't want.
+
+Two wrongs don't make a right
+-----------------------------
+
+If you dig into the argument by saying, "BUT THIS PERSON DID THIS WRONG
+FIRST," admins are liable to just ban you because you're not listening.
+In the same way, a cop doesn't care if everyone else on the road is
+speeding so you were speeding too. You're just the one who got caught.
+You're better off just admitting fault, and *then* you can point fingers
+like, "I think you should know, Johny McGriefalot did the same thing a
+few days ago. I don't know if you guys heard." Admins will be much
+happier to do what they can after they know you understood what you did
+wrong and are not planning to do it again.
+
+Rule-specific comments/precedents
+---------------------------------
+
+Below are some things that, while not rules in themselves, go into a
+little more depth than the actual rules page to avoid the rules page
+becoming a million pages long. Some rules aren't commented on here
+simply because they should be self-explanatory.
+
+### Be respectful to other players
+
+-   Gatekeeping/elitist behaviour definitely falls under this rule. This
+    includes making broad sweeping statements or making up "rules" in
+    department channels about how to play "correctly" that imply that
+    other players are playing the game wrong if they don't follow it.
+    Especially if the thing they're doing "wrong" is explicitly allowed
+    by the rules.
+
+#### ERP preferences must be respected
+
+-   Going out of your way to actively seek out or prevent people from
+    having fun in private is not allowed.
+-   See the [Guide to
+    Vore](/wiki/Guide_to_Vore#Area-by-Area_Response "wikilink") for some
+    recommendations on how to avoid the appearance of validhunting and
+    scenestomping as security.
+-   This rule also applies to pre-emptively making it difficult or
+    awkward for people to *find* a scene too, such as calling out on the
+    radio to warn the entire station about the character that just
+    showed up, which makes it ICly awkward for any players that enjoy
+    being unwilling prey to approach this dangerous person they've been
+    warned about, or giving the "I'm watching you" as security - whether
+    you think it's "IC" to do so or not, you're effectively telling them
+    that you intend to make it hard for them to get a scene.
+-   It is not permitted force or trick people into *participating* in
+    something they're not into and accuse them of kinkshaming if they're
+    not okay with it. For some more extreme public scenes, bystanders
+    *are* considered participants.
+-   Try not to third-wheel when people are gearing up for a scene.
+    Especially if they're stood next to each other and whispering.
+    Likewise, if you happen to be passing by someone and catch a subtle
+    emote, that's not an invitation to immediately scream it out and
+    make it public. If someone likes to be unwilling prey, the last
+    thing they want is a security officer following them around at all
+    times and ensuring potential predators never get a chance to grab
+    them.
+-   It may be "IC" for you to scream for help on the radio the moment
+    you're scooped up and carried into maintenance, but if you have
+    "feel free to eat me without asking" in your OOC notes and end up
+    ICly ruining someone's entire day for acting on it in good faith,
+    you'll be unpopular fast. Security players often end up in a
+    catch-22 situation when this happens, caught between being forced to
+    react IC to an IC call for help, and knowing on an OOC level that if
+    they *do* intervene, they're just going to upset everyone.
+
+#### The dorms are protected
+
+-   This includes unoccupied ones. Someone might want to use them later.
+    Just don't fuck with the dorms. <s>Fuck *in* them instead.</s>
+
+#### Speak English
+
+-   When talking on the radio, remember that your character is speaking.
+    Avoid writing with terrible grammar, using smileys and other
+    internets slang/codes, using all-caps too frequently (in fact its
+    probably better to not use it at all, unless you really, REALLY need
+    to convey it’s a very big and nasty scream), and so on. Commenting
+    on someone's spelling over voice is a huge immersion-break.
+
+### Keep IC and OOC separate
+
+-   Be careful with buddy-relationships. If a group of players join the
+    server and one of them is a bit of a troublemaker, that's fine.
+    *If*, however, the instant security try to do anything about it, the
+    rest of the group immediately rally around their friend and turn a
+    simple interaction into a *dramatic shitstorm* to the point where
+    security feel powerless to act against them because they OOCly don't
+    want to deal with the storm of bullshit that they just *know* will
+    follow, that's a problem.
+-   The same goes for after-the-fact discussions in OOC channels such as
+    the Discord server. At worst, despite the noblest of intentions, if
+    you're one of the ones doing the wagon-circling you might even end
+    up being the one that gets them banned at the end of the day. If
+    your friend is having trouble fitting in and pissing people off as a
+    result, and nobody gets a chance to help them *correct* that
+    behaviour because you're insulating them from consequence, and
+    reinforcing to them that their behaviour is okay when it isn't,
+    things will eventually reach breaking point. If, on the other hand,
+    they are actually refusing to change their behaviour and genuinely
+    breaking rules, rallying around them is liable to get you tarred
+    with the same brush - other players will think "Ugh, X is such an
+    asshole and we can't do anything about it without Y and Z screaming
+    at us, why haven't the admins banned the whole lot of them yet?"
+    This isn't to say that it's against the rules to hang around with
+    your friends and make characters so you can play together, that
+    would be absurd. It's only when your group starts to negatively
+    impact other players that it becomes an issue.
+
+#### Metacomms/gaming, multi-keying are not allowed
+
+-   This includes "finding out IC" about permavore/tempvore or other
+    long-term non-con situations because someone mentioned on discord
+    they were playing out such a scene and putting a stop to it so you
+    can "rescue" the prey. See the below example, which actually
+    happened:
+
+> "When I had \[my prey chracter\] stay over at a hypnotist's place for
+> a week, one person was able to identify the hypnotist as a hypnotist
+> and everybody magically believed them, somehow."
+
+-   Just because you OOCly know something to be the case, such as the
+    above, doesn't mean your character should immediately believe it
+    when someone talks about it no matter how ridiculous. This goes for
+    [Identifying Antagonists](/wiki/Identifying_Antagonists "wikilink") as
+    well. Sometimes people like to talk about the fun stuff they're
+    doing off-station, some people like to "bench" their characters for
+    a while to give an alt some time to shine, and like having an excuse
+    to have their main out of action. It's not up to you to act on this
+    information to "save" them.
+
+### Create and play server-appropriate characters
+
+-   "It's IC" does not excuse otherwise troublesome behaviour. In
+    short - don't blame your character for what you, the player, made
+    your character do if what your character is doing is breaking the
+    rules.
+-   While this is a role playing game and it should be understood that
+    actions are character against character, and not player against
+    player, if you play an insane, evil, predatory, antagonistic or
+    otherwise unpleasant character, it is advisable to make sure your
+    fellow players are "on board." You might try using the LOOC command
+    to communicate your RP intentions with other players, particularly
+    if you have not played with the other character before. (Likewise,
+    if you feel that a player is becoming too aggressive, you can also
+    try using the LOOC command to ask them to stop.)
+
+#### Do not kill or attack people (including yourself) for no good reason
+
+-   If your response to a nonhostile, nonthreatening mob appearing on
+    the station (regardless of how it arrives) is to start tearing down
+    walls to get to it so you can spear it like some sort of shrieking
+    caveman, "it's just a mob, it's valid" won't cut it when other
+    players get upset about you bursting through the windows to kill the
+    kitten they just ordered from cargo for no other reason than it's a
+    mob. Obviously you're allowed to defend yourself from hostile
+    creatures, but trying to be a smartass by aggroing retaliatory mobs
+    so you can kill them "in self defence" will just get you told off
+    for being a smartass.
+-   The same goes for the station pets. The koi are poisonous because
+    fuck you.
+-   If you do decide to play a pregnant character, hurling yourself into
+    dangerous situations and kicking up a dramatic fuss when they get
+    killed/shot/maimed falls under the same attention-seeking category
+    as commiting suicide.
+
+#### Do not powergame
+
+-   While not a hard and fast *rule*, it's generally advised that if
+    your character is going to play multiple departments, they should be
+    in somewhat related disciplines, or at least be a "main" department
+    and a lower-stress one. The skills system is a tool for this - if
+    the jobs you're playing all come under the same general skillset,
+    they're probably okay. If your character is capable of playing
+    multiple department *heads* then they're most likely in violation of
+    this rule.
+-   OOCly snarking at other people for failing to powergame to your
+    standards will attract the sort of admin attention you really don't
+    want.
+
+#### Do not godmode
+
+This also includes flavortext. If your flavortext outright tells the
+viewer that they're scared/attracted/aroused/whatever, then that's not
+really appropriate. Let *them* decide how their character reacts to
+seeing you - a straight dude isn't going to be aroused looking at
+another dude, for instance.
+
+#### Do not ‘Self-Antag’
+
+-   It's often a sign of poor roleplaying to make an overly
+    confrontational character who does nothing but kick off huge public
+    arguments all the goddamn time. It runs into immersion issues,
+    simply because it's not ICly believable that they would ever by
+    hired even wth NT's notoriously lax hiring standards. They certainly
+    wouldn't be given a position of any authority. That's not to say
+    that you can't make a criminal or troublemaking character, of
+    course, but when they're nothing but a source of frustration for the
+    other people who have to deal with your bullshit (while playing a
+    *video game*, mind, a thing that people typically do for fun) you
+    may be asked to tone it down. At the very least give them a little
+    more depth than "I DON'T GIVE A SHIT ABOUT AUTHORITY, GREY TIDE
+    STATION WIDE".
+-   The same goes for fucking with other players/characters projects or
+    stuff for no good reason. Is someone building a den in the
+    construction site? Is it harming anything? Do you want to fuck with
+    it anyway? Why would you do that, do you think the other players
+    *enjoy* having some random yahoo barge in while they're playing a
+    game and trashing their stuff? Oh look, that atmotech's dragging a
+    canister around. Better open the valve! Not for any particular
+    reason, I just can't keep my grubby mitts of other people's stuff.
+    See that miner that's dragging a crate? Curious about the contents?
+    Well, let's just silently run up to them and open the crate while
+    they're moving so everything falls out over the floor then
+    wordlessly wander off. Okay, that last one isn't bannable, but that
+    miner's gonna think you're a cunt and a shitty roleplayer to boot.
+    Like if you're in the supermarket do you randomly root in other
+    shoppers' carts? No? Then why would your character?
+-   Don't go stealing/breaking all of a department's stuff for no good
+    reason. If people are literally unable to do their job because you
+    deprived them of the things they need to do so, that's probably a
+    bit much. To a lesser extent, hogging resources to yourself might
+    get you whacked for this if it proves detrimental to other players
+    (such as a cargotech running in and ordering fifty crates of hats so
+    there's no points left for anyone else in the department)
+-   Most of the actions that break this particular clause are things
+    that fall foul of the "don't be an asshole" rules. If what you're
+    doing is of zero benefit to you besides making people upset, and it
+    involves destroying/killing stuff, probably don't do it.
+
+#### You are expected to perform the job you signed up for
+
+-   This includes borgs. No, really.
+-   The rule about emergencies says "emergencies" for a reason. If you
+    go screeching at people to get out of the dorms *right now* and do
+    their jobs and it turns out the thing you need their help with is
+    something literally any rube could have helped you with, or you're
+    demanding they drop *their* scene so they can enable *your own*, you
+    won't be popular. Likewise, being promptly resleeved is *nice* but
+    you don't get to demand that people drop their own scenes right now
+    because you want to have a second one.
+-   Basically, "The cargotech needs to get me this crate I want for
+    personal reasons" is not an emergency that requires them to drop
+    everything they're doing though it would be nice if they got to it
+    if they're able to, "Cargo needs to get a new engine starter because
+    everything went to shit" could be considered an emergency and they
+    should really do that ASAP, and "This cargotech is never seen at
+    cargo at all in the half a dozen shifts we've been watching" is an
+    actual offense.
+-   A good rule of thumb for heads of staff is that you should be able
+    to *teach* the department's basic functions to a new player. If
+    you're not confident in your ability to do so, maybe play the lower
+    ranks until you're more experienced.
+-   If your job is showing no clear signs of happening any time soon,
+    you're free to pursue your own projects. There is no requirement to
+    leave and rejoin off-duty or get a job change.
+
+#### You are expected to obey the chain of command (within reason)
+
+-   Abusing this rule as a head of staff is potentially grounds for a
+    jobban, particularly if the orders given violate other rules such as
+    issuing a departmental edict of "there'll be no eating people on my
+    watch". Whether you intend to actually *enforce* that order is
+    irrelevant, it still puts people off playing and is therefore not
+    allowed.
+-   Under the standard lawset, "rank and role" is the important factor.
+    Within a particular department, that department's staff take
+    precedence - for instance, if an engineer demands cargo give him a
+    bunch of guns and the quartermaster says no, you can't override the
+    quartermaster and order cargo anyway to "serve" the engineer.
+
+#### You are expected to forget events leading up to an unwilling death
+
+-   See [Non-Contiguous Memory
+    Disorder](/wiki/Non-Contiguous_Memory_Disorder "wikilink").
+
+When in doubt, ASK THE ADMINS
+-----------------------------
+
+This is the second most important pointer on the page besides the one at
+the top. When you are unsure of whether something is allowable or not,
+or how bad it would be, just adminhelp it. If you adminhelp it and act
+according to the reply you receive, you could kill everyone and destroy
+the entire station and still not get banned, because you were doing it
+under the OK of an admin. Even if what you did was terrible, it was the
+admin that gave the "yes" that will have to do the explaining, not you.
+
+What if there are no admins, or they don’t reply? Well, if you have
+time, you could take a quick look on the wiki and it may be able to
+clear things up for you. If you are able to make it cryptic enough as to
+not be IC on OOC, you can also try asking the other players.
+
+If you are still unsure, just use your common sense, think of what would
+be fun for others, and hope you aren’t doing something terrible. If you
+do, and an admin comes and questions you on it, tell him that you were
+unable to get a clarification and that will probably save your ass if
+you didn’t break common sense to the extreme, or have a really bad
+history.

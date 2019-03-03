@@ -1,0 +1,35 @@
+{{SidebarJob|jobname=Warden|img_file=Warden.png|tagline=Don't make me come down there|department=Security|access=Security, Brig, Warden's Office, Maintenance, EVA|duties=Oversee the brig, set timers, distribute armory contents to officers during emergencies.|supervisors=Head of Security|difficulty=Hard}}
+The '''Warden''' is a member of the security staff and is responsible for the brig and the prisoners. He also has access to the armoury and is responsible for handing out equipment. He has control over the [[Brig]] and the [[Prison Wing]]
+
+==Watch Hound==
+Half of your job is to look after the prisoners; make sure they [[Shitcurity|aren't abused]] or given [[Corporate Regulations|unfair sentences]] and that they don't escape. The other half of your job is to arm security with weapons in [[Code Red| emergencies]]. You are not a [[Security Officer]] and should not leave the brig if possible. However, you may operate as an officer shall the need arise, under the permission of your [[Head of Security|HoS]].
+
+If you have no prisoners to watch out for, you should be coordinating your officers over your radio channel, checking cameras when people call for help, and updating arrest records. Your fellow officers will appreciate your help in sending them where they can make a difference. You should also do a roll call every so often, to make sure that all your officers are still alive and well. You have the opportunity to make Security run like a well-oiled machine.
+
+Also make sure you keep track of what's in the armory. You start with a list of everything in the armory and should keep track of who and what is being taken and their reason why. Moreoever, make sure the armory stock is well-balanced. Sometimes, the people at Central forget to stock a certain type of weaponry, whether lethal or non-lethal; and it is your job to make sure the [[Cargo Crates|situation is remedied]] before it's too late.
+
+Remember to follow [[Guide_to_Security#Standard_Procedure|standard security procedures.]]
+
+== Things to Know ==
+As a Warden, you have full control over the entirety of the [[Brig]]. Other than that, you are on the same level as [[Detective|everyone else]] [[Security Officer|in Security]]. You report to the [[Head of Security]] just like every other officer.
+
+Have an advanced knowledge of [[Corporate Regulations]]. There aren't many people who want to be brigged for no reason, and ''nobody'' wants to be held until transfer without due cause. If necessary, you might even need to release a prisoner for being held unlawfully.
+
+Moreover, it is your job to fax the Sol Government [[Guide_to_Paperwork|with paperwork]] pertaining to [[Corporate_Regulations|any Sol Crime or High Crime]] committed on board. Remember, that any charge of holding until transfer will not be fully applied unless the Sol Government is informed.
+
+===Equipment===
+To help your wardening ways, grab a pair of cuffs (for prisoner transportation) that are in a box in the armory, and a [[stun baton]]. You already have a taser and a pair of sunglasses. Several portable flashers are in the armoury. These CAN and will be useful in securing the brig during attacks. Make sure no one gets your ID, and you know who the [[Head of Security]] is, as you need to defend your equipment from would-be thieves. Nobody other than yourself, the Head of Security, and the [[Captain]] are allowed into the armory; walking into the armory without authorization is considered trespassing.
+
+===Don't Sit Around===
+Sitting at your desk is alright, but you should make sure to scan the cell blocks every once in a while to make sure no one is hurt in the cells, or there are any areas of break in. Your job is to protect all of security from people busting in, or out. A quick sweep every few minutes should be fine, being a warden is a mostly relaxing job, just make sure to stun anyone who is behaving suspiciously in security and hold them till the Head of Security comes. Remember, talk first, disarm second, kill if that's your only option (it never is).
+
+If you are going to sit around, it may be worthwhile to update the security records for your prisoners. Seriously. Update the security records.
+
+===Clearance Level Check===
+You need to make sure any and all crew that the [[Head of Personnel]] authorizes comes with a stamped form, or the Head of Security. Nothing is worse than a [[Traitor]] breaking in, and you foolishly giving them armour or a gun.
+
+==Predding==
+Like security officers, you can easily eat a non-violent prisoner if you so desire too! You also have your own office that you can <s>lure</s> invite <s>meals</s> friends to.
+
+{{Jobs}}
+[[category: jobs]]

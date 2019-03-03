@@ -1,0 +1,294 @@
+<div class='smallpic'>
+{{Outdated}}
+== Tools ==
+
+=== Mechanical Toolbox ===
+{{Item
+|bgcolor1 = #FFEE88
+|bgcolor2 = #FFDD66
+|name = Mechanical Toolbox
+|image = Btoolbox.png
+|foundin = [[Engineering]], [[auxiliary storage]] and many places around the station including tool storage and the locker room
+|usedfor = Contains tools which are needed whenever you want to [[Guide to construction|construct]] or [[Guide to construction|deconstruct]] something
+|strategy = Contains the basic tools all engineers should probably have.
+|contents = [[File:Screwdriver tool.png|link=Screwdriver]] [[File:Wrench.png|link=Wrench]] [[File:Welderon.gif|link=Welding Tool]]<br> [[File:Crowbar.png|link=Crowbar]][[File:Analyzer.png|link=Analyzer]] [[File:Wirecutters.png|link=Wirecutters]] 
+|description = This toolbox contains many tools needed in the day to day lives of engineers.
+}}
+
+=== Electrical Toolbox ===
+{{Item
+|bgcolor1 = #FFEE88
+|bgcolor2 = #FFDD66
+|name = Electrical Toolbox
+|image = Toolbox_yellow.png
+|foundin = [[Engineering]], [[Primary Tool Storage]], [[Tech Storage]]
+|usedfor = Contains tools which you'll need when fixing or breaking electrical equipment
+|strategy = Has a fair amount of wire to wire multiple rooms up. Or to make wire art, your choice.
+|contents = [[File:Screwdriver tool.png|link=Screwdriver]] [[File:Wirecutters.png|link=Wirecutter]] [[File:t-ray.png|link=T-ray Scanner]] [[File:Crowbar.png|link=Crowbar]][[File:CableCoils.png|link=Cable Coil]] [[File:CableCoils.png|link=Cable Coil]] [[File:CableCoils.png|link=Cable Coil]]
+|description = The electrical toolbox's contents are intended to help fix electrical equipment. Yellow toolboxes have a small chance of containing a pair of [[Gloves|insulated gloves]].
+}}
+
+=== [[File:Wirecutters.png|64px]] Wirecutter ===
+Heavy duty scissors. Primarily cuts wire lain wire, machine wires, and grilles.
+
+=== [[File:Welderon.gif|64px]] Welding Tool ===
+Used for cutting through metal and welding certain objects shut, as well as repairing some items.
+
+=== [[File:Wrench.png|64px]] Wrench ===
+Wrenches are usually used to take things apart, like wall girders or tables, or to un/fasten pipes.
+
+=== [[File:Screwdriver tool.png|64px]] Screwdriver ===
+Screw and unscrews a variety of things.
+
+=== [[File:Analyzer.png|64px]] Analyzer ===
+Effectively a standalone PDA atmospheric scanner, which provides a more in depth readout.
+
+=== [[File:Multitool.png|64px]] Multitool ===
+The multitool is for [[hacking]]. Used to send a pulse through wires in a machine or door. Can also be used to see how much power is in a lain wire.
+
+=== [[File:t-ray.png|64px]] T-ray Scanner ===
+Allows you to periodically see items under floor tiles, primarily disposal pipes and wires.
+
+=== [[file:crowbar.png|64px]] Crowbar ===
+Used to pry things, such as floor tiles, unpowered doors, and machines.
+
+=== [[file:CableCoils.png|64px]] Cable Coil ===
+Superconducting heavy duty wires. Normally found in mechanical and electrical toolboxes, as well as the Engi-Vend. More can be assembled from an Autolathe.
+
+== Advanced Tools ==
+
+=== [[File:Jawscrowbar.png|64px]] [[File:Jawswirecut.png|64px]] Jaws of Life ===
+A crowbar and wirecutter contained in one hydraulic tool. Accomplishes tasks faster than the standalone tools.
+
+=== [[File:Drillscrew.png|64px]] [[File:Drillwrench.png|64px]] Power Drill ===
+A screwdriver and wrench contained in one power tool. Accomplishes tasks faster than the standalone tools.
+
+=== [[File:Ewelder.gif|64px]] Advanced Welder ===
+A welder that holds about the same amount of fuel as standard welders, but is capable of regenerating fuel. Accomplishes tasks faster than other welders.
+
+== Items ==
+
+=== Emergency Toolbox ===
+{{Item
+|bgcolor1 = #FFEE88
+|bgcolor2 = #FFDD66
+|name = Emergency Toolbox
+|image = Redtoolbox.png
+|foundin = Emergency lockers and storage areas
+|usedfor = Contains tools which are useful in emergencies.
+|strategy = Contains a flashlight which is useful as well as a crowbar.
+|contents = [[File:Flashlight.png|link=Flashlight]] [[File:Station_Bounced_Radio.png|link=Station Bounced Radio]] [[File:FireExtinguisher.png|link=Fire Extinguisher]][[File:Crowbar.png|link=Crowbar]]
+|description = The toolbox contains a flashlight, a crowbar, a radio and a fire extinguisher.
+}}
+
+
+=== [[file:cellcharger.png|64px]]Cell Charger ===
+Place [[power cell]]s into these to charge them up. Can be secured and unsecured using a wrench. Takes up 60 kW while in use.
+
+=== [[File:Powercell.png|64px]]Power Cell ===
+Used to power APCs, cyborgs, and various electrical equipment. There are a few different cells, some being high-cap, super-cap, and hyper-cap cells.
+
+=== [[file:Flashlight.png|64px]]Flashlight ===
+Shines light when turned on. Can be recharged in a recharger.
+
+=== [[File:Inflatables.png|64px]]Inflatable Barrier Box ===
+A large case with a few inflatable doors and walls. Used to section off areas that are exposed to bad atmosphere.
+
+=== [[File:Station_Bounced_Radio.png|64px]] ===
+Radios to use when Telecommunications are down.
+
+=== [[file:FireExtinguisher.png|64px]]Fire Extinguisher ===
+Activate in hand to turn the safety off, click on visible tile to spray contents of the extinguisher towards it. Refilled at water tanks.
+
+=== [[File:RCD.png|64px]]Rapid Construction Device (RCD) ===
+A device capable of (crudely) constructing and deconstructing floors, doors, and windows. Uses compressed matter cartridges to accomplish these tasks.
+
+=== [[File:Compressed_matter_cartridge.png|64px]]Compressed Matter Cartridge ===
+Ammo for the RCD. More can be ordered at cargo.
+
+== Wearable ==
+
+=== Tool Belt ===
+{{Item
+|bgcolor1 = #FFEE88
+|bgcolor2 = #FFDD66
+|name = Tool Belt
+|image = Utilitybelt.png
+|foundin = [[Primary Tool Storage]], [[Emergency Storage]], [[Engineering]], and [[Maintenance]].
+|usedfor = Storing tools more easily on your belt.
+|strategy = [[Engineer]]s would benefit the most from these.
+|contents = 
+|description = Holds all standard tools and has as much space as a toolbox. Very useful.
+}}
+
+
+=== [[File:MGlasses.png|64px]]Optical Meson Scanner ===
+Allows you to see turf (walls, floors) that would normally be obscured by obstructions or lack of light. Cannot see mobs or objects. Normally found in YouTools.
+
+=== [[File:Hazard.png|64px]]Hazard Vest ===
+A vest that is worn on your outer clothing slot. Has some storage space inside, and can hold some engineering related items in the suit storage slot. Safety first!
+
+=== [[file:Firesuit.png|64px]]Firesuit ===
+A dark and bulky piece of equipment commonly found in emergency fire lockers. Can withstand extreme temperatures, whether they be hot or cold.
+
+=== [[File:Advancedsuit.png|64px]]Engineering Voidsuits ===
+Standard EVA voidsuits that can withstand vacuum and some temperature extremes. Found in Engineering EVA, EVA Equipment, and Atmospherics.
+
+=== [[File:Mashoe.png|64px]]Magboots ===
+Specialized boots that can be attached to a voidsuit to ensure you don't slip in space. They can also secure you to the ground so that you don't get blown around the room from wind.
+
+=== [[File:hardhat.png|64px]]Hard Hat ===
+Protects your head. Has a nice little light on top.
+
+=== [[File:Fire_Fighter_Hat.png|64px]]Fire Fighter Hat ===
+Protects against heat when used with a firesuit.
+
+=== [[File:Welding_Goggles.png|64px]]Welding Goggles ===
+Goggles to protect your eyes when welding.
+
+=== [[File:WeldingHelmet.png|64px]]Welding Helmet ===
+A helmet to protect your eyes when welding.
+
+=== [[File:Radiation_Suit.png|64px]][[File:Radiation_Hood.png|64px]]Radiation Suit ===
+Protects the wearer from radiation.
+
+=== [[File:Gas_mask.png|64px]]Gas Mask ===
+Filters out some harmful gases. Completely nullifies N2O. Can be used as a mask for internals.
+
+== Devices ==
+
+=== [[File:Plasma_canister.png|64px]]Canister ===
+A container for gases, such as Oxygen, Nitrogen, or Phoron. Can be wrenched to a connector.
+
+=== [[File:Tank_Storage_Unit.png|64px]]Tank Storage Unit ===
+A rack that dispenses tanks, either Oxygen or Phoron. Use a wrench to unsecure from the floor.
+
+=== [[File:Icard.png|64px]]Intelicard ===
+Advanced tech that can download an AI's personality from a core. Usually used to secure rogue AIs.
+
+=== [[File:Handheld-Plasmatank.png|64px]]Phoron Tank ===
+An orange tank containing Phoron.
+
+=== [[File:Oxygen_tank.png|64px]] Oxygen Tank ===
+A cylindrical blue tank containing pure oxygen. Set distribution pressure to 21 kPa to use.
+
+=== [[File:Fueltank.png|64px]]Fuel Tank ===
+A large tank containing fuel. Refuel (''not'' lit) welders here.
+
+=== [[File:Watertank.png|64px]]Water Tank ===
+A large tank containing water. You can fill buckets to water plants or refill fire extinguishers with it.
+
+=== [[File:Proximitysensor.png|64px]]Proximity Sensor ===
+A sensor that sends a signal when something/someone moves next to it. Near useless on it's own.
+
+=== [[File:Infrared_sensor.png|64px]]Infrared Sensor ===
+A sensor that sends a signal when something/someone crosses the beam it emits. Near useless on it's own.
+
+=== [[File:Infrared_beam.png|64px]]Infrared Beam ===
+A beam emitted by an infrared sensor.
+
+=== [[File:RemoteSignalingDevice.png|64px]]Remote Signaling Device ===
+A device capable of sending a signal to a frequency and code of the user's choice. Can be attached to wires in a machine or door to pulse them when it receives a signal.
+
+=== [[File:Timer.png|64px]]Timer ===
+A device with a basic clock that will begin counting down from whatever the user input as soon as it receives as signal. Near useless on it's own.
+
+=== [[File:Igniter.png|64px]]Igniter ===
+A device that can create a spark when it receives a signal. Near useless on it's own.
+
+=== [[File:Book.png|64px]]Engineering Books ===
+Basic guidebooks found around Engineering that detail certain procedures and tutorials related to engineering.
+
+== Engineering Circuit Boards ==
+'''[[File:Power_control_module.png|64px]]Power Control Module'''
+A module board used in assembling APCs. Found in YouTools.
+
+'''[[File:Airlock_electronics.png|64px]]Airlock Electronics'''
+An electronic board used in assembling airlocks, automatic doors, and windoors. Activating in hand will allow you to configure which IDs are allowed and denied entry.
+
+'''[[File:Uploadmodule.png|64px]]Reset AI Module'''
+Resets the AI's laws when used on an upload console.
+
+'''[[File:Circuitboard.png|64px]]Circuit board (xxxxx)'''
+A machine board. Used in assembling machines. The name of the board will determine which machine will be built upon completion.
+
+== Atmospherics Items ==
+See [[Atmospherics Items]].
+
+== Construction Materials ==
+See [[Construction Materials]].
+
+== Constructions & Assemblies ==
+See [[Basic Construction]], [[Guide to Advanced Construction]] and [[Guide to Construction]].
+
+== Machines ==
+
+'''[[File:Shield_Generator.gif|64px]]Shield Generator'''
+
+
+'''[[File:Gravitational_Singularity_Generator.png|64px]]Gravitational Singularity Generator'''
+
+
+'''[[File:shield_generator.gif|64px]]shield generator'''
+
+
+'''shield capacitor'''
+
+Machine that charges a shield generator
+
+
+'''[[File:Emitter.png|64px]]Emitter'''
+
+
+'''[[File:Field_Generator.png|64px]]Field Generator'''
+
+
+'''[[File:Emergency_Shield_Projector.gif|64px]]Emergency Shield Projector'''
+
+
+'''[[File:SMES.png|64px]]Power Storage Unit(SMES)'''
+
+
+'''[[File:EngiVend.png|64px]]Engi-Vend Vending Machine'''
+
+
+'''[[File:YouTool.png|64px]]YouTool Vending Machine'''
+
+== Solar Panels ==
+
+'''[[File:Solar_assembly.png|64px]][[File:Solar_panel.png‎|64px]]Solar Array'''
+
+
+'''Solar Control Computer'''
+
+
+'''[[File:Solar_tracker.png|64px]]Solar Tracker'''
+
+== Particle Accelerator Engine ==
+{{Main|Singularity Engine}}
+
+'''[[File:Control_box.png|64px]]Particle Accelerator Control Computer'''
+
+
+'''[[File:Particle_Accelerator_Top.png|64px]]Alpha Particle Generation Array'''
+
+
+'''[[File:Particle_Accelerator_Middle.png|64px]]EM Acceleration Chamber'''
+
+
+'''[[File:Particle_Accelerator_Bottom.png|64px]]Particle Focusing EM Lens'''
+
+
+'''[[File:Particle_Accelerator_Emitter_Left.png|64px]][[File:Particle_Accelerator_Emitter_Middle.png|64px]][[File:Particle_Accelerator_Emitter_Right.png|64px]]EM Containment Grids'''
+
+
+'''[[File:Collector_array.png|64px]]Radiation Collector Array'''
+
+
+== Supermatter Engine ==
+{{Main|Supermatter Engine}}
+
+'''[[File:Supermatter.png]] Supermatter'''
+
+'''[[File:Collector_array.png]] Radiation Collector Array'''
+</div>

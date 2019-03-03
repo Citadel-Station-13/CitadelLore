@@ -1,0 +1,25 @@
+---
+title: Developer Notes
+permalink: wiki/Developer_Notes/
+layout: wiki
+---
+
+### Subsystems
+
+#### Startup/Initialization
+
+Normally at gamestart you get new'd by Master, and your New() executes:
+
+SSme = src
+
+PreInit()
+
+If another instance ever gets new'd you get:
+
+Recover()
+
+qdel(SSme)
+
+SSme = src
+
+PreInit()

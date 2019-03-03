@@ -1,0 +1,391 @@
+{{toc_right}}
+=A Guide to Surgery In General=
+All surgery requires the set of medical tools in the [[Operating Theatre]], along with an operating table. Ideally, only [[Medical Doctor|Surgeons]] and the [[Chief Medical Officer]] can perform advanced surgery. Remember to let each step complete fully, else you <s>risk harming yourself or your patient</s> like playing dangerously and want to ace that surgery.
+
+===Field Surgery===
+Generally this should only be put into play if you are unable to reach medbay or the operating rooms (e.g. singularity eats medbay) and surgery needs to be done immediately. Any table will work, though an operating table has the least chance of failures. Putting the patient in an aggressive grab and clicking the table will lay them on the table, from there you should probably instruct them to rest or else they'll just get back up. Roller beds, however, have a better chance of success than regular tables. The tools you use will also determine the success of each surgery, with a scalpel having the highest chance of success, a sharp knife being suitable, while some sharp object like a glass shard will spur issues.
+
+===Surgical Tools===
+Surgery tools aren't common and are pretty much only found in the operating rooms. The ghetto tools can be found just about everywhere.
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+'''The following are the standard surgical tools most doctors will need:'''
+
+<div class="mw-collapsible-content">
+Standard Tools:
+* [[File:Scalpel.png]] Scalpel
+* [[File:Hemostat.png]] Hemostat
+* [[File:Retractor.png]] Retractors
+* [[File:Saw.png]] Circular saw
+* [[File:Cautery.png]] Cautery
+* [[File:Bone gel.png]] Bone gel
+* [[File:Bone setter.png]] Bone setter
+* [[File:Drill.png]] Surgical drill
+* [[File:BreathingMask.png]] Medical mask
+* [[File:Anesthetics.png]] Anesthetic tank
+* [[File:Autopsy scanner.png]] Autopsy scanner
+* [[File:Sterilemask.png]] Sterile mask
+* [[File:LGloves.png]] Latex gloves
+* [[File:Traumakit.png]] Advanced trauma kit
+* [[File:Nanopaste.png]] Nanopaste
+Advanced Tools:
+* [[File:Scalpmanager.png]] [[Medical_Items#Incision_Management_System|Incision Management System]]
+* [[File:Boneclamp.png]] [[Medical_Items#Boneclamp|Boneclamp]]
+* [[File:Laserscalp.png]] [[Medical_Items#Laser_Scalpel|Laser scalpel]]
+</div>
+</div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+'''The following are tools that can be used in place of their surgically refined counterparts.'''
+
+<div class="mw-collapsible-content">
+Ghetto tools:
+*[[File:CableCoils.png]] Cable Coil
+*[[File:GlassShard.png]] Glass Shard
+*[[File:Wirecutters.png]] Wirecutters
+*[[File:Crowbar.png]] Crowbar
+*[[File:Welderon.gif]] Welding Tool
+*[[File:Screwdriver_tool.png]] Screwdriver
+*[[File:Mousetrap.png]] Mousetrap
+*[[File:Fork.png]] Fork
+*[[File:Cigarette.gif]] Cigarette
+*[[File:Lighter.png]] Lighter
+*[[File:Rods.png]] Metal Rods
+*[[File:Wrench.png]] Wrench
+*[[File:Knife.png]] Kitchen Knife
+</div>
+</div>
+
+===Infection===
+Wear gloves and wash your hands before every surgery. Failure to do so will result in giving your patient an infection which, if left untreated, can be deadly. Apply ointment to the afflicted areas quickly if you fail to wash your hands before starting surgery. Make sure to clean your tools after every surgery as well with a spray bottle of either space cleaner or sterilizine '''If you use a syringe on a patient, dispose of it. Never re-use a syringe, else you risk giving the patient an infection. ''<u>You don’t want to spread infection.</u>''''' 
+
+==Prepping for Surgery==
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+<i>Please ensure that your patients are properly diagnosed and scanned in a body scanner before starting the operation, and that all medications and personnel needed for the procedure have been prepared.</i>
+
+<div class="mw-collapsible-content">
+# Find a suitable [[File:OpTable.gif]] operating table.
+# Make sure you're wearing [[File:LGloves.png]] latex gloves and a [[File:Sterilemask.png]] sterile mask.
+# Ask the person to strip, or clickdrag them onto your body and click on all of their items to remove them.
+# [[File:Grab.png]] Grab the person and click on the operating table to lay them down on it.
+# Check the [[File:Crewmonitor.gif]] Operating Computer to ensure the patient is positioned properly; if the monitor does not show the patient's vitals, the surgery will not work.
+# Clickdrag from the [[File:Entwenty.png]] anesthetic pump onto the patient to place the mask over their face and automatically enable their internals.
+## Alternatively, pick up a [[File:BreathingMask.png]] medical mask and [[File:Anesthetics.png]] sleeping agent.
+## Clickdrag their body onto yours to view their inventory. Place the medical mask on their mask slot and the tank of nitrous on their back.
+## Clickdrag their body onto yours once again to refresh the window. A new option called ''Set Internals'' will appear towards to bottom. Clicking it will turn on the anesthetics after a short while.
+# Examine the patient until it reports that they are unconscious, alternatively view the [[File:Crewmonitor.gif]] Operating Computer until their status reads 'Non-Responsive'.
+# Make sure you're set on the [[File:Help.png]] Help intent.
+# Use a '''sink''' to wash your hands. Unclean hands can result in an infected wound. This is treatable with ointment.
+</div>
+</div>
+
+==Surgery List==
+There are many different types of surgeries that can be performed. Sometimes it will be necessary to have the patient hooked up to an IV or someone on standby to inject medications during the procedure.
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Opening a Surgical Site==
+<small><i>The first steps of most surgeries.</i></small>
+<div class="mw-collapsible-content">
+* '''NOTE:''' Steps 3-5 can be replaced with one use of an [[File:Scalpmanager.png]] [[Medical_Items#Incision_Management_System|IMS]] if one is available to you. Steps 3 and 4 can be replaced with one use of a [[File:Laserscalp.png]] [[Medical_Items#Laser_Scalpel|Laser Scalpel]].
+# (Optional) Complete [[Surgery#Prepping_for_Surgery|Prepping for Surgery]].
+# Aim for the location in the [[File:Damage_zone.png]] Damage Zone.
+# Use the [[File:Scalpel.png]] '''scalpel''' to create an incision.
+# Use the [[File:Hemostat.png]] '''hemostat''' to stop any potential bleeding.
+# Use your [[File:Retractor.png]] '''retractors''' to lift up the skin.
+<br />
+For internal work in '''chest and skull only''':
+# Use the [[File:Saw.png]] '''bone saw''' to cut through the bone.
+# Use your [[File:Retractor.png]] '''retractors''' to move the bone aside.
+'''GHETTO''':
+*[[File:Scalpel.png]] Scalpel - Knife 50%, glass shard 20%
+*[[File:Laserscalp.png]] Laser Scalpel - Level 1 75%, Level 2 85%, Level 3 95%, energy sword 5%
+*[[File:Hemostat.png]] Hemostat - Cable coil 75%, mousetrap 20%
+*[[File:Retractor.png]] Retractor - Crowbar 75%, fork 50%
+*[[File:Saw.png]] Surgical Saw - Hatchet 75%
+</div></div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Closing a Surgical Site==
+<small><i>The final steps of most surgeries.</i></small>
+<div class="mw-collapsible-content">
+#Aim for the location in the [[File:Damage_zone.png]] Damage Zone.
+
+If you had to use the [[File:Saw.png]] '''bone saw''' earlier (chest/head):
+# Use your [[File:Retractor.png]] '''retractors''' to put the bones back into place.
+# Apply [[File:Bone gel.png]] '''bone gel''' to mend their ribcage/skull ''unless'' the bone was fractured during the sawing phase, in which case, conduct [[Surgery#Bone_Repair|bone repair]] before continuing.
+
+Then after the above (or if it was not required):
+# Use the [[File:Cautery.png]] '''cautery''' to seal the incision.
+'''GHETTO''':
+*[[File:Retractor.png]] Retractor - Crowbar 75%
+*[[File:Bone_gel.png]] Bone Gel - Screwdriver 75%
+*[[File:Cautery.png]] Cautery - Cigarette 75%, lighter 50%, welder 25%
+</div></div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Bone Repair==
+<small><i>The mending of broken bones and fractures.</i></small>
+<div class="mw-collapsible-content">
+* '''NOTE:''' Steps 3-5 can be replaced with one use of a [[File:Boneclamp.png]] [[Medical_Items#Boneclamp|Boneclamp]] if one is available to you.
+# (Optional) Complete [[Surgery#Prepping_for_Surgery|Prepping for Surgery]].
+# Perform '''Opening a Surgical Site'''.
+# Ensure the target limb doesn't have any damage, otherwise the bone will break again.
+# Apply [[File:Bone gel.png]] '''bone gel''' to the broken bone.
+# Use the [[File:Bone setter.png]] '''bone setter''' to put the bone in place.
+# Apply more [[File:Bone gel.png]] '''bone gel'''.
+# Perform '''Closing a Surgical Site'''.
+'''GHETTO''':
+*[[File:Bone gel.png]] Bone Gel - Screwdriver 75%
+*[[File:Bone setter.png]] Bone Setter - Wrench 75%
+</div></div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Facial Reconstruction==
+<small><i>The fixing of facial and vocal deformaties.</i></small>
+<div class="mw-collapsible-content">
+# (Optional) Complete [[Surgery#Prepping_for_Surgery|Prepping for Surgery]].
+# Aim for the patient's mouth - '''not head''' - in the [[File:Damage_zone.png]] Damage Zone.
+# Cut the skin with your [[File:Scalpel.png]] '''scalpel'''.
+# Use your [[File:Hemostat.png]] '''hemostat''' to mend their vocal cords.
+# Use your [[File:Retractor.png]] '''retractors''' to put the skin back in place.
+# Cauterize the wound with the [[File:Cautery.png]] '''cautery'''.
+'''GHETTO''':
+*[[File:Scalpel.png]] Scalpel - Knife 75%, glass shard 50%
+*[[File:Hemostat.png]] Hemostat - Cable coil 75%, mousetrap 10%
+*[[File:Retractor.png]] Retractor - Fork 75%, crowbar 55%
+*[[File:Cautery.png]] Cautery - Cigarette 75%, lighter 50%, welder 25%
+</div>
+</div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Internal Bleeding==
+<small><i>Repairing damaged arteries and veins within the body to stop internal bleeding.</i></small>
+<div class="mw-collapsible-content">
+# (Optional) Complete [[Surgery#Prepping_for_Surgery|Prepping for Surgery]].
+# Perform the steps in '''Opening a Surgical Site'''.
+# Use the [[File:Fixovein.png]] '''FixOVein''' to repair the damaged blood vessels.
+# Perform the steps in '''Closing a Surgical Site'''.
+'''GHETTO''':
+*[[File:Fixovein.png]] Fix'O'Vein - Cable coil 75%
+</div>
+</div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Limb Replacement==
+<small><i>Replacing missing limbs with new ones. Yes, even the head.</i></small>
+<div class="mw-collapsible-content">
+# (Optional) Complete [[Surgery#Prepping_for_Surgery|Prepping for Surgery]].
+# Aim for the patient's affected (missing) limb using the [[File:Damage_zone.png]] Damage Zone.
+# If patient has Limb Stump, use [[File:Saw.png|link=https://wiki.vore-station.net/File:Saw.png]] '''Circular Saw''' to cut it off, otherwise skip this step.
+# Attach the appropriate limb, either mechanical or organic.
+# Use [[File:Hemostat.png|link=https://wiki.vore-station.net/File:Hemostat.png]]'''Hemostat''' to reconnect the nerves.
+# Use a [[File:Traumakit.png]] '''trauma kit''' if the patient requires one (may need to be applied to either the new limb, or the 'parent' body part it was attached to).
+# Ensure the patient is able to manipulate their new limb before releasing them.
+</div>
+</div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Internal Organs Repair==
+<small><i>Mending damaged organs such as lungs, liver, and brain.</i></small>
+<div class="mw-collapsible-content">
+# (Optional) Complete [[Surgery#Prepping_for_Surgery|Prepping for Surgery]].
+# Aim for the chest, groin, or head in the [[File:Damage_zone.png]] Damage Zone.
+# Perform the steps in '''Opening a Surgical Site'''.
+# Use the appropriate mechanism to mend the organ:
+#* [[File:Traumakit.png]] '''Advanced trauma kit''' for organic organs
+#* [[File:Nanopaste.png]] '''Nanopaste''' for synthetic organs
+# Perform the steps in '''Closing a Surgical Site'''.
+'''GHETTO''':
+*[[File:Traumakit.png]] ATK - Gauze 20%
+</div>
+</div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Cavity Surgery==
+<small><i>Putting things inside peoples' body cavities, such as NIFs.</i></small>
+<div class="mw-collapsible-content">
+Maxiumum size of item that fits inside:
+* Head - tiny
+* Abdomen - small
+* Chest - normal
+# Aim for the chest, abdomen or head in the [[File:Damage_zone.png]] Damage Zone.
+#* If you are implanting a NIF, you must target the head.
+# Perform the steps in '''Opening a Surgical Site'''.
+# Use the [[File:Drill.png]] '''surgical drill''' to prepare cavity.
+# Insert the item inside. If it caused internal bleeding, use '''FixOVein''' to fix it.
+# If you decided not to put item inside, use [[File:Cautery.png]] '''cautery''' to mend cavity wall.
+# Perform the steps in '''Closing a Surgical Site'''.
+'''GHETTO''':
+*[[File:Drill.png]] Drill - Pen 75%, metal rods 50%
+*[[File:Cautery.png]] Cautery - Cigarette 75%, lighter 50%, welder 25%
+</div>
+</div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+
+==Implant/Shrapnel Removal==
+<small><i>Removing implants from the body. Also removal of things from body cavities.</i></small>
+<div class="mw-collapsible-content">
+# (Optional) Complete [[Surgery#Prepping_for_Surgery|Prepping for Surgery]].
+# Aim for the implant location on the [[File:Damage_zone.png]] Damage Zone.
+# Perform the steps in '''Opening a Surgical Site'''.
+# Use your [[File:Hemostat.png]] '''hemostat''' to extract the implant. This may take several tries.
+#* Note that there is a brief period where nothing happens after you click on the patient with the hemostat. Use this time to click on the patient multiple times to queue up multiple attempts at removing implants
+# Perform the steps in '''Closing a Surgical Site'''.
+'''GHETTO''':
+*[[File:Hemostat.png]] Hemostat - Wirecutters 75%, fork 20%
+</div>
+</div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Alien Embryo Removal==
+<small><i>Removing hazardous parasites from the body.</i></small>
+<div class="mw-collapsible-content">
+# (Optional) Complete [[Surgery#Prepping_for_Surgery|Prepping for Surgery]].
+# Aim for the chest in the [[File:Damage_zone.png]] Damage Zone.
+# Perform the steps in '''Opening a Surgical Site'''.
+# Use the [[File:Hemostat.png]] '''hemostat''' to remove the alien embryo.
+# Perform the steps in '''Closing a Surgical Site'''.
+'''GHETTO''':
+*[[File:Hemostat.png]] Hemostat - Wirecutters 75%, fork 20%
+</div></div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Organ Removal/Transplantation==
+<small><i>Removal and re-insertion of the brain or other organs</i></small>
+<div class="mw-collapsible-content">
+# (Optional) Complete [[Surgery#Prepping_for_Surgery|Prepping for Surgery]].
+# Aim for the organ's location in the [[File:Damage_zone.png]] Damage Zone. (Head for brain/eyes, chest for heart/liver/lungs, groin for appendix/kidney)
+# Perform the steps in '''Opening a Surgical Site'''.
+
+'''Removing an organ''':
+# Use the [[File:Scalpel.png]] '''scalpel'''. This will open up a window asking you which organ you'd like to cut loose.
+# Use the [[File:Hemostat.png]] '''hemostat''. This will open up a window asking you which loose organ you'd like to remove.
+# Dispose of the organ or store it in a freezer. For [[Roboticist#Cyborgs|Borgification]], place the brain in an [[File:MMI empty.png]] MMI and give it to a [[Roboticist]].
+
+'''Inserting an organ''':
+# Use the organ you intend to transplant on the patient.
+# Use the [[File:Fixovein.png]] '''FixOVein''' to reconnect the organ to the body.
+# Administer a [[File:Traumakit.png]] '''advanced trauma kit''' or use the [[File:Nanopaste.png]] '''nanopaste''' if required, to repair any damage received during transport/transplantation.
+# Perform the steps in '''Closing a Surgical Site'''.
+'''GHETTO''':
+*[[File:Scalpel.png]] Scalpel - Kitchen knife 75%, glass shard 50%
+*[[File:Hemostat.png]] Hemostat - Wirecutters 75%, fork 20%
+*[[File:Fixovein.png]] Fix'O'Vein - Cable coil 75%
+<small><i>Organs may become infected after transplantation. ''Do not'' transplant organic organs that are from a different species or blood type as the patient, otherwise they will be rejected and the patient will soon die.</i></small>
+</div></div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Necrotic Limb Repair==
+<small><i>Fixing limb necrosis caused by septic infections. '''Not''' organs.</i></small>
+<div class="mw-collapsible-content">
+# (Optional) Complete [[Surgery#Prepping_for_Surgery|Prepping for Surgery]].
+# Aim for the necrotic organ in the [[File:Damage_zone.png]] Damage Zone.
+# Perform the steps in '''Opening a Surgical Site'''.
+# Use the [[File:Scalpel.png]] '''scalpel''' to cut away the dead flesh.
+# Use a [[File:Eyedropper.png]] '''dropper''' filled with [[Guide_to_Chemistry|'''Peridaxon''']] to revive the necrotic organ.
+# Perform the steps in '''Closing a Surgical Site'''.
+'''GHETTO''':
+*[[File:Scalpel.png]] Scalpel - Kitchen knife 75%, glass shard 50%
+*[[File:Eyedropper.png]] Dropper - Bottle/beaker 75%, spray bottle/bucket 50%
+</div>
+</div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Autopsy==
+<small><i>Examination of cadavers to find cause of death. See [[Guide_to_Cadavers#Autopsy_Procedures|autopsy prodedures]] for more information.</i></small>
+<div class="mw-collapsible-content">
+# Place cadaver onto the operating table.
+# Aim anywhere in the [[File:Damage_zone.png]] Damage Zone.
+# Cut the skin with your [[File:Scalpel.png]] scalpel (the chest may require two cuts).
+# Use the [[File:Autopsy scanner.png]] autopsy scanner to scan the area.
+# Repeat scalpel and scan procedure for all affected areas.
+# Right click the [[File:Autopsy scanner.png]] autopsy scanner to print out autopsy data.
+</div>
+</div>
+
+<div class="toccolours mw-collapsible mw-collapsed" style="width:99%">
+==Hardsuit Removal==
+<small><i>Cutting the seals on a sealed hardsuit so that it can be removed from the person wearing it.</i></small>
+<div class="mw-collapsible-content">
+# Place the patient or cadaver onto the operating table. Cleanliness is not required.
+# Aim for the chest in the [[File:Damage_zone.png]] Damage Zone.
+# Use a '''plasma cutter''', [[File:Welderon.gif]] '''welding tool''', or [[File:Saw.png]] '''circular saw''' to slice the hardsuit seals open. ''This may take several attempts.''
+# Pull the hardsuit control module off their back.
+</div>
+</div>
+
+=Synthetic Patients=
+==Roboticist Guide to robo-surgery.==
+Many of the same steps as listed above should be practiced on synthetic crew. While they may not bleed or have the risk of infection. Proper protocol should be followed. Also remember that '''"Screwdrivers [[File:Screwdriver tool.png]] having a 30% chance to fail."''' It is best to operate with '''nano-paste [[File:Nanopaste.png]]''' when available. As screw driver fails can cause further damage.
+
+==The Procedures==
+
+{| class="wikitable" style="text-align: center;"
+! colspan="3" | '''Opening and Closing'''
+|-
+! cellpadding="10" |What You're Doing
+! cellpadding="10" | Where To Aim
+! cellpadding="10" |Steps To Take
+|-
+|Opening a hatch
+|The prosthetic to be operated on
+|[[File:Screwdriver tool.png]] -> [[File:Crowbar.png]]
+|-
+|Closing a hatch
+|The body part to be closed up
+|[[File:Crowbar.png]]
+|}
+{| class="wikitable" style="text-align: center;"
+! colspan="3" | '''Treating Problems'''
+|-
+! cellpadding="10" |What You're Doing
+! cellpadding="10" | Where To Aim
+! cellpadding="10" |Steps To Take
+|-
+|Fixing Brute Damage 
+|Where the damage is
+|Wear your [[File:WeldingHelmet.png]] -> [[File:Welderon.gif]]
+|-
+|Fixing Burn Damage
+|Where the damage is
+|Open -> [[File:CableCoils.png]] (Repeat until fixed) -> Close
+|-
+|Repairing Internal Organs
+|Head, upper, or lower body
+|Open -> [[File:Screwdriver tool.png]](70% Success) / [[File:Nanopaste.png]](100% Success) -> Close
+|-
+|Removing Limbs
+|The extremity or stump to remove 
+|[[File:Saw.png]] -> Target Higher (the arm for a hand, the body for an arm, the leg for a foot, the groin for a leg)
+|-
+|Replacing Limbs & Heads
+|The extremity or stump to replace 
+|[[File:Saw.png]] -> Target Higher (the arm for a hand, the body for an arm, the leg for a foot, the groin for a leg) -> Close
+|-
+|Extracting Objects
+|Where the embedded object is 
+|Open -> [[File:Hemostat.png]] until successful -> Close
+|-
+|Implanting Objects
+|Where you want to embed the object 
+|Open ->[[File:Drill.png]] -> Object to implant -> [[File:FixoVein.png]] if a vein is torn -> Close
+|-
+|Damaged Faces 
+|Head
+|Fix any brute + burn damage
+|-
+|Removing Internal Organs 
+|Head, upper, or lower body 
+|Open -> [[File:Multitool.png]] -> [[File:Hemostat.png]]-> pick organ -> Close
+|-
+|Transplanting/Inserting Internal Organs
+|Head, upper, or lower body
+|Open -> Replacement Organ -> [[File:Screwdriver tool.png]] -> Close
+|-
+|Transplanting MMI
+|Head 
+|Open -> Replacement MMI -> Close
+|}
+
+{{Gameplay guides}}

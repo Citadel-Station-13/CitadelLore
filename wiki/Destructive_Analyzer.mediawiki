@@ -1,0 +1,480 @@
+
+
+[[File:Destructive analyzer.gif|100px]]
+
+Deconstruction is easy. Simply stick items into the destructive analyzer and turn it on. It is possible to eject items from the deconstructive analyzer if, say, security notices their missing Jugde revolvers. As always, experiment! Some technology on the station is just so basic that the analyzer won't even bother with it, but things like bruise packs, flashbangs, and some of the odds and ends in your very lab will all work.
+
+The funny thing is that you can get all levels of research (Materials, Power, etc.) as high as 5 or higher, only using components found in your lab, and your prolathe/circuit imprinter. You don't even have to leave your lab. You just have to find how.
+
+
+= List of Destructible Items =
+You'll only advance one level at a time per item, and only if the tech level is equal or greater than your current research level. Higher research levels will allow additional items to be created using the [[Protolathe]] and [[Circuit Imprinter]].
+
+{| class="wikitable sortable" border="1" style="margin: 1em auto 1em auto"
+|+ Sortable table
+|+ (Hold SHIFT to sort multiple rows)
+|-
+! scope="col" | Item Name
+! scope="col" | Materials
+! scope="col" | Engineering
+! scope="col" | Plasma
+! scope="col" | Power
+! scope="col" | Blue-Space
+! scope="col" | Biological
+! scope="col" | Combat
+! scope="col" | Electromagnetic
+! scope="col" | Data Theory
+! scope="col" | Illegal
+|-
+| Analyzer || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0
+|-
+| Capacitor || 0 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Micro-Laser || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0
+|-
+| Scanning Module || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0
+|-
+| Micro-Manipulator || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0
+|-
+| Tracking Beacon || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 0 || 0 || 0
+|-
+| Super Matter Bin || 5 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Uranium || 5 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Diamond || 6 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Plasma || 2 || 0 || 2 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Gold || 4 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Silver || 3 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Toolbox || 0 || 0 || 0 || 0 || 0 || 0 || 1 || 0 || 0 || 0
+|-
+| Flamethrower || 0 || 0 || 1 || 0 || 0 || 0 || 1 || 0 || 0 || 0
+|-
+| High-Capacity Power Cell || 0 || 0 || 0 || 2 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Soul Stone Shard || 4 || 0 || 0 || 0 || 4 || 0 || 0 || 0 || 0 || 0
+|-
+| Crowbar || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Wirecutters || 1 || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Wrench || 1 || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Crowbar || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|-
+| Welding Tool || 0 || 1 || 0 || 0 || 0 || 0 || 0 || 0 || 0 || 0
+|}
+
+''You can always contribute to this list, as well!''
+
+''Adding in Bay's DA list, so that we have it''
+
+{{toc_right}}
+
+[[File:Destructive analyzer.gif|100px]]
+
+Deconstruction is easy. Simply stick items into the destructive analyzer and turn it on. It is possible to eject items from the deconstructive analyzer if, say, security notices their missing laser guns. As always, experiment! Some technology on the station is just so basic that the analyzer won't even bother with it, but things like bruise packs, flashbangs, and some of the odds and ends in your very lab will all work.
+
+The Destructive analyzer can be [[Research_Director#Upgrading_the_station|upgraded]]; improving it.
+
+= List of Destructible Items =
+You'll only advance one level at a time per item, and only if the tech level is equal or greater than your current research level. Higher research levels will allow additional items to be created using the [[Protolathe]] and [[Circuit Imprinter]].
+
+See [[Template:DA_Item]] for instructions on how to add a new item.
+{| class="wikitable sortable" border="1" style="margin: 1em auto 1em auto"
+|+ (Hold SHIFT to sort multiple rows)
+! Item Name !! Materials !! Engineering !! Phoron !! Power !! Blue-space !! Biological !! Combat !! Electro-magnetic !! Data Theory !! Illegal
+{{DA Item | name=Soul Stone Shard| m=4 | e=0 | pl=0 | pow=0 | bs=4 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Analyzer| m=0 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name='Antimov' core AI module | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name='Asimov' Core AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='Corporate' Core AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name= 'Drone' core AI module| m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='Freeform' AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name='Freeform' Core AI Module| m=6 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='NT Default' Core AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='OneHuman' AI module| m=6 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='OxygenIsToxicToHumans' AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='P.A.L.A.D.I.N' core AI module | m=6 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='Purge' AI module | m=6 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='ProtectStation' AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='PrototypeEngineOffline' AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='Quarantine' AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='Reset' AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='Robocop' core AI module | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name='Safeguard' AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='TeleporterOffline' AI Module | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name='T.Y.R.A.N.T.' core AI module | m=6 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=2}}
+{{DA Item | name=Advanced Capacitor | m=0 | e=0 | pl=0 | pow=3 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Advanced Energy Gun | m=5 | e=0 | pl=0 | pow=3 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Advanced Laser Scalpel| m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Advanced Matter Bin | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Advanced Scanning Module | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=0}}
+{{DA Item | name=Advanced burn kit | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Advanced Mining Drill | m=2 | e=2 | pl=0 | pow=3 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Advanced trauma kit| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Agent ID card | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Ammunition Box (9mm) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Ammunition Box (.45) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Analyzer | m=0 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Ansible Crystal | m=4 | e=0 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=4 | dt=0 | i=0}}
+{{DA Item | name=Armor (Chameleon Suit) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Armor Booster Module (Close Combat Weaponry) (Exosuit-mounted) | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Armor Booster Module (Ranged Weaponry) (Exosuit-mounted) | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Autopsy scanner | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Axe | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Backpack (Chameleon Backpack) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Bag of holding | m=0 | e=0 | pl=0 | pow=0 | bs=4 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Binary Encryption Key| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Biological demolecularisor | m=4 | e=0 | pl=0 | pow=3 | bs=0 | bio=0 | c=5 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Black gloves (Chameleon Gloves) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Black Jumpsuit (Chameleon Jumpsuit) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Black shoes (Chameleon Shoes)| m=0 | e=0 | pl=0 | pow=0 | bs=3 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Blue-space tomato | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Brain | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=3 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Broken cryptographic sequencer | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=0 | i=2}}
+{{DA Item | name=Brown shoes (No-Slip Syndie Shoes) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Bruise pack | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Butcher's Cleaver | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=C-20r SMG | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Camera | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Capacitor | m=0 | e=0 | pl=0 | pow=1 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Carbonaceous rock | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Cardboard | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Carp delivery grenade | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=4 | dt=0 | i=4}}
+{{DA Item | name=Cautery | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=4 | dt=0 | i=0}}
+{{DA Item | name=CH-LC 'Solaris' Laser Cannon (Exosuit Mounted)| m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Chain of command | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=4 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Chameleon-projector | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=4 | dt=0 | i=4}}
+{{DA Item | name=Charged slime core | m=0 | e=0 | pl=0 | pow=2 | bs=0 | bio=4 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Chem sprayer | m=3 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Circuit board (AI core) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (AI integrity Restorer) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (AI Upload) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Arcade) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=1 | i=0}}
+{{DA Item | name=Circuit board (Area Air Control) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Atmospheric Alarm) | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Atmospherics Alert Console)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Atmospherics Monitoring Console)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Autolathe) | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit Board(Cell rack PSU) | m=0 | e=2 | pl=0 | pow=3 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Circuit board (BioGenerator )| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit Board (Bubble shield generator) | m=0 | e=0 | pl=3 | pow=0 | bs=4 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Circuit Board (Bus Mainframe) | m=0 | e=4 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Security Camera Monitor) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Secure Airlock Electronics)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Circuit Imprinter) | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Clone Pod) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=3 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Cloning Scanner) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Cloning Control Console) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=3 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Command And Communications Console) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Crew monitoring computer) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=2 | dt=3 | i=0}}
+{{DA Item | name=Circuit Board (Cryogenic Oversight Console) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Cyborg Recharge Station)| m=0 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Cyborg Upload) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Destructive Analyzer) | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Disposal) | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Circuit board (DNA Machine) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Drone Control Console) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Durand Central Control)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Durand Peripherals Control)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Durand Weapon Control and Targeting module) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=4 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Employment Records Console)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Engineering shuttle) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Exosuit Control Console )| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Exosuit Fabricator) | m=0 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit Board (Fauna Reconstitution Console) | m=6 | e=0 | pl=0 | pow=0 | bs=0 | bio=4 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Fire Alarm) | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Circuit board (Flora Reconstitution Console) | m=6 | e=0 | pl=0 | pow=0 | bs=0 | bio=4 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit Board (Gas Cooling System) | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Circuit Board (Gas Heating System) | m=0 | e=1 | pl=0 | pow=2 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Circuit board (Gygax Central Control)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Gygax Peripherals control)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Gygax Weapon Control and Targeting module) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=4 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Holodeck Control) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (H.O.N.K central control )| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (H.O.N.K peripherals control )| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit Board (Hub Mainframe) | m=0 | e=4 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Hull shield generator) | m=0 | e=0 | pl=3 | pow=0 | bs=4 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Circuit board (ID Card Modification Console| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Light Switch) | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Circuit board (Mech Bay Power Control Console) | m=0 | e=0 | pl=0 | pow=3 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Medical Records Console)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Messaging Monitor Console) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Mining shuttle) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Odysseus Central Control)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Odysseus Peripherals Control)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit Board (MRSPACMAN-type Generator) | m=0 | e=5 | pl=0 | pow=5 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Patient Monitoring Computer) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit Board (PACMAN-type Generator) | m=0 | e=3 | pl=3 | pow=3 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit Board (PACMANII-type Generator) | m=0 | e=3 | pl=3 | pow=4 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (PanD.E.M.I.C. 2200) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Power Monitoring Console)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Prison Shuttle) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Prisoner Management Console )| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit Board (Processor Unit) | m=0 | e=4 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Protolathe) | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (R&D Control Console)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit Board (R&D Server) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (R&D server Control Console)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (RCON Remote  Control Console)| m=0 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit Board (Relay Mainframe) | m=0 | e=4 | pl=0 | pow=0 | bs=3 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Research Shuttle) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Ripley Central Control )| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Ripley Peripherals )| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Robotics Control Console) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (RUST core controller) | m=0 | e=4 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (RUST fuel controller) | m=0 | e=4 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Security Records Console)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Shield capacitor) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Circuit Board (SMES Cell) | m=0 | e=4 | pl=0 | pow=6 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Circuit board (Solar Control) | m=0 | e=0 | pl=0 | pow=2 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Status Display) | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit Board (Subspace Broadcaster) | m=0 | e=4 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit Board (Subspace Receiver) | m=0 | e=3 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit Board (SUPERPACMAN-type Generator) | m=0 | e=4 | pl=0 | pow=4 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Supply ordering console) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Supply Controlconsole) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Telecommunications Monitor Console) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit Board (Telecommunications Server Mainframe) | m=0 | e=4 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Circuit board (Telecommunications Server Monitoring Console) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Telecommunications Traffic Control) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Circuit board (Teleporter) | m=0 | e=0 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circuit board (Teleporter Console) | m=0 | e=0 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Circular saw | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Classic emp grenade | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=4}}
+{{DA Item | name=Cloaking device | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=0}}
+{{DA Item | name=Cloth | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Combat shotgun | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Compressed Matter Cartridge | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Console Screen | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Crowbar | m=0 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Cryptographic sequencer | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=0 | i=3}}
+{{DA Item | name=Cyborg analyzer | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Cypherkey | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Dart cartridge | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Deathnettle | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Debugger | m=0 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Desert eagle (Chameleon Gun) | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=8}}
+{{DA Item | name=Delivery grenade | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=4 | dt=0 | i=0}}
+{{DA Item | name=Diamond Drill (Exosuit Equipment) | m=4 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Diamond Mining Drill | m=6 | e=5 | pl=0 | pow=4 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Diamond ore | m=6 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Diamond Pickaxe | m=6 | e=4 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Diamond | m=6 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Double-barreled shotgun | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Double-bladed energy sword | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Durand Arms/Legs | m=3 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Durand Armour Plates | m=5 | e=5 | pl=0 | pow=0 | bs=0 | bio=0 | c=4 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Durand Head | m=3 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=2 | i=0}}
+{{DA Item | name=Durand Torso | m=3 | e=3 | pl=0 | pow=0 | bs=0 | bio=3 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Emp grenade | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=0}}
+{{DA Item | name=Energy axe | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Energy combat shield | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=4}}
+{{DA Item | name=Energy gun | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Energy Relay(Exosuit Mounted) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=4 | dt=0 | i=2}}
+{{DA Item | name=Energy sword | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=4}}
+{{DA Item | name=Enriched uranium | m=5 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=ExoNuclear Reactor (Exosuit-mounted) | m=0 | e=3 | pl=0 | pow=3 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Exosuit tracking beacon | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=2 | i=0}}
+{{DA Item | name=Experimental Welding Tool | m=0 | e=4 | pl=3 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=eZ-13 mk2 Heavy pulse rifle (Exosuit-mounted)| m=3 | e=0 | pl=0 | pow=4 | bs=0 | bio=0 | c=6 | em=0 | dt=0 | i=0}}
+{{DA Item | name=FixOVein | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=3 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Flamethrower | m=0 | e=0 | pl=1 | pow=0 | bs=0 | bio=0 | c=1 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Flash | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=1 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Flashbang | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=1 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Floral Somatoray | m=2 | e=0 | pl=0 | pow=3 | bs=0 | bio=3 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Fork / Knife / Spoon | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Gas mask (Chameleon Mask) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Gas mask (Voice Changer)| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=4}}
+{{DA Item | name=Glass | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Gold | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Golden Pickaxe | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Grass tile | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Gravitational Catapult (Exosuit-mounted)| m=0 | e=0 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=3 | dt=0 | i=0}}
+{{DA Item | name=Grey cap (Chameleon Hat) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Gygax Arms/Legs | m=2 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Gygax Armour Plates | m=6 | e=5 | pl=0 | pow=0 | bs=0 | bio=0 | c=4 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Gygax Head | m=2 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=2 | i=0}}
+{{DA Item | name=Gygax Torso | m=2 | e=3 | pl=0 | pow=0 | bs=0 | bio=3 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Gyrojet pistal | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Hacked AI module | m=6 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=7}}
+{{DA Item | name=Hand tele | m=0 | e=0 | pl=0 | pow=0 | bs=3 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Hatchet | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=1 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Handcuffs | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Health Analyzer | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Heavy-duty power cell | m=0 | e=0 | pl=0 | pow=2 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Hematite | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Hemostat | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=High-capacity power cell (15,000) | m=0 | e=0 | pl=0 | pow=2 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=High-Power Micro-laser | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=0}}
+{{DA Item | name=HUD | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=3 | dt=0 | i=0}}
+{{DA Item | name=Hyperwave filter | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=4 | i=0}}
+{{DA Item | name=Igniter | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Improved Laser Scalepl| m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Impure silicates | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Infrared emitter | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Infrared Sensor | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Industrial welding tool | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=InteliCard | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Internal circuitry (RUST fuel compressor) | m=6 | e=0 | pl=4 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Internal circuitry (RUST fuel port) | m=5 | e=4 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Internal circuitry (RUST fuel injector) | m=6 | e=4 | pl=4 | pow=3 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Internal circuitry (RUST tokamak core) | m=0 | e=0 | pl=4 | pow=6 | bs=3 | bio=0 | c=0 | em=5 | dt=0 | i=0}}
+{{DA Item | name=Ion rifle | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=4 | dt=0 | i=0}}
+{{DA Item | name=Iron ore | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Iron | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Kitchen knife | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=L6 SAW | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=5 | em=0 | dt=0 | i=2}}
+{{DA Item | name=L. W. A. P. Sniper Rifle | m=5 | e=0 | pl=0 | pow=4 | bs=0 | bio=0 | c=6 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Large Chem Grenade | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Laser Cannon | m=3 | e=0 | pl=0 | pow=3 | bs=0 | bio=0 | c=4 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Laser carbine | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Laser-scalpel | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Laser tag gun | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=1 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Leather | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Light replacer | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=0}}
+{{DA Item | name=Locator | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Magazine (12mm) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Magazine (.50) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Magazine (9mm) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Magazine (a762) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Manhack delivery grenade | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=4 | dt=0 | i=4}}
+{{DA Item | name=Man-machine interface | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=3 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Match | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Mateba | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Matter Bin | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Metal | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Metallic hydrogen | m=6 | e=0 | pl=0 | pow=5 | bs=0 | bio=0 | c=0 | em=5 | dt=0 | i=0}}
+{{DA Item | name=Micro-laser | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Micro-Manipulator | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=1 | i=0}}
+{{DA Item | name=Mind batterer | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=3 | dt=0 | i=3}}
+{{DA Item | name=Mini energy-crossbow | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=2 | dt=0 | i=5}}
+{{DA Item | name=Mini-Uzi | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=5 | em=0 | dt=0 | i=0}}
+{{DA Item | name=MkIV Ion Heavy Cannon (Exosuit Mounted)| m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Mounted RCD | m=4 | e=0 | pl=0 | pow=4 | bs=3 | bio=0 | c=0 | em=4 | dt=0 | i=0}}
+{{DA Item | name=Mounted Sleeper | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=3 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Mousetrap | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=1 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Multitool | m=0 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Nano-Manipulator | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Nanopaste | m=4 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Native gold ore | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Native silver ore | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Nettle | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=1 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Neural Lace | m=4 | e=0 | pl=0 | pow=0 | bs=0 | bio=4 | c=0 | em=2 | dt=3 | i=0}}
+{{DA Item | name=Night Vision Goggles| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=0 | i=0}}
+{{DA Item | name=NT Mk58| m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Odysseus Arms/Legs | m=2 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Odysseus Head | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Odysseus Torso | m=2 | e=2 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Ointment | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Optical material scanner | m=0 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=0}}
+{{DA Item | name=Optical meson scanner | m=0 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Optical meson scanner (Traitor Item) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=4}}
+{{DA Item | name=Optical meson scanner (Chameleon Glasses) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=3}}
+{{DA Item | name=Optical thermal scanner | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=0 | i=0}}
+{{DA Item | name=Ore detector | m=0 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Osmium | m=5 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Passenger compartment | m=0 | e=1 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Paralysis pen | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=5}}
+{{DA Item | name=Personal AI device | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Phazon Arms | m=5 | e=0 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Phazon Chassis | m=7 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Phazon Head | m=5 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=6 | dt=4 | i=0}}
+{{DA Item | name=Phazon Legs | m=5 | e=0 | pl=0 | pow=0 | bs=3 | bio=0 | c=0 | em=3 | dt=0 | i=0}}
+{{DA Item | name=Phazon Torso | m=7 | e=0 | pl=0 | pow=6 | bs=6 | bio=0 | c=0 | em=0 | dt=5 | i=0}}
+{{DA Item | name=Phoron crystals | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Phoron glass | m=3 | e=0 | pl=2 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Phoron Generator (Exosuit-Mounted) | m=0 | e=1 | pl=2 | pow=2 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Phoron pistol | m=0 | e=0 | pl=4 | pow=0 | bs=0 | bio=0 | c=5 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Pickaxe | m=1 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Pitchblende | m=5 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Platinum | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Plasma Converter | m=0 | e=1 | pl=2 | pow=2 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Plasma Cutter | m=4 | e=3 | pl=3 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Plasteel | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Plastic | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Plastic Explosives | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=2}}
+{{DA Item | name=Portable suit cooling unit | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Potato battery | m=0 | e=0 | pl=0 | pow=1 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Positronic brain | m=4 | e=4 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=0 | dt=4 | i=0}}
+{{DA Item | name=Power cell (1000) | m=0 | e=0 | pl=0 | pow=1 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Power sink | m=0 | e=0 | pl=0 | pow=3 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=5}}
+{{DA Item | name=Proximity sensor | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Rapid construction device (RCD) | m=2 | e=4 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Reagent Injector | m=0 | e=0 | pl=2 | pow=2 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Reinforced glass | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Reinforced phoron glass | m=4 | e=0 | pl=2 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Remote signaling device | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Repair Droid (Exosuit-mounted) | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=3 | dt=3 | i=0}}
+{{DA Item | name=Retractor | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Revolver | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Riot shield | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Ripley Arms/Legs | m=2 | e=2 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Ripley Torso | m=2 | e=2 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=2 | i=0}}
+{{DA Item | name=Rocket launcher | m=5 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=8 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Roll of gauze | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Russian Revolver | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Sand | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Sandstone brick | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Scalpel | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Scanning Module | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Scroll of teleportation | m=0 | e=0 | pl=0 | pow=0 | bs=4 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Scythe | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Secure airlock electronics | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=3 | i=0}}
+{{DA Item | name=Shotgun | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=4 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Shovel | m=1 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Silenced Pistol | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=8}}
+{{DA Item | name=Silver Pickaxe | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Silver | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Slime extract | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=4 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Slime scanner | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Solid phoron | m=2 | e=0 | pl=2 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Sonic Jackhammer | m=3 | e=2 | pl=0 | pow=2 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Soul Stone Shard | m=4 | e=0 | pl=0 | pow=0 | bs=4 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Spy Bug | m=0 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=1 | i=3}}
+{{DA Item | name=Station bounced radio | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Stechtkin pistol | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=2}}
+{{DA Item | name=Strange Rock | m=5 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=[[Stun Baton]] | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=2 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Stun Revolver | m=3 | e=0 | pl=0 | pow=2 | bs=0 | bio=0 | c=3 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Submachine Gun | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=4 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Subspace Amplifier | m=4 | e=0 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=4 | dt=3 | i=0}}
+{{DA Item | name=Subspace Ansible | m=4 | e=0 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=5 | dt=3 | i=0}}
+{{DA Item | name=Subspace Transmitter | m=5 | e=0 | pl=0 | pow=0 | bs=3 | bio=0 | c=0 | em=5 | dt=0 | i=0}}
+{{DA Item | name=Subspace treatment disk | m=5 | e=0 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=2 | dt=3 | i=0}}
+{{DA Item | name=Subspace wavelength analyzer | m=4 | e=0 | pl=0 | pow=0 | bs=2 | bio=0 | c=0 | em=4 | dt=3 | i=0}}
+{{DA Item | name=Surgical drill | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=1 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Suspicious beacon | m=0 | e=0 | pl=0 | pow=0 | bs=1 | bio=0 | c=0 | em=0 | dt=0 | i=7}}
+{{DA Item | name=Suspicious looking toolbox | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=1 | em=0 | dt=0 | i=1}}
+{{DA Item | name=Synthetic flash | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=1 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Syntiflesh | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=2 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Syringe Gun (Exosuit-mounted) | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=4 | c=0 | em=4 | dt=3 | i=0}}
+{{DA Item | name=Syringe Gun Revolver| m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=1 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Teleporter (Exosuit-mounted) | m=0 | e=0 | pl=0 | pow=0 | bs=10 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Temperature Gun | m=4 | e=0 | pl=0 | pow=3 | bs=0 | bio=0 | c=3 | em=2 | dt=0 | i=0}}
+{{DA Item | name=Timer | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Toolbox | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=1 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Tower-cap log | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Tracking Beacon | m=0 | e=0 | pl=0 | pow=0| bs=1 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Tritium | m=5 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=T-ray scanner | m=0 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Ultra-high-power micro-laser | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Upgraded welding tool | m=0 | e=3 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Uranium | m=5 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Uzi | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=5 | em=0 | dt=0 | i=8}}
+{{DA Item | name=Voice analyzer | m=0 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=1 | dt=0 | i=0}}
+{{DA Item | name=Welding tool | m=0 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Wire cutters | m=1 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Wooden plank | m=1 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Wormhole Generator (Exosuit-mounted) | m=0 | e=0 | pl=0 | pow=0 | bs=3 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=Wrench | m=1 | e=1 | pl=0 | pow=0 | bs=0 | bio=0 | c=0 | em=0 | dt=0 | i=0}}
+{{DA Item | name=WT 550 Saber | m=2 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=5 | em=0 | dt=0 | i=0}}
+{{DA Item | name=X-ray laser gun | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=5 | em=2 | dt=0 | i=2}}
+{{DA Item | name=Z8 Bulldog | m=3 | e=0 | pl=0 | pow=0 | bs=0 | bio=0 | c=8 | em=0 | dt=0 | i=0}}
+
+|}

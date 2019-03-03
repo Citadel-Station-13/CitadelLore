@@ -1,0 +1,541 @@
+This is a table of purpose-made ranged weaponry available in the game. The list may not perfectly represent the current state of the game, as the weapons may be rebalanced but the page may not be updated to reflect this for some time.
+
+==Sidearms (Ballistic)==
+Ballistic weapons remain a popular weapon in the 26th century, typically however Nanotrasen prefer the usage of Energy weapons over Ballistic weapons, so don't expect to see many ballistic weapons on station.
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+|-
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Icon
+! scope="col" style='background-color:#F0DC82;'|Item
+! scope="col" style='background-color:#F0DC82;'|Ammo
+! scope="col" style='background-color:#F0DC82;'|Capacity
+! scope="col" style='background-color:#F0DC82;'|Damage & Effects
+! scope="col" style='background-color:#F0DC82;'|How to Acquire
+! scope="col" style='background-color:#F0DC82;'|Faction Usage
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Notes
+|-
+
+![[File:Deagle.gif|64px]]
+!{{anchor|Desert Eagle}}Desert Eagle
+|[[File:Ammo 50.png|64px]]<br>.50
+|7 Rounds
+|60 Brute
+|Summon guns, can spawn in the secure contraband locker on metastation.
+|Emergency Response Team|Nanotrasen
+|Comes in three tasteful variants. Normal, gold and camo gold. Hope for the gold gun. 7 Rounds of pure mlg; spare ammo available nowhere.
+|-
+
+![[File:Mateba.png|64px]] 
+!{{anchor|Mateba}}Mateba
+|[[File:357 speedloader.png|64px]]<br>.357
+|7 Rounds
+|60 Brute
+|[[Syndicate Uplink]] and summon guns.
+|Nanotrasen
+|All in all the syndicate revolver, but for death squad and emergency response team officers.
+|-
+
+![[File:Revolver.png|64px]] 
+!{{anchor|Revolver}}Revolver
+|[[File:357 speedloader.png|64px]]<br>.357
+|7 Rounds
+|60 Brute
+|[[Syndicate Uplink]] and summon guns
+|Syndicate
+|Security (or generally anyone) will be quick to scream 'TRAITOR!' if they see you with one. You can get more ammo from hacked autolathes. Serve with a side of grenade to finish your foe off for good.
+|-
+
+![[File:Detectivegun.png|64px]]
+!{{anchor|Revolver}}Revolver
+|[[File:Ammo 38.png|64px]]<br>.38
+|6 Rounds
+|15 Brute + Knockdown
+|[[Detective]]'s locker or summon guns.
+|Security
+|Knocks down targets, causing some minor damage. Can be modified to fire .357, but may break with the modification.
+|-
+
+![[File:Stetchkin.png|64px]]
+!{{anchor|Syringe Gun}}Stetchkin Pistol
+|[[File:Ammo 9mm.png|64px]]<br>10mm
+|8 rounds
+|30 Brute
+|[[Syndicate Uplink]].
+|Syndicate
+|The [[Syndicate guide|nuke op]]'s weapon last resort; spend telecrystals on something better. Small enough to fit in pockets. One of the few guns that takes the universal silencer.
+|-
+
+![[File:Revolver.png|64px]]
+!{{anchor|Russian Revolver}}Russian Revolver
+|[[File:357 speedloader.png|64px]]<br>.357
+|1 round. Can load up to 6.
+|60 Brute<br>300 Brute when used on self
+|[[MetaStation]]
+|Old Russia
+|A Russian made revolver. Uses .357 ammo. It has a single slot in its chamber for a bullet. A gun to play Russian Roulette! You can spin the chamber to randomize the position of the bullet.  True men aim for the head.
+|-
+|}
+
+==Sidearms (Energy)==
+Energy weapons are among the most common kind of weapon you'll find on a Nanotrasen space station. Reliable but has issues with ammo.
+
+===Energy Based===
+
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+|-
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Icon
+! scope="col" style='background-color:#F0DC82;'|Item
+! scope="col" style='background-color:#F0DC82;'|Ammo
+! scope="col" style='background-color:#F0DC82;'|Capacity
+! scope="col" style='background-color:#F0DC82;'|Damage & Effects
+! scope="col" style='background-color:#F0DC82;'|How to Acquire
+! scope="col" style='background-color:#F0DC82;'|Faction Usage
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Notes
+|-
+
+![[File:Hybrid taser.gif|64px]]
+!{{anchor|Taser}}Taser
+|[[File:Recharger.gif|64px]]<br>Energy
+|5 Electrodes
+|Stun target
+|[[Armory]], taser crates and summon guns.
+|Security
+|If you're trying to kill someone, stun, then beat the living daylights out of them.
+|-
+
+![[File:Ebow.png|64px]]
+!{{anchor|Energy Crossbow}}Energy Crossbow
+|[[File:Powercell.png|64px]]<br>Energy (Self-Charging)
+|Infinite Bolts (needs to cooldown after shooting)
+|10 Toxin + Stun
+|[[Syndicate Uplink]].
+|Syndicate
+|The syndicate's energy crossbow, small, silent and deadly. It's worth noting that the stun is shorter than the standard taser gun.
+|-
+
+|}
+
+===Pulse Based===
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+|-
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Icon
+! scope="col" style='background-color:#F0DC82;'|Item
+! scope="col" style='background-color:#F0DC82;'|Ammo
+! scope="col" style='background-color:#F0DC82;'|Capacity
+! scope="col" style='background-color:#F0DC82;'|Damage & Effects
+! scope="col" style='background-color:#F0DC82;'|How to Acquire
+! scope="col" style='background-color:#F0DC82;'|Faction Usage
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Notes
+|-
+
+![[File:Pulsepistol.png|64px]]
+!{{anchor|Pulse Pistol}}Pulse Pistol
+|[[File:Recharger.gif|64px]]<br>Energy
+|5 Pulse, 10 Laser, 10 Stun
+|50 Burn
+|Emergency Response Team
+|Nanotrasen
+|A sidearm based on the Pulse Rifle. Is capable of fitting inside pockets and other small places but has a very limited ammo capacity. Issued to all Elite Emergency Response Team personal.
+|}
+
+==Longarm (Ballistic)==
+
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+|-
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Icon
+! scope="col" style='background-color:#F0DC82;'|Item
+! scope="col" style='background-color:#F0DC82;'|Ammo
+! scope="col" style='background-color:#F0DC82;'|Capacity
+! scope="col" style='background-color:#F0DC82;'|Damage & Effects
+! scope="col" style='background-color:#F0DC82;'|How to Acquire
+! scope="col" style='background-color:#F0DC82;'|Faction Usage
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Notes
+|-
+===Automatic===
+
+![[File:C20r.png|64px]]
+!{{anchor|C20r SMG}}C20r SMG
+|[[File:12mmMag.png|64px]]<br>12mm
+|20 Rounds
+|20 Brute + Knockdown
+|Can only be found in Nuke rounds, or with Summon guns.
+|Syndicate
+|It knocks the target down, similar to the detective's revolver, except chances are if you go down, you're not getting back up.
+|-
+
+![[File:Autorifle.png|64px]]
+!{{anchor|WT550 Automatic Rifle}}WT550 Automatic Rifle
+|[[File:46x30ammo.png|64px]]<br>4.6×30mm
+|20 Rounds
+|20 Brute
+|Security and Cargo.
+|Nanotrasen
+|A older rifle often used by paramilitary or high security forces. 
+|-
+
+![[File:L6machinegun.png|64px]]
+!{{anchor|L6 SAW}}L6 SAW
+|[[File:A762.png|64px]]<br>.762
+|50 Rounds
+|60 Brute
+|Nuke ops and summon guns only.
+|Syndicate
+|Holds the most ammo of any gun, 50 shots dealing 60 brute damage each, two good shots on someone and they're down.
+|-
+
+![[File:Uzi.png|64px]]
+!{{anchor|Uzi}}Uzi
+|[[File:Ammo 50.png|64px]]<br>9mm
+|32 rounds
+|20 Brute
+|Summon guns, Gang Wars
+|Gangs
+|A lightweight, fast firing gun, for when you want someone dead. Uses 9mm rounds.
+|-
+|}
+
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+|-
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Icon
+! scope="col" style='background-color:#F0DC82;'|Item
+! scope="col" style='background-color:#F0DC82;'|Ammo
+! scope="col" style='background-color:#F0DC82;'|Capacity
+! scope="col" style='background-color:#F0DC82;'|Damage & Effects
+! scope="col" style='background-color:#F0DC82;'|How to Acquire
+! scope="col" style='background-color:#F0DC82;'|Faction Usage
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Notes
+|-
+
+===Shotgun===
+![[File:Improvised_shotgun.png|64px]]
+!{{anchor|Improvised Shotgun}}Improvised Shotgun
+|[[File:Blank_shell.png|64px]]<br>12 Gauge shells
+|1 Shell
+|Depends on shell
+|Crafted
+|Civilian
+|A handcrafted shotgun made of scavenged materials.<br>
+To load shells, simply use the full shell on the shotgun; when you shoot a shell, you need to eject it manually by using the shotgun in your hand before shooting another.
+|-
+
+![[File:Doubleshotgun.png|64px]] [[File:Doubleshotgunsawnoff.png|64px]]
+!{{anchor|Double-Barrelled Shotgun}}Double-Barrelled Shotgun
+|[[File:Blank_shell.png|64px]]<br>12 Gauge shells
+|2 Shells
+|Depends on shell
+|[[Bar]].
+|Civilian
+|Easiest shotgun to get, yet the rarest. Only one starts on the station and the Bartender likes to keep it in case of bar fights. Can be sawn off with a circular saw (make sure it's not loaded). A sawn-off shotgun will fit in your backpack.<br>
+To load shells, simply use the full shell on the shotgun. Use it in hand to eject the shells.
+|-
+
+![[File:Riot_shotgun.png|64px]]
+!{{anchor|Shotgun}}Riot Shotgun
+|[[File:Blank_shell.png|64px]]<br>12 Gauge shells
+|6 Shells
+|Depends on shell
+|The Armoury and summon spells.
+|Security
+|A uncommon shotgun, typically only used in emergencies by Security or when facing someone with ranged energy protection. Is the only main shotgun on the station at round start sans the bartender's double barrel.<br>
+To load shells, simply use the full shell on the shotgun; when you shoot a shell, you need to eject it manually by using the shotgun in your hand before shooting another.
+|-
+
+![[File:Combatshotgun.png|64px]]
+!{{anchor|Combat Shotgun}}Combat Shotgun
+|[[File:Blank_shell.png|64px]]<br>12 Gauge Shells
+|8 Shells
+|Depends on shell
+|Ordered in [[Cargo]] and from [[Summon guns]].
+|Nanotrasen
+|The highest ammo capacity of any shotgun. Best of all, you don't need to manually eject shells after shooting.
+|-
+
+![[File:Bulldog.png|64px]]
+!{{anchor|Shotgun}}Bulldog
+|[[File:Blank_shell.png|64px]]<br>12 Gauge shells
+|8 Shells
+|Depends on drum
+|Uplink
+|Syndicate
+|A powerful semi-automatic, drum fed, shotgun employed by syndicate nuclear operative teams.
+|-
+
+![[File:short_combatshotgun.png|64px]]
+!{{anchor|Shotgun}}Compact Combat Shotgun
+|[[File:Blank_shell.png|64px]]<br>12 Gauge shells
+|4 Shells
+|Depends on shell
+|[[Warden]]s Locker
+|Security
+|Unique weapon held by the Warden. A compact version of the combat shotgun with a four shell capacity. Can fit in armor slots.
+|}
+
+===Shotgun Shells===
+* [[File:Buckshot_shell.png|32px]]'''Buckshot:''' Shoots 6 pellets dealing 12.5 brute damage each, for a maximum of 75. Extremely lethal at close range.
+* [[File:Bean_shell.png|32px]] '''Rubber Shot:''' Shoots 6 pellets dealing 3 brute and 25 stamina damage each. More effective at stopping a target, but stamina damage fades with time.
+* [[File:Bean_shell.png|32px]] '''Beanbag:''' Shoots one single beanbag, dealing 5 brute and 80 stamina damage. The bartender uses these by default.
+* [[File:Stun_Shell.png|32px]] '''Stun Shell:''' Shoots an electrode that stuns on hit, much like a taser.
+* [[File:Fire_shell.png|32px]] '''Incendiary Slug:''' Shoots a single projectile that leaves a fire trail and ignites the target, on top of 20 brute damage.
+* [[File:Tech_shell.png|32px]] '''Shotgun Dart:''' A single dart that can contain up to 30 units of chemicals that'll be injected on hit.
+* [[File:Tech_shell.png|32px]] '''Technological Shells:''' Unloaded technological shells can be made in a [[Guide to Research and Development|Protolathe]]. See [[Research items#Unloaded Technological Shell|here]] for the recipes.
+** [[File:Meteor_shell.png|32px]] '''Meteorshot Shell:''' A single powerful projectile, deals 30 brute damage and stuns for 8 seconds. Pushes back machinery on hit.
+** [[File:Pulse_shell.png|32px]] '''Pulse Slug:''' Works like one of the deathsquad's pulse rifle shots, dealing 50 burn damage and damaging or destroying walls and machinery.
+** [[File:Dragon_shell.png|32px]] '''Dragonsbreath Shell:''' Like the incendiary slug, but shoots a spread of 4 burning pellets. Deals less direct damage.
+** [[File:Frag_shell.png|32px]] '''FRAG-12 Slug:''' An explosive shell that knocks down targets and causes an explosion where it hits, on top of dealing 25 brute damage.
+** [[File:Ion_shell.png|32px]] '''Ion Scatter Shell:''' Shoots a spread of 4 ion bolts, each of which ions a single target instead of the 3x3 area hit by normal ion rifles.
+** [[File:Laser_shell.png|32px]] '''Laser Slug:''' Shoots a laser similar to a normal laser gun shot, dealing 20 burn damage.
+
+==Longarm (Energy)==
+
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+|-
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Icon
+! scope="col" style='background-color:#F0DC82;'|Item
+! scope="col" style='background-color:#F0DC82;'|Ammo
+! scope="col" style='background-color:#F0DC82;'|Capacity
+! scope="col" style='background-color:#F0DC82;'|Damage & Effects
+! scope="col" style='background-color:#F0DC82;'|How to Acquire
+! scope="col" style='background-color:#F0DC82;'|Faction Usage
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Notes
+|-
+===Laser Based===
+
+
+![[File:Laser gun.png|64px]]
+!{{anchor|Laser Gun}}Laser Gun
+|[[File:Recharger.gif|64px]]<br>Energy
+|10 Lasers
+|20 Burn
+|[[Armory]], weapons crates and summon guns.
+|Security
+|No real reason to use this over the energy gun as it is lethal ONLY.
+|-
+
+![[File:Laser Cannon.png|64px]]
+!{{anchor|Laser Cannon}}Laser Cannon
+|[[File:Recharger.gif|64px]]<br>Energy
+|10 Lasers
+|40 Burn
+|[[R&D Lab]] once researched first.
+|Nanotrasen
+|Must be researched first. This is the Laser Gun's bigger brother, fear him, he will fuck you over.
+|-
+
+![[File:Energy_Gun.gif|64px]]
+!{{anchor|Energy Gun}}Energy Gun
+|[[File:Recharger.gif|64px]]<br>Energy
+|10 Lasers, 20 Disable
+|20 Burn<br>Stun 
+|[[Armory]], Energy Weapons Crate or Summon guns.
+|Security
+|A versatile energy weapon. Best thing is to disable a target and then either handcuff (for arresting) or spam the other remaining shots at them on kill mode (for murder).
+|-
+
+![[File:Advegun.png|64px]]
+!{{anchor|Advanced Energy Gun}}Advanced Energy Gun
+|[[File:Powercell.png|64px]]<br>Energy
+|10 (recharges over time)
+|20 Burn/Stun target
+|[[R&D Lab]] once researched first.
+|Nanotrasen
+|Using advanced <s>wizardry</s> SCIENCE, a mini nuclear generator has been fitted into this gun to provide unlimited shots! Researched from R&D. Cannot be used in recharging units. Unreliable models may emit radiation, take caution.
+|-
+
+![[File:Antique laser.png|64px]]
+!{{anchor|Antique Laser Gun}}Antique Laser Gun
+|[[File:Recharger.gif|64px]]<br>Energy
+|12 (recharges over time)
+|20 Burn
+|[[Captain's Quarters]].
+|Nanotrasen
+|The prized weapon of the Captain, and the target of many enemy horses. Similar to the laser gun except it's recharged all by itself. ''They just don't make guns like they used to.''
+|-
+![[File:Multiphase_gun_stun.gif|64px]]
+!{{anchor|X-01 Multiphase Energy Gun}}X-01 Multiphase Energy Gun
+|[[File:Recharger.gif|64px]]<br>Energy
+|5 Stun, 10 Laser, 20 Disable
+|20 Burn
+|[[Head of Security]].
+|Nanotrasen
+|The first attempt by Nanotrasen to remake the Captain's Antique Laser. Has more firing modes on offer but lacks the ability to recharge.
+|-
+
+![[File:Ionrifle.png|64px]]
+!{{anchor|Ion Rifle}}Ion Rifle
+|[[File:Recharger.gif|64px]]<br>Energy
+|10 Ion Pulses
+|20 Brute to silicon mobs<br>Up to 90 damage to mechs<br>3x3 EMP
+|[[Armory]] and on the Nuclear Operative shuttle.
+|Security
+|Large and unwieldy, great for dealing with mechs. Cyborgs are weak to it: flashing cyborgs totally immobilizes them and it leaves you free to robust them to your heart's content.
+|-
+
+![[File:Retrolaser.png|64px]]
+!{{anchor|Retro Laser}}Retro Laser
+|[[File:Recharger.gif|64px]]<br>Energy
+|12 Lasers
+|20 Burn
+|[[White Ship]].
+|Unknown
+|Found on the white ship, this old beast is like the laser gun; anyone with a spaaaaaace suit and a little know-how can reach it.
+|-
+
+![[File:Tempgun.png|64px]]
+!{{anchor|Temperature Gun}}Temperature Gun
+|[[File:Recharger.gif|64px]]<br>Energy
+|40 Freeze/heat Beams
+|Heats/Cools target dependent upon the setting.
+|[[R&D Lab]] once researched first.
+|Nanotrasen
+|Another researched gun, if you can make this (more importantly, open that damn lockbox), chances are you can construct something better (read: laser cannon). Generally useless, except perhaps for killing slimes if you really don't want to get close.
+|-
+
+![[File:Xraygun.png|64px]]
+!{{anchor|X-Ray Gun}}X-Ray Gun
+|[[File:Recharger.gif|64px]]<br>Energy
+|20 Lasers
+|15 Burn + 30 Irradiate
+|[[R&D Lab]] once researched first.
+|Nanotrasen
+|This beams from this gun will pass through everything but a wall. While it does do less burn damage, the radiation it inflicts causes toxin damage and can make someone mutate. Great for shooting up crowded hallways. Kills blobs dead. Current range of the gun is 15 tiles and drops further with every obstacle passed by the beam.
+|}
+
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+|-
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Icon
+! scope="col" style='background-color:#F0DC82;'|Item
+! scope="col" style='background-color:#F0DC82;'|Ammo
+! scope="col" style='background-color:#F0DC82;'|Capacity
+! scope="col" style='background-color:#F0DC82;'|Damage & Effects
+! scope="col" style='background-color:#F0DC82;'|How to Acquire
+! scope="col" style='background-color:#F0DC82;'|Faction Usage
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Notes
+|-
+
+===Pulse Based===
+
+![[File:Pulserifle.png|64px]]
+!{{anchor|Pulse Rifle}}Pulse Rifle
+|[[File:Recharger.gif|64px]]<br>Energy
+|200 Pulse
+|50 Burn
+|Deathsquad
+|Nanotrasen
+|The most powerful energy weapon in existence. Bruteforces energy weapon's ammo problems by having a very large power source. Its pulse setting is capable of doing massive damage to a target as well as destroying cover and walls.
+|-
+
+![[File:Pulsecarbine.png|64px]]
+!{{anchor|Pulse Carbine}}Pulse Carbine
+|[[File:Recharger.gif|64px]]<br>Energy
+|10 Pulse, 20 Laser, 10 Stun
+|50 Burn
+|Emergency Response Team
+|Nanotrasen
+|A scaled down version of the Pulse Rifle, holds significantly less power than the Pulse Rifle but is capable of being placed inside bags. Issued to Elite Emergency Response Team Security personal.
+|-
+|}
+
+==Misc Weapons==
+
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+|-
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Icon
+! scope="col" style='background-color:#F0DC82;'|Item
+! scope="col" style='background-color:#F0DC82;'|Ammo
+! scope="col" style='background-color:#F0DC82;'|Capacity
+! scope="col" style='background-color:#F0DC82;'|Damage & Effects
+! scope="col" style='background-color:#F0DC82;'|How to Acquire
+! scope="col" style='background-color:#F0DC82;'|Faction Usage
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Notes
+|-
+
+![[File:Chem sprayer.png|64px]]
+!{{anchor|Chem Sprayer}}Chem Sprayer
+|Chemicals
+|600 units total
+* 150 units of Spore Toxin (Causes blindness)
+* 150 units of [[Cryptobiolin]]
+* 150 units of [[Unstable Mutagen]]
+* 150 units of [[Chloral Hydrate]]
+|Confusion, blindness, dizziness, knockout, and random mutations with the standard reagents.
+|Ordered via syndicate uplink, costs 10 telecrystals, only available to Nuclear Agents.
+|Syndicate
+|Think of it as a spray bottle. Except each spray is three tiles wide and can travel the entire screen. Generally kept away from players due to the potential of the lubepocalypse.
+|-
+
+
+![[File:Flamethrower.png|64px]]
+!{{anchor|Flamethrower}}Flamethrower
+|[[File:Plasma tank.png|64px]]<br>Gas of your choice
+|Depends on tank pressure
+|Depends on the gas
+|[[Makeshift weapons|Made by yourself]] or with a hacked [[Autolathe]]
+|Civilian
+|You are a firestarter! Allows for creative gas mixes if you know your atmos. An area denial tool, generally useful for making small areas uninhabitable for people, not so useful when trying to kill someone, as it's easy to run away.
+|-
+
+![[File:Sgun.png|64px]]
+!{{anchor|Syringe Gun}}Syringe Gun
+|[[File:Syringe.png|64px]]<br>Syringes
+|1 Syringe
+|6 Brute + 15u chemicals
+|[[Medbay Storage]].
+|Civilian
+|In fact, this is very robust. Think of it as a ranged hypospray.
+|-
+
+![[File:Rapidsyringegun.png|64px]]
+!{{anchor|Rapid Syringe Gun}}Rapid Syringe Gun
+|[[File:Syringe.png|64px]]<br>Syringes
+|6 Syringes
+|6 Brute + 15u chemicals
+|[[R&D Lab]] once researched first.
+|Nanotrasen
+|See the syringe gun, but take into account it holds six syringes. Can be made through researching them, and only costs metal and glass to make. This gun gives '''you''' the power to fuck over six people at once!
+|-
+
+|}
+
+==Admin Only Weapons==
+These weapons are currently restricted to admin spawn only, some may also appear in 'summon gun' events during a Wizard round however.
+
+{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
+|-
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Icon
+! scope="col" style='background-color:#F0DC82;'|Item
+! scope="col" style='background-color:#F0DC82;'|Ammo
+! scope="col" style='background-color:#F0DC82;'|Capacity
+! scope="col" style='background-color:#F0DC82;'|Damage & Effects
+! scope="col" style='background-color:#F0DC82;'|How to Acquire
+! scope="col" style='background-color:#F0DC82;'|Faction Usage
+! scope="col" class="unsortable" style='background-color:#F0DC82;'|Notes
+|-
+
+![[File:Automaticsilenced.png|64px]]
+!{{anchor|Silenced Pistol}}Silenced Pistol
+|[[File:Ammo 50.png|64px]]<br>.45
+|12 rounds
+|20 Brute + Knockdown
+|Away missions. Admins.
+|Admin
+|A small, quiet,  easily concealable gun. Uses .45 rounds.
+|-
+
+![[File:Tommy gun.png|64px]]
+!{{anchor|Tommy Gun}}Tommy Gun
+|[[File:Ammo 9mm.png|64px]]<br>9mm
+|50 rounds
+|20 Brute + Knockdown
+|Admins
+|Admin
+|A genuine Chicago Typewriter.
+|-
+
+![[File:Gyrogun.png|64px]]
+!{{anchor|Gyrojet Pistol}}Gyrojet Pistol
+|[[File:Ammo 75.png|64px]]<br>.75
+|8 Rounds
+|74 Brute from direct hit <br>24 from a tile away <br>explosion (-1, 0, 2)
+|Summon guns exclusive.
+|Admin
+|Delivers an explosion with every shot, plus you can afford to be less accurate with it, as the explosion hits 3x3, so it's great against groups.
+|}

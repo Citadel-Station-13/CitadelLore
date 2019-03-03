@@ -1,0 +1,164 @@
+{{GetStartedHeader}}
+
+= VOREStation Specific Things =
+So there are some specific features/settings we've added that you might not realize at first from playing on other servers, so here's a short list of features to be aware of:
+* You can eat other people (Aggressive grab, click eat-er with grabbed prey)
+* The AI can eat people (Hardlight Noms verb in Vore tab) when a hologram
+* Resleeving instead of cloning (No scans, implants instead, body swapping)
+* Extra food/drink items (People come up with new stuff allatime)
+* Extended only (Admins manually assign objectives, or host events instead of antags)
+* Different size characters. Larger characters stepping on smaller ones use intent to do different things, like grab with feet, pin down, and stomp on.
+* A bunch of stuff I'm probably forgetting.
+
+== OOC Notes ==
+[[File:OOCnotes.jpg|thumbnail|right|You see this button? Press it!]]
+This feature exists on Vorestation specifically so people can make their erotic roleplaying preferences (usually vore) known to other players in advance without awkward OOC discussion that disrupts the flow of a scene by wasting time to ask what the other person is into. OOC notes are required by the [[rules]] of the server to have, but a lot of people still don't put OOC notes that is actually useful, so this is here to explain what good OOC text looks like.
+
+Here's what '''everyone''' should at least have in their OOC notes:
+
+* Predator, Prey, Switch, or Observer.
+* Willing or Unwilling if you have a preference.
+** If applicable, a notice that you will fight back or call for help if eaten.
+* Whatever gender you prefer your partner to be, or whatever you want to avoid.
+* What kinds of vore you like and what kinds you won't do.
+** Favorites, especially as predator, are things you assume will be in every scene you can have them in.
+** Likes are things that you enjoy and will actively seek out.
+** Dislikes are things that you would never do normally.
+** Anything not listed is assumed neutral or that you haven't tried it before.
+* Anything else you think is worth noting.
+
+So with that in mind, here's an example of '''well written''' OOC notes:
+
+<pre>Prey, unwilling, will resist, will call for help.
+
+Prefers females, but males are fine too. No herms.
+
+Favorites: Anal vore, weight gain
+Likes: Oral vore
+Dislikes: Cockvore, scat
+
+Don't ask me for a scene in LOOC. Surprise and attack me if you're hungry. Just remember I'll call for help if I can, so try to prevent me from doing that.
+</pre>
+
+If you refuse to add ''any'' OOC notes, or they are vague such as "Find out IC", or "Anything goes", '''you do so at your own risk!''' Players are actually ''encouraged to abuse this'' when they see it. Obvious attempts at trolling are still punished, but some people ''seriously mean it'' when they say "anything goes" in their OOC notes. If you see a player with such OOC notes, think of it as an opportunity for you to experiment with the other player until hard likes or dislikes are found. Realistically though, most of you will probably just be put off by the more twisted stuff that some players can come up with, so having vague OOC notes is not advised, and is even viewed as inconsiderate to other players who don't want to risk upsetting you.
+
+Admins will not protect you from your own laziness if you do not update your OOC notes after discovering something you don't like.
+
+= How to eat people =
+*Change your intent to "Grab" (the yellow one on the bottom right of the intent square).
+*Click your target with an '''empty''' hand to passively grab them.
+*Click the "reinforce" button to upgrade the grab to aggressive (the yellow icon in your hand should turn to blue).
+*Keeping the hand with which you've grabbed them active, click on the whoever you want the predator to be. If you click on yourself, you'll eat them. If you click on a third party, you'll make them eat the person, and if you click on the person you've grabbed, you'll force them to eat you.
+
+For micros, the process is even simpler:
+*Click them with your intent set to "Help" (the default green setting, at the top left of the intent square) to pick them up.
+*Click on yourself / a third party to stuff them inside without any hassle.
+
+= The Vore Tab =
+This is the location of any vore-based commands you might need!
+
+== Vore Panel ==
+The vore panel displays a list of the bellies you've created on your character, allows you to save them, and also set up any preferences you might need (such as being indigestible if you have a strong preference against being digested).
+
+=== Bellies ===
+Bellies can be created and deleted on this panel (though only deleted if they are empty). You can also view the contents of the bellies, release individual people and items, and customize various settings about each belly.
+
+There are various belly modes that you can choose from, which are each listed below.
+
+* '''Hold''': This is the default belly mode for every belly. No action is taken on the items inside... they are simply held onto. This also protects those inside from hazards outside, such as space.
+* '''Digest''': This begins digesting the prey. They suffer brute and burn damage over time and will eventually die, at which point they'll be removed from the belly and leave behind any indigestible items.
+* '''Heal''': This mode slowly heals the prey inside. Keep in mind that this only heals brute and burn damage, only to external organs. It cannot heal toxin or suffocation damage, and will not prevent infections or diseases, nor heal internal organs. It's a good hold-over when taking someone to medical to keep them alive in the meantime.
+* '''Absorb''': Absorbing someone merges them into the flesh of the belly itself. Their name changes to purple once you have finished absorbing them, and people in the belly can no longer see them (unless they, too, are absorbed). Releasing 'All' the contents of a belly does not release absorbed people. Reagents are shared with absorbed people! Get your absorbed people drunk etc.
+* '''Transform''': The various transformation options will convert prey in that belly into the chosen option, such as male or female. Note that this mode is a bit buggy... SS13 is not great at changing characters after they are spawned-in.
+
+=== 'Inside' ===
+When you are inside a predator, the top of the vore panel will display the description of the pred's belly that you're held in, as well as anything you can see around you, such as items or other prey. You can interact with them by clicking on the buttons with their names.
+
+=== OOC Escape ===
+This option is to allow you to leave a predator. It should only be used in situations that call for it, such as a predator that has disconnected for a long time and left you stuck in there, or as a 'safeword' if they're breaking prefs. Using this inside a hostile mob will cause the mob to ignore you for vore purposes, and will instead maul the daylights out of you as soon as you escape. '''All online admins are notified when someone uses this button.''' 
+
+=== Toggling Digestibility ===
+This is an option for those who don't like digestion as a matter of preference, or have a character that's immune in some way but don't mind being in the same stomach as someone that ''is'' digestible. Because it's a preference thing, the admins are notified when someone uses this button. This is saved alongside your other vore/belly prefs. Please only use this if being digested is 'squick' for you. Don't set it to just avoid dying in general. Trying to use it to avoid being eaten by hostile mobs will result in them violently murdering you instead.
+
+= Vore and Medical =
+In general, people who have been partially digested have brute and burn damage in a 2:3 ratio and may have infections due to the proclivity of burns to generate them. They should be treated suchly. Medical staff should keep in mind that they aren't security, and while they can report obvious crimes, should prioritize the health of the crew over trying to start their own investigations into things.
+
+The hand health analyzer can tell you if there is a living creature inside another, though this could be anything from just a mouse to a human being. The body-scanner's more advanced sensors will tell you in more detail, giving a specific count of humanoid and non-humanoid creatures in the patient.
+
+Additionally, there are two drugs that can be used in the case of vore-crimes to extract still-alive prey from the predators:
+
+*'''Ickypak''': This causes the pred to suffer severe muscle contractions which typically forces prey out of their body.
+*'''Unsorbitol''': This causes preds to un-absorb prey, though they remain in the body, and such it needs to be coupled with Ickypak. Unsorbitol also prevents a predator from absorbing anything else while the drug is in their system.
+
+Both of these drugs have side-effects, often severe (though generally not life-threatening) and should only be used if absolutely necessary to preserve life.
+
+= Vore and Security =
+Below is a guide for both predators and prey about what they should and shouldn't do when playing as or being around Security.
+
+== Area-by-Area Response ==
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
+
+While some of these may have IC reasons as well (not patrolling dorms is an IC privacy issue for Nanotrasen), the below should be regarded as OOC instructions to you, the players.
+This also applies to ERP.
+
+The definition of a ‘'''Public Space'''’ is, in general:
+* An area provided for the '''continual''' use by '''several''' staff over the course of a shift, often with no access-restricted airlocks separating it from a main hallway.
+* E.g.: The bar, hallways, the atrium, the park areas, the holodeck, the tram, department common areas, anywhere easily visible from aforementioned
+* Security <span style="color:green;font-weight: bold;">SHOULD</span> patrol these areas as part of their routine duties, and <span style="color:orange;font-weight: bold;">MAY</span> offer vore criminals the opportunity in LOOC to move to a private space.
+
+The definition of a ‘'''Secluded Space'''’ is, in general:
+* An area not designed with continual habitation in mind, often not well lit, may or may not have access requirements, and sometimes with ‘privacy features’ like tint-windows.
+* E.g.: Maintenance corridors, secret rooms, offices with tinted windows, areas with no visibility from public spaces
+* Security <span style="color:orange;font-weight: bold;">MAY</span> patrol these areas with probable cause '''only''' (e.g. pursuit of criminal, missing persons, radio calls for help) or elevated security level (Blue or higher)
+*Security <span style="color:green;font-weight: bold;">MUST</span> offer vore criminals the opportunity in LOOC to move to a private space, and others <span style="color:green;font-weight: bold;">MUST</span> offer to ‘remain unaware’ of the scene in LOOC (e.g. character never ‘saw’ the crime, and if questioned later, the character might respond that they remember seeing X person in maintenance, but not what they were doing at the time). You can also decide to do this on your own without the need to ask if you don’t intend to report/arrest them anyway.
+
+The definition of a ‘'''Private Space'''’ is, in general:
+* Specially-defined OOC-protected area that has unique rules applied to it
+* E.g.: The dorms
+* Security <span style="color:red;font-weight: bold;">MUST NOT</span> patrol these areas without an explicit call for help from inside a specific private space or very concrete evidence that a criminal entered one (e.g. personally witnessing it).
+* Others <span style="color:red;font-weight: bold;">MUST NOT</span> enter these spaces when occupied unless invited or participating in an ongoing scene/roleplay (e.g. no welding through dorm walls for fun).
+* Others <span style="color:red;font-weight: bold;">MUST NOT</span> enter these spaces to evade security or punishment after committing a crime elsewhere.
+
+With any of these points, if there is any doubt when it comes to whether or not you should intervene, and what form that intervention should take, it can never hurt to use LOOC or adminhelp. Occasionally global OOC may be required in the event of a radio message getting out that you'd rather not have happened. This is especially important to do if there is suspicion that [[Rules#Metacomms.2C_metagaming.2C_multi-keying.2C_.28etc.29_are_not_allowed|metagaming]] may have taken place, which breaks server rules.
+
+'''NB:''' The term ‘vore criminal’ is used above to indicate someone committing a crime involving vore. However, if the potential criminal committed (for example) assault in public, then ran into maintenance to escape security and grab someone to eat in maintenance, this does not magically make them require LOOC prompting to move to a private space. They are still accountable for their other crimes.
+
+== Preds vs Security ==
+While unwilling vore is most certainly a crime (even if you don't digest them, it's still kidnapping!) ''players'' should still be OOCly lenient when it comes to prosecuting them. For instance, if someone would normally be serving 30 minutes, it's okay to OOCly 'timeskip' it and just ''pretend'' they served the full sentence rather than making them sit out of the game for... well, doing what we're all here for. However, as a predator, you shouldn't be lazy about how you go about abducting your potential snacks just because of that. <s>Predators should read the [[Unathi's Guide to Hunting Humans]] in the library for some good tips.</s> That's not done and nobody else wants to help write it. --[[User:Aces|Ace]] ([[User talk:Aces|talk]]) 13:26, 27 September 2017 (EDT)
+
+Remember that the AI can see you too. Although soft-vore is hard for the AI to notice as a problem, if the AI sees blood, expect a response from medical and security staff. So try to get in the habit of breaking cameras, or better yet, just stay where cameras can't see you, like deep in maintenance. [[Guide to Construction#Hidden Door|Preferably in a hidden room]].
+
+Security cannot legally interrogate predators about their contents ''without cause'', as this is considered a search, and can only be done when and where searches are legal. Searches legally include trying to force people to disclose the contents of things, and this extends to predators and their 'contents'.
+
+'''NB:''' Staff isn't supposed to have X-ray or thermal goggles because of Nanotrasen's privacy policy, so even if security finds you in an unwilling scene through such means, you can probably get the charges dropped by contacting CentCom.
+
+== Prey vs Security ==
+As unwilling prey, if you OOCly want to be eaten but ICly don't, it's good to "slip up" and forget you have your radio in the panic of the moment, or similar. '''At the very least, LOOC your predator and check before you just blurt out "HELP" over the radio or PDAs''' - for some of them, it's a bit of a moodkiller.
+
+After all, if you, the player, want an RP scene in which you get snatched and gobbled up, why make people jump through hoops to give you what you want? Likewise, once you're in a belly and your predator is running off - even if you do have your radio, maybe play it out like the signal's muffled, or surrounded by glorping noises, or you're panicked and don't know where you've been carried off to, or you didn't get a good look at whoever snatched you and dragged you into maintenance - all these things can be fun things to add to an unwilling scene without the torches and pitchforks mob beating a path to your door.
+
+== Caught with prey ==
+If security ''do'' get to a predator in time to rescue their hapless prey, and the predator doesn't ICly want to cough them up, there are a couple of things they can do. They can roleplay out holding them down while someone reaches an arm into the predator's throat or some other issue, or a chemist could give them certain drugs that would induce vomiting or force a predator who has absorbed their prey to un-absorb them.
+
+Be aware that '''''surgical'' extraction of prey is not supported by game mechanics''', and can be a preferences issue for some people. You can still ''roleplay'' like you're surgically removing a prey, but it's up to the predator to actually let them out or not.
+
+In some cases, Security will just have to accept that there's nothing they can do for a victim. If that's the case, escort the predator to a jail cell and arrest them normally while their victim gurgles.
+
+= Vore and Silicons =
+The [[AI]] and [[Cyborg]]s are both capable of getting involved in the action - AI by way of hardlight holograms, and some cyborg modules (specifically the K9 and other dogborg variants such as the medihound) are equipped with sleeper/stomach modules.
+
+Generally speaking, players are allowed a degree of freedom to "creatively" interpret their laws in a way that gives them an excuse to eat their partners in a scene. If it's kept private ICly, admins are unlikely to care if you outright decide that this shift you suffered some sort of "system glitch" that made you "malfunction" and devour that poor guy that just so happened to have an entry in his OOC notes about how he really likes to be eaten by robots then oh-so-coincidentally decided to hang around near a borg then walk into a secluded room.
+
+Some players find it more fun to stay within their laws and ''still'' go around eating people, so go ahead and have fun lawyering your way around them. Clearly if that willing prey over there enjoys being eaten, and you have a law to serve the crew's interests, then stuffing them in your face is not only allowed but possibly even ''required''. you have a law to protect the crew? Where's safer than inside an armoured steel chassis?
+
+The short version is that if it's for vore, we're unlikely to be mad unless you ''really'' push it with the law abuse. Much like unwilling vore for normal crewmembers, if it's private and stays in private it's almost certainly fine, it's only if it gets made public repeatedly that people are going find that your character is immersion-breaking.
+
+= Being Resleeved =
+There are restrictions on what you can and cannot remember about your past life / death, see the [[Rules]], but the reason for those is to make it so you don't abuse memory for revenge killings or screaming out the name of your predator to security.
+
+It's ''generally'' recommended that you have hazy IC memories of the circumstances leading immediately up to your death if it was unwilling vore - if nothing else, your predator has taken the time to give you a (presumably) enjoyable scene, so it's kinda a dick move to make them hide from security for the rest of the shift.
+
+A good way to play this is just remembering everything ''up until before your scene'' and nothing afterwards if you do get resleeved. This could be handwaved if it was a willing scene. Basically it's to allow noncon scenes to exist. So your last mind backup occurred 'conveniently' before your non-con scene, or perhaps at the end of your willing scene.
+
+[[Category:Guides]]
+[[Category:Rules]]

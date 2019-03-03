@@ -1,0 +1,48 @@
+{{SidebarJob|jobname=Atmospheric Technician|img_file=AtmosphericTechnician.png|tagline=My dreams are pipes|department=Engineering|access=Engineering, Atmospherics, EVA, Maintenance|duties=Assist engineers, repair pipes, optimize Atmospherics, fight fires|supervisors=Chief Engineer|difficulty=Medium}}
+As an '''Atmospheric Technician''', what you do is rather simple. Firstly, you get the station's [[Atmospherics]] up and running. Secondly, if there is any sort of environmental disaster, head off and fix it! You have your [[Engineering items|tools]], your [[headset|engineering headset]], two types of pipes, several space heaters, and [[Internals|atmospheric survival equipment]]. When things get quiet, sit back and start your own little projects, usually consisting of plotting ways to flood the station with a variety of toxic gases so that you can use said plans as a way to leverage other departments into recognizing the sovereignty of the great nation of Atmosia, then waiting for [[Security]] to come in and beat you silly.
+
+==[[Atmospherics]]==
+
+This is your home. This is your motherland. Atmosia loves you, and you love Atmosia. Treat her right, and she'll never leave you hanging.
+
+Atmosia is a beautiful land of pipes and various bits of atmospheric regulation equipment. Here, you'll find the pipes that distribute gas to the rest of the station, the means to control that gas, the supplies to keep that gas moving, breathable, and on the station rather than out in the vacuum of space, and the computers that will let you monitor the atmosphere on the whole station.
+
+At first glance, the tangled mess of pipes that is Atmosia proper can seem intimidating. Don't let that frighten you. Atmosia is not nearly as confusing as she seems - and she is well worth the effort.
+
+== Your Job ==
+{{Main|Guide to Atmospherics}}
+
+Your job is air. You keep the station breathing. Without you, this place would suffocate while sucking on hard vacuum. Or freeze to death. Or die of depressurization. Or catch on fire. Or poison itself with plasma. You get the picture.
+
+In more specific terms, though, you have two primary duties: keeping the station's atmospheric systems running at full capacity and taking care of any specific atmospheric problems that pop up on the station. This means that you refill areas that have been depressurized, drain areas that have overpressurized, filter out [[plasma|toxic gases]], fight fires, and any number of other things. See the [[Guide to Atmospherics]] for more details.
+
+=== Repressurization ===
+
+Repressurizing an area that has lost some of its atmosphere is the most common task you'll face as an Atmospheric Technician. Areas usually undergo depressurization when [[Meteor shower|something]] exposes them to the cold void of space. This causes all of its atmosphere to rush out, along with anything unlucky enough to be caught in the windstorm.
+
+After your [[Engineer|engineering buddies]] have taken care of a hull breach, it'll be your job to refill the area and make it breathable. This can be done by using the Air Alarms mounted on the walls in most areas, as well as the local vents and scrubbers. Atmosia, fortunately, is largely self-regulating; after a hull breach is sealed, the vents on the station will automatically begin replacing lost air as long as the pipes to the vents in the area are undamaged. This process is rather slow, however, so you'll mainly be called on when the area in question is [[Medbay|critical or high-traffic]], and you need it to be breathable ''now''.
+
+You have a variety of tools to aid you in repressurizing areas that have lost their air. The most critical of these are air canisters, which can simply be opened to allow air back into the room at an increased rate, and [[Portable air pump|portable air pumps]].
+
+=== Filtering and Depressurizing ===
+
+Less commonly, you'll be called on to filter out toxins from the air or drain an area that's become overpressurized. Removing excess atmosphere from a room is as simple as going to the air alarm and selecting the Draught setting (or Panic Syphon in extreme cases), then waiting for it to go back to green before switching back to Filter. 
+
+Getting rid of toxins, on the other hand, is usually more difficult. Setting the air alarm filters to scrub out toxins and N2O from the air will help, but it might not be enough. Air scrubbers can be used to get rid of toxins, but if the spill is very large, you might have to resort to Panic Syphon or Replace Air settings. Remember to keep people out of the room as long as you're working. Not only are the toxins dangerous, but the fact that depressurization is probably your best option adds another threat. And if it's a plasma spill, be damn sure there's nothing around that can set it off (unless you're planning on burning off the plasma, which is extremely dangerous and shouldn't be attempted in anything but the most extreme cases or by experienced Atmospheric Technicians).
+
+=== Fire! ===
+
+There's a fire! This is a comparatively rare occurrence, but when there is one, you're expected to suit up and get the problem fixed without hesitation. Generally, this involves locking the area down and using Panic Syphon and/or Replace Air to quell the fire. Remember, 'DO NOT' open an airlock that was containing a previously burning fire. That room is hot. Lethally hot. You'll kill everyone if you open it. Instead, you have to remotely syphon it in atmospherics.
+
+=== Total Emergency: The Fire Axe and You ===
+
+The Fire Axe is your tool of choice during emergencies, since you can use it like a crowbar to open door when the power is off ''and'' use it as an incredibly powerful melee weapon. Just keep in mind that you have to be holding it with both hands to use it (click on it while you're holding it to do this). Because it's so dangerous and it doesn't fit in a backpack or satchel, it should usually be left in its case in the computer room. If you have to have it, though, use a welding tool to get it out of its case. Just be aware that, once it's out, it can't be put back behind the glass, and everybody wants to get their hands on it. Security will probably want to know why you grabbed it, too.
+
+==Predding==
+There isn't very much that this job can provide for any budding preds. It's all up to your [[Roleplay|charm and wit]]!
+
+==Preying==
+Like the engineer, you have a lot of free time after you finish setting up atmospherics. With the rare breach, you pretty much have a lot of free time!
+
+{{Jobs}}
+[[Category:Jobs]]

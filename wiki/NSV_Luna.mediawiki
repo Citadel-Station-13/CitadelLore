@@ -1,0 +1,23 @@
+{{BayPage}}
+{{Archive}}
+
+''This article is about the old BS12 map. For Earth's moon, see [[Luna (moon)]].''
+
+The NSV Luna (NanoTrasen Research Vessel Luna) was the first deepspace ship engineered by NanoTrasen and a general purpose reseach ship.<br>
+Since the decommissioning of BayStation 12, Luna has been the first in line when it comes to research involving [[Geneticist|genetical enhanchments]], [[Chemistry]] and research on the [[Plasma Researcher|weapon useablility of the famous Plasma]].<br>
+A new thread of research that takes the Luna one step further is the new prototype [[Engine]], build around a heart of highly dense plasma that can on rare occasions be found in [[Backstory|Plasma Giants]].<br>
+Naturally in its nature as a prototype, the ship design was not optimal and she was refitted, and still is, countless times to adapt to the everyday life in space. While other ships are being designed at the time by NanoTrasen engineers and architects, Luna remains a valuable experience for the future of spacefaring and a strong symbol for the progress humans made and are still making in their efforts to leave their dependance to the dying resources of mother earth.
+
+On October 5, 2553, she was stricken from the NanoTrasen Vessel register as a prototype research vessel due to the rising cost of maintaining her constantly assaulted hull and left as a target for the weapons research division. On December 25, 2554 she was heavily damaged by her new place in the weapons testing and burned up in the Jovian System Atmosphere. 
+
+For a list with all rooms see [[:Category:Rooms|Rooms]].
+
+'''A viewable map can (again) be found here: [http://79.97.112.192/html/map-bs12.html]'''
+==Location of the Rooms==
+'''Pictures up to date as of 18th April 2011.'''
+<gallery>
+File:Deck1SubDeck.jpg|Deck 1 - Sub Deck
+File:Deck2MainDeck.jpg|Deck 2 - Main Deck
+File:Deck3EngineeringDeck.jpg|Deck 3 - Engineering Deck
+File:Deck4Bridge.jpg|Deck 4 - Bridge
+</gallery>

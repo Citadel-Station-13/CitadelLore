@@ -1,0 +1,97 @@
+---
+title: Ghost
+permalink: wiki/Ghost/
+layout: wiki
+tags:
+ -  Jobs
+---
+
+**Ghosts** have, quite literally, no real control over the station. You
+can observe the [madness](/wiki/Traitor "wikilink"), but not be a part of it.
+[Most of the time.](/wiki/Cult "wikilink")
+
+The only thing you can do is hope to become a [pAI](pAI "wikilink"),
+[Mouse](/wiki/Mouse "wikilink") or [Emergency Response Team
+member.](/wiki/Emergency_Response_Team "wikilink") Or be returned to your body
+via [Cloning](/wiki/Cloning "wikilink"). You can also become a
+[Cyborg](/wiki/Cyborg "wikilink") through becoming a [Positronic
+Brain](/wiki/Positronic_Brain "wikilink").
+
+Dead Chat
+---------
+
+Dead chat is the means you communicate to other ghosts. Sometimes
+moderators and admins may respond in Dead Chat and banter. Dead Chat is
+mostly OOC and part IC, you can share round secrets in it, but it's poor
+form to do so when there are people returning to the round via cloning
+or robotics. During a cult round you will sometimes have cult members
+join dead chat for limited times, during these times Dead Chat is to be
+treated as IC, this rule is loosely enforced and is more a means of
+etiquette.
+
+Cult
+----
+
+Ghosts can be relatively useful in [Cult](/wiki/Cult "wikilink") rounds,
+though you're still mostly restricted to being dead. You can act as the
+eyes and ears of the cult, should they choose to talk to you.  
+Remember to keep Dead Chat as IC during these times.
+
+Ghost can also be manifested in a manner to be visible, though remember
+players cannot hear you should you talk while visible.
+
+Ghost Viewing
+-------------
+
+Use the 'ghost ears' verb to only hear what the people in your view say,
+and 'ghost sight' to only see emotes in your view.
+
+These don't work in conjunction with the 'observe' command, as you'll
+only hear people near where you were before using the observe command if
+you have them set to only hear locally.
+
+Pro-Observer Viewing
+--------------------
+
+Wish to follow the AI? Place your ghost directly on top of the AI and
+the use the Observe command, find the AI's name and there will be a
+second listing <AI Name> (AI eye). With this you can see somewhat of
+what the AI can see, you do not see the static but you have a good idea
+where the AI is paying attention too.
+
+By clicking on a person or object you instantly Inspect them, double
+clicking allows you to jump to that location or follow the person
+selected.
+
+You can help the admins out, if you see a traitor do something silly
+like send their syndicate gear back to centcomm on the supply shuttle,
+ahelp the administrators and tell them who just sent back what, it might
+get a centcomm message about strange equipment not being eligible for
+supply points, but thanks for the cool toolbox! The admins can't see
+everything but as long as you are observing maybe you can help out.
+
+See the sights!
+---------------
+
+Being a ghost you aren't limited by walls or even Z-levels. You can
+teleport around if you like!
+
+**Centcomm:** Teleport to the Thunderdome and move North for the usual
+area you enter during crew transfers.
+
+**Beach:** Use the "Jump to Mob" command and scroll all the way down
+until you see a mob named "Coffee", it's a crab on a little beach in
+space on the same Z level as Centcomm. South of the beach is the Vox
+Skipjack's spawning location.
+
+**Clown Shuttle**: use the "Jump to Mob" command and the clowns should
+be near the top. Fun to see atleast once, or to help plan out your
+Mining to Clown job transfer. **HONK!**
+
+Becoming an ERT Member
+----------------------
+
+As soon as the call goes out for an [Emergency Response
+Team](/wiki/Emergency_Response_Team "wikilink") you should click on the IC tab
+then click on "Join Response Team", if you don't want to be leader wait
+about 30 seconds and you should be fine.

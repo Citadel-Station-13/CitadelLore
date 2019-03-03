@@ -1,0 +1,62 @@
+---
+title: Toys
+permalink: wiki/Toys/
+layout: wiki
+---
+
+<div class='smallpic'>
+Mostly acquired through winning on the arcade machines, toys provide fun
+and confusion for those nearby.
+
+#### <img src="Capgun.png" title="fig:Capgun.png" alt="Capgun.png" width="64" />**Cap Gun**
+
+A realistic looking revolver, which you can shoot at someone to make a
+genuine gun sound, but not much else! Has a limited number of caps, so
+don't waste them annoying assistants, shoot them at important people!
+
+#### **Electronic Blink Toy Game**
+
+Looks just like a beacon. Is about as useful to you as a beacon without
+access to the teleporter room.
+
+#### <img src="Foamcrossbow.png" title="fig:Foamcrossbow.png" alt="Foamcrossbow.png" width="64" />**Foam Dart Crossbow**
+
+A fun toy crossbow that shoots harmless form darts. Comes loaded with
+five foam darts, which can be picked back up and reloaded after shooting
+them!
+
+#### **Red Space Suit Replica**
+
+The perfect suit to make you look just a little bit evil! Unfortunately,
+there is no helmet, and it doesn't work in space.
+
+#### <img src="Toy_Mechs.gif" title="fig:Toy_Mechs.gif" alt="Toy_Mechs.gif" width="64" /> **Toy Mechs**
+
+A smaller version of some of the most famous mechs, and some which are
+never seen! Clicking on them while you've got them in your selected hand
+will let you play with them, which creates a stompy walk-sound that is
+heard by anyone near you. There are a total of 11 toy mechs, try and
+collect them all!
+
+#### **Water Flower**
+
+A perfectly innocuous flower, with the added ability to spray water in
+the face of the Captain! (And also anyone else.)
+
+#### <img src="Bosunwhistle.png" title="fig:Bosunwhistle.png" alt="Bosunwhistle.png" width="64" /> **Bosun Whistle**
+
+A toy replica of the whistle used by Admiral Krush Bosun. Sell it to the
+pompous [Captain](/wiki/Captain "wikilink") for his life saving's, or go
+around pretending you're the Captain!
+
+#### <img src="plushie.gif" title="fig:plushie.gif" alt="plushie.gif" width="64" /> **Action figures**
+
+Varying from crewmembers to fantasy; a wide array of action figures can
+be won from arcade machines. Now let's hope they're also voodoo dolls.
+
+#### <img src="toyplushie.gif" title="fig:toyplushie.gif" alt="toyplushie.gif" width="64" /> **Plushies**
+
+Take out the stress from working on the NSS Exodus by squeezing the hell
+out of these little things.
+
+</div>

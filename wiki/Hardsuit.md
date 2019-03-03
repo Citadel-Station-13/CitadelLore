@@ -1,0 +1,229 @@
+---
+title: Hardsuit
+permalink: wiki/Hardsuit/
+layout: wiki
+tags:
+ - Guides
+---
+
+<div class="smallpic">
+
+Hardsuits (also known as Resource Integration Gear, or RIG) are robust
+and (somewhat) modular pieces of EVA equipment fitted with a plethora of
+different tools and modules to assist you in your job. Hardsuit
+functionality can range from boasting high armor and combat-oriented
+tools to emergency rescue and built-in medical equipment.
+
+List of RIGs
+============
+
+<img src="Evasuit.png" title="fig:Evasuit.png" alt="Evasuit.png" width="64" /> EVA (Extra Vehicular Activity)
+-------------------------------------------------------------------------------------------------------------
+
+A light rig for repairs and maintenance to the outside of habitats and
+vessels. Located in EVA Equipment. Comes with integrated magboots,
+maneuvering jets, helmet light, helmet camera, heatsink, and a cover
+lock. Provides immunity to biohazards and radiation, very strong defense
+against energy, very small defense against blunt force and explosions,
+and barely protects against ballistics and lasers.
+
+**Modules:**
+
+-   Plasma Cutter: Costs five energy per use, capable of cutting through
+    walls.
+-   Maneuvering Jets: No energy cost, runs off of internal air tank for
+    propulsion. Capable of stabilization.
+-   Mounted RCD: Variable energy cost based on configuration, basically
+    a Rapid Construction Device in your arm.
+-   Meson Scanner: No energy cost, integrated meson scanners that are
+    active as long as the helmet is deployed and the module is turned
+    on.
+
+<img src="Rescuesuit.png" title="fig:Rescuesuit.png" alt="Rescuesuit.png" width="64" /> Rescue Hardsuit
+-------------------------------------------------------------------------------------------------------
+
+A durable suit designed for medical rescue in high risk areas. Located
+in Medical EMT Bay. Comes with integrated magboots, maneuvering jets,
+helmet light, helmet camera, heatsink, and a cover lock. It can also be
+equipped and configured much faster than other hardsuits. Provides
+immunity to biohazards and radiation, very strong defense against
+energy, very small defense against blunt force and explosions, and
+barely protects against ballistics and lasers.
+
+**Modules:**
+
+-   Maneuvering Jets: No energy cost, runs off of internal air tank for
+    propulsion. Capable of stabilization.
+-   Sprint System: Costs 50 energy per second as long as it's in use.
+    Noticeably increases running speed.
+-   PAT System: Highlight of the suit, allows you to open doors (that
+    you have access to) before you reach them, which costs 10 energy per
+    second. It can also override airlocks that you do not have access to
+    in the event the AI doesn't have camera coverage of what you're
+    trying to access, which costs 1000 energy whether the override
+    succeeds or not. Command and Security will be informed over their
+    respective channels should the override succeed.
+-   Mounted Chem Injector: Syringe mounted on your arm, capable of
+    injecting Inaprovaline, Tricordrazine, Tramadol, or Dexalin Plus
+    into a mob. Costs 50 energy to regenerate medicines as long as regen
+    is enabled.
+
+<img src="Amisuit.png" title="fig:Amisuit.png" alt="Amisuit.png" width="64" /> AMI (Anomalous Material Interaction)
+-------------------------------------------------------------------------------------------------------------------
+
+An Anomalous Material Interaction hardsuit that protects against the
+strangest energies the universe can throw at it. Located in Research
+Directors Office. Comes with integrated magboots, maneuvering jets,
+helmet light, helmet camera, heatsink, AI suite, and a cover lock.
+Provides immunity to biohazards and radiation, very robust defense
+against energy, strong defense against explosions, moderate defense
+against lasers and blunt force, and barely protects against ballistics.
+
+**Modules:**
+
+-   Integrated Intelligence System: A very interesting AI suite that you
+    can hook a pAI into, allowing it to assist you as long as the
+    hardsuit is turned on. Assistance can range from using hardsuit
+    modules to walking you around (perhaps when you're dead). AI Control
+    must be enabled in the Hardsuit Interface in order for this to be
+    useful.
+-   Maneuvering Jets: No energy cost, runs off of internal air tank for
+    propulsion. Capable of stabilization.
+-   Alden-Saraspova Counter: No energy cost, exotic particle detector,
+    mostly used to detect anomalies within a radius, providing the range
+    of how far away potential anomalies are from your current position.
+    Small cooldown after each use.
+-   Mounted Drill: Costs 1 energy per use, mostly drills through rock.
+    Can also drill through walls as long as they aren't reinforced.
+
+<img src="Advancedsuit.png" title="fig:Advancedsuit.png" alt="Advancedsuit.png" width="64" /> Advanced Voidsuit (CE's Hardsuit)
+-------------------------------------------------------------------------------------------------------------------------------
+
+An advanced voidsuit that protects against hazardous, low pressure
+environments. Located in Chief Engineer's Office. Shines with a high
+polish. Basically a cooler EVA RIG. Comes with integrated magboots,
+maneuvering jets, helmet light, helmet camera, heatsink, AI suite, and a
+cover lock. Provides immunity to biohazards and radiation, small
+protection against explosions and blunt force, very small protection
+against lasers and energy, and barely protects against ballistics.
+
+**Modules:**
+
+-   Integrated Intelligence System: A very interesting AI suite that you
+    can hook a pAI into, allowing it to assist you as long as the
+    hardsuit is turned on. Assistance can range from using hardsuit
+    modules to walking you around (perhaps when you're dead). AI Control
+    must be enabled in the Hardsuit Interface in order for this to be
+    useful.
+-   Maneuvering Jets: No energy cost, runs off of internal air tank for
+    propulsion. Capable of stabilization.
+-   Plasma Cutter: Costs five energy per use, capable of cutting through
+    walls.
+-   Mounted RCD: Variable energy cost based on configuration, basically
+    a Rapid Construction Device in your arm.
+-   Meson Scanner: No energy cost, integrated meson scanners that are
+    active as long as the helmet is deployed and the module is turned
+    on.
+
+<img src="Industrialsuit.png" title="fig:Industrialsuit.png" alt="Industrialsuit.png" width="64" /> Industrial Hardsuit
+-----------------------------------------------------------------------------------------------------------------------
+
+A heavy, powerful rig used by construction crews and mining
+corporations. Located in Mining Equipment. Comes with integrated
+magboots, maneuvering jets, helmet light, helmet camera, heatsink, and a
+cover lock. Provides immunity to biohazards, strong defense against
+blunt force, moderate protection against radiation and ballistics, very
+small defense against explosions and lasers, and barely protects against
+energy.
+
+**Modules:**
+
+-   Plasma Cutter: Costs five energy per use, capable of cutting through
+    walls.
+-   Mounted Drill: Costs 1 energy per use, mostly drills through rock.
+    Can also drill through walls as long as they aren't reinforced.
+-   Ore Detector: No energy cost, scans for ore around you. Useful for
+    positioning drill heads.
+-   Meson Scanner: No energy cost, integrated meson scanners that are
+    active as long as the helmet is deployed and the module is turned
+    on.
+-   Maneuvering Jets: No energy cost, runs off of internal air tank for
+    propulsion. Capable of stabilization.
+
+Hardsuit Operation
+==================
+
+Hardsuit control modules are meant to be worn on your back, and it may
+take some time to put it on. Ensure that you are not wearing anything on
+the outer clothing or helmet slot. Once equipped, two new tabs will
+appear in the top-right of your screen with a handful of new verbs, the
+most important of them being Toggle-Hardsuit in the Hardsuit tab.
+Details on all verbs can be found below. Once the Toggle-Hardsuit verb
+is used, the hardsuit will deploy into your outer clothing, gloves,
+helmet, and shoe slots, and will begin calibrating to your anatomy. If
+you are already wearing shoes or gloves, then the hardsuit will fit over
+them automatically. Once calibrated, you will be able to move around
+freely with some speed penalty. You are able to place your backpack on
+the suit storage slot as long as the chestpiece is deployed.
+
+Hardsuit Tab
+------------
+
+-   **Configure Voice Synthesiser:** Will allow you to toggle a voice
+    synthesizer on and off, and lets you type in a voice to imitate.
+    Obviously this will do nothing if your hardsuit does not possess the
+    required module
+-   **Deploy Hardsuit:** Deploys all components immediately and
+    simultaneously.
+-   **Engage Module:** Summons a pop-up prompt with a list of modules to
+    activate on your suit. Slow and clunky.
+-   **Open Hardsuit Interface:** Opens a sleek window detailing modules,
+    power supply, and suit permissions.
+-   **Select Module:** Summons a pop-up prompt with a list of modules
+    that will standby until you click. Slow and clunky.
+-   **Switch Vision Mode:** Cycles through vision settings. Only useful
+    if your hardsuit has a configurable visor.
+-   **Toggle Boots/Chestpiece/Gauntlets/Helmet:** Un/Deploys the
+    selected component.
+-   **Toggle Hardsuit:** Turns the suit either on or off. The suit must
+    be fully deployed to perform either of these tasks.
+-   **Toggle Module:** Summons a pop-up prompt with a list of modules
+    that you can toggle on or off. Slow and clunky.
+-   **Toggle Visor:** Self explanatory. Won't work if your suit does not
+    have a configurable visor.
+
+Hardsuit Modules Tab
+--------------------
+
+This is a nice tab to switch to if you don't like the game unfocusing
+when you select a standalone window/prompt. It will display your suit
+charge, modules, toggles on said modules, and how much energy it will
+take to perform actions with these modules. Any cost value ending in
+**E** means that the suit will consume that much energy immediately upon
+activation, while values ending in **A** means the suit will consume
+that much energy when the module is in use.
+
+Maintenance
+===========
+
+Hardsuits may need to be recharged or have their internals refilled,
+primarily the former, or perhaps the hardsuit itself is damaged. To
+conduct maintenance, do the following:
+
+1.  Swipe your ID over the control module.
+2.  Crowbar the panel open.
+3.  For internals:
+    1.  Wrench the tank out.
+4.  For power cell/control board:
+    1.  Screwdriver.
+    2.  Select which part you wish to remove.
+5.  Crowbar and ID the control module to lock the suit back up.
+
+To repair the hardsuit, remove the control module and do the following:
+
+-   For scorches, use metal.
+-   For punctures, use a welder.
+-   For module damage, remove the module and use cable coil or
+    nanopaste.
+
+</div>

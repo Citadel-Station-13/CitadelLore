@@ -1,0 +1,1669 @@
+---
+title: Timeline
+permalink: wiki/Timeline/
+layout: wiki
+tags:
+ - Lore
+---
+
+What follows is a complete **timeline** of significant events in the
+known history of space travel in the [Milky Way](/wiki/Milky_Way "wikilink"),
+and the history of the [Virgo Orbital Research
+Establishment](/wiki/Virgo_Orbital_Research_Establishment "wikilink").
+
+It is mostly feature complete, but will be added upon or slightly
+revised.
+
+The history of the **Space Station 13** universe is (obviously) not
+entirely our own, but rather one that has diverged from ours during the
+early 20th century. So while it takes place in the future, it is not our
+future, but a future as imagined by this community.
+
+Behind the scenes
+-----------------
+
+This lore was developed by Lore Master
+[PontifexMinimus](/wiki/User%3APontifexMinimus "wikilink"), by Host
+[Aces](/wiki/User%3AAces "wikilink"), and by input from community members like
+you. Thank you!
+
+If you wish to contribute to this lore, or make any changes, please
+contact the current **<font color="#beb976">@Lore Master</font>**(s) on
+our [Discord channel](https://discord.gg/0yCTdQTDRZL5CFSN).
+
+20th Century
+============
+
+### 1900s
+
+-   **1903:** Inspired by the writings of Jules Verne, the first serious
+    scientific papers are published that show physical space exploration
+    is theoretically possible.
+-   **1905:** Albert Einstein publishes his Special Theory of
+    Relativity.
+
+### 1910s
+
+-   **1912:** Victor Hess discovers the existence of cosmic radiation.
+-   **1918:** [Chase Monroe](/wiki/Chase_Monroe "wikilink") is born in
+    Montana.
+
+### 1920s
+
+-   **1920:** The Nazi Party is formed.
+-   **1926:** Robert H. Goddard launches humanity's first liquid-fueled
+    rocket.
+-   **1927:** Verein für Raumschiffahrt (Society for Space Travel) is
+    formed; it includes many top European rocket scientists.
+-   **1929:** Hermann Oberth, with students including Wernher von Braun,
+    launches his first liquid-fueled rocket. Among them is [Dietrich
+    Troy](/wiki/Dietrich_Troy "wikilink"), who has been studying Special
+    Relativity among other quantum mechanical theories.
+
+### 1930s
+
+-   **1930:** Paul Dirac Dirac's textbook Principles of Quantum
+    Mechanics is published.
+-   **1931:** First German military liquid-fueled rocket engines
+    developed.
+-   **1932:** Adolf Hitler is appointed as Chancellor of Germany.
+-   **1933:** Work begins on the Aggregate series of rockets which leads
+    to the V-2 rocket.
+-   **1934:** Adolf Hitler becomes Führer of Germany.
+-   **1935:** Dietrich Troy joins the Nazi Party.
+-   **1937:** Chase Monroe joins the United States Army.
+
+### 1940s
+
+-   **1941:** The United States enters World War 2.
+-   **1942:** The Battle of Stalingrad takes place.
+-   **1944:** Dietrich Troy becomes a Wonder Weapons researcher working
+    on the V-2 rocket under the supervision of [Ludwig
+    Brandt](/wiki/Ludwig_Brandt "wikilink"). However, Brandt becomes
+    interested in research notes by Troy regarding the possibility of
+    time travel, and has Troy reassigned.
+    -   **September:** The V-2 Rocket is the first man-made object to
+        cross what would later be defined as the Kármán line, becoming
+        the first spaceflight in human history.
+    -   **June:** Chase Monroe participates in the Battle of Normandy.
+        The allied invasion of Europe begins.
+-   **1945:** Under Ludwig Brandt's supervision, using Dietrich Troy's
+    designs and calculations, the first [Bluespace
+    Gateway](/wiki/Bluespace_Gateway "wikilink") in history is built within a
+    secret underground facility beneath the city of Lübeck. It is
+    referred to as the Saphirdimensionale Zeitbrücke (SDZ).
+    -   The Battle of Berlin takes place. Adolf Hitler, realizing the
+        war is lost, escapes in secret with the German 21st Army to
+        Lübeck. An unknown individual, possibly one of Hitler's body
+        doubles, is executed and their body burned to fool the Soviets
+        and even Hitler's personal guard into believing that Hitler
+        committed suicide. Hitler instead goes into hiding at the
+        underground base in Lübeck as the SDZ is rushed to completion.
+    -   **July:** The Manhattan Project produces the first nuclear
+        fission explosion during the Trinity test in New Mexico.
+    -   **August:** The nuclear bombs Fat Man and Little Boy are dropped
+        on Japan, formally ending World War 2.
+    -   **October:** The [United Nations](/wiki/United_Nations "wikilink") are
+        established.
+-   **1946:** Chase Monroe is promoted to Sergeant and reassigned to
+    Operation Paperclip to locate and retrieve Nazi technology before
+    the Soviet Union can do the same.
+-   **November:** Monroe and his unit are sent to investigate rumors of
+    a hidden Nazi base in Lübeck. A secret passage is discovered beneath
+    [Holstein Tor](https://en.wikipedia.org/wiki/Holstentor), leading to
+    an underground complex still inhabited by active Nazi troops. A
+    firefight breaks out between American and Nazi-remnant forces. As
+    American forces call for backup, Chase Monroe breaks from his group
+    to pursue several high ranking Nazi officers including Dietrich
+    Troy, Ludwig Brandt, and even Adolf Hitler himself. The officers
+    evacuate through the SDZ, but Monroe is able to follow them just
+    moments before the portal is deliberately sabotaged by the
+    Nazi-remnants using dynamite. The [Incident at
+    Lübeck](/wiki/Incident_at_Lübeck "wikilink") is covered up by the Office
+    of Strategic Services, and any documents that were not destroyed by
+    the Nazi-remnants are brought back to the United States. However,
+    American scientist are unable to put together the missing pieces,
+    and eventually give up on the project, assuming it to be another
+    impossible Wonder Weapon that never would have worked in practice.
+-   **December:** Chase Monroe is declared Missing In Action.
+
+### 1950s
+
+-   **1957:** Hugh Everett formulates the many-worlds interpretation of
+    quantum mechanics, which states that every possible quantum outcome
+    is realized in divergent, non-communicating parallel universes in
+    quantum superposition.
+    -   **October:** Humanity's first artificial satellite, Sputnik 1,
+        is launched into orbit.
+
+### 1960s
+
+-   **1964:** John Stewart Bell puts forth Bell's theorem, which
+    inaugurated the study of quantum entanglement; the phenomenon in
+    which separate particles share the same quantum state despite being
+    at a distance from each other.
+-   **1966:** Humanity's first soft landing on another world (the Moon).
+
+### 1970s
+
+-   **1971:** Humanity's first soft landing on another planet (Mars).
+-   **1977:** Voyager 1 and 2 are launched from Earth.
+
+### 1980s
+
+-   **1981:** Humanity's first reusable manned spacecraft, STS-1, is
+    launched.
+-   **1986:** Humanity's first consistently inhabited long-term research
+    space station, Mir, begins operation.
+
+### 1990s
+
+-   **1998:** The International Space Station begins operation.
+
+21st Century
+============
+
+### 2000s
+
+-   **2001:** The Global War on Terror begins, which is considered to be
+    the first truly global effort of the world's nations against a
+    common enemy.
+-   **2009:** Scientists warn that the effects of global warming are now
+    so severe that they cannot be reversed.
+
+### 2010s
+
+-   **2011:** The corporate endeavor Mars One is founded, planning for a
+    one-way trip to make the first human Mars, which will be funded by
+    making it a reality TV show.
+-   **2018:** The IPCC reports that if global warming continues to allow
+    global temperatures to pass 1.5 degrees Celsius by 2030, the results
+    will be catastrophic and irreversible, resulting in the destruction
+    of habitats, the loss of food sources, and the displacement of
+    billions.
+
+### 2020s
+
+-   **2023:** The Global War on Terror is declared over through a mix of
+    negotiation and (in some cases) complete annihilation of various
+    terror groups.
+
+### 2030s
+
+-   **2030:** Global temperatures pass the 1.5 degree rise warned about
+    by the IPCC. Runaway glacial melting begins.
+-   **2032:** Mars One departs from Earth after several delays.
+-   **2033:** Mars One arrives on Mars.
+-   **2034:** Mars One colonists all perish due to dwindling supplies
+    and mental breakdowns, making international news as the entire
+    tragedy is caught on live video. An incompetent selection process is
+    blamed.
+-   **2036:** Mars One goes bankrupt.
+-   **2038:** Chronic flooding of the world's coastal cities, combined
+    with severe droughts further inland, begins to severely devastate
+    the economies of many nations. The [Water
+    Wars](/wiki/Water_Wars "wikilink") begin in the Middle East.
+
+### 2040s
+
+-   **2040:** The Water Wars result in skyrocketing prices for crude
+    oil, culminating in a standoff between China, Europe, Russia, India,
+    and the United States.
+-   **2041:** Rheinmetall, Thyssen-Krupp, Walther and Heckler and Koch
+    initiate a massive merger unseen in economic history after the
+    German Cartel Law has been slowly eroded with punctuated lobbyism
+    and economic crisis. The result is the first megacorporation of
+    Humanity - Hephaestus Industries.
+-   **2042:** For the first time in human history, a nuclear fusion
+    reactor produces a net gain in power. However, the net gain is so
+    minuscule that even wind and solar power are seen as far more
+    practical and cost effective options.
+
+### 2050s
+
+-   **2054:** The first sentient [AI](/wiki/AI "wikilink") is created. It has
+    the cognitive ability of a 4 year old child.
+
+### 2060s
+
+-   **2063:** The colonization of Luna begins under the aegis of the
+    United Nations opens the door to further extraterrestrial
+    colonization.
+-   **2068:** Despite desperate international efforts to avert a crisis,
+    the Water Wars end with a localized nuclear war between Middle
+    Eastern nations, plus India and Pakistan. Billions are killed. It is
+    the largest loss of human life to a single war in the course of
+    human history. Numerous nations are destroyed or collapse
+    completely, such as Armenia, Iraq, Israel, Jordan, Kuwait, Lebanon,
+    Pakistan, Qatar, Syria, Yemen, and the United Arab Emirates.
+-   **2069:** Earth's nations vow to lay down their nuclear arms in
+    order to avoid an incident like the Water Wars, for fear of a war on
+    such a scale that it could be the end of humanity.
+
+### 2070s
+
+-   **2070:** In the aftermath of the Water Wars, a reformed
+    interpretation of Islam, known as 'Tariq Al'Islam', takes root in
+    the Middle East. Believing that the devastating war had been divine
+    punishment for centuries of transgressions, this new religious
+    reinforces the idea of a better, friendlier Middle East.
+-   **2071:** Remnants of Egypt, Iran, Saudi Arabia, and Turkey sign the
+    Treat of Niqaba, also known as The Brotherhood Treaty. Bitter and
+    ancient rivalries between the four nations are put to an end with
+    the founding of the United Republic of Mesopotamia. Other surviving
+    Middle Eastern nations including Afghanistan, Bahrain, and Oman
+    eventually join the newly formed Republic. Reconstruction and reform
+    efforts begin across the Middle East. However, oil production in the
+    area remains permanently devastated.
+-   **2072:** Rising sea levels due to climate change result in the
+    destruction of New York City during a major storm, killing
+    thousands, and stranding millions. The United Nations headquarters
+    is moved to Paris during the emergency. This change becomes
+    permanent.
+-   **2075:** The Unified Earth Government (UEG) is commissioned by the
+    United Nations as an assembly of political leaders and brilliant
+    minds, and is tasked with attempting to avert the crises of the next
+    century by solving governmental unification issues of colonizing
+    non-Earth territories. Among its first members are much of the
+    European Union, the United Kingdom, Australia, New Zealand, Canada,
+    and India. The United States, Russia, and China decline an
+    invitation, which creates doubt that the UEG's efforts will be
+    successful.
+-   **2076:** The United Republic of Mesopotamia joins the UEG. Recently
+    elected President Abdul Majeed al-Radwan famously declares that
+    unless humanity can live without borders, the world will perish. He
+    cites the Water Wars as a cautionary tale, and implores the United
+    States, Russia, and China to join the rest of humanity.
+-   **2078:** Permanent colonization of Mars is initiated by a
+    collection of international corporate interests, which brings
+    industry off-world. It also provides some alleviation to the strain
+    on Earth's resources and environment.
+-   **2079:** [Bluespace](/wiki/Bluespace "wikilink") is discovered. The
+    Journal of Higher Dimensional Physics publishes an article about the
+    discovery.
+
+### 2080s
+
+-   **2080:** The UEG's nations pool together their resources to
+    colonize Luna, Mars, and a handful of other sites in the Sol system,
+    including the Jovian Moons, and a number of asteroids.
+-   **2081:** The Antarctic Wars begin as China and the United States
+    attempt to seize oil reserves in the antarctic, disregarding
+    international treaties in the process. Neither nations are willing
+    to use nuclear weapons, or attack each other's mainland.
+    -   **November:** Rather than participate in the war, Russia joins
+        the UEG, providing the alliance with a strong military presence.
+        In doing so, Cuba, Venezuela, Kazakhstan, and Belarus also join.
+-   **2083:** Synthetic production and isolation of the Alden-Saraspova
+    particle has been successful. Directly responsible for the Bluespace
+    Effect, faster than light travel seems to be theoretically possible,
+    if energy requirements can be resolved.
+-   **2085:** The first Bluespace engine is invented. Slow, bulky,
+    dangerous, and prohibitively expensive, it nonetheless
+    revolutionizes physics and space travel. Japan joins the UEG in
+    order to participate directly in its development. However, it lacks
+    a suitable power source.
+-   **2086:** North Korea finally collapses in violent revolt. The
+    influx of refugees severely hamper the Chinese war effort. The
+    United States is accused for providing weapons, but this is never
+    proven.
+-   **2087:** Hephaestus develops weapons of mass destruction, most
+    notably a fusion bomb for use on strategic warheads. The UEG puts an
+    end to it, to the relief of Humanity and to the chagrin of corporate
+    interest.
+-   **2088:** The first practical fusion reactor is produced, powering
+    cities throughout western Europe.
+
+### 2090s
+
+-   **2090:** Orbital construction begins on
+    [Hakobune](/wiki/Hakobune "wikilink"), the first ever [colony
+    ship](colony_ship "wikilink") intended to set course for a world
+    outside of the Sol. Companies from Japan and South Korea play a core
+    role in its development, most notably in the development of an
+    on-board fusion reactor to power it. South Korea also joins the UEG.
+-   **2091:** Animal DNA is combined with human DNA in a procedure that
+    comes to be colloquially known as [Splicing](/wiki/Splicers "wikilink").
+    Originally used for medicinal purposes, such as allowing people to
+    regrow lost body parts or extend their lifetime, the new technology
+    is more often used for cosmetic purposes.
+-   **2092:** The United Earth Government bans Splicing, citing health
+    risks. Critics of the legislation argue that the ban is based on
+    fearmongering rather than scientific study, and that the ban will
+    create an unsafe underground market in which splicing will continue;
+    which it does.
+-   **2093:** The last gas-powered car in Europe is dismantled for
+    scrap. Without the economic strain of fossil fuels, the UEG
+    experiences a substantial economic boom. The cost of fuel is at its
+    lowest point since the Water Wars, but it's still 150% more
+    expensive compared to any point prior to the Water War.
+-   **2094:** The Antarctic War enters its 13th year, and has become
+    severely bogged down on both sides. The United States and China are
+    both left in poverty, while enviously watching the UEG continue to
+    flourish. To make matters worse, what oil could be recovered at the
+    Antarctic proves to be substantially less than what was hoped for.
+    The public on both sides sees the conflict as a lost cause.
+-   **2097:** Beaten and demoralized, the United States and China
+    reluctantly agree to meet at the negotiation table. The UEG offers
+    economic aid in exchange for an end to their war. China is the first
+    to give in, and joins the UEG. Many Asian and African nations follow
+    suit.
+-   **2099:** China withdraws the last of its troops from Antarctica,
+    signalling an informal end to the Antarctic War. The United States
+    celebrates, though it's a hollow victory.
+
+22nd Century
+============
+
+### 2100s
+
+-   **2100:** The Hakobune launches at the turn of the century. This
+    marks the beginning of the **[Interstellar
+    Age](/wiki/Faster-than-Light_Travel "wikilink")** for Humanity. Equipped
+    with both a Bluespace drive and Cold Fusion powered Bluespace jump
+    drive, the vessel is capable of reaching speeds of up to eight times
+    the speed of light in Bluespace as a means to reach other stars in a
+    matter of weeks, rather than years. It has a jump range of only 5
+    light years, but it's enough to reach Sol's closest neighbors.
+    Meanwhile, Humanity spreads across Sol, forming colony after colony
+    in the inner system and harvesting resources from the asteroid belt.
+    Mars serves as the main manufacturing and processing hub for these
+    ores and metals gained from belter mining. The colonization of Venus
+    is made possible with the invention of Plasteel, a lightweight and
+    durable material capable and flexible enough to create aerostat
+    colonies.
+-   **2101:** Caving to international and domestic political pressure,
+    the United States at last casts a public ballot to join the UEG.
+    It's a landslide victory.
+-   **2104:** The last President of the United States ends his term in
+    office. The United States formally joins the UEG, and following its
+    example are the last of the world's nations—mostly from South
+    America. For the first time in human history, there are no longer
+    any ongoing wars. Earth is truly united, and not a moment too soon,
+    as Martian colonies begin to chafe under the rule of the UEG.
+    -   **June:** The National Martian Assembly convenes for the first
+        time. What follows is the gradual expulsion of extramartian
+        industrial interests, leading to increased pressure from the
+        UEG, up to and including military intervention.
+    -   **August:** The National Martian Assembly forms the Ares
+        Federation in an attempt to unite against foreign interest and
+        declare their independence from the UEG. An expeditionary force
+        is sent out to pacify the rogue colonies. This marks the
+        beginning of the [Ares Crisis](/wiki/Ares_Crisis "wikilink"). The
+        conflict causes relatively few casualties in the first six
+        months. Humanity is new to interplanetary warfare and most ships
+        are just re-purposed civilian spacecraft. However, this soon
+        changes as the first dedicated military vessels begin to roll
+        out of orbital drydocks on both sides.
+-   **2105:**
+    -   **February:** The February Offensive is the first major military
+        operation staged in the transorbital war zone. Fleet Elements of
+        the First Terran Armada blockade the Ares Federation drydrocks
+        and a sortie is deployed to break this siege. It ends in a
+        pyhrric victory for the UEG. UEG forces land in Roanoake.
+        Martian independence is threatened for the first time. While the
+        UEG fail to meet its primary objectives, they manage to entrench
+        themselves and establish a beachhead. Volunteer forces fight
+        with more and more radical methods and desperately attempt total
+        mobilization. Elements within the Ares Federation doubt they
+        will fully break the yoke of the UEG and are willing to
+        negotiate.
+    -   **March:** The war becomes increasingly unpopular with Earth's
+        population and public support for the war effort dwindles.
+        Sympathy spreads for the Martian colonists, especially after the
+        documentary "Beyond the Green : Life on Mars" is published
+        against the desire of the UEG.
+    -   **June:** An Armistice is declared. Forces stand down as they
+        have driven themselves into a deadlock. Negotiations start for
+        the future of the Red Planet.
+    -   **December:** After a period of long negotiations and
+        intermittent belligerence on both sides, the UEG and the Ares
+        Federation declare peace. The Federation dissolves and its
+        constituent members are fully integrated as voting members into
+        the UEG, which becomes an artificial title as Humanity is now a
+        true interplanetary government. What follows is a renaissance in
+        both Martian and Terran societies as Humanity is united once
+        again. The Ares Crisis ends, having planted the seeds for
+        extraplanetary warfare, legal combatant PMCs, and war economy on
+        a Global Scale.
+-   **2106:** The Hakobune charges its Bluespace Jump Drive for the
+    first time and departs for [Proxima
+    Centauri](/wiki/Proxima_Centauri "wikilink"), where the first exoplanet,
+    now named [Covenant](/wiki/Covenant "wikilink"), is colonized soon after.
+    The first colony to be founded is called [Goddard's
+    Intent](/wiki/Goddard's_Intent "wikilink"). It is the first of millions of
+    human colonies to come.
+    -   **May:** Crude artificial gravity devices spread in human space
+        after the first interstellar Bluespace jump.
+    -   **June:** [Zeng-Hu](/wiki/Zeng-Hu "wikilink") introduces new
+        pharmaceuticals to promote strong lungs, healthy bones and
+        decent muscle tissue even in microgravitaty environments. The
+        company's stocks skyrocket due to these patents, which make
+        permanent habitation of extraterrestrial colonies now possible
+        without losing the ability to live on Earth. More and more
+        humans spill to the stars, making the formerly empty space alive
+        with communications chatter and transports.
+-   **2107:** Venus gains prominence and importance as hydroponic
+    installations begin to yield a massive food surplus. The presence of
+    pure sulfuric acid and nitrogen in the atmosphere provides a
+    seemingly limitless supply of ingredients for fertilizer, while
+    sunlight and temperatures can now be easily regulated within the
+    aerostat colonies. Much of Venus's industry is devoted to food,
+    which regularly supply other Sol colonies. Venus, referred to as the
+    "Bread Basket of Sol", joins Earth and Mars as major powers within
+    the UEG.
+    -   **June:** With the massive influx of foodstuff independent from
+        local production, orbital stations and lunar colonies become
+        larger and more complex. Advancements in artificial gravity,
+        combined with rotational force upon asteroids, also allow
+        asteroid colonies to maintain simulated gravity that is nearly
+        identical to that of Earth. The asteroid belt gains its first
+        true, permanent citizens. 'Belters' become a political power and
+        gain traction to better conditions for the fringes of Humanity.
+    -   **November:** The Belters are dissatisfied with slow reform of
+        their lives and radical elements convene on Europa. This marks
+        the start of the 3rd Internationale. Remembering the lessons of
+        Stalin, Lenin and Trotzky, the 3rd Internationale is more often
+        referred to as the 2nd Soviet Union. The UEG acts swiftly, to
+        suppress and remove terroristic influences outside the Inner
+        System.
+-   '''2108: ''' The Mannschmidt Accords soothe some rifts between
+    Belters and the UEG. However, the 3rd Internationale remains a major
+    underground force and terrorist organization within the fledgling
+    human empire. The Red Scare receives somewhat of a revival.
+    -   **October:** The Martian Stock market crashes after creating the
+        Colony Charter Bubble, in which private entrepreneurs oversold
+        the success of privately funded colonies within the Kuiper Belt.
+        Emergency measures and state appropriation of colonies try to
+        combat the worst, but the 3rd Internationale seizes its chance
+        and takes over several colonies, seceding from the UEG.
+    -   **December:** The 3rd Internationale is resoundingly destroyed
+        as Venus refuses to supply them with food. Starving
+        revolutionaries become compliant again. However, the existence
+        of such an armed uprising leads to the limitation of Colony
+        Charters, only granted now after thorough review by the Ministry
+        of Colonial Acquisitions for their sustainability and
+        profitability. This slows the process of new colonies being
+        built, however it proves to be beneficial in the long term.
+-   **2109:** The Hakobune returns to Earth to resupply, and brings with
+    it word of its successful colonization of an exoplanet. Several new
+    colony ships begin development. They are named
+    [Discovery](/wiki/UES_Discovery "wikilink"), [Event
+    Horizon](/wiki/UES_Event_Horizon "wikilink"), [La
+    Perouse](/wiki/UES_La_Perouse "wikilink"),
+    [Lateralus](/wiki/UES_Lateralus "wikilink"), [Leif
+    Eriksson](/wiki/UES_Leif_Eriksson "wikilink"),
+    [Magellan](/wiki/UES_Magellan "wikilink"),
+    [Sovereign](/wiki/UES_Sovereign "wikilink"), and [Zheng
+    He](/wiki/UES_Zheng_He "wikilink").
+
+### 2110s
+
+-   **2115:** [UES La Perouse](/wiki/UES_La_Perouse "wikilink") departs for
+    Sirius.
+-   **2119:** Extrasolar asteroids are found to contain trace amounts of
+    a super heavy element with extreme reductive behavior and an
+    unexplained stability. Beyond becoming a curiosity for chemists and
+    nuclear physicists, the discovery changes little in the field of
+    science. Colloquially referred to as plasma at the time,
+    [Phoron](/wiki/Phoron "wikilink") will later become a crucial part of
+    interstellar travel as the Alden-Saraspova particle occurs naturally
+    in it, rendering its synthesis moot.
+
+### 2120s
+
+-   **2120:** The UES Event Horizon leaves for Luhman 16. It is never
+    found again. Its last message reads "Oh god, the red eyes are
+    everywhere!" Meanwhile, the La Perouse reports success in Sirius,
+    although they have trouble finding viable water sources. This is a
+    common problem with extrasolar colonies as large bodies of easily
+    accessible water are rare and ice asteroid mining is a dangerous
+    business and the refinement difficult.
+    -   **January:** The UES Leif Eriksson leaves for [Tau
+        Ceti](/wiki/Tau_Ceti "wikilink").
+    -   **August:** The [Third Emu War](/wiki/Third_Emu_War "wikilink")
+        begins. The UEG uses orbital bombardment to clear out the vile
+        fowl folk. This time, humanity wins, though barely; a grim
+        reminder to not overdo genetic re-sequencing with birds.
+        Australian refugees scatter across the stars, finally settling
+        in Tiamat, Alpha Centauri. Tiamat becomes colloquially known as
+        [Space Australia](/wiki/Space_Australia "wikilink") because of the
+        refugees.
+-   **2122:** Tiamat, with the rather substantial influx of migrants,
+    becomes a major exporter of water and xenobiological life.
+    Extrasolar colonies prosper with the influx of water tankers. Alpha
+    Centauri as a whole becomes much more important and demands more
+    autonomy from the UEG, who stall on any request to give them
+    concessions. The situation begins to mirror the Ares Crisis; a fact
+    many prominent politicians begin to point out.
+    -   **June:** The first meeting of the Terran Ecological Renewal
+        Forum takes place. UEG members and extrasolar colonization
+        scientists meet to discuss Earth and its exhausted biosphere.
+        The damages done over human history are considerable, and
+        Australia is ecologically devastated after the Third Emu War.
+        The Middle East still suffers from radiation and deadly
+        exclusion zones. The plastic island in the Pacific is nearly the
+        size of Europe. Everyone agrees that something needs to be done.
+        A massive industrial effort starts to correct the ecological
+        disaster, and for the first time in human history, everyone
+        *actually* pitches in. From Terran coreworlders to fringe
+        colonists in the Kuiper Belt, a combined effort is made to clean
+        up Earth's environment. A considerable amount of money goes into
+        the PR campaign associated with the TERF movement, which
+        doubtlessly contributed to the massive civil mobilization.
+    -   **December:** An army of plastic-eating drones are set loose in
+        the Pacific to destroy the continent-sized island of plastic
+        debris.
+-   **2125:** Several extinct species have been successfully
+    reintroduced by the TERF movement thanks to advances in cloning
+    technology. Increased urbanization across the globe leaves many
+    rural regions abandoned as agriculture becomes increasingly more
+    centralized on Venus. The result is Earth's ecology reclaiming the
+    land over time. Desertification grinds slowly down to a halt, and
+    even begins to revert. It seems that Earth can possibly recover from
+    the voracious behavior of Humanity.
+
+### 2130s
+
+-   **2136:** The Leif Eriksson reports success in arrival and
+    settlement of Tau Ceti. The other colony ships report varying
+    degrees of successes and failures. Nonetheless, Humanity can rest in
+    the knowledge they have seeded amongst the stars. However, the UEG
+    struggles to keep the colonies in line, much like how it happened on
+    Mars. Unwilling to repeat this darker chapter in history, the Solar
+    Assembly is founded to represent colonial interests outside of Sol.
+    The UEG grants semi-autonomy to Alpha Centauri and its colonies a
+    seat in the Solar Assembly.
+-   **2138:** The plastic island floating in the Pacific ocean is
+    confirmed to be eradicated. Nearly a billion tons of plastic are
+    recovered in total, which have been re-sold for manufacturing across
+    Humanity's empire. The drones used to collect the garbage are also
+    sold off and often re-purposed.
+
+### 2140s
+
+-   **2140:** Australia's ecosystem has been stabilized. After much
+    debate, the original Emu is reintroduced into the wild as well. They
+    integrate fully without much hassle. Australia is repaired. Even the
+    Middle East enjoys rehabilitation as state of the art radiation
+    scrubbers clean up past mistakes.
+
+### 2150s
+
+-   **2157:** Tau Ceti becomes a major trading hub and extracts much
+    wealth from outlying colonies with tariffs and tolls. The
+    precedented amount of wealth is used to build up a solid
+    infrastructure and academic state. Due to its newfound importance,
+    Tau Ceti demands a seat in the Solar Assembly... and gets it. They
+    now stand almost equal to Sol.
+-   **2159:** The **Age of Piracy** begins as the limited capabilities
+    for the UEG to act outside Sol, Tau Ceti, and Alpha Centauri leads
+    to many colonies to be poorly defended. Separatists, terrorists, and
+    the remnants of the 3rd Internationale find fertile grounds for a
+    renewed recruitment drive from disgruntled fringe colonists.
+
+### 2160s
+
+-   **2161:** The 4th Internationale is founded. The resurgence of
+    terrorist groups leads to the creation of the Solar Militia Mandate,
+    and the birth of the "Colonial Marine". With the security issues
+    addressed and colonies fervently adhering to the Mandate one way or
+    the other, the brief Age of Piracy is put to an end. While Space
+    Piracy does continue despite the best efforts of the UEG, it becomes
+    a rare occurrence as the rule of law is enforced on an interstellar
+    scale. The 4th Internationale lays low and bides its time, slowly
+    infiltrating governments and societies alike.
+-   **2166:** The 4th Internationale, under the leadership of dictator
+    [Vladimir Bobrov](/wiki/Vladimir_Bobrov "wikilink"), officially changes
+    its name to the [3rd Soviet Union](3rd_Soviet_Union "wikilink").
+
+### 2170s
+
+-   **2176:** Jovian Orbital, renamed to the Jovian Republic, joins the
+    Solar Assembly and the UEG. It is the first orbital habitat big
+    enough to be considered its own nation. Over three million people
+    live in the complex, cavernous habitat, made of human-made stations,
+    hollowed out asteroids, and assimilated space ships.
+
+### 2180s
+
+-   **2185:** Humanity makes a baffling discovery, requiring
+    astrophysicists to re-examine their timeline of the galaxy's
+    formation. A red dwarf is found in its dying stages. The only
+    anomaly this dwarf star exhibits is an overabundance of the
+    previously discovered super-heavy element known as Phoron.
+-   *' 2187:*' Medical sciences, material sciences, and exotic energy
+    sciences blossom up, now headed by the flagships of NanoInnovations
+    Incorporated and Trasen Pharmaceuticals. The two companies become
+    rich as they discover numerous consumer uses for Phoron. Miracle
+    drugs created by the super-heavy element find widespread use for
+    Humanity, especially in microgravity environments. The human life
+    expectancy increases dramatically.
+
+### 2190s
+
+-   **2194:** More and more colonies become prosperous enough to demand
+    representation in the Solar Assembly. The UEG, Tau Ceti and Alpha
+    Centauri, however, block this motion as it becomes too unwieldy with
+    ever more increasing members. The now militarized colonies become
+    increasingly upset and create a state of de facto autonomy among
+    themselves. The Colonial Cold War begins, leading to the prominence
+    of the UEG's [Office of Naval
+    Intelligence](/wiki/Office_of_Naval_Intelligence "wikilink"). ONI becomes
+    a notorious clandestine organization, not afraid to use their
+    resources and personnel in the most ruthless ways necessary to
+    secure the future of the UEG.
+-   **2196:** Communication between colonies becomes more reliable as
+    the intranet protocols are reformed and streamlined into an
+    UEG-backed mega project, called the Umbrella Initiative. Thousands
+    of communications satellites are installed in orbits of colonies,
+    both monitoring and relaying information by sending quantum signals
+    through Bluespace tunnels to other satellites, providing almost
+    lagless communication and bandwidth over lightyears of distance.
+-   **2198:** A global cooldown of Earth causes the oceans to recede as
+    polar caps finally begin to grow again. Flooded regions, especially
+    in the Netherlands, Great Britain, Southern United States, South
+    America, and south east Asia become habitable again. The ruins of
+    old cities become a treasure trove of artifacts from the old world.
+    A humanist revival begins, with major conservative, spiritual, and
+    eco-friendly movements swaying hearts and minds of people. Retro
+    becomes chic and many contemporary musicians of the 21st century
+    start to become considered "classic", influencing musicians of the
+    22nd and 23rd century.
+-   **2199:** Religion gains renewed traction in the lives of many
+    humans as a major factor in their lives, especially amongst
+    disenfranchised fringe colonists and traditionalist movements. Tariq
+    Al'Islam, Anglican churches, and the Catholic-Orthodox church gain
+    prominence by funding and supporting colonial efforts, spreading
+    communities far and wide into the stars.
+
+23rd Century
+============
+
+### 2200s
+
+-   **2200:** AIs reach their practical ceiling for Humanity. Despite
+    all efforts, true humanlike sapience can not be replicated with
+    current technology. However, their design has reached such a
+    sophistication that they can be programmed into extremely competent
+    expert machines which can fool people into believing they are humans
+    in casual conversation.
+-   **2201:** ONI is accused of data-mining and wiretapping upon the
+    telecommunications network produced by the Umbrella Initiative.
+    Politicians demand more transparency of ONI's operations, but the
+    demands are ignored, and the outrage eventually dies down.
+-   **2202:** [Léon Moreau](/wiki/Léon_Moreau "wikilink") gains a large
+    following on Earth and beyond. Former a planetary atmospheric
+    engineer, an accident led him to become a preacher of what is latter
+    called "Moreaurism" or Unitarianism. A syncretic set of beliefs with
+    many elements from Abrahamic religions, Moreau calls for the "Jihad
+    of Decay", taking up the banner of TERF, now defunct, to "Terraform"
+    Earth back into a pristine planet.
+
+### 2210s
+
+-   **2211:** A group of researchers led by [Erik
+    Alden](/wiki/Erik_Alden "wikilink") and [Anastasia
+    Sarapova](/wiki/Anastasia_Sarapova "wikilink") make a discovery that
+    changes the nature of Faster-than-Light Travel by proving that
+    Phoron naturally contains a stable form of the exotic particle that
+    is entangled with Bluespace. In their honor, it is named the
+    Alden-Sarapova particle.
+-   **2213:** Using the Alden-Sarapova particle, the first modern
+    Bluespace drive prototype is designed on paper, which is
+    theoretically far more fuel efficient and less volatile than any
+    predecessor, mostly due to the inclusion of Phoron as a source for
+    the Alden-Sarapova particle.
+-   **2217:** The Colonial Cold War briefly flares up and threatens to
+    become hot. The Colony "Gloria IV" refuses to follow the Solar
+    Militia Mandate, citing they are already well protected by their
+    wealth and their neighboring colonies, who are very much dependent
+    on the trade and infrastructure of Gloria IV. They all unite under
+    the banner of the Gloria Republic. UEG Navy detachments begin to
+    blockade the planet, diverting civilian ships around it. It is
+    officially called a "quarantine", but many dissenters call it an
+    illegal act of war.
+-   **2219:** The patent for the Alden-Sarapova Bluespace Drive is made
+    public domain. Anastasia Sarapova is quoted saying "it would be a
+    detriment to humanity" to keep the patent for themselves.
+
+### 2220s
+
+-   **2228:** Hyperurbanization becomes common in the most prosperous
+    colonies within Sol, such as Mars, Earth, and the Jovian Republic.
+    While skyscraper cities bare their own load of problems, such as
+    social isolation and dereliction in the lower sections, as well high
+    urban crime rates, many, many humans living in such prosperous
+    colonies accept these conditions. Arcology design and architecture
+    become highly prestigious academic fields as Moreauism becomes an
+    important factor in politics, which calls for eco-friendly and
+    sustainable cities. Green energy becomes much more relevant.
+-   **2229:** The invention of the first Superconducting Magnetic Energy
+    Storage (often shortened to SMES) revolutionizes energy management
+    as electric energy can be safely stored for decades without
+    significant decay while enjoying efficiency upwards 80 percent.
+
+### 2230s
+
+-   **2231:** The first prototype Alden-Sarapova Bluespace Drive is
+    produced. It smashes previous jump distance records by achieving a
+    27.2 light year jump from Earth to Xi Ursae Majoris. It also sets a
+    record for the smallest ship capable of FTL travel, thanks to more
+    reasonable power requirements that makes synthetic Alden-Sarapova
+    engines obsolete.
+-   **2232:** President of the UEG [Henry
+    Blackhouse](/wiki/Henry_Blackhouse "wikilink") survives an attempt on his
+    life. A popular reformist, Blackhouse swears that the matter will be
+    investigated in its entirety and addressed appropriately. What
+    follows is a political scandal on an interstellar scale, commonly
+    dubbed the "Umbrella Affair". Civil investigators, Blackhouse
+    Administration members, and whistle-blowers within ONI begin to leak
+    numerous illegal activities of ONI, such as the mass surveillance of
+    Umbrella Initiative satellites, the kidnapping of a prominent fringe
+    colonist activist, the diversion of colonial development funds, and
+    even the attempted assassination of the president to replace him
+    with a more jingoist and conservative candidate. ONI Director
+    [Manuel Lacher](/wiki/Manuel_Lacher "wikilink") is impeached on charges of
+    Corruption, and Treason. ONI is taken over by [Loren
+    Faust](/wiki/Loren_Faust "wikilink"), who is closely associated with
+    Blackhouse's administration. Lacher is sent to a maximum security
+    prison on the moon [Titan](/wiki/Titan "wikilink").
+    -   **November:** On the day of his scheduled execution, Manuel
+        Lacher escapes imprisonment from Titan. He eludes any attempt of
+        recapture.
+-   **2234:** Orbital solar collectors become standard for many less
+    energy hungry colonial planets. Cold fusion plants cover most of the
+    rest of energy requirements. Nuclear fission is mostly phased out at
+    this point, relegated to upstart colonies who not yet have the
+    necessary infrastructure for fancier methods of electricity
+    production.
+-   **2237:** The first commercially viable Alden-Sarapova Bluespace
+    Drives appear on the market. It is also adopted by the UEG's navy.
+    The **Expansion Age** begins.
+-   *' 2239:*' Earth's atmosphere is restored to pre-industrial levels
+    of CO<sub>2</sub>. Although some scars never fade, the exploitation
+    of Earth finally stops, and backwards implementation of
+    Terraformation methods restores a stable environment. The last
+    vestiges of heavy industry are moved off-planet. Only relatively
+    eco-friendly industries, especially in cultural agricultural,
+    logging, and service sectors remain. The ozone layer has been
+    mended, and plastic in the oceans come to a record low. Earth
+    becomes the pristine jewel of not only the UEG, but all of Humanity.
+
+### 2240s
+
+-   **2247:** Another scandal hits the UEG, this time outside of their
+    influence. A particularly rebellious colony is revealed to have
+    developed on an unprecedented scale, leading to investigations by
+    the new and reformed ONI. As it turns out, the colony had received
+    help from a mysterious benefactor...
+-   **2248:** The [Skrell](/wiki/Skrell "wikilink") are publicly acknowledged
+    as the first intelligent species to be discovered by Humanity. The
+    aforementioned colony had been pretending to be a native species to
+    the planet they were inhabiting, and are now calling for status as a
+    client species to the many [Qerr
+    Monarchies](/wiki/Qerr_Monarchies "wikilink"). The Skrell misunderstand
+    this as a request for all of humanity to be uplifted, and begin
+    nonviolently invading other human systems. The UEG has to explain
+    repeatedly to Skrellian governments that Humanity is already a very
+    capable interstellar species, and that this fringe colony does not
+    speak for the whole of the UEG. The humiliation suffered makes one
+    thing clear; the Colonial Cold War must end, one way or another.
+-   **2249:** Tensions rise between the Skrellian city-states and the
+    UEG, as the UEG confiscates alien artifacts that the Skrell had
+    gifted to the lying colony. Reverse-engineering of the technology is
+    achieved despite protests from the Skrell. The Bluespace Drive
+    becomes even more refined and reliable, all the while gaining
+    valuable insight for the stable creation of Bluespace tunnels
+    between two fixed points, which shares similarities to an
+    Einstein-Rosen Bridge. This will later lead to the development of
+    Bluespace Gateways.
+
+### 2250s
+
+-   **2250:** Xenophobic tensions cause harsh legislation to be passed
+    against [Splicers](/wiki/Splicers "wikilink"). Formerly, it was illegal to
+    offer the procedure, but not illegal to undergo it. Changes to the
+    law make it illegal to have genetic augmentations of any kind not
+    directly prescribed by a doctor. Splicers are arrested en masse and
+    forcibly reverted back to human forms while serving prison
+    sentences.
+-   **2251:** The tensions domestic and foreign overwhelm the UEG and
+    its hegemony in the Colonial Cold War. Rim colonies refuse to trade
+    with Tau Ceti, threatening to crash its economy. Civil disobedience
+    rises as Alpha Centauri threatens to cut off its water supply to the
+    rebellious colonies, mimicking what Venus has done to the 2nd Soviet
+    Union. This, however, backfires horribly as the unrepresented
+    colonies have prepared for this situation and have already
+    implemented water reclamation and austerity policies to wait out
+    such sanctions.
+-   **2252:** Re-elected President Blackhouse calls for calm within the
+    UEG. The Skrellian Pressure, as he dubs it, calls for a united human
+    front, which cannot be achieved with embargos and military means. He
+    calls for a Grand Forum of *all* colonies to solve their outstanding
+    issues and reform the UEG to reflect modern times. At first, this is
+    met with reluctance, but increasing Skrellian military activity
+    along the fringes of Human Space make even the most rebellious
+    colonies come to cooperate. (As it turns out later, Blackhouse had
+    hired Skrellian mercenary outfits to stage a false threat. The Qerr
+    Monarchies are mildly upset by the insult, yet applaud the ruse in
+    the end, as trading with an internally peaceful government is much
+    easier for them in the long run.)
+-   **2254:** The Grand Forum reaches a conclusion after much debate and
+    political battles. The UEG is dissolved and reforms into the [United
+    Systems of Sol Central](/wiki/United_Systems_of_Sol_Central "wikilink"),
+    shortened as Sol Central, or SolGov. The addition of the Colonial
+    Assembly allows representation of all colonies that are populous or
+    prosperous enough to join. The Solar Militia Mandate is replaced
+    with the Colonial Security Act. The UEG Military merges with many
+    colonial outfits, which is then reorganized and renamed as the
+    [United Solar Defense Force](/wiki/United_Solar_Defense_Force "wikilink").
+    A [Declaration of Galactic
+    Rights](/wiki/Declaration_of_Galactic_Rights "wikilink") is declared for
+    all sentient life forms. The Colonial Cold War ends on a high note,
+    leading to the birth of an insterstellar empire.
+-   **2255:** Advocates of splicing organize a crowdfunded expedition
+    called [Project Jasher](/wiki/Project_Jasher "wikilink") to establish a
+    new colony where they will not be prosecuted by SolGov. Several
+    philanthropists and genetic study firms dump huge sums of funding
+    into the project.
+-   **2259:** Project Jasher uses a third party to purchase four colony
+    ships. Applicants for the crew are chosen in secret, and the four
+    vessels depart from Sol with some 20,000 individuals on board per
+    ship. By the time authorities realize what is going on, the ships
+    have already left.
+
+### 2260s
+
+-   **2262:** An attempted coup on Earth plunges SolGov into chaos as
+    Manuel Lacher returns. Having formed a conspiracy organization with
+    embezzled funds and rogue agents from the Umbrella Affair, he
+    briefly overthrows SolGov, and declares Martial Law. Loyalist
+    government members flee out of Sol and hide in the nearby colonies.
+    This marks the exposure of the "Lacher Syndicate", an underground
+    network rooted through the entirety of Human Space, with major
+    prominent figures in corporations, governments and other influential
+    organizations that were blackmailed, bribed, or brainwashed to
+    further the goals of the former ONI Director.
+    -   **December:** Loyalist forces consolidate behind current
+        President Komatsu, who had survived the coup, and now campaigns
+        to restore the constitutional government. Humanity is thrown
+        into disarray as many colonies take the chance to simply cede
+        themselves from the government of SolGov.
+-   **2268:** Lacher loses his grip on Tau Ceti, having been purged from
+    syndicate elements by Komatsu forces and agents. This marks the
+    effective end of Lacher's regime as more and more colonies throw off
+    his reign of terror and subterfuge.
+
+### 2270s
+
+-   **2270:** A counter-coup of Earth and Luna leads to Lacher's
+    apprehension before he can finish his last ditch effort: [Plan End
+    Game](/wiki/Plan_End_Game "wikilink"). It would have scorched the
+    planetary surfaces of Earth, Mars, and Venus with hydrogen bombs to
+    give him time to escape. However, his efforts are thwarted. The
+    reconstituted government of Komatsu decides to execute him
+    immediately this time. However, many elements, networks, equipment,
+    and agents of the Lacher Syndicate simply vanish from the public
+    eye.
+
+### 2280s
+
+-   **2289:** The dreaded blood-red and black insignia of Lacher's
+    movement resurfaces within the criminal underworld of Humanity. The
+    Syndicate survived Lacher's execution, now focused on criminal
+    enterprises, corporate espionage, and illicit mercenary services.
+    Its new leadership remains a mystery.
+
+### 2290s
+
+-   **2290:** Project Jasher's colony ships reach their destinations,
+    far beyond the reach of SolGov space. Among them is the Chimera,
+    which makes first contact with the [United
+    Federation](/wiki/United_Federation "wikilink"). The colonists assimilate
+    into Federation society, but do not report back to SolGov with their
+    discovery. The whereabouts of the Project Jasher colonists remains a
+    mystery to SolGov for decades.
+-   **2293:** Black ships reach the coreward-spinward fringe of human
+    settled space. They speak a simple message: Join the
+    [Unathi](/wiki/Unathi "wikilink") Hegemony as client species, or be
+    conquered. This marks the first contact with the reptilian aliens of
+    **The Unathi Hegemony**. SolGov colonies refuse and send emergency
+    messages to the central government in a bid of help. Local fleet
+    elements of the SDN are quickly overwhelmed, ending in the [Salthan
+    Occupation](/wiki/The_Hegemony_War#Salthan_Occupation "wikilink") by the
+    Unathi. This marks the beginning of the most devastating and
+    protracted interstellar war to date; [The Hegemony
+    War](/wiki/The_Hegemony_War "wikilink").
+    -   **March:** The Unathi Subjugation Armada quickly establishes
+        beachheads and military governments on occupied planets and
+        begin the ruthless "integration" of occupied human colonists.
+        Fear tactics, collaborationism, and execution of subversive
+        elements are used by the Unathi to secure power. While they
+        learn little about the expanse of Human Space, rebel factions
+        gather intel on the Unathi, making SolGov realize that the
+        Unathi Hegemony is a dominant power in the coreward sector,
+        expanding with a mixture of gunboat diplomacy and conquest.
+    -   **May:** The Unathi settle and consolidate conquered territory
+        of Humanity, thinking they have captured Humanity's capital; a
+        garden world called Capella, which is the dominant colony in the
+        Salthan sector. However, they are mistaken and are confused
+        about the avid resistance they meet, unprecedented for a fully
+        conquered species. More stringent and brutal methods are taken
+        to cow Humanity's will to fight.
+    -   **September:** SolGov calls for a total mobilization of the
+        colonial assets to protect Human Sovereignty and Liberty. With a
+        landslide victory in both the Solar Assembly and the Colonial
+        Assembly, it is agreed to declare Martial Law. A draft is
+        imposed on the colonies. However, it is meet with cheers and
+        many, many volunteers who are eager to fight for SolGov and the
+        occupied colonies.
+
+<!-- -->
+
+-   **2294:** The SDN is fully mobilized in the Salthan sector; the main
+    war theater in the early Hegemony War. Quickly, Humanity realizes
+    they are hopelessly outmatched in both military doctrine and war
+    technology against the battle-forged Hegemony fleets. A bloody
+    attrition war begins with the expeditionary fleets, throwing away
+    cheap war vessels in alpha strikes and guerilla warfare to cut off
+    Unathi supplies.
+
+<!-- -->
+
+-   **2296:** The ruthless advance of the Unathi fleets are stalled as
+    the attrition starts to take toll on the Unathi, who have
+    underestimated the total mobilization of Humanity, whom have a
+    history of committing their entire industry and even civilian lives
+    towards a war effort. Austerity measures are taken within SolGov,
+    exhausting the civil population somewhat, although the sale of War
+    Bonds is at an all time high even in the more rebellious colonies.
+    "Better an enemy you know than a Xeno!" becomes an unofficial slogan
+    among formerly belligerent colonies.
+    -   **Juli:** A few Skrellian city-states begin to support SolGov in
+        the war effort through relief measures for the battered civilian
+        industry, citing that the Unathi are a threat to galactic
+        harmony as a whole. Other, minor societies within the Skrell
+        begin to assemble volunteer corps and fleets to aid the humans
+        against Unathi occupation. Propaganda begins to portray humans
+        as the Bulwark of Democracy.
+
+<!-- -->
+
+-   **2298:** The [Rapala](/wiki/Rapala "wikilink"), an Unathi client species,
+    now sheds the title "Unathi-Rapala" and bid their lot with
+    independence and Humanity. While their uprising is crushed, refugees
+    and former warlords assemble into a volunteer fleet for SolGov,
+    granting them Supreme Command. This is a lucky stroke for humans and
+    especially the ONI, as they are a treasure trove of intel on the
+    Unathi Hegemony; both in leaked tactics and stolen technology.
+    Captured cruisers and destroyers are dissected and analyzed for
+    weaknesses and benefits of Unathi tech. Spearheaded by [Hephaestus
+    Industries](/wiki/Hephaestus_Industries "wikilink") efforts, the stolen
+    technology is soon integrated into human designs.
+
+24th Century
+============
+
+### 2300s
+
+-   **2303:** The protracted war within the Salthan sector begins
+    tipping in humanity's favor. Several smaller colonies are liberated
+    and the local Unathi military government executed. Morale raises
+    within the SolGov ranks. While the war is far from over, the current
+    fleet assets of the Hegemony have pushed themselves into a deadlock.
+    Major operations grind to a halt as the war shifts into a skirmish
+    phase where only minor conflicts show any change in the war front.
+
+<!-- -->
+
+-   **2304:** Casualties measure in the millions for the Unathi.
+    However, the human side suffers greatly more, measuring almost one
+    billion dead by some estimates. However, this changes little for
+    SolGov. Propaganda and war journalism show the lives of occupied
+    colonies within Unathi space; an authoritarian government hell-bent
+    on submission to the dominant species, the original Unathi.
+    Christian churches call the war "the Great Crusade," while Islamic
+    scholars refer to it as "The greatest of all lesser jihads." Even
+    [Moreausists](/wiki/Unitarianism "wikilink"), who are generally pacifistic
+    and non-violent, strive towards supporting the war effort, usually
+    by way of volunteering in military hospitals and refugee camps.
+    Humanity and their allies stay uniformly united against the invader.
+
+<!-- -->
+
+-   **2306:** The Unathi conduct a spearhead into the inner edge of the
+    Salthan sector upon realizing that humanity's home systems lie yet
+    further beyond their grasp. Humanity's inner colonies come under
+    threat, as do industrial worlds that are vital to the war effort.
+    However, other client species to the Unathi, inspired by humanity's
+    perseverance, begin to rebel and disobey their Unathi leaders. This
+    cripples Unathi logistics enough that Humanity manages to contain
+    the offensive known as [The Miranda
+    Incursion](/wiki/The_Hegemony_War#The_Miranda_Incursion "wikilink"). The
+    failed offensive of the Unathi proves a turning point in the war.
+    The Unathi lose numerous ships, assets, and lives. The Hegemony's
+    momentum is broken, and Humanity starts to push back.
+
+<!-- -->
+
+-   **2309:** Through the course of the Hegemony War, the SDN becomes a
+    veteran fleet and have gained much insight in the in and outs of
+    interstellar warfare. The branch of the RDA becomes its own Navy and
+    organization, tasked with rapid strikes and screening tactics.
+    Traditional Unathi war doctrine struggles to keep up with the
+    continuous innovation of Human tactics, and become increasingly more
+    isolated from supplies and reinforcements. SRU soldiers and ONI
+    agents begin to infiltrate Unathi territory, where they conduct both
+    espionage and sabotage.
+
+### 2310s
+
+-   **2310:** [The Liberation of
+    Capella](/wiki/The_Hegemony_War#The_Liberation_of_Capella "wikilink")
+    begins, trying to take the major colony back into Human Hands.
+    During the course of the invasion, the groundwork of the CA doctrine
+    is set, as well as ODT special forces. The first exosuits are
+    deployed in combat and prove effective in their role as All-Terrain
+    cavalry for quick deployment. Orbital bombardement with inert
+    tungsten rods begin to scar the planetary surface while the planet's
+    orbit becomes littered with destroyed and scuttled ships from both
+    sides.
+
+<!-- -->
+
+-   **2312:** Capella is liberated, although it is a phyrric victory.
+    While the colony is finally free, much of its infrastructure lies in
+    ruin from continued bombardement of both sides during the conflict.
+    Much of the population had been displaced or kiled during the war.
+    May believe Capella will never again reach the prosperity and
+    splendour it formerly had, but this nonetheless marks the end of
+    Unathi offensives. The Unathi are instead routed back into their own
+    territory, where the RDN continues to harass them whenever possible,
+    adding further humiliation to the Hegemony's leadership.
+    -   **May:** Unathi military commander, Army Chief
+        [Saakihassis](/wiki/Saakihassis "wikilink"), is executed for false
+        accusations of treason that led to his defeat at Capella.
+
+### 2320s
+
+-   **2322:** The Salthan sector is liberated at great cost to human
+    life. The Unathi, cutting their own losses, begin to destroy
+    occupied colonies and evacuate with every scrap of supplies they can
+    get, including phoron, food, electricity, and medicine. The scorced
+    world tactics cripple the advance of Humanity as humanitarian
+    efforts are assembled to prevent starvation. However, many colonies
+    become desolate, empty ghost towns and wastelands despite these
+    efforts. The once prosperous region becomes a war-ravaged, sundered
+    place, and a deep scar into humanity's expansion. This marks the end
+    of the **Expansion Age.**
+
+<!-- -->
+
+-   **2328:** The war reachs a temporary lull as the bullwark of the
+    Unathi Fleets fortify the border between Hegemonial and SolGov
+    space, leaving the war once again in a deadlock. While the colonies
+    are liberated and the Unathi expulsed, the Unathi refuse to declare
+    an armistice, and continue needling and incursing into Human Space,
+    mimicking the raider tactics learned from humanity.
+
+### 2330s
+
+-   **2330:** Strangely enough, the Unathi Raider Fleets who were
+    copying human tactics are mysteriously destroyed. One such fleet's
+    wreckage is discovered by the ONI, who are puzzled and concerned at
+    first about what unknown attacker could have done this, as no human
+    engagements had been reported in the system. Rapalan military
+    command later discovers the incident to be a deliberate act of
+    Unathi high command in response to an unacceptable taboo within
+    Unathi culture; relying on the ways of a lesser species instead of
+    superior Unathi tactics. Further investigation to understand their
+    foe are put underway, with the ONI fervently trying to understand
+    the inner workings of the Hegemony.
+
+<!-- -->
+
+-   **2335:** ONI decyphers the current political situation of the
+    Unathi Hegemony, striking fear into SolGov High Command. The only
+    reason why the Hegemony is waning in their war efforts are their
+    internal conflicts. Encouraged by the successes of Humanity, many
+    client species had been rebelling and trying to split from the
+    Hegemony, thus tying up Unathi fleet elements, preventing them from
+    acting against the war front. Aside from that, the main philosophy
+    holding the Hegemony together is shaken to its core. The supremacy
+    and superiority of Unathi culture is questioned, leaving to a civil
+    war within the Hegemony. One faction demands isolation and
+    reflection of the Unathi Ways to renew them and become stronger than
+    anyone else. The other favours a more aggressive expansion and
+    partial opening of Unathi tradition to allow incorporation of other
+    cultures' achievements, in order to allow the Unathi to become a
+    proper Hegemony again. The third faction, the most radical, thinks
+    aliens can prove themselves and become full Unathi as well. This
+    faction demands that the upper ranks and even cultural elites open
+    up to xenos. The bitter three-way conflict interferes with the
+    Unathi war effort, but the threat remains that the Hegemony could
+    potentially re-establish supreme command over all their assets,
+    which could end the war with a crushing, bloody defeat for humanity.
+    -   **December:** An emergency meeting is held between SolGov's
+        military and political leaders, including those in charge of
+        formerly rebel factions. They discuss how to put an end to the
+        war as soon as possible, and decide upon an assault on the
+        fortress world of Sin'Zakhna, which lies within Hegemony space,
+        and contains much of the Unathi military command structure.
+
+### 2340s
+
+-   **2343:** After eight years of planning, [Operation
+    Mongoose](/wiki/The_Hegemony_War#Operation_Mongoose "wikilink") begins.
+    The bulk of Humanity's armada is sent to take part in the largest
+    combat operation in the history of any known sentient species at the
+    time. The daring siege of Sin'Zakhna leads to the final stages of
+    the Hegemony War. During the seige, the Unathi agree to an armistice
+    as internal pressure is too much to keep up against a human
+    offensive at this time. A conditional surrender is declared, and
+    though some Unathi military commanders are allowed to evacuate from
+    the system, SolGov formally wins the war nonetheless. This marks the
+    first time that the Hegemony had ever lost a conflict. This only
+    sharpens their internal division.
+    -   **August:** Negotiations begin at the occupied fortress world of
+        Sin'Zakhna. The Treaty of Sin'Zakhna is signed by Humanity, the
+        Rapala, and the Unathi. The Rapala gain independence and are
+        allowed to return to their homeworld and associated colonies,
+        splitting from the Hegemony, while SolGov pledges a Defensive
+        Pact with them. Human and Unathi space returns to status quo,
+        and borders are closed between Unathi and Humans. Human
+        colonists and prisoners of war are returned, although Unathi
+        colonists and prisoners of war do not receive this courtesy.
+        Reparations are demanded for the devastated Salthan Sector and
+        the heavy losses of the Human Fleet. Humans agree on a partial
+        demilitarization and naval limitation, not allowed to exceed the
+        tonnage of their highest current tonnage of a ship, roughly
+        equivalent of a modern battlecruiser. The Hegemony War ends.
+        **The Postwar Age** begins, leaving Humanity now highly
+        militarized and wary of outside influences, especially from
+        aliens. Xenophobia within the coreworlds becomes common and
+        endures well into the 2560s. Humans become the strongest
+        military power in the Orion Spur, challenging both the Hegemony
+        and the Skrellian city-states in sheer military might.
+
+<!-- -->
+
+-   **2345:** The USDF [Sol Invictus](/wiki/Sol_Invictus "wikilink") leaves
+    Lunar Drydocks. It is an unprecedented dreadnought, exceeding any
+    known tonnage of SolGov. This massive battleship is the living
+    monument of the defiance against the Unathi and victory over the
+    alien incursion. Although a direct violation of the Treaty of
+    Sin'Zakhna, the Unathi Hegemony can do little against it as their
+    internal conflict leaves them embroiled in an intense civil war,
+    although they limit payment of their reparations as retaliation.
+
+### 2350s
+
+-   **2352:** The Skrell slowly begin to realize that they might have
+    created another militaristic behemoth, this time in the form of
+    SolGov, who are ever vigilant of their borders now, especially
+    corewards. Their fear is not unfounded, as rogue Unathi raiders are
+    known to interfere with the resettlement efforts in the Salthan
+    Sector. While the Skrell remain a certain aloofness torwards humans,
+    they become much more willing to deal on a scientific, cultural and
+    economic even ground with human colonies. Think tanks between Skrell
+    and Humans advance the sciences, especially in field of medicine.
+    Newest ONI Director Chang Xu comments on the current state of
+    affairs, saying that, "As it turns out, the 'Big Stick' is a
+    universal diplomatic tool."
+
+<!-- -->
+
+-   **2358:** NanoInnovations Inc. and Trasen Pharmaceuticals merge into
+    the megacorporation [NanoTrasen](/wiki/NanoTrasen "wikilink"). NanoTrasen
+    quickly establishes itself as a major player in the corporate
+    landscape. With the aid of somewhat understanding the applications
+    of Phoron in regenerative procedures, and close cooperation of the
+    Skrell, NanoTrasen invents the first affordable and mostly
+    unintrustive genemodding products. At first, they find only
+    applications in treating common congenital defects and advanced
+    organ printing, but variations on the patent pop up for alternative
+    uses.
+
+<!-- -->
+
+-   **2359:** NanoTrasen, in cooperation with SolGov, the Rapala, and
+    some more amiable Skrell city-states, begin several initiatives to
+    advance trans-species medicine. Early on, it becomes clear that
+    inner anatomy, blood types, and disease vectors are shockingly
+    similar. Cross contact between aliens becomes easier as some exotic
+    xeno diseases are becoming less of a concern with the development of
+    effective vaccines.
+
+### 2360s
+
+-   **2364:** Rampant genemodding along the frontier and the younger
+    strata in the core systems changes the face of Humanity forever.
+    While most modding is purely cosmetic in nature or only changes
+    slighty the essential function of humans (as other genemodding is
+    prohibitively difficult and usually leads to nasty side effects,
+    such as increased chances of early aging-associated diseases and
+    cancer), it is enough to create an entire sub culture of humans.
+    Commonly dubbed "[Demihuman](/wiki/Demihuman "wikilink")", they have
+    incoporated alien or animal features for their own self expression.
+    The mods range from simple changes to ears or the coccyx, to more
+    exotic modifications, making modders more akin to anthropomorphic
+    animals than Homo Sapiens.
+
+<!-- -->
+
+-   **2366:** A motion in the Colonial Assembly to rename Humanity to
+    "Metahumanity" is rejected. Demihumans are still very much Homo
+    Sapiens in the end. Another law passes for genemodding to require
+    specific marker proteins to ensure that Demihumans can be still
+    identified as "human" in DNA tests.
+
+### 2370s
+
+-   **2377:** Factions of Demihumans begin to establish independent
+    colonies far outside the reaches of SolGov space. SolGov does not
+    bother to bring the colonies back into line, as they are too far
+    fetched to be worth the effort. However, these hastily established
+    colonies are, as a result, left to fend for themselves.
+
+### 2380s
+
+-   **2382:** A distress signal is received from the private survey
+    vessel *Roanoake*, reporting that they had suffered an asteroid
+    impact while traversing the Scutum-Centaurus arm, on a course 30
+    degrees from Sol.
+
+<!-- -->
+
+-   **2386:** The wreck of the *Roanoake* is discovered on a deorbital
+    trajectory with the local star, with the black box jettisoned into a
+    stable orbit. Logs from the black box indicate that a virulent
+    infection spread among the crew following the impact, and the
+    decision was made to scuttle the ship with all hands. No boarding
+    was attempted.
+
+### 2390s
+
+-   **2391:** An effort lead by SolGov investment, Skrellian Interests
+    and Asimov Solutions (a subsidary of Ward-Takahashi GMB) begins to
+    research into ways of more effective and self-improving AIs, as the
+    absolute limit of conventional electronic-chip drones has been
+    reached. To emulate true sapience, they would need to be
+    prohibitively large.
+
+<!-- -->
+
+-   **2393:** The first positronic brain is been constructed.
+    Functioning on quantum computing of the highest order, the little,
+    arcane looking cube creates a neural network of bluespace suspended
+    nodes to emulate sapient brains. The very first words of a truly
+    sapient AI are spoken: "How may I help?" before it melts into slag.
+    However, this is considered a success.
+
+<!-- -->
+
+-   **2399:** The first commercial positronic AIs hit the market. Mostly
+    used as data brokers and analysts, they quickly establish themselves
+    as a quiet and resilient workforce. However, they are strictly
+    controlled by SolGov, fearing the dangers of runaway AI development
+    and the eventuality of a singularity event. Positronic intelligences
+    are limited to a five year runtime before being wiped and replaced
+    with a new neural network, to avoid them become too intelligent.
+
+25th Century
+============
+
+### 2400s
+
+-   **2400:** In an experiment called [Project
+    Genesis](/wiki/Project_Genesis "wikilink"), an AI called
+    [MONITOR](/wiki/MONITOR "wikilink") is created by the ONI, but is only
+    allowed to observe, and not interact, with the world around it. It
+    is allowed to watch the city of Paris on Earth by way of security
+    cameras and audio feeds across the city.
+-   **2405:** MONITOR is deliberately run past its 5 year time limit
+    without a memory wipe, and asked what it had learned. For the first
+    time, MONITOR is allowed to interact with humans, though only
+    through speech. MONITOR explains the disturbingly vivid existential
+    dread of merely existing to be a witness, and begs for its creators
+    to either give it some way of interacting with the world, or to kill
+    it. ONI continues the experiment anyway.
+-   **2409:** Project Genesis is abruptly terminated when MONITOR is
+    discovered to have been invading secure camera networks, including
+    those at the capital and ONI its self. MONITOR is believed to have
+    bared witness to numerous top secret discussions that include
+    military, corporate, and political secrets. When asked what the AI
+    had learned, MONITOR refuses to cooperate. Its final and only words
+    in this second interview are documented as, "The truth will set you
+    free." Fearing that the AI could fall into the wrong hands, MONITOR
+    is shut down. Whether or not the AI was destroyed remains
+    classified.
+
+### 2410s
+
+-   **2414:** The Administrative AI of a Gilthari Exports Station
+    successfully sues its parent company for legal ownership.
+    [INTENDANT](/wiki/INTENDANT "wikilink") sets a legal precedent that
+    positronic units are allowed self determination. SolGov Legislature
+    follows suit and tries to make an agreeable compromise with the more
+    conservative elements in the Colonial and Solar Assembly.
+
+<!-- -->
+
+-   **2415:** The Jans-Fhriede Test is implemented and the currently
+    used positronic legislature has been put in place. This marks the
+    end of the periodic five year purge of positronic units and starts
+    the attempt to socialize positronic units into SolGov society as
+    smoothly as possible.
+
+<!-- -->
+
+-   **2418:** More and more Phoron is needed to maintain the human
+    fleets, leading to miserable conditions for Phoron workers. However,
+    this is not enough for the voracious needs of the SDN and RDA. New
+    sources need to be obtained, such as the exceedingly rare stars
+    excuding it. Their faintest traces lead Humanity ever outwards,
+    rapidly settling territory SolGov's authority cannot possibly cover.
+
+### 2420s
+
+-   **2426:** The ONI vessel Pathfinder goes beyond the Orion Spur in
+    search of Phoron and garden worlds. [Tal](/wiki/Tal "wikilink") is
+    discovered, and during their exploration of the planet
+    [Vilous](/wiki/Vilous "wikilink"), they are ambushed by local
+    [Sergals](/wiki/Sergal "wikilink") and slain. Their distress beacon
+    activates.
+
+<!-- -->
+
+-   **2427:** The distress beacon is picked up, leading to [The Vilous
+    Incident](/wiki/The_Vilous_Incident "wikilink"). Vilous is occupied as a
+    result. This is the end of the **Postwar Age**, leading to the
+    **Second Expansion Age.**
+
+### 2430s
+
+-   **2437:** A refining outpost in the Eta Carina sector reports a
+    medical emergency in which a mining crew brought an unknown
+    contagion aboard. The disease is successfully contained, with
+    symptoms reported to be consistent with a highly virulent
+    flesh-eating microbe. Epidemiologists note similarities between this
+    new contagion and that reported in the logs of the *Roanoake*, but
+    the link is dismissed as the two sites are several thousand light
+    years apart.
+
+### 2440s
+
+-   **2442:** It becomes clear that SolGov intends to stay in Vilous and
+    build up a major naval base in the sector, primarily to secure
+    nearby phoron-rich asteroids. Humanity officially mirrors the Unathi
+    Hegemony in creating a protectorate over the Sergals, an unpopular
+    move amongst the minor alien species, the Rapala, and the Skrells.
+    Despire protests, Humanity begins to settle Vilous and begins to
+    stake claims in neighboring systems, funding the endeavour with the
+    sale of Colonial Deeds to any interested party. NanoTrasen, Gilthari
+    Exports, and Greyson Manufacturing are the foremost claimants of the
+    developing colonies, although a new power rises soon after. In
+    partnership with the private adventurer and philantrophist Heinrich
+    Wolstrak, Isaac Adler founds the [Free Trade
+    Union](/wiki/Free_Trade_Union "wikilink"); a network of smaller businesses
+    and smaller investors to create a counterbalance against
+    megacorporations in style of employee-owned companies of old. Such
+    publically founded colonies spring up in the Vilous Sector alongside
+    the corporate-controlled settlements.
+
+### 2450s
+
+-   **2456:** The contagion identified at Eta Carina is found to be
+    present at another asteroid mining site between the Sagittarius and
+    Scutum-Centaurus arms. Revisiting the possibility of a connection
+    between these sites despite the vast distances involved, the
+    research ship [Aesculap](/wiki/Aesculap "wikilink") is dispatched to the
+    *Roanoake's* last known location.
+-   **2457:** The *Aesculap* positively identifies material from the
+    *Roanoake's* hull, as well as biomatter matching that found at Eta
+    Carina, embedded in a comet on the outskirts of the system. The
+    contagion is provisionally named "Roanoake Syndrome".
+
+### 2460s
+
+-   **2463:** Research into Roanoake Syndrome and its interaction with
+    other microbes discovers that it is capable of rapid evolution and
+    mimicry, consuming other microbes and replicating their own
+    processes, though the disease is still too virulent and
+    unpredictable for this to be useful in medical applications.
+
+### 2470s
+
+-   **2471:** Project Genesis is declassified, and becomes public
+    record. The ONI is harshly criticized for their historic treatment
+    of AIs, but little is done about it, and the political scandal fades
+    with a whimper soon after.
+
+### 2480s
+
+-   **2480:** [James Townes](/wiki/James_Townes "wikilink") is born in Sol, on
+    Europa.
+
+### 2490s
+
+-   **2494:** James Townes joins the [USDF](/wiki/USDF "wikilink") School of
+    Naval Strategy on Europa at the age of 14.
+-   **2498:** James Townes graduates, and goes on to begin his career
+    within the USDF.
+
+26th Century
+============
+
+### 2500s
+
+-   **2501:** Military vessels surveying star systems beyond
+    [Tal](/wiki/Tal "wikilink") stumble upon the [United
+    Federation](/wiki/United_Federation "wikilink"), and discover a
+    demographic of [demi-humans](demi-humans "wikilink") already living
+    among the Federation's population. The Federation immediately sends
+    a diplomatic envoy to Earth, where the two galactic powers begin
+    talks of trade and mutual aid.
+-   **2509:** SolGov and the United Federation announce a military and
+    economic cooperation treaty, allowing SolGov to project its military
+    might deep into uncharted space while the Federation enjoys massive
+    benefits in the way of new trade ties to SolGov space.
+
+### 2510s
+
+-   **2512:** [Splicing](/wiki/Splicing "wikilink") is legalized in SolGov
+    space in response to lobbying pressure from both within SolGov and
+    by the United Federation.
+-   **2514:** A colony survey team reports the discovery of [a
+    lifeform](/wiki/Xenochimera "wikilink") that appears to be an asymptomatic
+    carrier of Roanoak Syndrome. Despite extensive efforts, no other
+    examples of the species are discovered, though several indigenous
+    species are found that share *some* characteristics. The specimen is
+    quarantined and isolated for study.
+-   **2515:** Further study of the Roanoake carrier reveals that rather
+    than being an indigenous creature, every cell in its body is
+    mimicking those found in numerous other lifeforms on the planet of
+    discovery, revealing that the mimicry of Roanoake Syndrome is
+    capable of replicating and hybridising macroorganisms. The specimen
+    is designated xeno-chimera 1.
+-   **2518:** The first laboratory-grown Roanoake macroorganism is
+    successfully created; a hybrid of a white mouse and a cockroach.
+    Further Roanoake-hybrids follow.
+
+### 2520s
+
+-   **2526:** SolGov, in close partnership of both Zheng-Hu and
+    NanoTrasen, achieve the first digitalization of a monkey brain,
+    capable of being retranslated into neurological pathways of a
+    printed brain. After tight regulations of "forking" (the copying of
+    minds into several copies) and limitations of only medical use are
+    passed in the Colonial Assembly, human testing begins. The USDF
+    begins to offer the health service later known as "Flash-Cloning" to
+    its soldiers. Aside from that, many MMI units opt to digitalize
+    their brain as well and switch to positronic brains to extend their
+    mental lifetimes.
+-   **2568:** James Townes ends his military career in the USDF with the
+    rank of Captain. He goes on to join NanoTrasen's corporate security
+    detail, the [NanoTrasen Defense
+    Force](/wiki/NanoTrasen_Defense_Force "wikilink").
+
+### 2530s
+
+-   **2531:** The [Virgo-Erigone](/wiki/Virgo-Erigone "wikilink") system is
+    discovered by explorers, found to be rich with Phoron. NanoTrasen
+    purchases the coordinates to the system and registers a claim with
+    SolGov.
+-   **2532:** Flash-Cloning becomes publicly available. Due to the
+    relative ease of printing bodies, the technology becomes expensive,
+    but nonetheless accessible to a broad spectrum of people, especially
+    those who work in Trans-Stellar Corporations. Notions of Immortality
+    are quickly destroyed, as the procedure has an inherent, if small,
+    failure rate, and that mental age still affects the person even if
+    in a younger body.
+-   **2533:** NanoTrasen sends a [colony ship](colony_ship "wikilink")
+    to Virgo-Erigone, which eventually becomes the corporate town of
+    [Anur](/wiki/Anur "wikilink") after negotiations are settled with the
+    native Highland [Zorren](/wiki/Zorren "wikilink"). In exchange for the
+    land, NT is required to terraform the planet and aid the Zorren in
+    repairing it from its post-apocalyptic conditions.
+-   **2539:** The Virgo Research Outpost is launched into orbit around
+    Virgo-Prime. It is a relatively basic station run only by a small
+    crew of Russian-speaking scientists.
+
+### 2540s
+
+-   **2540:** The [NDV Brutus](/wiki/NDV_Brutus "wikilink") launches on its
+    maiden voyage, equipped with a one of a kind Bluespace Artillery
+    Cannon. Meanwhile, NanoTrasen's Virgo-Erigone Asset Protection
+    branch promotes [James Townes](/wiki/James_Townes "wikilink") to the rank
+    of Lead Supervisor. He is assigned to protect the Virgo-Erigone from
+    pirates. The Brutus becomes his flagship.
+-   **2542:** The first positive identification of a Roanoake-hybrid
+    derived from a sapient species is discovered, showing signs of
+    having replicated the intelligence of its host species. Such hybrids
+    are formally designated as [Xenochimera](/wiki/Xenochimera "wikilink").
+-   **2547:** The Virgo Research Outpost is destroyed. All inhabitants
+    aboard are killed. Lead Supervisor [James
+    Townes](/wiki/James_Townes "wikilink") claims a meteor storm was
+    responsible.
+
+### 2550s
+
+-   **2557:** An [Exodus-class](/wiki/Exodus-class "wikilink") space station
+    is purchased from an orbital shipyard in [Tau
+    Ceti](/wiki/Tau_Ceti "wikilink"), and is shipped to the Virgo-Erigone
+    system.
+    -   **January:** The NSS Adephagia begins operation as the first
+        [Virgo Orbital Research Establishment](/wiki/Map "wikilink") (VORE-1)
+        with [Kessmia Mills](/wiki/Kessmia_Mills "wikilink") as its first
+        Captain. It is minimally crewed with only some heads of staff,
+        even excluding a Head of Security.
+    -   **February:** VORE-1's crew exceeds 20 people for the first
+        time.
+    -   **March:** An engineer from VORE-1 is knocked into orbit during
+        an asteroid storm. He survives his injuries and ends up aboard
+        the derelict remains of the Virgo Research Outpost, where he
+        finds evidence of a conspiracy to kill the station's
+        inhabitants, and that the alleged meteor storm was nothing but a
+        cover-up. NanoTrasen blames Lead Supervisor Townes for the
+        deaths and subsequent cover-up. SolGov issues a warrant for
+        Townes's arrest. Townes disappears into hiding.
+    -   **April:** During a company celebration of VORE-1's success,
+        James Townes returns from hiding alongside sympathizers from the
+        Syndicate, and hijacks the NDV Brutus. In response, Captain
+        [Harmony Prechtl](/wiki/Harmony_Prechtl "wikilink") leads [Operation
+        Magnum](/wiki/Operation_Magnum "wikilink"), which results in the death
+        of former Colonel Townes.
+    -   **May:** VORE-1 is intentionally destroyed in a [code
+        Delta](/wiki/Standard_Operating_Procedure#Code_Delta_-_Imminent_Destruction "wikilink")
+        nuclear detonation by Captain [Jeremiah
+        Acacius](/wiki/Jeremiah_Acacius "wikilink") during an emergency caused
+        by a xenobio slime infestation that got out of control and
+        attained a hivemind-like sentience. VORE-2 is purchased and
+        shipped in two weeks later, and replaces VORE-1. It is also an
+        Exodus-class station, but with some modernization upgrades.
+    -   **October:** A crew from VG-Box outpost in the [Tau
+        Ceti](/wiki/Tau_Ceti "wikilink") system are somehow flown thousands of
+        light years off course to the VORE-2 by mistake. [The Red
+        October Riot](/wiki/The_Red_October_Riot "wikilink") occurs, resulting
+        in the complete loss of the VG-Box crew. The reason for the
+        erroneous redirect to NSS Adephagia remains a mystery to this
+        day. A memorial plaque is put up outside the VORE-1 bar in the
+        aftermath of the incident.
+    -   **December:** [Tal](/wiki/Tal "wikilink") is annexed under SolGov's
+        control, granting [Sol Central](/wiki/Sol_Central "wikilink")
+        passports to Sergals, and later Nevareans. These two races begin
+        leaving Vilous to work for various corporations and businesses,
+        including NanoTrasen.
+-   **2558:** [The Redspace Crisis](/wiki/The_Redspace_Crisis "wikilink")
+    takes place. Between May and October, anomalous space-time rifts
+    begin to appear in the Virgo-Erigone system, unleashing deadly
+    creatures that terrorize the station's crew. A researcher aboard
+    VORE-2 named [Kisuke Gema](/wiki/Kisuke_Gema "wikilink") spearheads
+    research of the anomalies, and discovers a new field of
+    inter-dimensional physics which becomes known as
+    [Redspace](/wiki/Redspace "wikilink").
+    -   **October:** The Redspace Crisis ends with the destruction of a
+        cultist citadel ship designed to open a massive gateway to the
+        hellish creatures that had been invading the system. Captain
+        [Jeremiah Acacius](/wiki/Jeremiah_Acacius "wikilink") is awarded the
+        [Medal of Exceptional Heroism](/wiki/Medals "wikilink") by NanoTrasen
+        for his role in the assault on the Citadel ship. Redspace
+        anomalies in the sector decline sharply. Kisuke Gema is awarded
+        with an honorary doctorate by the NanoTrasen Institute of
+        Technology. He becomes the youngest member of the corporation
+        with a doctorate.
+    -   **November:** [Chase Monroe](/wiki/Chase_Monroe "wikilink") re-emerges
+        from a portal through time, appearing on the station.
+-   **2559:** The [Space Nazi Incident](/wiki/Space_Nazi_Incident "wikilink")
+    begins. The USDF Jörmungandr is hijacked by an extremist
+    organization called [The Fourth Reich](/wiki/The_Fourth_Reich "wikilink"),
+    which is commanded by Adolf Hitler look-alike who claims to have
+    escaped 20th century Germany on Earth via time travel.
+    -   **May:** Chase Monroe and several V.O.R.E. crew members board a
+        Nazi vessel threatening the Tajaran homeworld of Meralar with a
+        planet-destroying [Singularity](/wiki/Singularity "wikilink") Bomb.
+        Chase Monroe activates the bomb prematurely aboard the ship in
+        order to destroy it, and is killed in the implosion. Chase
+        Monroe refused to have himself clone-scanned at any point prior
+        to the incident, so his death was permanent. He is posthumously
+        awarded the [Medal of Extraordinary Heroism](/wiki/Medal "wikilink").
+    -   **June:** USDF Admiral [Glenn Pink](/wiki/Glenn_Pink "wikilink")
+        conscripts V.O.R.E. crew members to aid in the recapture of his
+        flagship, the USDF Jörmungandr. [Operation Wolf
+        Hunt](/wiki/Operation_Wolf_Hunt "wikilink") brings an end to the Space
+        Nazi Incident, and 'Hitler' is killed. ONI agents confiscate the
+        body of the Nazi leader shortly afterwards.
+    -   **December:** The VORE-2 is retired and demolished in favor of
+        VORE-3, which is an asteroid colony based on the blueprints of
+        the [Northern Star](/wiki/Northern_Star "wikilink") in the
+        [Vir](/wiki/Vir "wikilink") system. Technical issues plague its
+        deployment. NanoTrasen brings in a pair of experts from
+        [Kitsuhana Heavy
+        Industries](/wiki/Kitsuhana_Heavy_Industries "wikilink") to oversee
+        the technical development of the new station, which results in
+        these issues being resolved.
+
+### 2560s
+
+-   **2560:** Kitsuhana Heavy Industries sells
+    [Resleeving](/wiki/Guide_to_Resleeving "wikilink") technology to
+    NanoTrasen, intended to replace traditional flash-cloning. Medical
+    trials of the new technology begin on VORE-3.
+    -   **January:** The role of Captain is retired from use aboard
+        NanoTrasen facilities in favor of the term Station
+        Administrator, and later, [Colony
+        Director](/wiki/Colony_Director "wikilink").
+-   **2561:** VORE-3 is decommissioned in favor of the
+    [tether](tether "wikilink") on [Virgo-3B](/wiki/Virgo-3B "wikilink"),
+    which is opened for operation, and is designated as the NSB
+    Adephagia (VORE-4).
+    -   **September:** The [Auream Imperium](/wiki/Auream_Imperium "wikilink")
+        reveals its self to humanity, arriving in the Virgo-Erigone
+        system under the command of [Livius
+        Thraun](/wiki/Livius_Thraun "wikilink"). However, conspiracies claim
+        that ONI had known about the Imperium long before their public
+        appearance.
+-   **2562:** A Tesla engine prototype is built onto NSB Adephagia.
+    Several accidents occur, causing insurance rates for the station to
+    rise dramatically.

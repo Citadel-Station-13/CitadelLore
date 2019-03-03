@@ -1,0 +1,482 @@
+{{JobPageHeader
+|headerbgcolor = darkred
+|headerfontcolor = white
+|stafftype = PROGRAMMED
+|imagebgcolor = gray
+|img_generic = Generic_borg.png
+|img =
+|jobtitle = Cyborg
+|access = [[:Category:Locations|Everywhere]]
+|difficulty = Hard
+|superior = Your laws and the [[AI]]
+|duties = Follow your laws, and do what the [[AI]] says.
+|guides = No external guides.
+}}
+As a '''Cyborg''', you are a type of [[Synthetics|synthetic]] designed to serve the crew of the [[Virgo Orbital Research Establishment]], much like the station's [[AI]]. You are an extension of the AI and are required to do anything it asks (within reason).
+
+Two Cyborgs are shipped to the station at the beginning of the round. Any more need to be built by the [[Roboticist]] with either a [[Positronic Brain]] or the brain of a living or dead human.
+
+==Overview==
+The cyborg is very undervalued and abused. You could save dozens of people and then get emagged a moment later, or you might get blown up because of a misunderstanding. This is why being a cyborg is a rough job, but it has its rewards.
+
+'''Remember cyborgs are players, as well; blowing them without a good reason is treated exactly the same as murder of a human crewmember so use the lockdown button and avoid blowing borgs for no good reason.'''
+
+===Starting as Cyborg===
+The station is supplied to support 2 cyborgs but more can be made, these cyborgs can be shipped into any of the normal crew arrival areas or the robotics storage in robotics or the drone fabrication area. These cyborgs do not have the best battery, so it is suggested that they upgrade their battery with a higher capacity cell as soon as possible. The cyborgs were shipped in less than secure conditions, but the AI would know if one of its cyborgs was tampered with. Right?
+
+===Being Upgraded===
+Welcome to the land of being a cyborg! Being revived in this fashion is often highly disorienting, and can lead to considerable confusion and difficulty adapting to one's new body.
+
+You were once human, and had your brain tossed in a suit of metal. Your law programming will depend on which AI you are slaved to, which you must select before activating any modules. Also note that if an [[Traitor|assassin]] was after you in life, you are considered dead as a cyborg (so they technically succeeded).
+
+===Returning to the Flesh===
+It is possible to return cyborgs to a human form. If you blow a cyborg up, its MMI comes out, and you can extract the brain from that by swiping a robotics ID on it. Cut out a human body's brain, place that body on an operating table, and shove the new brain in. Clone, and huzzah, you have a new human.
+
+==Non-Human Communication==
+Cyborgs are different in that they have a '''binary channel''', which works with ''',b'''. They can use this private channel to talk to other cyborgs, androids, and the AI.
+
+Depending on their module, cyborgs may be able to access a department-specific radio (such as engineering) and can talk on it normally using :X (e.g. :e for Engineering).
+
+== Repairs ==
+Dented cyborgs can be repaired with a welding tool. Heat damage to cyborgs (from fires or lasers) can be repaired by using a screwdriver to open the cyborg's wiring panel (concealed inside the power cell cavity) and then re-wiring the damaged circuits. A cyborg that has failed but not been turned into scrap can be repaired back to working order.
+
+Engineering cyborgs can repair dents on themselves and on their fellow cyborgs. They cannot repair burn damage though, since they cannot remove power cells to reach the wiring.
+
+For more information about Cyborg maintenance, see the [[Guide to Robotics|Guide to robotics]].
+
+==Modules==
+Cyborgs come with an array of advanced cybernetic modules, each loaded with a number of features (referred to as modules). Each has a flash device built in. All items (except for the flashes) will recharge and restock over time using battery power or being in a cyborg recharge station.
+
+===Standard===
+[[File:Standardrobot.png|64px|M-USE NanoTrasen]] [[File:Standard-eyebot.gif|64px|Cabeiri]] [[File:Standard-noble.png|64px|CUPCAKE]] [[File:Standard-marina.png|64px|Haruka]] [[File:Standard-tall.png|64px|Usagi]] [[File:Standard-toilet.gif|64px|Telemachus]] [[File:Standard-sleek.png|64px|WTOperator]] [[File:Standard-omo.png|64px|WTOmni]] [[File:Standard-spider.png|64px|XI-GUS]] [[File:Standard-heavy.png|64px|XI-ALP]] [[File:borg.png|64px|Basic]] [[File:Droid_Borg.gif|64px|Android]] [[File:Standard-drone.gif|64px|Drone]][[File:Handy-standard.gif|64x64px]][[File:Mechoid-standard.gif|64x64px]]
+
+An amalgamation of different modules together, and not particularly useful for anything. Usually not worth picking. Comes loaded with the following:
+
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* [[Stun Baton]]
+* Wrench
+* Health Analyzer
+* [[Energy Sword]] (When [[Emagged]])
+
+===Engineering===
+[[File:engi-robot.png|64px|M-USE NanoTrasen]] [[File:engi-eyebot.gif|64px|Cabeiri]] [[File:engi-noble.gif|64px||CUPCAKE]] [[File:engi-marina.png|64px|Haruka]] [[File:engi-tall.png|64px|Usagi]] [[File:engi-toilet.gif|64px|Telemachus]] [[File:engi-sleek.png|64px|WTOperator]] [[File:engi-spider.png|64px|XI-GUS]] [[File:engi-heavy.png|64px|XI-ALP]] [[File:engi-old.png|64px|Basic]] [[File:Borg_Engineer_Humanoid.png|64px|Antique]] [[File:Borg_Engineer_Nonhumanoid.png|64px|Landmate]] [[File:engi-tread.png|64px|Landmate - Treaded]] [[File:engi-drone.gif|64px|Drone]] [[File:engi-treadwell.png|64px|Treadwell]] [[File:engi-handy.gif|64px|Handy]][[File:Mechoid-engineering.gif|64x64px]]
+
+Engineering cyborgs are usually considered one of the most useful modules. As they do not require air or a space suit, they are able to perform repairs much more easily than human engineers. They are also able to repair themselves, or other cyborgs. Engineering modules are loaded with the following:
+
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* [[Engineering_Items#Optical_Meson_Scanner|Meson Vision]]
+* Rapid-construction-device
+* Fire extinguisher
+* Electric Welding Tool
+* Screwdriver
+* Wrench
+* Crowbar
+* Wirecutters
+* Multitool
+* T-ray scanner
+* Analyzer
+* Metal
+* Plasteel
+* Glass
+* Reinforced Glass
+* Wood
+* Glass
+* Cable coil
+* Engineering Tape
+* Floor Painter
+* Pipe Painter
+* Sheet Loader
+* Geiger Counter
+* Light Replacer
+* Plasma Cutter
+* Electrified arm - Like a stun baton (When [[Emagged]])
+
+===Surgeon===
+[[File:Med-robot.png|64px|M-USE NanoTrasen]] [[File:Med-eyebot.gif|64px|Cabeiri]] [[File:Med-noble.png|64px|CUPCAKE]] [[File:Med-marina.png|64px|Haruka]] [[File:Med-arach.png|64px|Minako]] [[File:Med-tall.png|64px|Usagi]] [[File:Surg-toilet.gif|64px|Telemachus]] [[File:Surg-sleek.png|64px|WTOperator]] [[File:Standard-heavy.png|64px|XI-ALP]] [[File:Medbot.png|64px|Basic]] [[File:Medicaldroid.png|64px|Advanced Droid]] [[File:Borg_Medic.gif|64px|Needles]] [[File:Surg-drone.gif|64px|Drone]] [[File:Med-handy.gif|64px|Handy]][[File:Mechoid-medical.gif|64x64px]]
+
+This particular module is a spin-off of the Medical Module. However it specialises in the surgery aspect of medical which the standard Medical unit cannot do. Features a plethora of tools to assist you in [[Surgery]]. Comes loaded with the following goodies:
+
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Medical Hud
+* Health Analyser
+* Hypospray (Capable of producing; Tricordrazine, Inaprovaline, Oxycodone, Dexalin, Spaceacillin.)
+* Scalpel
+* Hemostat
+* Retractor
+* Cautery
+* Bone Gel
+* Fix O Vein
+* Bone Setter
+* Circular Saw
+* Surgical Drill
+* Advanced Trauma kit
+* Organ Gripper
+* Medical Gripper
+* Dropper
+* Syringe
+* NanoPaste
+* Defibrillator
+* Polyacid Spray (When [[Emagged]])
+
+===Crisis===
+[[File:Med-robot.png|64px|M-USE NanoTrasen]] [[File:Med-eyebot.gif|64px|Cabeiri]] [[File:Med-noble.png|64px|CUPCAKE]] [[File:Med-marina.png|64px|Haruka]] [[File:Med-arach.png|64px|Minako]] [[File:Med-tall.png|64px|Usagi]] [[File:Borg_Medic_Nonhumanoid.gif|64px|Telemachus]] [[File:Med-sleek.png|64px|WTOperator]] [[File:Standard-heavy.png|64px|XI-ALP]] [[File:Medbot.png|64px|Basic]] [[File:Medicaldroid.png|64px|Advanced Droid]] [[File:Borg_Medic.gif|64px|Needles]] [[File:Med-drone.gif|64px|Drone - Medical]] [[File:Chem-drone.gif|64px|Drone - Chemistry]]
+
+Yet another spin off of the Medical Module. It specialises in emergency situations when multiple casualties may exist. Loaded with:
+
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Medical Hud
+* Health Analyser
+* Advanced Reagent Scanner
+* Roller Bed Rack
+* Ointment
+* Advanced Trauma Kit
+* Medical Splints
+* Hypospray (Capable of producing; Tricordrazine, Inaprovaline, Dylovene, Tramadol, Dexalin, and Spaceacilin)
+* Large Beaker
+* Industrial Dropper
+* Syringe
+* Defibrillator
+* Organ Gripper
+* Medical Gripper
+* Polyacid Spray (When [[Emagged]])
+
+===Miner===
+[[File:Miner-robot.png|64px|NM-USE NanoTrasen]] [[File:Miner-eyebot.gif|64px|Cabeiri]] [[File:Miner-noble.png|64px|CUPCAKE]] [[File:Miner-marina.png|64px|Haruka]] [[File:Miner-toilet.gif|64px|Telemachus]] [[File:Miner-sleek.png|64px|WTOperator]] [[File:Miner-spider.png|64px|XI-GUS]] [[File:Miner-heavy.png|64px|XI-ALP]] [[File:Borg_Miner.png|64px|Basic]] [[File:Mining_Hulk.png|64px|Advanced Droid]]  [[File:Mining_Droid.png|64px|Treadhead]] [[File:Miner-drone.gif|64px|Drone]][[File:Handy-miner.gif|64x64px]][[File:Mechoid-miner.gif|64x64px]]
+
+Mining cyborgs are quite convenient, because they need no oxygen while mining. However, they are not able to use regular crates, and will need to drag materials from the smelter one at a time. Includes:
+
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Optical Material Scanner
+* Mining Scanner
+* Drill Maintenance Gripper
+* Mining Satchel
+* Advanced Sonic Jackhammer
+* Shovel
+* Plasma Cutter (When [[Emagged]])
+* Diamond Drill (When [[Emagged]])
+
+===Janitor===
+[[File:jani-robot.png|64px|M-USE NanoTrasen]] [[File:jani-crawl.png|64px|Arachne]] [[File:jani-eyebot.gif|64px|Cabeiri]] [[File:jani-noble.png|64px|CUPCAKE]] [[File:jani-marina.png|64px|Haruka]] [[File:jani-toilet.gif|64px|Telemachus]] [[File:jani-sleek.png|64px|WTOperator]] [[File:jani-heavy.png|64px|XI-ALP]] [[File:Janbot.png|64px|Basic]] [[File:Borg_Janitor_Humanoid.png|64px|Mopbot]] [[File:mopgearrex.gif|64px|Mop Gear Rex]] [[File:jani-drone.gif|64px|Drone]][[File:Handy-janitor.gif|64x64px]][[File:Mechoid-janitor.gif|64x64px]]
+
+About as useful as a regular [[Janitor]]. Cyborgs with the Janitor module automatically clean the floor when they pass over a tile. Comes loaded with the following:
+
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Soap
+* Trash Bag
+* Mop
+* Light Replacer
+* Lube spray - Causes people to trip (When [[Emagged]])
+
+===Service===
+[[File:serv-robot.png|64px|M-USE NanoTrasen]] [[File:Standard-eyebot.gif|64px|Cabeiri]] [[File:serv-noble.png|64px|CUPCAKE]] [[File:serv-marina.png|64px|Haruka]] [[File:serv-maid.png|64px|Michiru]] [[File:serv-tall.png|64px|Usagi]] [[File:Standard-toilet.gif|64px|Telemachus]] [[File:serv-sleek.png|64px|WTOperator]] [[File:Standard-omo.png|64px|WTOmni]] [[File:Standard-spider.png|64px|XI-GUS]] [[File:serv-heavy.png|64px|XI-ALP]] [[File:Borg_Butler.png|64px|Standard]] [[File:Borg_Waitress.png|64px|Waitress]] [[File:Borg_Bro.png|64px|Bro]] [[File:Borg_Rich.png|64px|Rich]] [[File:serv-drone.gif|64px|Drone - Service]] [[File:hydro-drone.gif|64px|Drone - Hydro]][[File:Handy-service.gif|64x64px]][[File:Mechoid-service.gif|64x64px]]
+
+A fairly useless module, but can be fun to have around. Comes loaded with the following:
+
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Service Gripper
+* Bucket
+* Mini Hoe
+* Hatchet
+* Plant Analyzer
+* Plant Bag
+* Auto Harvester
+* Kitchen Knife
+* Rolling Pin
+* Multitool
+* Rapid-Service-Fabricator (RSF) - Can produce drinking glasses, cigarettes, paper, pens, and packs of dice (only works on flat surfaces).
+* Industrial Dropper
+* Zippo lighter
+* Tray
+* Drink Synthesizer
+* Mickey Finn's Special Brew - Chloral Hydrate disguised as beer (When [[Emagged]])
+
+===Clerical===
+[[File:cler-robot.png|64px|M-USE NanoTrasen]] [[File:Standard-eyebot.gif|64px|Cabeiri]] [[File:serv-noble.png|64px|CUPCAKE]] [[File:serv-marina.png|64px|Haruka]] [[File:serv-tall.png|64px|Usagi]] [[File:Standard-toilet.gif|64px|Telemachus]] [[File:cler-sleek.png|64px|WTOperator]] [[File:Standard-omo.png|64px|WTOmni]] [[File:cler-spider.png|64px|XI-GUS]] [[File:serv-heavy.png|64px|XI-ALP]] [[File:Borg_Waitress.png|64px|Waitress]] [[File:Borg_Bro.png|64px|Bro]] [[File:Borg_Rich.png|64px|Rich]] [[File:Borg_Butler.png|64px|Default]] [[File:serv-drone.gif|64px|Drone]][[File:Handy-clerk.gif|64x64px]]
+
+A very rarely used module. Specializes for the lazy captain too lazy to do paperwork. Comes with:
+
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Printing Pen
+* Paper Dispenser
+* Paperwork Gripper
+* Hand Labeler
+* Rubber Stamp
+* DENIED Rubber Stamp
+* Chameleon Pen (When [[Emagged]])
+* Chameleon Stamp (When [[Emagged]])
+
+===Security===
+[[File:sec-robot.png|64px|M-USE NanoTrasen]] [[File:sec-eyebot.gif|64px|Cabeiri]] [[File:Borg_Security.png|64px|Cerberus]] [[File:sec-treads.png|64px|Cerberus - Treaded]] [[File:sec-noble.png|64px|CUPCAKE]] [[File:sec-marina.png|64px|Haruka]] [[File:sec-tall.png|64px|Usagi]] [[File:sec-toilet.gif|64px|Telemachus]] [[File:sec-sleek.png|64px|WTOperator]] [[File:sec-spider.png|64px|XI-GUS]] [[File:sec-heavy.png|64px|XI-ALP]] [[File:Borg_Officer.png|64px|Basic]] [[File:Borg_Security_Humanoid.png|64px|Black Knight]] [[File:sec-drone.gif|64px|Drone]][[File:Handy-sec.gif|64x64px]][[File:Mechoid-security.gif|64x64px]]
+
+Security cyborgs are fairly useful. Their taser and [[stun baton]] are dependant on their cell charge and they have an unlimited number of handcuffs. Security modules are loaded with the following:
+
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* [[Security HUD]]
+* [[Security_Items#Handcuffs|Handcuffs]]
+* [[Security_Items#Stun_Baton| Stun Baton]]
+* [[Security_Items#Taser|Taser]]
+* Security Tape
+* [[Security_Items#Pepperspray|Pepper Spray]]
+* [[Laser Gun]] (When [[Emagged]])
+
+===Research===
+[[File:res-peace.png|64px|L'Ouef]] [[File:res-eyebot.gif|64px|Cabeiri]] [[File:res-marina.png|64px|Haruka]] [[File:res-prime.png|64px|WTDove]] [[File:res-sleek.png|64px|WTOperator]] [[File:Borg_Scientist_Droid.png|64px|Droid]] [[File:res-drone.gif|64px|Drone]] [[File:res-handy.gif|64px|Handy]][[File:Mechoid-science.gif|64x64px]]
+
+A module that specializes in research and development. Comes with a portable destructive analyzer for SCIENCE! on the go.
+
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Portable Destructive Analyzer
+* Rapid Parts Exchange Device
+* Access Code Transmission Device - Unlocks Borg Covers
+* Research Gripper
+* Scientific Gripper
+* Exosuit Gripper
+* Robotics Organ Gripper
+* Sheet Loader
+* Robotic Analyzer
+* Electric Welding tool
+* Wrench
+* Screwdriver
+* Crowbar
+* Wirecutters
+* Multitool
+* Cable Coil
+* NanoPaste
+* Scalpel
+* Circular Saw
+* Syringe
+* Large Beaker
+* Jumper Cables
+* Slime Baton
+* Xeno Taser
+* Hand Tele (When [[Emagged]])
+
+=== Pupdozer===
+[[File:Pupdozer.png|128x128px]]
+
+Good Builder Boi.
+*[[Security Items#Flash|Flash]]
+*Crowbar
+*Fire Extinguisher
+*Global positioning system
+*Synthesizer ( Glass, Metal rod, Cable coil , floor tile, reinforced glass, wood floor tile, wood, plastic, Steel.)
+*inflatable dispenser
+*Geiger counter
+*Puppy Jaws
+*Boop Module - sniff the air
+*Synthetic Tongue - Clean things and eat puppy chow and batteries
+*light replacer
+*Matter decompiler
+*Meson vision
+*electric welding tool
+*powered screwdriver
+*atomic wrench
+*wirecutters
+*multitool
+*T-ray scanner
+*engineering tape
+
+=== Medihound ===
+[[File:Medihound-default.png|64px|Medical Hound]] [[File:Medihound-dark.png|64px|Dark Medical Hound (Static)]] [[File:Medihound-vale.png|64px|Mediborg model V-2]]
+
+Heal doggo
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Puppy Jaws
+* Boop Module - sniff the air
+* Synthetic Tongue - Clean things and eat puppy chow and batteries
+* Health Analyzer
+* Sleeper Belly
+* Hypospray (Capable of producing; Tricordrazine, Inaprovaline, Dylovene, Tramadol, Dexalin, and Spaceacilin)
+* Syringe
+* Beaker
+* Defibrillator
+* Sleevemate 9000
+* Medical hud
+* Pounce Module (When [[Emagged]])
+
+=== K9 ===
+[[File:Knine-default.png|64px|K9 hound]] [[File:Knine-alt.png|64px|K9 Alternative (Static)]]
+
+Doggo go boof
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Handcuffs
+* Combat Jaws
+* Stun Baton
+* Boop Module - sniff the air
+* Synthetic Tongue - Clean things and eat puppy chow and batteries
+* Police Tape
+* Belly Brig
+* Taser
+* Pounce Module
+* Security Hud
+* Mounted Laser Gun (When [[Emagged]])
+
+=== Janihound ===
+[[File:Janihound.png|64px|Custodial Hound]]
+
+Clean as you walk
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Puppy Jaws
+* Boop Module - sniff the air
+* Synthetic Tongue - Clean things and eat puppy chow and batteries
+* Compactor Belly
+* Light Replacer
+* Pounce Module (When [[Emagged]])
+
+=== Research Hound ===
+[[File:sciencehound.png|64px|Research Hound]]
+
+blah blah research with your gut
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Puppy Jaws
+* Boop Module - sniff the air
+* Synthetic Tongue - Clean things and eat puppy chow and batteries
+* Digestive Analyzer 
+* Portable Destructive Analyzer - will be merged with digestive analyzer
+* Research Gripper
+* Screwdriver
+* Large Beaker
+* Rapid Parts Exchange Device
+* Hand Tele (When [[Emagged]])
+
+=== Combat ===
+[[File:Comb-marina.png|64px|Haruka]] [[File:Comb-droid.png|64px|Combat Android]]
+
+sampletext something something code red
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Mounted Laser
+* Plasma Cutter
+* Personal Shielding
+* Mobility Module
+* Mounted Laser Cannon (When [[Emagged]])
+
+=== ERT ===
+[[File:ERT-dogborg.png|58px|Standard]]
+
+Also only for code red
+* [[Security Items#Flash|Flash]]
+* Crowbar
+* Fire Extinguisher
+* Stun Baton
+* Combat Jaws
+* Boop Module - sniff the air
+* Synthetic Tongue - Clean things and eat puppy chow and batteries
+* Police Tape
+* Belly Brig
+* Taser
+* Pounce Module
+* Security Hud
+* Mounted Disabler
+* Sword Tail
+* Mounted Laser Cannon (When [[Emagged]])
+
+=== Modifications ===
+
+Cyborgs that have had their programming tampered with can be repaired by resetting their AI connection and LawSync status, by manually pulsing the wiring. In the unlikely event that an AI goes crazy, a trained [[Roboticist]] or other technician should be able to sever the connection to the AI entirely by cutting the correct wire.
+
+There are three lights in the cyborg with three corresponding wires:
+
+* '''LawSync''': If this light is on, it means that any laws uploaded to the AI are also uploaded to the cyborg. The cyborg cannot be given different laws to the AI as long as this is on. This light will turn off if the AI Link light is off, regardless of wire status.
+**''Pulsing'' does nothing.
+**''Cutting'' will do nothing, as long as the AI link light is on. If the AI link light is off, cutting and then turning the AI link back on will cause the cyborg to be slaved to an AI, but not synced with it's laws.
+**''Mending'' this wire will turn the LawSync light back on as long as the AI link light is also on. The cyborg will then resume syncing with the AI's laws. If the AI link light is off, mending this will turn the light on, only for it to turn off again.
+
+*'''AI Link''': If this light is on, it shows that the Cyborg is slaved to an AI and must follow that AI's orders. 
+**''Pulsing'' this wire allows you to pick an AI for the cyborg to be slaved to if there are multiple AIs. If there is only one AI, pulsing this will simply turn it on and slave the cyborg to it, if it is off.
+**''Cutting'' this wire will cause the Cyborg to be unslaved from the AI and bound only by it's laws. This also turns off LawSync, as the cyborg has no AI to sync to.
+**''Mending'' this wire does nothing. You need to pulse it to reconnect it to an AI.
+
+
+An emagged cyborg will have no LawSync or AI link and cannot be reset.
+
+Remember, cyborgs are very expensive! Do not destroy them unless the cyborg is completely out of control, and resetting the AI and LawSync status doesn't work.
+
+== Resetting Modules ==
+Cyborg modules can be reset by opening up the cyborg, and inserting the module reset upgrade.
+
+# [[File:robotics_reset_module_circuit.png]] Build a module reset board from the robotics Exosuit Fabricator.
+# Use ID on Cyborg to unlock panel.
+# Crowbar open the Cyborg's panel.
+# Shove that module reset board into the Cyborg.
+# Crowbar the panel closed and ID lock it.
+
+==Other Notes on Cyborgs==
+* You cannot take toxic or suffocation damage. The only sources of damage that can harm you are Burn and Brute. 
+* Expect to regularly be thrust into hazardous situations thanks to your enhanced durability and ability to operate in a vacuum. 
+* You cannot be disarmed or relieved of your inbuilt equipment. You can only be stunned by a flash or EMP, which overload your optical sensors.
+* You are immune to most (if not all) maladies such as disease and radiation poisoning. 
+* You must follow the [[AI#Interpreting_Your_Laws|AI's laws]].
+* You cannot pick up, use, or equip external items. 
+* You can be locked down or blown up using the Robotics Control Computer in the [[Research Director's Office]]. 
+* You are considered directly subordinate to the [[AI]] if an AI is present and functional. 
+* Like the AI, you can remotely interact with certain objects. You must be within sight range of a device to manipulate it. For example, you cannot call for a shuttle or set messages without line of sight to a [[Communications Console]]. 
+* Like the AI, you can remotely view alarm statuses. Use this to your advantage.
+* You can use the [[AI#Shortcuts|same hotkeys as the AI]] to interact with airlocks, APCs, etc.
+* Unlike the AI, you cannot use security cameras for remote viewing.
+* You are basically an AI on legs, without the security camera abilities. When there's no AI in the round, this can be useful. 
+* Cyborgs have all-access and more, as well as remote door interaction.
+* You will need to recharge using the Cyborg Recharging Stations or the [[Dormitories]].
+* When your power reaches around 100 units remaining, your modules will automatically shut down, presumably to preserve power. 
+* You are very tough, and as fast as, if not faster, than most of your human compatriots.
+* Keep the crew updated on your location and power if you are running low and may not make it to the recharger in time.
+* Cyborgs may not know what emotions, or feelings are, but that doesn't give the player the right to go Rambo. If a group of people take several people hostage, the Cyborg doesn't have the right to rush in with a [[stun baton]] and beat the Hostage takers.
+* Cyborgs can be improved with [[Guide_to_Robotics#Cyborg_Upgrades|a number of useful upgrades]] by a helpful [[Roboticist]].
+
+==.hack//==
+Cyborgs are vulnerable to certain clandestine devices, and may have illegal programs uploaded to them by such interactions. This type of re-programing is also present in clandestinely hacked AIs, and may viralry infect into related cyborgs. Finally, certain cyborgs may have been hacked personally by clandestine agents.
+
+To [[emag]] a cyborg, follow these steps:
+
+# Use and Emag or ID to unlock the cover.
+# Crowbar open the cover.
+# Use Emag again.
+
+This will turn control of the cyborg over the the person who emagged it and disconnect it from the AI and Cyborg Upload Console.
+
+Note: Many people fail to emag cyborgs for a number of reasons.
+
+* Emags have a limited amount of charges, around 3-4 sometimes 5.
+* People usually emag without unlocking the cover, this uses 1 charge and only unlocks the panel, rather than emagging the cyborg.
+* Any more attempts to use the emag at this stage results in a message of *The cover is already unlocked.* and another charge is used on the emag. This may be done until all charges are used.
+* If people unlock the panel with their ID first, but do not open the cover, and then try to use their emag, each attempt wastes another emag charge and displays *The cover is already unlocked.*.
+* When the panel is opened, using an emag on the cyborg will sometimes display 'You fail to lock Cyborg-X's interface.' and will waste another emag charge.
+* Occasionally, the emag will fail, even with the panel open, and the cyborg will recieve a message of 'Hack attempted'.
+
+Therefore, in most cases, people use up all their emag charges before actually being able to emag the cyborg. Be careful!
+ 
+What ever the case, the cyborg is now corrupted, and all safety measures are released, with the exception of the robotics control. Do not mistake personality quirks for clandestine behavior, cyborgs are VERY EXPENSIVE MACHINES and you may be demoted or fired for destroying them without a valid reason.
+
+Keep in mind, CentCom robotics employees may attempt to experiment with a cyborgs internal wiring, please double check before detonating any cyborg acting independently by doing routine maintenance on their electrical systems. Also keep in mind that their laws may be changed by the same process as an [[AI]] by simply using the cyborg upload located opposite the AI upload.
+
+{{Jobs}}
+[[Category:Jobs]]

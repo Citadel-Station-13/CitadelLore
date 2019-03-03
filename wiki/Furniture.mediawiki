@@ -1,0 +1,100 @@
+{{BayPage}}
+{{stub}}
+Furniture objects are mostly decorative items, such as beds, chairs, and more.
+
+
+'''List of Furniture:'''
+
+===Bed===
+ {{Item
+ |bgcolor1 = #cccccc
+ |bgcolor2 = #cccccc
+ |name = Bed
+ |image = bed.png
+ |strategy = It is generally considered good practice to fall asleep on one of these, if you want to leave. They can be constructed from 2 metal sheets.
+ |foundin = Dormitories, Cabins, the Brig, Mining Asteroid
+ |usedfor = A decorative piece of furniture. If you want to sleep, sleep on one of these.
+ |description = This is used to lie in, sleep in or strap on.}}
+
+
+===Stool===
+ {{Item
+ |bgcolor1 = #cccccc
+ |bgcolor2 = #cccccc
+ |name = Stool
+ |image = stool.png
+ |strategy = None.
+ |foundin = All over the station and on the Mining Asteroid.
+ |usedfor = A purely decorative piece of furniture. It's a chair that you cannot buckle yourself into.
+ |description = Apply butt. Click and drag onto yourself to pick it up and <s>hit someone</s> move it somewhere! Click on it in your hands to put it down again.}}
+
+===Chair===
+ {{Item
+ |bgcolor1 = #cccccc
+ |bgcolor2 = #cccccc
+ |name = Chair
+ |image = chair.png
+ |strategy = You can buckle yourself into it by click dragging your mob onto it.
+ |foundin = All over the station and on the Mining Asteroid.
+ |usedfor = Mostly decorative, but you can restrain someone when they have handcuffs on if you buckle them into it. 
+ |description = You sit in this. Either by will or force.}}
+
+
+===Rack===
+ {{Item
+ |bgcolor1 = #cccccc
+ |bgcolor2 = #cccccc
+ |name = Rack
+ |image = rack.png
+ |strategy = Mostly for decorative storage. You put items on top of it.
+ |foundin = All over the station.
+ |usedfor = Decorative storage.
+ |description = Different from the Middle Ages version.}}
+
+
+===Table===
+ {{Item
+ |bgcolor1 = #cccccc
+ |bgcolor2 = #cccccc
+ |name = Table
+ |image = table.png
+ |strategy = Useful for making offices, and other rooms.
+ |foundin = All over the station.
+ |usedfor = Decorative storage; put items on top of it.
+ |description = A square piece of metal standing on four metal legs. It cannot move.}}
+
+
+===Wooden Table===
+ {{Item
+ |bgcolor1 = #cccccc
+ |bgcolor2 = #cccccc
+ |name = Wooden Table
+ |image = woodtable.png
+ |strategy = Same as the normal table.
+ |foundin = Detective's Office, Captain's Quarters.
+ |usedfor = Decorative storage; put items on top of it.
+ |description = Do not apply fire to this. Rumour says it burns easily.}}
+
+
+===Bookcase===
+ {{Item
+ |bgcolor1 = #cccccc
+ |bgcolor2 = #cccccc
+ |name = Bookcase
+ |image = bookcase.png
+ |strategy = It holds the [[Librarian]]'s books. 
+ |foundin = Library, Engineering
+ |usedfor = Holds books, sometimes starts with a few.
+ |description = ---}}
+
+===Underwear Closet===
+ {{Item
+ |bgcolor1 = #cccccc
+ |bgcolor2 = #cccccc
+ |name = Underwear Closet
+ |image = cabinet_closed.png
+ |strategy = Look your best when being stripped.
+ |foundin = Dormitories
+ |usedfor = Allows you to change your undershirt and underwear.
+ |description = ---}}
+[[Category:Objects]]

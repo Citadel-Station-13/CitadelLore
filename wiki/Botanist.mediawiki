@@ -1,0 +1,44 @@
+{{SidebarJob|jobname=Botanist|img_file=Botanist.png|tagline=Grow grass, my man|department=Service|access=Bar, Cafe, Hydroponics, Kitchen, Maintenance|duties=Grow produce for the chef|supervisors=Head of Personnel|difficulty=Easy|alt_titles=Hydroponicist, Gardener}}
+As a '''Botanist''', it's your job to grow stuff for the [[Chef]] to keep the crew fed. There are plenty of vegetables to grow, and if you're feeling adventurous, there are some other less edible plants to experiment growing with.
+
+== Plants ==
+For the full chart with plant types, what they look like, and what they do, please check out the [[Guide to Hydroponics]].
+
+=== Fertilizer Types ===
+'''EZ-Grow:''' The standard, keeps plants alive. Not needed for weeds.
+
+'''Left-4-Zed:''' Increases the potency by a large amount, but takes forever to harvest. Switch to another fertilizer if it takes too long.
+
+'''Robust Harvest:''' The amount harvested increases dramatically.
+
+=== Seeds ===
+The seed storage gives you seeds to start growing. There's a couple of hidden seeds too if you get the tools to hack it, but remember that it's very slightly illegal.
+
+=== The [[Chef]] ===
+Take your vegetables to the chef, then have him cook them up! There are many different foods the chef can make from different foods you grow. Or, as an alternative, have him blend different things for you. Blended foods provide a concentration of various materials that can be separated from nutriment reagents.
+
+== Tools of the Trade ==
+You get a few fun tools as a Botanist that will make your life easier when growing plants:
+* Mini Hoe. This one is meant to claw, or perhaps filter, out weeds from the hydroponic trays. Requires multiple clicking, but makes keeps plants healthy for longer.
+* Plant-B-Gone Spray bottle. Kills plants slowly and can be filled with other chemicals. Does minor toxin damage.
+* Bucket. Fill these up and use them to water your trays.
+
+Things you should get from the outside:
+* Toxin Med kit. Just in case you eat something nasty.
+* Various chemicals to mutate or treat your plants with.
+
+=== Chemicals ===
+Ammonia is a much better fertilizer than EZ-Grow, and unstable mutagens can cause some interesting plant variations.
+
+Most chemicals can be requested from the [[Chemist]], but you're quite low down on the list of people who need them, so try giving them some useful plants to blend.
+
+Different chemicals do different things to your plants when injected. Feel free to experiment until you find a blend you like!
+
+=== Pod Cloning ===
+A almost always forgotten alternative to cloning. See the [[Guide_to_Hydroponics#Invasion_of_the_Pod_People|Guide to Hydroponics]] for more details.
+
+== Traitor ==
+You can use Nettles as an interesting weapon, but they take a very long time to grow to effective potency levels. If you have an easy objective, quickly rush out and get it out of the way, head back and get your plants growing. Your leather gloves give no prints onto a crime scene, so if you ditch your equipment (or hide it) you should be fine enough so no one knows it was you. You can also intoxicate some food if you get your hands on a [[Dropper|dropper]]. Just make sure your give it to the right person!
+
+{{Jobs}}
+[[Category:Jobs]]

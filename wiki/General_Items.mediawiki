@@ -1,0 +1,488 @@
+<div class='smallpic'>
+{{BayPage}}
+==Items==
+
+=== [[File:Id regular.png]] Identification Card ===
+This things get you from A to B, as long as you have access to A, B and everything in between. Every worker of Space Station 13 gains an identification card. Your ID has your name, occupation, and a device that broadcasts your access to the station's autonomous systems, which is used both to identify the wielder and open up airlocks the worker have access to. For example, the [[Quartermaster]] has access to the Cargo Bay and Quartermaster's Office, while assistants, for example, do not. Keep this in mind when you see a person in medical uniform with the [[Head of Security]]'s ID card. 
+
+If you hold an ID in your hand and use an airlock with it, this ID is used to determine if it opens instead of the ID in your ID slot. Also, IDs will grant you access to [[Computers]], but remember to remove it from the computer once you have logged out.
+
+A person with the rights to access an [[Computers|Identification Computer]] can edit your ID to add or remove those rights, it should only be modified by the [[Captain]] or [[Head of Personnel]]. ''Special circumstances may change this.'' When your face is covered your ID is the only way of identifying you.
+
+An ID is a tiny object and thus can be stored in a box. It can also be stored in your [[PDA]], and your PDA can even be stored in your [[Clothing_and_Internals#Jumpsuits|uniform]]'s ID slot.
+
+<pre> This object is the only object in the game were the verb 'Read' comes into play (Verify).
+When it's been read it displays the following: 
+*"[NAMES]'s ID Card [TITLE]: The current assignment on the card is [TITLE]."
+</pre>
+
+==== Types ====
+[[File:Id regular.png]] '''Standard ID''' - Standard identification cards issued to the general staff.
+
+[[File:Id silver.png]] '''Command ID''' - Special silver identification cards issued to the [[Heads of Staff]]. By default, it allows access to the [[Bridge]] and has the ability to call/recall the [[Escape Shuttle]].
+
+[[File:Id gold.png]] '''Captain's ID''' - The [[Captain]]'s gold-plated all-access ID card. A spare starts in the [[Captains Quarters]]. Desired by [[traitor|all]].
+
+[[File:Id centcom.png]] '''Centcom ID''' - Identification cards issued only to Centcom officials, including [[Emergency Response Team]] officers.
+
+=== Hand Labeler === 
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Hand labeler
+ |image = Labler.png
+ |foundin = [[Primary Tool Storage]], [[Cargo Bay]], [[Medbay]]
+ |usedfor = Sticking labels on things.
+ |strategy = Used to stick a label onto something's name. Click to and type in the label name. Click on object to label. Click again to remove label.
+ |description = Useful for labelling things. Cannot be used on people.
+ }}
+
+=== Proximity Sensor ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Proximity Sensor
+ |image = proximitysensor.png
+ |foundin = [[Primary Tool Storage]], [[Cargo Bay]], Vendomat, Toximate 3000
+ |usedfor = Mostly for [[Scientist|bombs]], [[Chemist|grenades]], or [[Roboticist|robots]]. 
+ |strategy = Used for making bombs, grenades, or devices that activate when people get near them.
+ |description = A small sensor that beeps when it (or something next to it) moves. Is not set off by walking.}}
+
+=== Box ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Box
+ |image = box.png
+ |foundin = [[Cargo Bay]], Tool Storage, just about anywhere
+ |usedfor = Holding things.
+ |strategy = Put small items inside of it.
+ |description = You can store up to 7 tiny objects in any given box, as long as the item is "tiny". For example a [[Pen]], a [[Internals#Specific_Items|breath mask]], an [[Internals#Specific_Items|emergency oxygen tank]] or an [[ID|ID Card]], would all be considered tiny and fit in a box. Something like a [[Internals#Specific_Items|gas mask]]), would not fit in a box.
+
+On arriving the to the ship, each individual will have been provided with a box with an emergency oxygen tank and mask. Despite the generous effort and work we put into distributing these boxes, slacking employees tend do dispose of them early on, and those who don't, often use them to [[Traitoring|hide]] things.
+
+Throughout the station, there are several varieties of boxes. The plain box is what most employees are used to, however NanoTrasen also labels boxes to hold different types of implants, spare [[ID]] cards, and even [[Guide to Food and Drink|Donk Pocket]]s!
+
+Additionally, boxes can be unfolded into cardboard sheets, which can be used to make stuff.... that is made of cardboard! So now you can be the cardborg that you always were! Beep Boop!
+}}
+
+=== Briefcase ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Briefcase
+ |image = briefcase.png
+ |foundin = [[Internal Affairs Office]], [[Detective's Office]]
+ |usedfor = Holding paper, folders, and other office-based things.
+ |strategy = Put the files from your latest case into it.
+ |description = A briefcase is a bulky item that can hold up to seven tiny items.<br>
+By default it is filled with one [[pen]] and six sheets of [[paper]]. They are very sturdy, so make a decent weapon (blurs vision when it hits heads). [[Internal Affairs]] and [[Detective]] get one.
+}}
+
+=== Secure Briefcase ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Secure Briefcase
+ |image = securebriefcase.png
+ |foundin = [[Bridge]], [[Captain's Quarters]]
+ |usedfor = Keeping things under lock and key.
+ |strategy = Put [[High-Risk Items|valuable, sensitive items]] into it.
+ |description = A lockable briefcase is in the Heads of Staff office at the start of each round. It can set to lock with a 5 digit code, however it is not overly secure, as it can be [[Hacking#Secure_Briefcase.2C_Safes|hacked]] open given half a minute, or forced open with certain kinds of [[syndicate_Items|syndicate gear]].
+}}
+
+=== Racks ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Racks
+ |image = rack.png
+ |foundin = [[Cargo Bay]], just about anywhere
+ |usedfor = Holding equipment.
+ |strategy = Put spare equipment onto it.
+ |description = Used for equipment storage in the station. Not used for torturing suspected traitors. Racks can be made with a single sheet of metal. They are flat and wide, incapable of being walked over, and is bolted together. It can hold any number of items, but it holds them stacked on top of each other like a table. They are most common in [[maintenance]] tunnels and [[EVA]].
+}}
+
+=== Station Bounced Radio ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Station Bounced Radio
+ |image = Station_Bounced_Radio.png
+ |foundin = [[Cargo Bay]], Tool Storage, [[EVA]], [[Bridge]], any autolathe
+ |usedfor = Communicating with the station.
+ |strategy = Keep one with you in case headset communications fail.
+ |description = A simple to use radio: click it, set the station, and turn on the microphone to talk. It will pick up any sounds from surrounding areas.
+
+The station bounced radio will function similarly to a standard earpiece radio if you put it in your pocket or in your hand; thus you can use the "say ;radio message" function as normal without turning on the microphone to broadcast. This is the only portable radio that will correctly function across in electrical storms, or when the [[Telecommunications]] satellite is damage.
+
+Some radios are especially tuned to a [[traitor|clandestine network]] where [[Syndicate_Items|unmentionable contraband]] may be obtained. These also have an emergency detonation button that can do some [[Ghost|serious damage]].
+}}
+
+=== Duct Tape ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Duct Tape
+ |image = Tape.png
+ |foundin = [[Primary Tool Storage]], [[Locker Room]]
+ |usedfor = Sticking paper on a vertical surface. (Windows, walls)
+ |strategy = Display your thirteen complaints for everyone to see and [[Security]] to tear down.
+ |description = Apply Duct Tape to a [[paper]] then attack the paper to a wall. To remove tape off a paper, remove it off the wall and click on the paper.
+}}
+
+=== Paper ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Paper
+ |image = paper.png
+ |foundin = [[Cargo Bay]], [[Head of Personnel's Office]], [[Library]], [[Medbay]], anywhere that has a paper bin
+ |usedfor = Writing things onto it.
+ |strategy = Fill out a form, write your life story, or send a complaint to the [[Head of Security]].
+ |description = You write on it with a [[pen]]. [[Medical doctor]]s want it for forms, [[Quartermaster]]s want it for forms, even [[Internal Affairs]] want it for forms. [[Librarian]]s can use it to print books. See the [[Guide to Paperwork]] for further information.
+}}
+
+=== Remote Signaling Device ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Remote Signaling Device
+ |image = RemoteSignalingDevice.png
+ |foundin = Tool Storage, [[Research Division]]
+ |usedfor = Signaling remotely.
+ |strategy = Attach it to something, go somewhere else, and activate it remotely!
+ |description = Signals things remotely. Used for remote [[hacking]], bombs, and grenades. You can right-click them and activate a type of 'Dead Man's Switch', which has an 80% chance of triggering if you are shot.
+}}
+
+=== Water Tank ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Water Tank
+ |image = watertank.png
+ |foundin = [[Maintenance]], [[Hydroponics]]
+ |usedfor = Holding water.
+ |strategy = Use it to refill on water when your bucket or fire extinguisher run out of it.
+ |description = Used to fill something with water. Has 1000 units of water to start.
+}}
+
+=== Fuel Tank ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Fuel Tank
+ |image = fueltank.png
+ |foundin = [[Maintenance]], [[Engineering]]
+ |usedfor = Filling things with fuel.
+ |strategy = Refill your welder with it. Turn your welder off beforehand.
+ |description = Use a welder on them to refuel. Make sure it's turned off! Has 1000 units of welding fuel.
+}}
+
+=== Bible ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Bible
+ |image = bible.png
+ |foundin = [[Chapel]]
+ |usedfor = Being religious.
+ |strategy = Preach the word of your religion. Don't hit anyone with it. No, seriously.
+ |description = Used by the [[Chaplain]]. Can be used to hit people on the head, but will always damage the person. This also de-converts cultists at a small chance.
+
+Can also be used to store 7 small items.
+}}
+
+== Janitorial Supplies ==
+{{Main|Janitorial Supplies}}
+
+=== Mop ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Mop
+ |image = mop.png
+ |foundin = Janitor's Closet, [[Cargo Bay]]
+ |usedfor = Mopping up dirty messes.
+ |strategy = Be the janitor the station deserves.
+ |description = Cleans the floor when wet. Must be wet with the mob bucket. The [[Janitor]] starts with one.
+}}
+
+=== Space Cleaner ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Space Cleaner
+ |image = Space_Cleaner.png
+ |foundin = [[Custodial Closet|Janitor's Closet]], [[Cargo Bay]], [[Chemistry Laboratory]]
+ |usedfor = Cleaning blood off the walls.
+ |strategy = Spray it onto something to make it clean and shiny.
+ |description = A better cleaner than water. Doesn't cause people to slip.
+}}
+
+=== Bucket ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Bucket
+ |image = bucket.png
+ |foundin = [[Custodial Closet|Janitor's Closet]], [[Cargo Bay]], [[Hydroponics]], [[Robotics and Mech Bay]]
+ |usedfor = Holding liquids.
+ |strategy = Fill it with water, or any other liquid.
+ |description = A bucket holds liquid only, most commonly water. It holds up to 70 units. They can be used by [[janitor|several]] [[botanist|different]] [[roboticist|jobs]] as part of their actual duties.
+}}
+
+=== Light Bulb ===
+{{Item
+ |bgcolor1 = #ccccee
+ |bgcolor2 = #ddddff
+ |name = Light Bulb or Tube
+ |image = light_bulbs_combined.png
+ |foundin = [[Custodial Closet|Janitor's Closet]], [[Cargo Bay]], [[Emergency Storage]], [[Engineering]]
+ |usedfor = Lighting dark areas.
+ |strategy = Replace any broken or burnt out lights around the station with these.
+ |description = There are two kinds of light bulbs. The first kind is a small bulb which are mostly used in maintenance tunnels, smaller areas where not as much lighting is needed, and on the Mining Asteroid. The second kind is the light tube, which can be found everywhere on the station from the hallways all the way to the [[Bridge]]. Both kinds of light bulbs can be made with an [[Autolathe]], [[Protolathe]], and can be ordered in boxes from the QM. They also spawn in a few places at the start of the round, like [[Emergency Storage]].
+}}
+
+
+== Storage ==
+===[[file:GrayCrate.png]]Crates===
+Crates are a container for items. Especially large items, such as [[crew|corpses]], [[locker]]s, and [[roboticist#cyborgs|certain robots]] or equipment cannot fit inside. Just because an item comes packed in a crate when the [[Quartermaster]] receives it doesn't mean it will go back inside once the crate is opened, either!
+
+====Give Onto the QM his Dues====
+Crates are worth 5 supply points to a [[Quartermaster]], which can be used to get more supplies for the station's whole benefit.
+
+====Of Locks and Access====
+Just like the rest of the station, even crates have variable levels of access. The [[Quartermaster]] can't unlock anything that is locked by default, for various reasons. The primary one being it would be pointless to make since all crates go through the Quartermasters anyway. Security crates can be opened by security personnel and those with higher access, and et cetera. An [[Syndicate_Items#Electromagnetic Card|emag]] can get into locked crates, however.
+
+===[[file:Closet.png]]Closets===
+Also knows as Wardrobes or Lockers, Closets are among the most common and arguably the most useful of containers on the station. Nearly anything can fit inside, barring other closets, [[crates]], and certain especially large objects like [[racks]] and [[Quartermaster|Mulebots]]. Coffins in the [[Chapel]] also count as lockers.
+
+====Of Locks and Access====
+Besides being [[welding Tool|welded]] shut, some closets can be locked with the appropriate ID. Several levels of access exist, such as security, captain, and private-level access. These can be opened with the proper level [[identification card]], [[Syndicate_Items#Electromagnetic Card|emag]] item, or a few good laser blasts.
+
+If you yourself are inside a locker you can see your surroundings. Normally you can move in any direction to exit the locker, but if the locker is locked or welded you will be unable to exit, and you cannot unweld or unlock your cell from inside. At that point if you try to move around you will instead throw yourself against the sides of the locker, making a'''BANG BANG''' sound that can be heard 
+
+== Vending Machines ==
+{{vendingmachine | name=BODA (soviet soda machine) | icon=vendsovietsoda.gif | area=Derelict Station | items=
+30x Soda
+| hackeditems =
+20x Cola
+}}
+{{vendingmachine | name=Booze-O-Mat | icon=vendboozeomat.gif | area=Bar | items=
+5x Griffeater Gin<br>
+5x Uncle Git's Special Reserve<br>
+5x Caccavo Guaranteed Quality Tequilla<br>
+5x Tunguska Triple Distilled<br>
+5x Goldeneye Vermouth<br>
+5x Captain Pete's Cuban Spiced Rum<br>
+5x Doublebeard Bearded Special Wine<br>
+5x Chateau De Baton Premium Cognac<br>
+5x Robert Robust's Coffee Liqueur<br>
+6x Space Beer<br>
+6x Magm-Ale<br>
+4x Orange Juice<br>
+4x Tomato Juice<br>
+4x Lime Juice<br>
+4x Milk Cream<br>
+8x T-Borg's Tonic Water<br>
+8x Space Cola<br>
+8x Soda Water<br>
+2x flask<br>
+2x vacuum flask<br>
+30x Glass<br>
+10x Ice Cup<br>
+2x Emeraldine Melon Liquor<br>
+2x Miss Blue Curaco<br>
+2x Jailbreaker Verte<br>
+5x Briar Rose Grenadine Syrup
+| hackeditems=
+10x Duke Purple Tea
+}}
+{{vendingmachine | name=Cigarette Machine| icon=vendcigs.gif | area=everywhere | items=
+Coin Slot: Cigar<br>
+10x Cigarette packet<br>
+10x Matchbox<br>
+4x cheap lighter
+| hackeditems =
+4x Zippo lighter
+}}
+{{vendingmachine | name=Dinnerware| icon=venddinnerware.gif | area=Kitchen | items=
+6x Tray<br>
+4x Fork<br>
+2x Kitchen knife<br>
+15x Glass<br>
+2x Chef's apron
+| hackeditems =
+2x Spoon<br>
+2x Knife<br>
+2x Rolling Pin<br>
+2x Butcher's Cleaver
+}}
+{{vendingmachine | name=Getmore Chocolate Corp| icon=vendsnack.gif | area=everywhere | items=
+6x Candy (1 Nutriment, 3 Sugar)<br>
+6x Cup Ramen (30 Dry Ramen; mix with 10 units water to get 30 units of Hot Ramen)<br>
+6x Chips (3 Nutriment)<br>
+6x Scaredy's Private Reserve Beef Jerky (4 Nutriment)<br>
+6x 4no Raisins (6 Nutriment)<br>
+6x Space Twinkie (4 Sugar)<br>
+6x Cheesie Honkers (4 Nutriment)<br>
+6x Tasty Bread <br>
+| hackeditems =
+6x Syndi-Cakes<br>
+3x Skrell Snacks <br>
+}}
+{{vendingmachine | name=Hot Drinks Machine| icon=vendcoffee.gif | area=everywhere | items=
+25x Robust Coffee<br>
+25x Duke Purple Tea<br>
+25x Dutch Hot Coco
+| hackeditems =
+10x Ice Cup
+}}
+{{vendingmachine | name=MagiVend| icon=vendmagi.gif | area=Wizard's Den | items=
+1x Wizard Hat<br>
+1x Wizard Robe<br>
+1x Red Wizard Hat<br>
+1x Red Wizard Robe<br>
+1x Sandals<br>
+2x Wizard's Staff
+| hackeditems =
+1x Wizarditis culture bottle<br>
+}}
+{{vendingmachine | name=Seed Storage| icon=vendseeds.gif | area=Hydroponics and Xenoflora | items=
+3x Banana Seeds<br>
+3x Berry Seeds<br>
+3x Carrot Seeds<br>
+3x chanterelle spores<br>
+3x Chili Seeds<br>
+3x Corn Seeds<br>
+3x Eggplant Seeds<br>
+3x Potato Seeds<br>
+3x diona nodes<br>
+3x Soybean Seeds<br>
+3x Sunflower Seeds<br>
+3x Tomato Seeds<br>
+3x Tower Cap spores<br>
+3x Wheat Seeds<br>
+3x Apple Seeds<br>
+3x Poppy Seeds<br>
+3x sugarcane seeds<br>
+3x Ambrosia Vulgaris Seeds<br>
+3x White-beet Seeds<br>
+3x Watermelon Seeds<br>
+3x Lime Seeds<br>
+3x Lemon Seeds<br>
+3x Orange Seeds<br>
+3x Grass Seeds<br>
+3x cacao seeds<br>
+2x plump helmet spores<br>
+3x Cabbage Seeds<br>
+3x Grape Seeds<br>
+3x Pumpkin Seeds<br>
+3x cherry pits<br>
+3x plastellium spores<br>
+3x rice seeds
+3x Tobacco seeds
+| hackeditems =
+2x Fly Amanita spores<br>
+2x Glowshroom spores<br>
+2x Liberty Cap spores<br>
+2x Messa's tear seeds<br>
+2x Nettle Seeds<br>
+2x reishi spores<br>
+2x S'randar's hand seeds
+
+}}
+{{vendingmachine | name=Emergency NanoMed| icon=vendwallmed.gif | area=Medbay Recovery Room and Patient Rooms | items=
+2x roll of gauze<br>
+2x Ointment<br>
+4x autoinjector<br>
+1x Health Analyzer
+| hackeditems =
+4x Syringe (Dylovene) <br>
+4x Syringe (spaceacillin) <br>
+1x Toxins Pill
+}}
+{{vendingmachine | name=NanoMed| icon=vendwallmed.gif | area=Surgery, Xenobiology | items=
+5x Inaprovaline Syringe<br>
+3x Dylovene Syringe<br>
+3x roll of gauze<br>
+3x Ointment<br>
+3x Health Analyzer
+| hackeditems =
+3x Toxin Pills
+}}
+{{vendingmachine | name=NanoMed Plus| icon=vendmed.gif | area=Medbay | items=
+4x Dylovene Bottle<br>
+4x Inaprovaline Bottle<br>
+4x Soporific Bottle<br>
+4x Toxin Bottle<br>
+4x Syringe (spaceacillin)<br>
+12x Syringe<br>
+5x Health Analyzer<br>
+4x Beaker<br>
+2x Dropper<br>
+3x advanced trauma kit<br>
+3x advanced burn kit<br>
+2x medical splints
+| hackeditems =
+3x Toxin Pill<br>
+4x sleeping pill<br>
+6x Dylovene Pill
+}}
+{{vendingmachine | name=NutriMax| icon=vendnutri.gif | area=Hydroponics | items=
+35x E-Z-Nutrient<br>
+25x Left 4 Zed<br>
+15x Robust Harvest<br>
+20x Pest-Spray<br>
+5x Syringe<br>
+5x Plant Bag
+| hackeditems =
+(None)
+}}
+{{vendingmachine | name=Robust Softdrinks| icon=vendcola.gif | area=everywhere | items=
+10x Space Cola<br>
+10x Space Mountain Wind<br>
+10x Dr. Gibb<br>
+10x Star-kist<br>
+10x Bottled Water<br>
+10x Space-Up<br>
+10x Vrisk Serket Iced Tea<br>
+10x Grapel Juice
+| hackeditems =
+5x Thirteen Loko
+}}
+{{vendingmachine | name=SecTech| icon=vendsec.gif | area=Security | items=
+8x Handcuffs<br>
+2x Flashbang<br>
+5x Flash<br>
+12x Donut
+| hackeditems =
+2x Sunglasses<br>
+2x Donut Box
+}}
+{{vendingmachine | name=Vendomat| icon=vendgeneric.gif | area=Primary Tool Storage | items=
+5x Proximity Sensor<br>
+3x Igniter<br>
+4x Remote Signaling Device<br>
+1x Wirecutters<br>
+4x Generic Signaler Cartridge
+| hackeditems =
+5x Flashlight<br>
+2x Timer
+}}
+
+{{vendingmachine | name=YouTool| icon=vendgeneric.gif | area=Primary Tool Storage | items=
+10x cable coil<br>
+5x crowbar<br>
+5x welding tool<br>
+5x wirecutters<br>
+5x wrench<br>
+5x analyzer<br>
+5x T-ray scanner<br>
+5x screwdriver
+| hackeditems =
+2x Upgraded Welding Tool<br>
+2x budget insulated gloves
+}}
+</div>

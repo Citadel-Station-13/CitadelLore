@@ -1,0 +1,455 @@
+---
+title: Chain of Command
+permalink: wiki/Chain_of_Command/
+layout: wiki
+tags:
+ - Jobs
+ - Guides
+---
+
+Introduction to Command
+=======================
+
+Orders are to flow from on high down through the ranks. An order from a
+superior must always be obeyed, that their wisdom may be carried out
+without hesitation.
+
+Orders are to observe the flow and not skip ranks. A superior may only
+give orders to his direct subordinates, and not to those beneath them.
+In this way harmony of intent and cohesion of thought is maintained.
+
+Certain circumstances may change this, but under normal procedures, this
+is how the company is intended to operate.
+
+*Author's note: For the purposes of this guide, [Colony
+Director](/wiki/Colony_Director "wikilink"), Captain, and Station
+Administrator are considered interchangeable terms depending where you
+work.*
+
+Corporate Executives
+--------------------
+
+NanoTrasen Systems, or simply NanoTrasen, is the largest manufacturer
+and employer in known space, though not by much. Their business
+practices and fabulous wealth have garnered both power and ire from
+interest groups and other corporations. Their company laws are the
+standard by benefit of inter-corporate agreements and simple mathematics
+of weight. In 2541 stocks began to fall and NanoTrasen began to fear
+their days of dominance were nearing their end. Research teams scrambled
+while the supercorp invested in their military forces, sending waves of
+panic through both market and populace. In 2543 a NanoTrasen mining
+company, Silar Group, made a discovery in a sunless system -- massive
+gas giants of a strange purple vapor with untold properties. Rapid
+research revealed it to be a powerful energy source, and NanoTrasen was
+revitalized through secret projects surrounding the substance. Phoron,
+or Plasma as it was formerly known due to its ease of gaining incredible
+heat, was only found in large amounts in this one region of space and
+around dead, dying, or missing star systems. NanoTrasen became the
+largest seller and researcher and still holds this position in the
+current year of 2550 through a system of jealous guarding and corporate
+espionage of secret.
+
+Like all corporations, NanoTrasen Systems follows its own chain of
+command, which allows the company to function with near autonomy from
+its board of directors, who usually serve to steer the company in the
+direction of prosperity based on calculations and predictions of the
+current market and political climate. Detailed below are the parts of
+the chain of command you need to know about.
+
+As a staff member in one of NanoTrasen's many stations, colonies, and
+outposts, you usually don't have to worry about this part of the command
+chain unless someone important is visiting.
+
+| Job                          | Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Chairman of the Company**  | The presiding person leading the business and possessing the highest authority in the company is Chairman. The Chairman leads and influences the board of the directors and chief officers to manage the financial, human, technical and environmental working of a corporation. The Chairman is often a semi-retired CEO with many decades of experience working for the company.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Chief Executive Officer**  | The CEO is also referred as an executive chairman and takes command in the absence of the Chairman. CEO is the top ranking in the executive officers ranks and is most often the figure seen by major stockholders and the public eye in representation of the company.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Chief Operations Officer** | The Chief Operations Officer is normally provided the title President, following CEO rank. A COO can be explained as a director of operations in the corporate sector with a responsibility of handling and managing the daily operations of the organization. The professionals at this level focus on the organizational strategy, objectives and plan of actions to be followed. The day today management of organization is also carried out at this level.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| **Chief of Defense**         | The Chief of Defense is the executive officer in charge of Nanotrasen's [private military and security forces](/wiki/NanoTrasen#Asset_Protection "wikilink"). They answer directly to the Chief Operations Officer, but this is where the chain of command splits apart. Beneath the Chief of Defense is a complete hierarchy of ranks and positions not unlike a traditional military. Under the CoD's command are the NanoTrasen Defense Navy (which operates like a private military to actively hunt pirates, smugglers, and terrorists), and the NanoTrasen Civil Defense Forces (who are more like police officers for NanoTrasen's frontier colonies). The other corporate ranks listed below this section do not answer to the Chief of Defense, nor does the Chief of Defense have any command over them except during a crisis. Under normal circumstances, the Chief of Defense only operates within its own chain of command which will not be explained in this guide, as it is irrelevant to civilian operation. For more information, see [NanoTrasen Defense Force](NanoTrasen_Defense_Force "wikilink"). |
+| **Chief Financial Officer**  | A chief financial officer is a corporate officer designated at a high level in the hierarchy for the purpose of managing finances for the organization. A CFO is directed to report to the CEO. In some organizations the term Treasures is used to define the CFO.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+CentCom
+-------
+
+Short for "Central Command", this is the administration branch of
+NanoTrasen which runs your station. They will periodically send messages
+to the station and will occasionally send representatives on board to
+observe, inspect, review, or reprimand the staff working there. There
+are a number of CentComs established throughout the galaxy, each
+presiding over its own planetary system. Such systems include [Sol
+Central](/wiki/Sol_Central "wikilink"), [Tau Ceti](Tau_Ceti "wikilink"),
+[Nyx](/wiki/Nyx "wikilink"), [Virgo-Prime](Virgo-Prime "wikilink"), [Epsilon
+Eridani](/wiki/Epsilon_Eridani "wikilink") (formerly), and numerous others
+both large and small. As a supercorp, NanoTrasen does more than just
+mine Phoron, as they are most famously known for. They participate in
+fields both military and civilian. Some research and develop new
+products, while others mass-produce existing goods. This production can
+range from common cold medicine to advanced weapons systems sold to
+interstellar military forces. The toothpaste in your bathroom can
+probably trace its origins to a star system administrated by a
+NanoTrasen CentCom, where all the raw materials needed to make
+toothpaste happen to be available.
+
+While it is not a common occurrence for CentCom to get directly involved
+in station affairs, they do override the station's command structure,
+and can even disregard [Corporate
+Regulations](/wiki/Corporate_Regulations "wikilink") in rare circumstances.
+They can be sought out for complaints or recommendations in the event of
+an emergency in which the station's normal command staff is either
+completely inept or out of commission. They do not like to be bothered,
+so contact them at your own risk. If you do need to contact them, it's
+worth knowing which office you are seeking to speak to. The best way to
+contact CentCom is with a fax machine, but the Colony Director may
+contact them using the communications console in the event of a crisis.
+They also can eavesdrop on radio communications (but this is the least
+reliable way to speak to CentCom) and they have access to all station
+cameras.
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Job</p></th>
+<th><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="Chief_Administration_Officer" title="wikilink">Chief Administration Officer</a></p></td>
+<td><p>As the designation implies, a Chief Administrative Officer is responsible for handling and organizing administrative management of the corporation. CAO rank is considered one of the highest level ranks in the corporate rank hierarchy. This is the man in charge of your Central Command. Each planetary system where NanoTrasen has established operations has its own CAO managing it. Each of the ranks below are also present in every CentCom base established throughout the galaxy. This is likely as far as you will ever reach up the chain of command to settle a complaint or request. Beyond here, unless you're very important, you will likely go unheard. Only contact the CAO after exhausting all other possible avenues of the command chain. His word is final for any issues in your sector.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="Chief_Information_Officer" title="wikilink">Chief Information Officer</a></p></td>
+<td><p>A CIO is a senior level in the corporate rank hierarchy responsible for the maintenance and establishment of the organization’s strategy and information ardently to ensure that the company’s information and data assets are protected adequately. In layman's terms, they're in charge of the IT department at Central Command. The CIO should be contacted on matters such as telecommunications logs, employee records, or vulnerabilities in the station's data network. They should also be contacted upon discovery of any major <a href="Xenoarchaeology" title="wikilink">archaeological</a> finds.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="Chief_Technology_Officer" title="wikilink">Chief Technology Officer</a></p></td>
+<td><p>The CTO is sometimes also referred to as CentCom's Research Director. They are among the high level ranks in hierarchy mainly responsible for managing company’s technology department along with research and development progress. The CTO should be contacted in the event of any major research breakthroughs, such as new applications for Phoron, or <a href="Redspace" title="wikilink">Redspace</a>, or the discovery of previously unknown technologies.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="Chief_of_Marketing_and_Advertising" title="wikilink">Chief of Marketing and Advertising</a></p></td>
+<td><p>CMA is a title designated to a professional whose responsibility is to manage different marketing activities in and around the local star system. Although this is a mid-level rank in the hierarchy, the CMA reports directly to a chief executive officer (CEO), bypassing the usual chain of command. There's no good reason to contact them ever.</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="Chief_of_Social_Resources" title="wikilink">Chief of Social Resources</a></p></td>
+<td><p>Formerly known as the Chief of Human Affairs, the CSR is a mid-level rank in the hierarchy taking care of the employee's resources department for the corporation. The CSS reports to the chief administrative officer only. The Chief of Social Resources is the manager of the Social Resources (formerly Human Resources) department, and should be the last person you ever have to speak to in order to deal with complaints or requests relating to the company without a lawyer or a union by your side. The Social Resources department can be contacted for matters regarding crew conduct, violations of standard operating procedure, promotions, demotions, retirement planning, and job transfers. Ensure that if you choose to contact them with a complaint, you've already attempted (and failed) to resolve the issue with the station's on-board command staff.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="Chief_of_Security" title="wikilink">Chief of Security</a></p></td>
+<td><p>This is essentially Central Command's version of the <a href="Head_of_Security" title="wikilink">Head of Security</a>. This is the lowest rank in the corporate hierarchy where ignoring corporate regulations in favor of circumstances is still permissible without a crisis in progress. The Chief of Security answers directly to the Chief Administrative Officer and can seek pardon on behalf of criminals from the CAO under certain circumstances. The COS also works in coordination with planetary or colony Civil Defense Forces and occasionally with elements of the military (usually the <a href="NanoTrasen#Asset_Protection" title="wikilink">NanoTrasen Defense Force</a>).</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="Chief_of_Safety_and_Engineering" title="wikilink">Chief of Safety and Engineering</a></p></td>
+<td><p>This is essentially Central Command's version of the <a href="Chief_Engineer" title="wikilink">Chief Engineer</a>. They are responsible for all matters pertaining to station infrastructure, and restoring the station to its default configuration after the end of the shift. The COSE should be contacted in regards to any construction projects the station's Chief Engineer or Colony Director wishes to make permanent.</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="Chief_of_Health_and_Medicine" title="wikilink">Chief of Health and Medicine</a></p></td>
+<td><p>This is essentially Central Command's version of the <a href="Chief_Medical_Officer" title="wikilink">Chief Medical Officer</a>. They are responsible for the wellness of not only the station's crew, but all sentient life forms within the sector where NanoTrasen operates. This individual will often work with SolGov's Department of Health, as well as the <a href="Galactic_Health_Organization" title="wikilink">Galactic Health Organization</a> to track and control diseases, while also sharing and improving upon medical technology.</p></td>
+</tr>
+<tr class="odd">
+<td><p><img src="EmergencyResponseTeam.png" title="fig:EmergencyResponseTeam.png" alt="EmergencyResponseTeam.png" /><br />
+<a href="Emergency_Response_Team" title="wikilink">Emergency Response Team</a></p></td>
+<td><p>The ERT is a highly trained jack-of-all-trades force that is summoned during emergencies. The ERT is liable to be the part of Central Command you directly interact with most often, and hopefully not at all. They should be contacted in the event of a station disaster that cannot be handled effectively by the station's own crew. The ERT, while technically bound by corporate regulations, is usually only called during emergencies which disregard corporate regulations. Interfering with their mission is a seriously punishable criminal offense. All members of ERT override all station crew, and the ERT members answer to a team leader. The ERT's team leader answers directly to the Chief of Security, but also reports to the Chief of Health and Medicine if applicable.</p></td>
+</tr>
+<tr class="even">
+<td><p><img src="CentcomOfficer.png" title="fig:CentcomOfficer.png" alt="CentcomOfficer.png" width="64" /><br />
+<a href="CentCom_Officer" title="wikilink">CentCom Officer</a></p></td>
+<td><p>The CentCom Officer is a representative of CentCom who may be sent to the station for various reasons, usually that of an unbiased observer of the station who takes notes of the crew's affairs in order to help CentCom Chief Officers understand how the station is performing. They follow a strict non-interference policy and are the only CentCom rank that may not order any of the station crew. Likewise, however, the station crew cannot order around these observers, although the observers are advised to heed any head of staff requests. If they are available on-station, they should be contacted for any matters you would normally send directly to a CentCom Chief Officer.</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Heads of Staff
+--------------
+
+Also known as Command Staff, these are the men and women charged with
+the administration of the station. Each of them have access to the
+[Bridge](/wiki/Bridge "wikilink"), the command radio channel (accessed with
+:c), and may call/recall the Escape Shuttle using a communications
+console. They are also prime targets for
+[Syndicate](/wiki/Syndicate "wikilink") operatives or [rebel
+forces](/wiki/Revolution "wikilink"). They are the most important people
+aboard the station and should be well respected and protected.
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Job</p></th>
+<th><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><img src="Colony_Director.png" title="fig:Colony_Director.png" alt="Colony_Director.png" width="64" /><br />
+<a href="Colony_Director" title="wikilink">Colony Director</a></p></td>
+<td><p>Authority over entire station. Can overrule any decision made by any head. Is not above the law, however, and can still be arrested if found committing a crime. Can fire and assign at will, and is the only person who can assign death warrants or authorize executions.</p></td>
+</tr>
+<tr class="even">
+<td><p><img src="HeadOfPersonnel.png" title="fig:HeadOfPersonnel.png" alt="HeadOfPersonnel.png" width="64" /><br />
+<a href="Head_of_Personnel" title="wikilink">Head of Personnel</a></p></td>
+<td><p>Please See <a href="Head_of_Personnel" title="wikilink">Head of Personnel</a>, it's complicated.</p></td>
+</tr>
+<tr class="odd">
+<td><p><img src="Generic_hos.png" title="fig:Generic_hos.png" alt="Generic_hos.png" width="64" /><br />
+<a href="Head_of_Security" title="wikilink">Head of Security</a></p></td>
+<td><p>Equal with other Heads of Staff excluding the Colony Director. The HoS becomes acting Captain <strong>only</strong> during a crisis when the Captain <em>and</em> Head of Personnel are both dead or absent. The HoS may be denied access to the domains of other Heads. Below the Captain in command authority involving security matters. Expected to arrest anyone who is doing illegal things, even other Heads of Staff, or the Captain. Commands <a href="Security_Officer" title="wikilink">Security Officers</a>, the <a href="Warden" title="wikilink">Warden</a> &amp; <a href="Detective" title="wikilink">Detective</a>.</p></td>
+</tr>
+<tr class="even">
+<td><p><img src="Chief_Engineer_2.png" title="fig:Chief_Engineer_2.png" alt="Chief_Engineer_2.png" width="64" /><br />
+<a href="Chief_Engineer" title="wikilink">Chief Engineer</a></p></td>
+<td><p>Equal with other Heads of Staff excluding the Colony Director. Must be informed of any major construction projects to the station. Authority over <a href="Station_Engineer" title="wikilink">Station Engineers</a> and <a href="Atmospheric_Technician" title="wikilink">Atmospheric Technicians</a>.</p></td>
+</tr>
+<tr class="odd">
+<td><p><img src="ResearchDirector.png" title="fig:ResearchDirector.png" alt="ResearchDirector.png" width="64" /><br />
+<a href="Research_Director" title="wikilink">Research Director</a></p></td>
+<td><p>Equal with other Heads of Staff excluding the Colony Director. Holds authority over the Science Department.</p></td>
+</tr>
+<tr class="even">
+<td><p><img src="Generic_cmo.png" title="fig:Generic_cmo.png" alt="Generic_cmo.png" width="64" /><br />
+<a href="Chief_Medical_Officer" title="wikilink">Chief Medical Officer</a></p></td>
+<td><p>Equal with other Heads of Staff excluding the Colony Director. If a Head of Staff is acting medically unstable, it is the job of the CMO to disable and treat them till they are once again fit for duty. Authority over <a href="Virologist" title="wikilink">Virologists</a>, <a href="Psychologist" title="wikilink">Psychologists</a>, <a href="Medical_Doctor" title="wikilink">Medical Doctors</a>, and <a href="Chemist" title="wikilink">Chemists</a>.</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Other Management Roles
+----------------------
+
+While the following jobs have management roles, they are not Heads of
+Staff and get none of the perks associated with being a Head of Staff.
+They are not usually a suitable substitution for their superiors in the
+event that their superiors are missing (for example, a Warden does *not*
+become acting HoS in the absence of the HoS).
+
+<table>
+<thead>
+<tr class="header">
+<th><p>Job</p></th>
+<th><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><img src="Quartermaster.png" title="fig:Quartermaster.png" alt="Quartermaster.png" width="64" /><br />
+<a href="Quartermaster" title="wikilink">Quartermaster</a></p></td>
+<td><p>Subordinate to the <a href="Head_of_Personnel" title="wikilink">Head of Personnel</a>. Authority over the supply sector, including <a href="Cargo_Technician" title="wikilink">Cargo Technicians</a> and <a href="Shaft_Miner" title="wikilink">Shaft Miners</a>.</p></td>
+</tr>
+<tr class="even">
+<td><p><img src="Warden.png" title="fig:Warden.png" alt="Warden.png" width="64" /><br />
+<a href="Warden" title="wikilink">Warden</a></p></td>
+<td><p>Subordinate to the <a href="Head_of_Security" title="wikilink">Head of Security</a>. Authority over the distribution and inventory of weapons to security. Responsible for the well-being of any prisoners, which means authority over <a href="Security_Officer" title="wikilink">Security Officers</a> working within the brig or anywhere prisoners are held.</p></td>
+</tr>
+</tbody>
+</table>
+
+Chain of Succession
+-------------------
+
+The installation does not require a Colony Director to function
+normally, but it helps. The only person who may assume the role of
+[Acting Colony
+Director](/wiki/Chain_of_Command#Acting_Colony_Director,_and_you "wikilink")
+**without a pressing need** is the Head of Personnel, who may assume
+that position until a director arrives.
+
+If the Colony Director *and* the Head of Personnel are both missing and
+a pressing need arises, the Head of Security may assume the role of
+Acting Colony Director for the duration of the need, then resume their
+previous role.
+
+If the Colony Director, Head of Personnel, and Head of security are all
+missing, then a simple majority vote among the remaining heads (RD, CE,
+CMO) to elect one of themselves as Acting Colony Director will decide.
+At this point however, if the situation is dire enough, it may be
+necessary to evacuate the installation. If there is no evacuation and
+the need is resolved, the Acting Colony Director returns to their
+previous role.
+
+If any head of staff is missing, the Head of Personnel may temporarily
+fill in for them--excluding the Head of Security--until a new head of
+staff is chosen by the HoP or the Colony Director.
+
+To summarize, the chain of succession during an emergency is: Colony
+Director -&gt; Head of Personnel -&gt; Head of Security -&gt; RD/CE/CMO
+majority vote.
+
+Acting Colony Director, and you
+-------------------------------
+
+By default, this role falls on the [Head of
+Personnel](/wiki/Head_of_Personnel "wikilink") in the absence of a [Colony
+Director](/wiki/Colony_Director "wikilink"). In the absence of a Head of
+Personnel, the other heads may determine who will take up the mantle by
+a simple vote of majority amongst themselves.
+
+What is the Acting Colony Director? What are their expectations, their
+rights, and for that matter, their purpose? The Colony Director is a
+necessary role so that someone aboard the station has the final say in a
+matter should the need arise. As an Acting Colony Director, that role
+would fall to you. Day to day operations mainly include communicating
+and mediating between departments. There always needs to be someone the
+crew can know to turn to in the event that they need a Colony Director
+and that is why this policy exists. Without it, confusion and power
+grabbing might occur as a result, thus worsening existing problems.
+
+Say Engineering wants to block off an area to do construction. However
+they need Security to enforce the barriers. Without a Colony Director,
+these two departments would argue endlessly without reaching a
+resolution. This is where the Colony Director comes in to decide if
+Engineering really needs that assistance.
+
+Another example might be someone is upset with their head of staff
+regarding how they're being treated. Under normal circumstances, they'd
+turn to a Colony Director, but a Colony Director isn't aboard, or is
+otherwise predisposed or AWOL. The Acting Colony Director takes over and
+attempts to resolve the situation.
+
+A third and also very common question is can the Head of Personnel
+promote people to heads of staff? No. However, an Acting Colony Director
+*can* and is in fact *encouraged to do so* if the shift is several hours
+in with missing heads of staff.
+
+In the event of an emergency, the role of Acting Colony Director is much
+more obvious, such as the final say in whether or not the shuttle should
+be called, or changing an AI's laws to fit a situation.
+
+However it is commonplace for acting Colony Directors to make the
+mistake of throwing around their power too much, resulting in disrespect
+for their authority from the crew. This is to be avoided. If you're
+Acting Colony Director, then ask yourself this question: *"Have I been
+asked to be involved, or do I see an impasse of opinions that only a
+Colony Director can break by choosing a side?"* If the answer is yes,
+then you may intervene, and in fact, you should. If the answer is no,
+then you should probably stay out of it as a normal Colony Director
+would anyway.
+
+There are some notable exceptions in which Acting Colony Director does
+**not** hold the authority of a true and properly chosen Colony
+Director. These examples include:
+
+-   Overseeing executions
+-   Signing weapon permits
+-   Death warrants
+-   Promoting other staff to full Colony Director (you can make someone
+    else Acting Colony Director and give up the role, however)
+
+General Guide to Command
+========================
+
+While every command role you may fill will be vastly different in the
+actions you and your department will take, there are some general
+binding ideas that can be applied to each and every role that has some
+sort of commanding role to it. If you wish to be a good leader,
+following these basic ideas is a must.
+
+### 1. Communicate
+
+This guideline is the most important to follow, and it is the one most
+command staff fail at, hence why this is the first topic to be covered.
+As command staff, you are first an administrator. Your job is to
+delegate among your department, ensure tasks are completed, and make
+sure you subordinates are part of a well oiled machine for when it gets
+to be crunch time. Make sure you know where everyone is, have people
+check in, and if there is something the entire station needs to know,
+remember that each head of staff has a communication console in their
+office, that you can send an announcement that will be very visible. Not
+enough people tend to utilize this, and general comms tends to be so
+filled with clutter, especially in the start of an emergency, that you
+trying to convey information that way will fall half the time on deaf
+ears.
+
+### 2. Be known
+
+This point goes a bit in hand with Communication. If you do not have a
+presence in your department, when you try to take control of a
+situation, or some kind of panic in the department, your voice will be
+new, and some may not be trusting of this. At the start of a shift, or
+when you join, try communicating with your department, get a quick idea
+of who you have under you, and how to best use each of them. Give out
+orders, even if it is as little as "You know what you are doing, go do
+it." Making the initial connection with each member of your department
+can be key to making sure things have structure when you need it.
+
+### 3. Use the Command Channel
+
+Nothing is worse than being uninformed. Many times situations have more
+than one department involved. For one example, say there is someone who
+set off a bomb, someone was caught in there, and there was someone
+sighted with a gun at the site. You have 3 departments involved in this
+issue now. If the engineers and medics head in, and security has no
+information about that issue, then the other two departments have been
+metaphorically thrown in a fire. Coordinate with your fellow command
+staff, make things happen, and relay important information to your
+department as needed. As the saying goes, knowledge is power.
+
+### 4. Know the jobs of the department
+
+Nothing is worse than someone like a Chief Engineer not knowing how the
+Supermatter Engine is setup, to name an example. This kind of thing can
+be outright infuriating when those under your command tell you how to do
+the basic parts of your job. Not only does it not help with any time
+efforts of yourself are required in your department's dealings, but it
+will make those under you much less likely to listen, because they will
+more than likely lose their trust in your guidance if you don't even
+know what you are talking about. You do not need to know everything, but
+you should be able to perform tasks that your department does on a
+regular basis.
+
+Promoting and Demoting Heads
+============================
+
+**Any** head of staff, in fact, any crew member, can be promoted or
+demoted by the Colony Director at any time for any reason, up to and
+including a replacement Colony Director . If you suspect the reasons to
+be motivated by nepotism or discrimination, contact Central Command.
+Note that an 'acting Director' cannot promote other staff to be a full
+Colony Director, but they can give the position of Acting Colony
+Director to someone else if the situation requires it.
+
+For a demotion, if there is no Colony Director, or you wish to demote
+the Colony Director himself, an unanimous vote of **all** other non-SSD
+heads of staff is necessary. If there are two or less heads of staff,
+there is no official procedure for demoting either of them, so contact
+Central Command.
+
+An extra Head of Staff showed up but we just promoted one! Now what?
+--------------------------------------------------------------------
+
+This happens on occasion late shift after there's been a missing head
+all shift, but after promoting someone to fill the empty slot, CentCom
+sends someone to the station not knowing the job has been filled.
+
+It entirely is up to the Colony Director (or Acting Colony Director) who
+keeps their job. They can even decide to keep both in power, although
+this is not advised. CentCom recommends that unless the promotion was
+recent, the one who was promoted keep the job, and the new arrival be
+reassigned under the same department, or given a "second in command"
+role.
+
+Heads of Staff and Criminal Offense
+-----------------------------------
+
+A Head of Staff proven to have committed a crime can be arrested, but
+not demoted without going through the proper procedure of demoting a
+head of staff. Arresting the Colony Director based on suspicions is not
+legal, solid evidence is required. A head of staff cannot be arrested
+just because you do not agree with their actions or orders.
+
+Summary
+=======
+
+NanoTrasen has absolute authority. CentCom has higher authority than
+anyone on the station. The Colony Director has higher authority than
+everyone else on the station. No Head of Staff (excluding Colony
+Director) can overrule another, except in extreme cases (e.g. criminal
+activity, mental instability). In the event of missing ranks, authority
+follows the chain of command, and the chain of succession; *the Chain
+that Binds*.

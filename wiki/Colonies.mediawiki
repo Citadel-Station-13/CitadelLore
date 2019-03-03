@@ -1,0 +1,67 @@
+{{BayPage}}
+{{stub}}
+<onlyinclude>Humanity and the other species have spread far and wide across the galaxy. This diversification of time and place has allowed wildly radical new ideologies and cultures to form on the frontier.</onlyinclude>
+
+''Colonies can be submitted [http://baystation12.net/forums/view/colony-submissions.55/ here], [http://baystation12.net/forums/threads/colony-submission-guidelines.113/ using this template.]''
+
+''Blank spaces take information from first filled field above. For example, the Vorcian Federation was founded by humans and is located on Mars, in the Sol system.''
+
+==[[Human]] colonies==
+{| class="wikitable"
+|-
+! Colony name !! Founding species !! System !! World !! '' !! Summary !! Author(s)
+|-
+| [[Lunar Confederation]] || Human || [[Sol]] || [[Luna]] || '' || A federation of many Lunar colonies. ||Nyarlathotep et al.
+|-
+| [[Kingdom of Victoria]] || '' || '' || [[Mars]]  || '' || A constitutional monarchy nested in an increasingly uncomfortably dense city-state. Leeks and turkey.  ||sabiram
+|-
+| [[New Liberty]] || '' || '' || '' || '' || WIP ||Crushtoe
+|-
+| [[Vorcian Federation]] || '' || '' || '' || '' || A Martian superpower. Long-stemming political disputes plague what should be the crown jewel of the colonization effort.||Fiskap
+|-
+| [[UIL-OMR]] || '' || '' || '' || '' || A peacekeeper state governed by Sol Central. See Vorcian Federation. ||st_somatic
+|-
+| [[Penal Colony, Phobos]] || '' || '' || Phobos ||'' || Administered by Sol Central. As the name would suggest, it's a penal colony. || Fiskap
+|-
+| [[Magnitka Federation]] || '' || Magnitka || Ursa || '' || A colony populated entirely by Slavs and Germans; who could have predicted that it would descend into chaos? ||chinsky
+|-
+| [[Brinkburn]] || '' || Nyx || Brinkburn || '' || The wild west, but in space, and no one cares quite enough to tame it. ||Fiskap
+|-
+| [[Yuclite]] || ''|| '' || Yuclite || '' || A joint [[Gilthari Exports]]/[[Aether Atmospherics]] corporate colony. ||Fiskap
+|-
+| [[Roanake]] ||'' || '' || Erebus II || '' || Seduced by the [[phoron]]ic atmosphere, [[NanoTrasen]] established this colony. Really hot. ||Fiskap
+|-
+| [[Caldurk]] || '' || '' || Erebus XXI || '' || Abandoned by its founders, the citizens of Caldurk formed something rare in Nyx; a republic. ||Fiskap
+|-
+| [[Casser]] || '' || '' || Casser || '' || A Nyxian corporate colony. Phoron. ||TheWelp
+|-
+| [[Paradise Resort of Paraiso a Astrés|Paraiso a Astres]] || '' || Orion Ceta A || Carnelia || '' || Ibiza on a monstrous scale. ||Dragor & Fiskap
+|-
+| [[Gilthari Exports Station Sycophant|GES Sycophant]] || '' || '' || '' || '' || A rare successful permanent space station-type colony and an important trade hub. ||Dragor & Fiskap
+|-
+| [[Ascendant Star Kingdom of Avalon|Kingdom of Avalon]] || '' || Orion Ceta B || Elestus II || '' || A second-generation colony for those lusting after simple living in today's hypermodern world. ||Dragor & Fiskap, Nyarlthotep
+|-
+| [[Tiamat]] || '' || Alpha Centauri A || Tiamat || '' || The second home world humanity was dreaming of for centuries. Many different colonies. ||Dragor & Fiskap
+|-
+| [[Eremus]] || '' || Golgenna || Eremus || ''  || write something here when finished reading article --[[User:Sabiram|Sabiram]] ([[User talk:Sabiram|talk]]) 04:52, 29 October 2015 (EDT) || ProfessorPainus
+|-
+| [[Republic of Feldspar]] || '' || KPE-1491 || KPE-5 Feldspar || ''  || A good old fashioned democracy blossoming out there in the sky. ||Footman
+|-
+| [[Zzarlaanis]] || '' || 14 Herculis || Tiphonia || '' || An African colony inspired and guided by tradition. || Metamorp
+|-
+|}
+
+==[[Skrell|Skrellian]] colonies==
+{| class="wikitable"
+|-
+! Colony name !! Founding species !! System !! World !! '' !! Summary !! Author(s)
+|-
+| [[Harr'qac]]|| Skrell || Harr'kelm || Harr'qac ||  '' || Founded by homesick Skrell because it kind of looks like their home world if you look at it the right way, which is a good enough reason. ||SuperBee29
+|-
+| [[Qerrna-Lakirr]] || '' ||55 Cancri A || 55 Cancri E|| '' || L'etat c'est moi ||FearTheBlackout
+|-
+| --- || --- || --- || --- ||   || ||
+|-
+|}
+
+[[Category:Fluff]] [[Category: Colonies]]

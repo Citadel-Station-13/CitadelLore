@@ -1,0 +1,390 @@
+If you want to do any job like station engineer you need to know how to build and demolish stuff.
+
+For a full list of things you can construct and take apart, see the [[Guide to Construction]].
+
+== What you'll need ==
+
+=== Basic Tools ===
+
+Before you can begin any construction or de-construction you need to gather a few useful tools.
+
+These tools can be found in any blue mechanical toolbox on the station.
+
+ {{Item
+ |bgcolor1 = #FFEE88
+ |bgcolor2 = #FFDD66
+ |name = [[Crowbar]]
+ |image = Crowbar.png
+ }}
+
+'''Additional Uses:''' Opening unpowered doors, bashing heads in
+
+ {{Item
+ |bgcolor1 = #FFEE88
+ |bgcolor2 = #FFDD66
+ |name = [[Screwdriver]]
+ |image = Screwdriver tool.png
+ }}
+
+'''Additional Uses:''' Opening panels, poking eyes
+
+ {{Item
+ |bgcolor1 = #FFEE88
+ |bgcolor2 = #FFDD66
+ |name = [[Welder]]
+ |image = Welderon.gif
+ }}
+'''Additional Uses:''' Welding doors, burning people, breaking glass.
+
+You will need a welding mask if you plan to do more than a little welding, also remember to turn off before you refill.
+
+ {{Item
+ |bgcolor1 = #FFEE88
+ |bgcolor2 = #FFDD66
+ |name = [[Wirecutters]]
+ |image = Wirecutters.png
+ }}
+
+'''Additional Uses:''' Cutting people, wires and grills.
+
+ {{Item
+ |bgcolor1 = #FFEE88
+ |bgcolor2 = #FFDD66
+ |name = [[Wrench]]
+ |image = Wrench.png
+ }}
+
+'''Additional Uses:''' Securing gas tanks, killing spys, fitting pipes, etc.
+
+=== Materials ===
+
+To build anything you need materials, the two main materials are [[Construction_Materials#Metal|Metal]] [[File:Metal.png]] and [[Construction_Materials#Glass|Glass]] [[File:Glass.png]], these can be found around the station, ordered from the [[Quartermaster]] or salvaged from parts of the station itself. If [[botanist]]s are growing tower caps, you will have planks [[File:Planks.png]] to build with.
+
+Once you have your tools and material you can starting building.
+
+==Furniture==
+
+=== Chairs ===
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:Chair.png]]Chair
+|[[File:Metal.png]]x1
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*Decoration
+*Electric Chair
+*Chair Cuffing
+*Buckling in
+|-
+|colspan="2" style="padding: 10px;"|
+* Stand where you want the chair.
+* Pick up some metal.
+* Click the metal in hand.
+* Select chair from menu.
+|}
+
+=== Stools ===
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:Stool.png]]Stool
+|[[File:Metal.png]]x1
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*Decoration
+|-
+|colspan="2" style="padding: 10px;"|
+* Stand where you want the stool.
+* Pick up some metal.
+* Click the metal in hand.
+* Select stool from menu.
+|}
+
+=== Tables ===
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:table.png]]Table or [[File:woodtable.png]] Wooden Table
+|[[File:Metal.png]]x1 and any other stacked material x1
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*Decoration.
+*Tabling.
+*Ghetto [[Surgery]].
+*Placing items on.
+|-
+|colspan="2" style="padding: 10px;"|
+* Pick up some steel sheets.
+* Click the metal in hand.
+* Select table frame from menu.
+* Use either steel or another material to add plating to the table frame.
+|}
+
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:r-table.png]]Reinforced Table
+|[[File:Metal.png]]x1
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*A table with added security
+|-
+|colspan="2" style="padding: 10px;"|
+* Follow the instructions above to create metal table parts
+* Hold the stack you're using to reinforce the table in your hands.
+* Drag the stack from your hands onto the table.
+|}
+
+==Walls==
+
+This is the standard type of wall found around the station, they are easy to construct and remove but are not as strong as reinforced walls. They also come in the hidden variety.
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:wall.png]] Steel Wall
+|[[File:Metal.png]]x4
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*Keeping people out.
+*Keeping people in.
+*Keeping people from going places.
+|-
+|colspan="2" style="padding: 10px;"|
+* Stand where you want the wall.
+* Click the metal in hand.
+* Select girder from the menu.
+* Click the girder again.
+|}
+
+
+'''Hidden Walls'''
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:wall.png]] Hidden Wall
+|[[File:Metal.png]]x4
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*Almost undetectable escape route.
+*Otherwise, same as normal wall.
+|-
+|colspan="2" style="padding: 10px;"|
+* Stand where you want the wall.
+* Click the metal in hand.
+* Select girder from the menu.
+* Click the girder holding a crowbar.
+* Click the girder holding the metal.
+|}
+
+==Reinforced Walls==
+
+This is the reinforced type of wall found in secure areas of station, they are reasonably simple to construct, but are very time consuming to remove. They also come in the hidden variety.
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:r_wall.png]] Reinforced Plasteel Wall
+|[[File:Metal.png]]x2 [[File:Metal_r.png]]x4 [[File:Screwdriver_tool.png]]
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*Keeping people in and out of high security areas.
+*Keeping people from going into secure places.
+|-
+|colspan="2" style="padding: 10px;"|
+* Stand where you want the reinforced wall.
+* Click the metal in hand.
+* Select girder from the menu.
+* Use the screwdriver on the girder to begin reinforcing.
+* Click on the girder with the reinforced metal to reinforce it.
+* Click the girder again with the last piece of reinforced metal.
+|}
+
+
+'''Hidden Reinforced Walls'''
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:r_wall.png]] Hidden Reinforced Wall
+|[[File:Metal.png]]x2 [[File:Metal_r.png]]x4 [[File:Screwdriver_tool.png]]
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*Almost undetectable escape route.
+*Otherwise, same as reinforced wall.
+|-
+|colspan="2" style="padding: 10px;"|
+* Stand where you want the hidden reinforced wall.
+* Click the metal in hand.
+* Select girder from the menu.
+* Click the girder holding a crowbar.
+* Use the screwdriver on the girder to begin reinforcing.
+* Click on the girder with the reinforced metal to reinforce it.
+* Click the girder holding the reinforced metal.
+|}
+
+==Windows==
+Windows come in 2 types: Full and One Direction. Full is basically a weaker, see-through and shoot-through wall, while one direction allows the square it is on to be entered from any direction, except the direction it's facing.
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:Glass_panel.png]] [[File:Glass_wall.png]] Windows
+|[[File:Glass.png]]x2
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*Full: See Wall. Usually only used if you don't have enough.
+for 2-4 one directions or the metal for a wall.
+*One Direction: Stops movement only from the way it faces.
+|-
+|colspan="2" style="padding: 10px;"|
+* Click the glass in hand.
+* Select Full or One Direction from the menu.
+* Drag where you want it.
+* Rotate to the direction you want, if one directional.
+* Click holding screwdriver.
+|}
+
+''amount needs to be corrected''
+
+==Reinforced Windows==
+Reinforced Windows come in 2 types: Full and One Direction. Full is basically a weaker, see-through and shoot-through wall, while one direction allows the square it is on to be entered from any direction, except the direction it's facing.
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:Glass_panel_r.png]] [[File:Glass_wall_r.png]] Windows
+|[[File:Glass_r.png]]x2
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*Full: See Wall. Usually only used if you don't have enough 
+for 2-4 one directions or the metal for a wall.
+*One Direction: Stops movement only from the way it faces.
+|-
+|colspan="2" style="padding: 10px;"|
+* Click the reinforced glass in hand.
+* Select Full or One Direction from the menu.
+* Drag where you want it.
+* Rotate to the direction you want, if one directional.
+* Click holding screwdriver.
+|}
+
+==Grilles==
+Grilles are usually used in combination with directional windows. They allow gases and energy rounds to pass through them, but stop other objects. They can also be electrified for high security areas.
+
+{|border="1" cellspacing="0" style="background-color: #FFEE88;"
+!Object
+!Requires
+!Uses
+|-
+|[[File:Grille.png]] Grille
+|[[File:Rods.png]]x2
+|rowspan="2" style="vertical-align: top; padding: 10px;"|
+*Keeping people in or out.
+*Securing an area with electrified grilles.
+|-
+|colspan="2" style="padding: 10px;"|
+* Stand where you would like the grille to be placed.
+* Click the metal rods in hand.
+|}
+
+==Wiring==
+You cannot construct wires. They are only available right now from yellow tool boxes, or scattered about the station's construction and storage areas.
+
+*All wires are electrified if connected to a power net (a charged SMES battery is attached to the wire), and you will get fried if you touch them.
+*[[Insulated gloves]] negate any electrical shocks to the player.
+
+Let's say you have the following situation to fix:
+
+
+===How do I wire?===
+Wires are directionally dependent on where you set them down, and will apply adjacently to each "tile" you are standing by.
+Wires will always face inwards to you, sort of like this:
+
+[[File:Wire laying1.PNG]]
+
+This image was made by standing in the center tile with a wire coil in hand and clicking on all 8 surrounding tiles.
+
+In situations where you can't place a wire like this you have an alternative way. Just stand on a tile, face the direction you want it to go (ctrl+arrow key) and click the tile you're standing on.
+
+[[File:Wire laying2.PNG]]
+
+This image was made by standing on the tile, pressing ctrl + left arrow key and then clicking the tile. The cable coil was in my active hand.
+
+=== Dot wiring ===
+
+Let's say you have a situation that you need to fix:
+
+[[File:Wiring situation.png]]
+
+The easiest method of wiring is dot-wiring. Also known as unsmooth or non-smooth wiring.
+
+Fixing this is simple:
+
+[[File:wire_1_1.PNG]] -> [[File:wire_1_2.PNG]] -> [[File:wire_1_3.PNG]]. Done.
+
+You just position yourself properly and click the tile to lay down wire. Make sure you click on the plating (floor) and not the already laid wire. This is because:
+
+[[File:wire_2_1.PNG]] + [[File:wire_2_2.PNG]] = [[File:wire_2_3.PNG]]
+
+This might look about the same as in the previous image, however it's not. In the previous image your ending result had three pieces of wire, one going from the east to the center, one going from the north to the center and one going from the west to the center. In this situation you have two pieces of wire. One going east to west and one going north to center. The two wires don't meet in the center, because the horizontal wire is going east-west without it having a point (or dot) in the center.
+
+===Smooth Wiring===
+
+Just click on wires that are "knotted" at on end (you just need to click on the wire, not the little knotted dot).
+Smooth wires do not power other wires on their same tile. So make sure to apply to the source wire, or the connective tip.
+
+To fix this situation with smooth wire you'll have to follow the steps:
+
+[[File:Wire_1_1.PNG]] -> [[File:Wire_3_2.PNG]] -> [[File:Wire_3_3.PNG]] -> [[File:Wire_3_4.PNG]]. Done.
+
+In this method you first lay one cable to go from one of the directions to the center (image 1). You then position yourself in another direction and click on the already laid wire piece (and not the floor!). This will make the already placed piece and the new piece combine into one smooth piece of wire (image 2). You then place another piece to go from the last remaining direction to the center (image 3) and click it from the last direction to make a 2nd smooth piece of wire (image 4).
+
+This method often uses up more wire than dot-wiring, but it's prettier and usually preferred.
+
+===Cut the Wire===
+Use wire cutters to trim wires! Simple as that.
+*Wear insulated gloves if you value your life.
+===Wire-net reset===
+This is byond's attempt to "reset" the whole power net in order to deal with new/ removed wires that shift the power value of a whole system. It will cause APCs to stop charging for a moment, and in huge nets it  can shut down the charging of all APCs for a while.
+*Don't mess with wires unless you have to, it causes problems to everyone in both OOC (due to potential lag) and IC (power loss).
+
+==Pipes==
+===How do I get pipes?===
+Pipes are only constructed from pipe dispensers in atmospherics.
+To use a pipe dispenser, follow these steps:
+#Put dispenser in a powered area.
+#Wrench Dispenser to lock it into place.
+#Click on the pipe dispenser with an empty hand and select the pipes you wish to use.
+#You have a pipe to play with now.
+#Wrench dispenser to make it mobile once more.
+
+===Placing and removing pipes===
+====Disposal====
+#Rotate the pipe to the direction you wish the pipe to be in.
+#Use a lit welder to fuse the pipe to the ground.
+====Gas pipes====
+#Rotate the pipe to the direction you wish (pay attention to gas pumps as they are direction dependent).
+#Wrench into place.
+#Turn on the pipe if necessary.
+====How to remove a pipe====
+#Perform the step you used to set the pipe into place in reverse (make sure the pipe is powered off).
+#Brace for any junk that might blast out of the pipe.
+
+[[Category:Guides]]

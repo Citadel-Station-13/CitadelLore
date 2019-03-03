@@ -1,0 +1,159 @@
+{{Gameplay guides}}
+
+== Quick Start ==
+You're new to V.O.R.E. Station and want to learn? Here's what you do!
+* Read our [[Rules|server rules]]. You may not understand all of them until you understand the game, but you should keep them in mind.
+
+* If you're new to Space Station 13 in general, read the [[The Basics|Tutorial]] and [[General Help]] guides.
+
+* If you're new to roleplay in general, read the [[A Crash Course In Roleplaying|Crash Course In Roleplaying]] and [[Character Creation]] pages.
+
+* When you play as a job you haven't played before, always look over the wiki page for that job. Read the overview box at the top, and have a glance over all the linked guides.
+
+* When you join the round as a Head of Staff, read the [[Chain of Command]] and the [[Guide to Command]].
+
+== Getting Started ==
+
+
+
+*[[File:Paper.png|link=Starter Guide]] [[Starter Guide]]
+
+*[[File:Paper.png|link=General Help]] [[General Help]]
+
+*[[File:Paper.png|link=Rules]] [[Rules]]
+
+*[[File:Paper.png|link=A Crash Course In Roleplaying]] [[A Crash Course In Roleplaying]]
+
+*[[File:Paper.png|link=Tips and advice]] [[Tips and advice]]
+
+*[[File:Paper.png|link=Key differences]] [[Key differences]] between vorestation and other SS13 servers
+
+*[[File:Wrench.png|link=Basic Construction]] [[Basic Construction]]
+
+*[[File:Changeling.gif|link=Character Creation]] [[Character Creation]]
+
+*[[file:Wtfamireading2.png|link=Scene roleplay]] [[Scene roleplay]]
+
+== Game Mechanics ==
+
+
+
+*[[File:Harm.png|link=Combat]] [[Combat|Guide to Combat]]
+
+*[[File:Help.png|link=Combat#Intents]] [[Combat#Intents|Guide to Intent]]
+
+*[[File:stomach.png|link=Guide to Vore]] [[Guide to Vore]]
+
+*[[File:OxygenTank.png|link=Internals]] [[Internals]]
+
+*[[file:Nif_full.png|link=Nanite implant framework]] [[Nanite implant framework]]
+
+*[[File:Rigsuit.png|link=Hardsuit]] [[Hardsuit|Hardsuit Operation]]
+
+*[[File:OpCom.png|link=Keyboard Shortcuts]] [[Keyboard Shortcuts]]
+
+*[[File:Carp.gif|link=Critters]] [[Critters]] (Game controlled beings)
+
+*[[File:Alien.png|link=Creatures]] [[Creatures]] (Player controlled beings)
+
+*[[File:Pen.png|link=Job Selection and Assignment]] [[Job Selection and Assignment]]
+
+*[[File:Paper.png|link=Terminology]] [[Terminology]]
+
+== Professions ==
+
+For a more detailed explanation of all of the jobs available, see the [[Job Guides|job guides page]].
+
+See [[File:commandGuide.png|link=Standard Operating Procedure]] [[Standard Operating Procedure]] for an overview of what is and isn't okay under normal circumstances on the station, but isn't strictly enforced by [[Corporate Regulation]] unless specified.
+
+=== Command ===
+
+*[[File:commandGuide.png|link=Standard Operating Procedure#Command]]  [[Standard Operating Procedure#Command|Standard Operating Procedure for Command staff]]
+
+=== Engineering ===
+
+*[[File:commandGuide.png|link=Standard Operating Procedure#Engineering]]  [[Standard Operating Procedure#Engineering|Standard Operating Procedure for Engineering department]]
+
+*[[File:Wrench.png|link=Guide to Engineering]] [[Guide to Engineering]]
+
+*[[File:O2 canister.png|link=Atmospherics]] [[Guide to Atmospherics]]
+
+*[[File:Wrench.png|link=Guide to Construction]] [[Guide to Construction]]
+*[[File:Machine_Frame.png|link=Guide_to_Advanced_Construction]] [[Guide to Advanced Construction]]
+
+*[[File:Supermatter.png|link=Supermatter Engine]] [[Supermatter Engine|How to Set up the Supermatter Engine]]
+
+*[[File:CableCoils.png|link=Solars]] [[Solars|How to Set up the Solars]]
+
+*[[File:Wirecutters.png|link=Hacking]] [[Hacking|Guide to Hacking]]
+
+*[[File:Wallradio.png|link=Telecommunications]] [[Telecommunications]]
+
+*[[File:Metal.png|link=Construction Materials]] [[Construction Materials]]
+
+=== Security ===
+
+*[[File:commandGuide.png|link=Standard Operating Procedure#Security]] [[Standard Operating Procedure#Security|Standard Operating Procedure for Security department]]
+
+*[[File:StunBaton.gif|link=Guide to Security]] [[Guide to Security]]
+
+*[[File:SpaceLaw.png|link=Guide to Contraband]] [[Guide to Contraband]]
+
+*[[File:SpaceLaw.png|link=Corporate Regulations]] [[Corporate Regulations]]
+
+*[[File:SpaceLaw.png|link=Standard Operating Procedure]] [[Standard Operating Procedure]]
+
+*[[File:SpaceLaw.png|link=NanoTrasen Rules and Regulations]] [[NanoTrasen Rules and Regulations]]
+
+*[[File:SpaceLaw.png|link=Security and You: An OOC Guide]] [[Security and You: An OOC Guide]]
+
+*[[File:SpaceLaw.png|link=Bad Security]] [[Bad Security]]
+
+=== Medical ===
+
+*[[File:commandGuide.png|link=Standard Operating Procedure#Medical]]  [[Standard Operating Procedure#Medical|Standard Operating Procedure for the Medical department]]
+
+*[[File:Healthanalyzer.png|link=Guide to Medicine]] [[Guide to Medicine]]
+
+*[[File:Scalpel.png|link=Surgery]] [[Surgery|Guide to Surgery]]
+
+*[[File:Autopsy scanner.png]] [[Guide to Cadavers]]
+
+*[[File:Beaker.png|link=Guide to Chemistry]] [[Guide to Chemistry]]
+
+*[[File:Implant_Case.png]] [[Guide to Virology]]
+
+=== Science ===
+
+*[[File:commandGuide.png|link=Standard Operating Procedure#Science]] [[Standard Operating Procedure#Science|Standard Operating Procedure for Science department]]
+
+*[[File:Disk.gif|link=Guide to Research and Development]] [[Guide to Research and Development]]
+
+*[[File:Telescience.gif]] [[Guide to Telescience]]
+
+*[[File:MetroidBaby.gif|link=Guide to Xenobiology]] [[Guide to Xenobiology]]
+
+*[[File:slime.png|link=Guide to Xenobiology]] [[Guide to Xenobiology 2]]
+
+*[[File:Explosivebombthatgoesboom.png|link=Guide to Toxins]] [[Guide to Toxins]]
+
+*[[File:Generic borg.png|32px|link=Guide to Robotics]] [[Guide to Robotics]]
+
+*[[File:MiningPick.gif|32px|link=Guide to Xenoarchaeology]] [[Guide to Xenoarchaeology]]
+
+=== Civilian ===
+
+*[[File:commandGuide.png|link=Standard Operating Procedure#Service]] [[Standard Operating Procedure#Service|Standard Operating Procedure for Service department]]
+
+*[[File:commandGuide.png|link=Standard Operating Procedure#Supply]] [[Standard Operating Procedure#Supply|Standard Operating Procedure for Supply department]]
+
+*[[File:ToxinsSpecial.gif|link=Guide to Food and Drinks]] [[Guide to Food and Drink]]
+
+*[[File:Carrot.png|link=Guide to Hydroponics]] [[Guide to Hydroponics]]
+
+*[[File:OreSatchel.png|link=Guide to Mining]] [[Guide to Mining]]
+
+== Admin Guides ==
+* [[Admin Guide: Fluff Items]]
+* [[Admin Guide: Events]]
+* [[Admin Guide: Quality Control Bans]]

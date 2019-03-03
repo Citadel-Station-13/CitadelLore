@@ -1,0 +1,28 @@
+''Or: Why Everyone Shouldn’t Have Guns''
+
+Fluff items have gotten out of control <s>always</s> <s>right now</s> in the past and there are some important things to keep in mind while approving fluff items, along with some rules we have around their approval.
+
+In general, fluff items can be divided into several categories:
+
+'''Trivial items''' are items that serve no mechanical purpose, and cannot be used to deceive anyone to think you’re a particular job or have any specific authority or power. They include resprited normal clothes, items that aren’t related to jobs, minor carryable items like books or resprited PDAs or custom IDs (that have no special access).
+* Trivial items can generally be approved as long as the application and reasoning for the item are sound, and make sense with our lore and rules.
+'''Job-specific''' items are items or resprites of an item that one would only have access to as a particular job, such as uniforms for the various jobs, or job equipment that is typically harder to get when you are not a particular job (insulated gloves, medkits).
+* Job-specific items can be approved if the item is not purposely in limited quantity in the game, and should only be approved with the caveat that it will only spawn when that character joins as that job.
+'''Fetish items''' are items that pertain to specific fetish content, such as lactation implants, gender-changing items, or other items that are not mechanically powerful but serve a purpose in and around ERP mechanically.
+* Fetish items should only be approved after consulting with headmins about the repercussions of adding the items to the game.
+'''Powerful items''' are items that are not dangerous (see below) but grant mechanical advantage that replaces the need for other ingame items. This includes reagent generators that generate useful reagents that are not available without work to obtain normally, or things that typically require cargo orders or R&D production. Generic non-lethal weapons are included in this.
+* Powerful items should only be approved in very limited quantities (not per person, but for the entire server!) and as such, you should definitely be aware of ‘cascade’ applications (“I saw X get Y, now I want one, give me one too”). These should only be approved in rare cases when the character has a very, very good reason to have the item or has earned it during staff-run events with good roleplaying.
+'''Dangerous items''' are items that is designed to be used to remove other players from the round, and would in-universe be regulated since removing a player from the round is mostly possible via killing them. This includes lethal weaponry.
+* Dangerous items should always be job-locked to the related job (probably Security), and should only be approved in extremely rare cases, such as the above-mentioned success in admin-run events. Like powerful items, be aware of ‘cascade’ applications.
+While reviewing and approving/denying fluff items, there are a few things to keep in mind:
+* How does this item affect the performance of their preferred job? Does it make a tedious part of their job easier, and how much of their job changes? Should we consider an overall change to how the job works, instead?
+* How does this item affect their department’s interaction with others? Does it remove interdepartmental interaction by providing items the other department would have?
+* Does this item allow them to perform a job that they are potentially not currently playing as?
+* Does this item allow them to circumvent parts of the game, such as allowing them to potentially duplicate other items?
+* Does this item allow them abilities that might be considered ‘magic’?
+* While using this item, will it be disruptive to other players?
+* What are the chances that someone will have reasonable complaints about the user having and using this item?
+There are also two important tools at the reviewer's disposal, which may not seem fair, however they are crucial to keeping a healthy server:
+* '''Just because one person was approved for a fluff item, does not mean anyone else has to be approved for it. You can deny applications simply because “I don’t want more than one of these on the station”.'''
+* '''You can reject applications based on admins having not just negative sentiments about the player, but also THE LACK of positive sentiments. "I don't know you, apply again in the future after playing here for longer and making a name for yourself" is acceptable.'''
+[[Category:Admin Guides]]

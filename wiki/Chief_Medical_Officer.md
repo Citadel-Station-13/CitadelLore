@@ -1,0 +1,171 @@
+---
+title: Chief Medical Officer
+permalink: wiki/Chief_Medical_Officer/
+layout: wiki
+---
+
+The [Chief Medical Officer](/wiki/Chief_Medical_Officer "wikilink") is in
+charge of the health of the crew. They make sure that the [Medical
+Doctors](/wiki/Medical_Doctor "wikilink") are treating people effectively, and
+making sure the [Virologists](/wiki/Virologist "wikilink") and
+[Chemists](/wiki/Chemist "wikilink") are working for the good of the station.
+
+Overview
+--------
+
+You control the entire medbay. Other than treating injured crew, it is
+your responsibility to ensure that [important
+crew](/wiki/Chain_of_Command "wikilink") (including yourself) have received
+genetic backups and death alarms, and that all crew are using their suit
+sensors when [appropriate](/wiki/Standard_Operating_Procedure "wikilink"),
+
+You are the foremost medical expert on the station. The ideal Chief
+Medical Officer would have the knowledge to perform common surgical
+operations, manufacture the most essential pharmaceuticals, and develop
+'cures' for viral infection. You should allow your subordinates to
+handle the bulk of the work, but don't be afraid to lend a hand. The
+objective in mind is ensuring that everyone in the department has their
+place; if you delegate all of your duties completely, you've lost your
+own place.
+
+Your Job
+--------
+
+You are often regarded as the least important Head of Staff, but in
+reality, you hold a great deal of power. Without a competent Chief
+Medical Officer coordinating things, the medbay often dissolves into a
+chaotic mess that only manages to heal anybody through sheer
+coincidence.
+
+Your primary duty is to ensure that the crew is in top possible physical
+and mental shape. To do this, you will need the help of your assigned
+crew. Medical Doctors take several shapes; Nurses, Surgeons, Virologists
+and Emergency Medical Technicians. They all occupy the same slot, but
+have different, and obvious, specialties. The
+[Chemist](/wiki/Chemist "wikilink") is responsible for the manufacture of
+important medicines. The [Virologist](/wiki/Virologist "wikilink") is
+responsible for the development, and counteraction, of viral agents. The
+[Psychologist](/wiki/Psychologist "wikilink") is responsible for the mental
+health of crew.
+
+### Specialized Staff
+
+When the round starts, review your medical staff and assign jobs.
+Remember, Emergency Physicians, Surgeons, and regular Doctors are all
+the same job, and they're all required to treat patients. Their specific
+title just indicates a specialization. They can and should be able to be
+given assignments outside of that, so long as it still falls within the
+description of Medical Doctor work. If they're unable or unwilling to do
+basic medical work because "they're a surgeon, not a doctor", then they
+need reeducating about what their job actually entails.
+
+Make sure that you have a dedicated EMT team ready to respond to calls
+for medical assistance from outside of Medbay, someone manning the front
+desk to handle arrivals and minor cases, and someone - preferably a
+Surgeon - waiting in the wings to handle critical cases that require
+Cryo treatment or surgery. Each of these three assignments is vital for
+different reasons, and, once given a job, your staff should focus on
+doing that job exclusively except in case of emergency. If they don't,
+and they try to do someone else's job, it means that you have two
+doctors doing a job that could be done by one, and an area which is left
+understaffed. Make sure that everyone is entirely clear on exactly what
+their job is and why it is important.
+
+When everyone has their assignments, make sure that everybody has their
+Medical belts stocked with the basic tools of the trade - gauze,
+ointment, inaprovaline, and things like that. Emergency Physicians
+should carry more than most, and should have [a variety of
+Medkits](/wiki/Medical_items#First_aid_kit "wikilink") available for unusual
+cases, since they're the first responders and may have to deal with
+anything.
+
+### Specialized Staff Obligations
+
+**CMO TRANSCORE DATA PACKET:** Should the station find itself being
+evacuated or entering a Code Delta scenario you will be tasked with
+backing up the entirety of the station's resleeving documentation for
+that shift. Located inside your office should be a locker with a "CMO
+Packet" inside. This packet is to be inserted and retrieved from the
+resleever monitor. (should the game bug and cause the device to
+disappear after inserting it simply act as though you still have it IC.)
+CMO and the rest of the medical staff will be tasked with protecting
+this disc through life and limb. Allowing its transportation off the
+station and back to the proper Authorities. **(OOC NOTE: DO NOT MESS
+WITH THIS DEVICE UNDER ANY OTHER CIRCUMSTANCES, OR RISK PUNISHMENT!)**
+
+### Chemical Fixes
+
+Once your main staff is set up, contact Chemistry and get them to start
+making medicines for your doctors. Clonexadone is a must-have, so have
+the Chemists take the cryoxadone from Cryo and mix some up immediately.
+Hyronalin, tricordrazine, alkysine, dexalin plus, spaceacillin, and
+ryetalyn are all important, so have those mixed up as soon as possible,
+and make sure that your doctors know that they're available and where to
+find them. Make sure that Virology gets some diluted milk and radium,
+too, or your Virologists won't be able to do anything. Once you have all
+of the basic medicines, have Chemistry mix up a little bit of everything
+and stock up on the important stuff.
+
+### Responding
+
+As with other Head positions, a large part of your job is to be watchful
+for any calls for medical assistance. As soon as one comes in, make sure
+that your EMTs are responding and that the rest of your staff are ready
+to take in anybody who can't be treated in the field. It's also a good
+idea to ask for an [Odysseus](/wiki/Mechs#Odysseus "wikilink") from Robotics,
+preferably with two mounted Sleepers. Make sure that your EMTs know how
+to operate it; an Odysseus can save a lot of lives and make it possible
+for your EMTs to answer calls that they would normally be unable to due
+to its armour and internals.
+
+### Outbreaks
+
+When diseases break out, this is your chance to shine. You have a
+biohazard suit inside of your office. Use it. Then consult the
+[Virologist](/wiki/Virologist "wikilink") and [Chemist](/wiki/Chemist "wikilink").
+You have the authority to isolate and detain anyone experiencing
+symptoms.
+
+Vaccinate the medical personnel and quarantine the infected. Administer
+the drugs, keep people alive. Your [Medical
+Doctors](/wiki/Medical_Doctor "wikilink") should be helping with this, if
+they're not, shout them into line.
+
+### Hypospray
+
+This is your medical tool, your lifeline. It's a fast injector (dealing
+bursts of 5 units, with a fill limit of 30 units). It starts with 30
+units of Tricordrazine. You need to get rid of the chemicals inside
+before you can fill it with different medicine, and the only way to get
+anything out is to inject it into somebody. It's considered very bad
+form to just go around injecting people however.
+
+Good candidates for your hypospray are Tricordrazine or Inaprovaline.
+
+Links to Other Departments
+--------------------------
+
+As the CMO, you're the link between the captain, the other heads of
+staff, and your medical department. Security will often be a source of
+casualties, whether officers or prisoners; make sure any doctor going to
+treat a dangerous prisoner has an escort. Science--especially Toxins and
+Xenobiology--will send you its share of patients, too. When your
+equipment gets blown up, Engineering can rebuild it. During an epidemic,
+one of your most important connections is, strangely enough, the lowly
+janitor, whose biosuit allows him to safely clean up infectious material
+and slow the spread of the disease. You will also be required to try to
+explain why people are [going crazy](cultist "wikilink"), [returning
+from the dead](changeling "wikilink"), or [trapped in the body of a
+monkey](wizard "wikilink"). Good luck with that one.
+
+Predding
+--------
+
+You have access to the gold mine itself! Cloning technology and
+chemistry! You are capable of
+[medicating](/wiki/Guide_to_Chemistry "wikilink") crew members to be much more
+docile (Assuming they want to be eaten) and easier to eat. Female (Or
+hermaphrodite) are capable of unbirthing patients to heal all basic
+damages. Bones won't be fixed!
+
+[category:Jobs](category:Jobs "wikilink")

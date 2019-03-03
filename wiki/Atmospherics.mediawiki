@@ -1,0 +1,61 @@
+{{Location
+ |headerbgcolor=lightblue
+ |headerfontcolor=black
+ |imagebgcolor=#ffff88
+ |name=Atmospherics
+ |image=Atmospherics.png|thumb
+ |department=Atmospherics
+ |exits=[[Maintenance|Maintenance]] North and South, [[Engineering]] Northeast and East
+ |purpose=Handles the various gasses in the station
+ |access=
+ |contents=pipes, computers, ect
+ |clearance=[[Captain]], [[Atmospheric Technician]], [[Chief Engineer]]
+ |description=This is atmospherics, [[Atmospheric Technician]]s work here. This is where all air on station is stored and redistributed. Most systems are automatic, with only a few that need looking after.
+ |sec_level=--
+ |style=--
+ |balance=--
+ |other=--
+ }}
+Welcome to Atmospherics. To those who live and work among this glorious land of pipes, it is known as Atmosia. If you're an [[Atmospheric Technician]], this is where you start your shift, and probably where you'll spend a good deal of time. All the air on the station comes from here, and someone with the proper clearance and know-how can monitor and manipulate the atmosphere of the entire station from this place. 
+
+This page will explain the basics of how Atmospherics works, but it won't go into much detail on that subject or explain how to do the rest of an Atmospheric Technician's job. For that, read the [[Guide to Atmospherics]].
+
+===Atmospherics Overview===
+The land of pipes and air, a peaceful place often left to its automatic work. To the untrained eye, it might appear to be entirely impenetrable and useless, just a mess of pipes that should be left alone to do their own work while the Atmospheric Technicians goof off in the break room. But this is far from the truth.
+
+Atmosia contains several notable things that every Atmospheric Technician should know about:
+
+* '''Monitoring Computers''' that allow the Atmospheric Technicians to check the atmospheric, fire, and power condition of the entire station
+* '''The Atmospheric Pipe System''' that takes in waste air from the rest of the station, filters it, and gets it ready to be used again
+* '''The Distribution Computers''' that allow control of the composition of the atmosphere station-wide
+* '''Reserve air tanks''' that can be filled in case Atmospherics' reserve tanks are destroyed
+* '''Fire-fighting equipment''' that enables Atmospheric Technicians to survive easily for extended periods in difficult atmospheres
+* '''[[Portable air pump|Portable air pumps]]''' that can be used to repressurize or depressurize areas of the station
+* '''Portable air scrubbers''' that can be used to clear toxins from the air
+* '''Portable space heaters''' that can be used to keep an area from freezing
+* '''Pipe dispensers''' that allow repair of disposal and air distrubition pipes
+* '''Fuel and water tanks''' for use when fighting fires or other hazards
+
+===The Pipes===
+[[File:Atmos.png|thumb]]
+Atmospherics is pretty simple, but the pipe layout makes it slightly confusing for the untrained eye. It consists of four pipe "loops", which are color-coded for easy checking:
+
+*The dark blue loop is the '''distribution loop'''. It sends air to all the vents on the station, and is fed by the cyan and orange loops
+*The cyan air mix loop, which contains '''mixed air''' to feed into the distribution loop
+*The red/green loop, which '''retrieves (red) and filters (green) waste air''' from the rest of the station
+*The yellow loop, internal to Atmospherics, which is used for '''custom air mixes'''
+
+The air breathed by humans on Baystation 12 is made out of oxygen and nitrogen, and is mixed on the south end of Atmosia. The gasses are pumped through the cyan tubes from their respective canisters ('''N2''', '''O2''') and are mixed in the air canister ('''Air'''). The breathable gas is then pumped through the cyan loop to the north of Atmosia, where it is then pumped into the blue loop and out to the station.
+
+The filtering loop basically runs the gasses through the filters along the green piping and injects all gas not filtered into the mixing canister.
+
+The "canisters" of the station's Atmospherics network are actually rooms filled with the appropriate gas. The output of these rooms are controlled by their respective Supply Control Computers, a small valve that allows the gas to be injected into the pipes, and a filter pump that moves the gas through the pipes.
+
+To create a custom mix of gas, turn on the output of the supply control computers, open the manual valves, and turn the output of the pump to what you wish it to be. The gas will travel through the orange pipes into the mixing chamber. The air mix is pumped into the mixing chamber via a pump north of the orange loop. The mix obtained can then be pumped into the distribution and filtering loop. Remember to open the hand valve south of dark blue t-shaped  valves and turn on the pumps or your custom mix will just be redistributed through the red loop.
+
+=== Setting up Atmosia ===
+{{Main|Guide_to_Atmospherics#Setting_Up_Atmosia}}
+Properly initialized, Atmosia can keep the station aired-up through nearly any emergency.  Improperly initialized, it's a waste of space at best and an outright fire hazard at worst.
+
+[[Category:Locations]]
+[[Category:Engineering Locations]]

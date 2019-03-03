@@ -1,0 +1,266 @@
+{{PolarisPage}}
+{{wip | assign = Aces}}
+{{toc_right}}<onlyinclude>The Skrell (skrel) are a species of amphibious humanoids, distinguished by their colorful gelatinous appearance and head tentacles. Skrell come from the world of Qerr'balak, a humid planet filled with swamps and jungles. Currently more technologically advanced than humanity, they emphasize the study of the mind above all else.</onlyinclude>
+
+'''Additional Information:''' [[Qerr'balak]], the Skrellian home world. [[Harr'qac]], [[Qerrna-Lakirr]] and many other colonies. [[Ue'Orsi]] and other refugee flotillas represent the Skrellian counter-culture. 
+= Overview =
+* Skrell have their own language which can be used in game by typing <code>#k</code>
+* Given the way Skrell name themselves on human stations, it is not recommended to use the random name generator to name your Skrell.
+* Headwear can be uncomfortable, but their head tails do not prevent them from wearing most equipment on their head. However, they are not able to wear non-Skrell hardsuit helmets.
+* Skrell are similar to humans in most ways, and have little physical disadvantages or advantages compared to them.
+* <s>Animal protein is poisonous to Skrell</s> and alcohol more potent. (Meat allergy disabled on Vorestation, but canonically, they still don't like it.)
+* Skrell are able to breathe underwater.
+== Naming ==
+Skrell names either consist of chosen human names or rough transliterations, as their own language is largely inaudible to humans.
+
+Transliterations vary widely when converted to human language, so there is a wide variety of names possible. The structure of Skrellian voiceboxes lends itself to names heavy in Qs, Ks, and vowels.
+== Biology ==
+[[File:Skrell.png|left]]
+Skrell appear gelatinous, but are opaque, with moist pliant skin covered in a layer of mucus. Skin color varies, including colors such as black, red, green, blue, pink, purple, orange, and teal. Where a nose would be on a human are slits.
+
+Their eyes are completely black, making judging emotion by the eyes alone very difficult. They are able to see much better than humans underwater, and slightly better in darkness. Their hands and feet are similar to those of humans, with five fingers and toes, but are slightly webbed.
+
+On the head of each Skrell is their three large head tails. They are are limp tails, not tentacles, and have no muscles. Skrell missing a part of a headtail, let alone an entire one, are seen as disfigured and usually do their best to cover or restore the wound. They serve two purposes, one of which is largely antiquated.
+
+The first purpose is keeping eggs in the moist, dark, sticky places between the headtails. While popular with nomadic primitive Skrell tribes, modern Skrell, with much more structured child-rearing than their ancestors and a much less aquatic lifestyle, prefer to keep their egg sacs in specially prepared nests near bodies of water.
+
+The second use is ornamentation. Metallic chains, cloth wrappings, and even piercings are popular accessories, and can be used to signal richness and good taste.
+
+Skrell skin dries out uncomfortably if removed from water for more than about twelve hours. Skrell in human space take frequent showers if not afforded accommodations. They prefer to sleep in small watery pools with a layer of fine sediment on the bottom and will often retrofit a human bathtub as a bed when in human space.
+
+Their brains are similar to frog or salamander brains evolved to the same level as human brains, and are compatible with most Nanotrasen technology.
+
+The average height of a Skrell is 5'10” to 6'0“ for males and 6'0” to 6'2“ for females. Raskinta-Katish Skrell tend to be taller and Kanin tend to be smaller
+
+Racial slurs towards Skrell include 'Frog', 'Salamander', 'Squid head', and various other amphibious creatures. The Skrell find the usage of such remarks childish and immature.
+=== Birth and Reproduction ===
+Skell have no external reproductive organs and use external fertilization. They have a very minimal nudity taboo and view the obsession many species have with covering themselves as slightly comical.
+
+The average Skrellian clutch is fifty eggs, most of which successfully hatch into small tadpoles. Due to their weak immune systems, less than five usually make it to maturity. While these tadpoles are not legally considered children, most Skrell find the idea of killing them deliberately quite offensive.
+
+Skrellian fertility rates are incredibly low by human standards. Skrell experience the adverse effects of overpopulation on fertility much earlier than other species, and the modern Skrellian arcologies and space habitats are usually close enough quarters to trigger this response. Skrell in environments like new colonies have much better fertility rates, and for those in the species' core worlds adoption is a popular choice.
+
+The Skrell are best described as serial monogamists. They find romantic human notions of long-term fidelity and “soulmates” risible, although they have some pull among young Skrell raised in human space. However, for the purposes of child-rearing, Skrell form close companionate bonds with a coparent, called a Kala-Qua, and remain together for the children's most important formative period. Skrell generally remain lifelong friends with former Kala-Qua, and continue to act together as parents for most of their children's childhood.
+
+While historically parental pairs were designated along biological lines, adoption within one's caste is common among modern Skrell. Decoupling the emotional role of co-nurturer from the genetic role of coparent is, after all, only reasonable to the logical Skrell, and appeals to their interest in genetic fitness. Adoptive parents need not be of opposite sex, and Skrell find human notions of homophobia almost impossible to understand.
+
+Relations between two litters who share one or both parents are quite distant : At best, they will see each other as something akin to cousins, but generally, siblings and half-siblings outside of one litter are viewed as mere acquaintances outside of any compelling reason to associate further. They have no special legal rights of inheritance towards each other.
+
+Skrellian legal genealogies are monolateral. Children are attached to the lineage of a primary parent, called a Qarr-Maqa, usually the older or more distinguished of the Kala-Qua. The Qarr-Maqa bears the responsibility for raising children, as their performance will reflect on the Qarr-Maqa more than anyone else. The secondary parent, the Qrri-Maqa, has a more diminished role in child-rearing, but generally assist both materially and emotionally. It is not terribly uncommon or stigmatized for one Skrell to be raising two liters at a time– one as a Qarr-Maqa and one as a Qrri-Maqa
+
+A traditional Skrellian family is composed of:
+* The '''Qarr-Maqa''', as explained earlier. The main parent figure, tutor and caretaker of the children.
+* The '''Qrri-Maqa''', secondary parent figure, financial and material support. On an emotional/relational standpoint, they might be compared to a very close human uncle or aunt.
+* The '''Qarr-Baqa''', siblings from same clutch. Because of the monolateral family structure, Qarr-Baqa are often closer than human siblings.
+* The '''Qrri-Baqa''', children from another clutch of one or both the parents. Somewhere between cousins and strangers, depending on the family's structure.
+* The '''Maqa’lak''', Qarr-Baqa of one of the parents. Because of the close bonds between Qarr-Baqa and the intellectually intensive nature of Skrellian childhood, they tend to take a more involved role in child-rearing than human aunts and uncles, especially in castes with large numbers of clutches.
+=== Gender Differences ===
+It is extremely difficult for most non-Skrell to tell the gender of a Skrell from appearance alone, as body shape and general appearance does not change between them. Female Skrell usually talk in a higher register, though this is not a fool-proof way of telling. The most noticeable difference is that a female's headtails are slightly longer than a male's, though the difference can be difficult to tell for non-Skrell crew and pales in comparison to genetic caste differences.
+
+Skrell abolished gender roles before humans invented the wheel. Although they have some clothing styles considered to be “for” men or for women, these are based on how they interact with the average male or female Skrellian body and are more suggestions than rules. The average Skrell refrains from using gendered honorifics and finds human gender customs strange and difficult.
+=== Lifespan ===
+Normal life expectancy for most Skrell is 100 human years. Through technological enhancements, some may live until about 135 years old. 20 years old is considered an adult.
+=== Diet ===
+The preferred food of the Skrell is fungi, although they are capable of eating most plantlike substances they come across, where as meat does not agree with their bodies. Because of their herbivorous diet, many plants that would be toxic or hallucinogenic to humans or other omnivores are a Skrellian delicacy. While capable of eating meat, they are usually incapable of digesting it, and sulfur-rich animal protein complexes are often toxic to them.
+
+Skrell have found ways to augment the ecology of their digestive systems to better handle meat, but this is only done for scenarios wherein a supply of meat is far more readily available than plants. For example, most visiting desert worlds like [[Virgo-Prime]] will undergo such augmentation. However, most still do not enjoy eating meat.
+
+The densely-folded Skrellian brain uptakes alcohol five times faster than the human brain. A cheap beer is even repugnant to a Skrell, and many border-world bars host young Skrell drinking wine out of shot glasses. Adult Skrell tend to find being drunk extremely unpleasant and stick to fruit juices.
+
+= Behavior =
+The Skrellian media portrays themselves as peaceful scientists who wish for nothing more than a harmonious galactic community, where the strong help the weak to advance and war is a sad, distant memory. The Skrellian media is also controlled by ambitious, powerful, secret-keeping Qerr-Katish who have certainly not shared all their technologies with [[Humans|humanity]]. Most races struggle to keep on good terms with the Skrell, as their secrets are many and their industrial and technological bases enough to turn the tide of any war.
+== Relations ==
+[[Humans]] have the closest relationship with the Skrell of any independent species, born from hundreds of years of memetic conflict and cultural co-evolution. It it a particularly toxic friendship, however, as both races are known to interfere with each other's politics.
+
+The long-lived [[Unathi]] still remember the crucial role of Skrellian interference in losing the SolGov-Hegemony war, and find Skrellian arrogance infuriating. Relations are cold but not particularly likely to turn to a shooting war anytime soon.
+
+[[Tajaran]]s find the Skrellian foreign policy belittling, reminding them of the shame of being given [[bluespace]] travel by humanity, but also know that it is a key factor in belaying human aggression. On a personal level, the average Tajaran and Skrell get along, both being collectivist monarchists with a keen understanding of the value of technology.
+
+The [[Teshari]] are essentially Skrellian vassals, working unpleasant jobs on Skrellian stations, facing discrimination, and being hedged out of meaningful interstellar politics by their more advanced “big brothers”. Teshari attitudes towards Skrell vary widely by the individual, but Skrellian attitudes towards the Teshari are almost universally condescending.
+
+The [[Akula]] are another Skrellian vassal, but unlike the Teshari, the attitude toward the Akula is far better. Some Skrell systems recognize and occasionally even protect the sovereignty of a few Akula systems.
+
+Most of the galaxy views the [[Dionae]] as another Skrellian vassal species, but Skrell understand that the close relationship between Diona and Skrell is held together by nothing more than convenience.
+
+== Language ==
+The Skrell language is a series of hums, warbles, or croaks, impossible for Unathi, Tajaran, and humans to hear or produce without computer assistance.
+
+With other languages such as Sol Common, Skrell take on the accent of the person who taught them the language, often with lilting changes in pitch. Tonal languages like Sol Common are easier to learn than guttural language such as Gutterspeak.
+
+Skrell are naturally sensitive to very small changes in tone when speaking, and can come off as a little flat to observing aliens.
+
+Skrellian written language is, similarly to the spoken language, hard to understand for a non-Skrell. Based on logograms, it contains thousands of different signs, leading to homonyms differentiated only by context and complex visual puns many Skrell find delightful and many humans find obtuse.
+
+In practice, however, someone wishing to have a non-specialized, common conversation in Skrellian can reduce this number to a few thousand words, the rest of them being related to precise parts of Skrellian society, sometimes to a caste, sometimes to more restrained groups (the psychiatric vocabulary, for example, contains nearly a thousand different words which are useless outside of that context). This form of U/non-U distinction has sometimes been described by human linguists as hundreds of related sub-languages, although Skrellian linguists maintain that it's all Common.
+
+Should the non-Skrell learner overcome these first difficulties, they would be confronted to a much deeper problem, which is the influence of emotion in Skrellian written language. Indeed, no consistent punctuation can be observed in a Skrellian text : the rhythm, intent and sometime the literal meaning of a word is conditioned by the way in which it is written. The last word of a sentence might be indicated by a sharp logogram, whose extremities are prematurely ended, in the case of a formal text, while in a more sentimental context the same character would be elongated, slowly fading on the same extremities. Skrellian literature is often too ingrained in particularly Skrellian idioms and practices for lay aliens to understand them.
+
+This particular method of writing makes Skrellian literature quite different from its human equivalent. The visual presentation of a work is often more important than the words it contains, with many modern Skrellian writers eskewing semantics entirely to focus on visual appeal. Skrell works tend to contain visual references to other well-known works, and a particular spattering of an character can become a cultural idiom if the book is well-regarded enough.
+
+Skrell employ a simpler script for ease of interface with computers, but tend to find more than punctual experience with this interface depressing, like a human forced to stare at a screen of monospaced capital letters all day. Drone intelligences capable of rendering computer output in a more aesthetically pleasing way are a common Skrellian import from human space.
+
+The modern state of Skrellian language is a result of thousands of years of careful upkeep by Skrellian language academies, who are also responsible for Common Skrellian being the only widely-spoken Skrellian language. The academies' focus on interesting nuance over practicality bled into Tradeband, indirectly complicating the lives of billions of human grade scholars.
+== Job Preference ==
+Skrell can take any job and are not discriminated against by humans in higher-paying fields like other aliens, owing to the close relationship between Humanity and the Skrell. While viewed as intellectuals by outsiders, and found often in scientific and medical fields, the existence of entire castes of warrior, laborer, and artist Skrell suggests a much more even distribution of labor.
+
+= Background =
+The Skrell are a race of amphibious humanoids that are focused culturally on self-improvement, especially through the social and biological sciences.
+== Home World ==
+Skrell come from the world of [[Qerr'balak]], a planet with a humid atmosphere and many swamps and jungles. The world is heavily industrialized in the Skrellian regions but still rural in the regions controlled by their co-inhabitants, the Teshari.
+== Culture ==
+Skrellian culture is highly regimented. Skrell feel a deep sense of psychological ease from having things in their proper place, and this extends to their social life, with a carefully maintained caste system encouraging the Skrell to focus on performing their best function for the collective. More than one human sociologist has drawn parallels between the Skrell and state socialism, and while sometimes misleading they share the same sense of the vital importance of community well-being… and the highly ill-advised nature of dissent. There is an underbelly of Skrellian counter-culture, inspired by human democratic systems, that seeks to reform or overthrow the entrenched Skrellian bureaucracy. — The average Skrell is incredibly well-read by human standards. The Skrellian pursuit of mental perfection leads young Skrell to be taught to read voraciously, both Skrellian authors and the most important works of other species. The Skrellian caste-collective is based not around keeping the “proletariat” ignorant, but around stressing a deep philosophical understanding of each Skrell's role in society.
+
+== History ==
+(Todo: Update [[Timeline]] and make this consistent with our lore.)
+
+The history of the Skrell is much, much longer than the history of humanity, the Tajaran, or even the Unathi. And yet, for a species that invented the assembly line while humanity was still struggling with bronze, they have progressed incredibly slowly. Sociologists attribute this slow growth to any number of reasons, from the nonexistence of Skrellian free-market capitalism to their natural tendency towards caution to deliberate obscurantism by the Qerr-Katish. What remains known is that the Skrell, although more advanced than the other races of the galaxy, will not be that way forever.
+
+Skrellian scientific progress in the modern day is stymied by their natural desire to test each product extensively before it becomes available on the general market, often creating complex social models of the potential ramifications of the product's release. This scientific caution saved the galaxy from a human-Skrell first contact war, and is widely admired by human bioconservatives, including the often-xenophobic Icarus Front. In addition, Skrellian science focuses heavily on psycho-sociology and biology to the same extent humans focus on engineering and material science. Skrellian memeticists look down at human memeticists like adults to infants, holding in their head a hundred years of secrets unknown by humanity.
+
+Here is a global timeline of their history. The dates have been adapted to the human calendar for more clarity.
+
+    800 BCE - The Skrellian Age of Technology and industry begins with the invention of the first Assembly Line.
+    700 BCE - The first aeroplane is invented.
+    500 BCE - The first Skrell is brought into orbit above Qerrbalak.
+    482 BCE - Skrell kind rejoice as the first successful launch of a Space Shuttle lands Astronaut Q'ikkori Xallic on Qerrbalak's second moon, Qerr'Malic.
+    100 BCE - The first Skrellian colony is formed on Qerr'Malic.
+    700 BCE - The first Skrellian bluespace engine is invented by accident.
+    800 CE - Skrell begin to establish colonies and research bases on exoworlds.
+    2038 CE - Skrell travel to the Epsilon Ursae Minoris and while there, flag the area for further review due to strange readings.
+    2132 CE - First contact with the Dionae on Epsilon Ursae Minoris. Treaties are drafted slowly.
+    2326 CE - First contact with humanity. Human warhawks almost start a shooting war, but cooler heads prevail. Relations are uneasy.
+    2435 CE - Free migration between Skrell space and SolGov established.
+    2510 CE - After a great deal of deliberation, military aid is sent to humanity during the SolGov-Hegemony war. The Skrell are credited with securing the coalition's victory.
+    2518 CE - Skrellian expeditionary forces return home, many notably influenced by serving side-by-side with humanity.
+== Caste System ==
+The core of Skrellian society, the caste system has been in place for millennia on Qerrbalak, taking its current form shortly after their industrial revolution. While the specifics of the system vary from city-state to city-state, the core five castes and their organization are common to almost all Skrell societies. This is reinforced by the significant degree of partial speciation created by millennia of directed breeding, resulting in low fertility rates in cross-caste breedings.
+
+The caste system was established because of the Skrellian desire for order and harmony in their personal life, and their industrial revolution's increased need for efficiency. By raising Skrell in castes, they are steeped in the traditions of that caste, giving them a leg up in their future work. A Skrell's caste influences their life from their birth to their death.
+
+Not all professions fit neatly within a caste. Both Kanin-Katish and Talum-Katish have claim to architecture, and both Malish-Katish and Qerr-Katish have claim to being the head researcher of a sociological lab. In cases like these, the differing traditions of the caste system would lead the Kanin to focus on efficiency and safety in her designs, and the Talum on aesthetics; for the Malish to lead by example by working longest and hardest and the Qerr to focus on creating an environment that allows each researcher to work as hard as possible. Management, especially, is an area with a great deal of flexibility as to which caste is “appropriate”.
+
+Not all Skrell believe in the caste system. It is difficult for Skrell living in or near human space to maintain the constant mindfulness of place that enforcing the caste system requires, and many Skrell in human mid or coreworlds are pressured into cross-caste pairings by nothing more than the rarity of their kin. Even on Qerrbalak itself, there are young Skrell who view the caste system as an unfair imposition of the ruling class that prevents each Skrell from reaching their full potential. Dissidents such as this often have no choice but to leave Skrellian space for the company of the individualistic humans.
+
+* '''Qerr-Katish''' (High-caste): The rulers of Skrellian society. Managers, diplomats, lawyers, they are notably the only caste allowed to fulfill the role of Qerr-Skria. The Qerr-Katish pride themselves on sociability, sophistication, self-improvement, and organization. The Qerr-Katish are, unsurprisingly, the staunchest supporters of the caste system and tend towards social conservatism. Qerr-Katish families tend to be rather small, with many Qerr bonding only once or even not at all. Owing to their small numbers and high standing, the Qerr-Katish are the richest caste and their investments control the expansion of Skrellian territory, industry, and culture. They often dress in clothing made from soft, shiny materials, often compared to the clothing of ancient Chinese nobles by human scholars. They skin is generally bright green. Qerr-Katish headtails are famously long, reaching down nearly to their waists.
+
+* '''Malish-Katish''' (Caste of the Mind): Scientists of all sorts, educators, and writers, the Malish-Katish are the ones who allow Skrellian society to continue to improve itself, both materially and socially. The Malish-Katish's tradition of rational skepticism tends to make them less conservative than most Skrell. However, they have a cultural disdain towards social niceties and tendencies towards anxiety that make them infrequent questioners of the status quo. As the caste most often involved in working with other races, they tend to be seen as the archetypical Skrell. The average Malish-Katish mates two or three times. They are less rich than the Qerr, but not by much. They wear more practical garments of the same rich materials as used by the Qerr-Katish. Their skin is generally pale green, sky blue or pale yellow. They have average-length headtails.
+
+* '''Kanin-Katish''' (Caste of the Builder): The manual workers and craftsmen of the Skrell. “Builder” is a bit of a nicety– the Kanin-Katish are the caste of the laborer. They are fond of simple pleasures and tend not to pay much heed to politics, which are usually beyond their ability to influence. They usually mate four or more times, putting a strain on their already tight finances. Family solidarity is more important to the Kanin than to most Skrell, and success as a Kanin is usually measured by one's number of main-line descendants (and their opinion towards their patriarch or matriarch). They wear simple cloth clothing, often importing synthetic cotton from SolGov to save on costs. Their skin is generally red, orange, pale yellow, dark orange or black. They also have average-length headtails.
+
+* '''Talum-Katish''' (Caste of the Artist): The Talum are artists, artisans, aesthetes, and sometimes propagandists. The breadth of experience and freedom of thought required for truly great works of art lends them to a greater degree of individuality than most Skrell have, tempered by their need for a robust social life and their close working relationship with the Qerr-Katish. Talum artistry is less free-form than human artistry and tends to incorporate psychological principles in an attempt to increase its resonance with the target audience. The Talum are frequently unable to compete with humanity and tend to stay within Skrell space, but their works escape over the border at a massive rate. They tend to have around three matings in their lifetime, but the Talum infant mortality rate is noticeably higher than that of the other castes. Talum wear whatever clothing suits them, but a Talum without some sort of headtail accessory is seen as embarrassingly underdressed. Their skin is generally purple, blue, pink, orange, red or white. Talum-Katish headtails are a middle ground between the medium headtails of the Malish and Kanin and the extremely long headtails of the Qerr, and are an important element of Talum self-expression.
+
+* '''Raskinta-Katish''' (Caste of Warriors): The Raskinta are the strongest, quickest, and most decisive Skrell. Rarely seen outside Skrell space, the Raskinta-Katish almost universally serve in the military of a city state, with manual labor seen as a dire insult. They are the most conservative branch of the Skrell owing to their suspicious and xenophobic culture. The Raskinta take the usual scientific approach to their branch of labor, being experts in irregular warfare, group tactics, and the use of various exotic weapons. They tend to have about two matings per Skrell, but are also the shortest lived– even if they survive combat, their large, muscle-rich bodies put an unusual amount of strain on the weak Skrellian heart. They wear the same simple, practical clothing as the Talum-Katish, which also helps them remain unnoticed in a crowd. Their skin is generally green, blue, black, brown or yellow. Raskinta headtails are extremely short. Uniquely among Raskinta, loss of a headtail is not seen as disfiguring, especially if it was lost in battle. Note that the [[Akula]], although not Skrell themselves, are occasionally given this title as an honor after fighting in favor of Skrellian interests, but there is some controversy over this practice within Skrell society.
+
+In addition to the five true castes, there exists two “false” castes.
+
+* '''Ue-Katish''' (Casteless): Born to unions of Skrell of two different castes or two Ue-Katish, the Ue-Katish have no place in the regimented society of the Skrell. Many work in various forms of dangerous, unpleasant, and low-paying labor, and discrimination is extremely common. Many Ue-Katish are born sterile or sterilized shortly after hatching, and other genetic abnormalities abound. This discrimination leads many Ue-Katish to try passing themselves off as another caste (usually one of their parents'), to leave to more tolerant human space, or even to take up a life of crime.
+
+* '''Kiquol''' (Guests): This is the “caste” of non-Skrell sapients, adopted in an attempt to make Skrell space slightly more hospitable to aliens. Kiquol living among Skrell tend to congregate in pseudo-caste structures with others of their species, specializing in whatever strengths their species brings to bear– Unathi as warriors and scholars, Tajaran as sociologists and artists, humans as economists, positronics as xenoscientists and extremophiles, and Teshari as laborers. Unathi Kiquol communities have very close ties to the Raskinta, as do the Tajaran and the Talum, positronics and the Malish, Teshari and the Kanin, and humanity and the Qerr. Whether a Skrell-produced synthetic is considered Kiquol, Ue-Katish, or some pre-assigned caste is one of the issues on which individual city state vary, although most consider them Kiquol.
+
+Skrell will use the first part of a caste name as an honorific for individuals from that caste, replacing most human honorifics. Their usage is roughly equivalent to the use of “comrade” by human leftists, and is often translated as such. “Comrade” is an accepted form of address for a Skrell of unknown caste and is the polite form of address for Ue-Katish. 
+== Politics ==
+Skrellian society is controlled by a series of interrelated constitutional monarchies, with Qerr-Katish monarchs. The heir of each royal is the dynastic offspring of the royal who succeeded best in the '''Qerr-Uglo''', a brutally difficult battery of tests of leadership whose specifics are kept secret from laypeople. A skrellian monarch usually rules over a city, although there are traces of monarchs having ruled over several, sometimes extending their realm to the size of a human country; Called Emperors, these are generally remembered negatively by the Skrell, for it is considered a monarch with too much territory cannot rule efficiently.
+
+The King holds the ultimate executive power, although they often defer decisions, and have a heavy degree of influence in the other branches of government. They are advised by the '''Qerr-Koal''', vaunted members of each non-Qerr true caste considered wise enough to advise a monarch. It is rare to see a Qerr-Koal under the age of 90 although there are no formal requirements on the matter. There is no limit to the number of Qerr-Koal in a city-state, although a monarch must have at least one of each caste at all times to be considered legitimate. The success of a monarch is measured by their ability to listen to the Qerr-Koal around them.
+
+The legislature is formed from representatives of a city-state's educational system. Skrell do not have universal suffrage, as they believe that the underinformed should not be responsible for making decisions for the collective. They express their desires to their assembly through public debate and letter-writing campaign, traditions that politically-minded Skrell are quick to impart to their children.
+== Education ==
+Skrellian education is the basis of Skrellian society. Tadpoles are educated by their parents and interaction with the other Tadpoles in their clutch. When a Skrell enters their adult shape, they enter the first level of academic life, called the Early Enlightenment. At this point, they learn all of Skrellian “common knowledge”, with an emphasis on the sciences. All the castes share the same lessons, except for the Qerr-Katish, who are taught apart from the rest of society.
+
+At the age of 8, the Skrell leave the Early Enlightenment and enter Focused Enlightenment, where the castes begin to receive specialized education according to their social role.
+
+When they reach the age of 15, the Skrell chose their specific branch of study with the help of their parents and teachers: They enter the Ongoing Enlightenment, for it is believed that this phase of education shapes how a Skrell will learn for the rest of their life. A Skrell can leave the Ongoing Enlightenment at the age of 18 to become a '''Qrri-Mog''', taught but not truly enlightened and fit for basic labor; or at the age of 25 to be a '''Qerr-Mog''', a fully-fledged Skrellian mind, expert in their area of work. Only the “Qerr-Mog” can hope to one day become Qerr-Koal, experts of their castes and counsellors to their King. Qrri-Mog can re-enter the Ongoing Enlightenment to become Qerr-Mog, but they must start again from the beginning and usually finance it themselves. Most Kanin-Katish are Qrri-Mog, while becoming a Qrri-Mog as a Malish-Katish is a deeply unenviable state of affairs. Qerr-Katish may not become Qrri-Mog. Only Qerr-Mog may teach.
+
+Apart from the educational purpose, Skrellian Academies also the foundation of the legislative branch of the average Skrellian city-state. Members of the Academies are nominated and confirmed through academic, not democratic, channels.
+
+Students in the Ongoing Enlightenment can attend to sessions of the Academy to observe the political process, and in doing so learn to understand the big picture of their individual labors. Many sessions of the Academy are open to public debate.
+
+Teachers of the Early and Focused Enlightenment have one vote in the legislature, while professors of the Ongoing Enlightenment have two. As the Qerr and Malish are over-represented in higher education and the Kanin underrepresented, this significantly skews the balance of power towards the more “intellectual” castes.
+
+While Academy administrators do not have voting rights, they control who receives Academy membership and serve as trusted advisors to a city-state's monarch, making them very powerful figures.
+== Military ==
+The most common military forces seen in the Skrellian territories are the local reserves of each City-State. In charge of law enforcement, they are also the first line of defense of each city-state. However, their small numbers coupled with the political independence of every City-State limits their capacity in time of war and general offensives against their enemies.
+
+To maintain a unified front, the Skrell form by treaty '''Skrellian Defense Task Forces'''. SDTFs are independent entities formed by several City-States who agree to pool a certain amount of resources and manpower for their common defense. Once a SDTF is formed, it gains full independence from its creators, although it is still informally bound to them as they need the City-States to provide them with new workers and resources. Private manufacturing groups (even human corporations) also have a part to play with the SDTFs, as they usually supply them with cutting-edge equipment for relatively low prices. This functions as a form of advertising and showmanship for the SDTF suppliers, and ensures them favorable treatment by the city states.
+
+SDTFs are not ruled by Qerr-Katish monarchs, but by a (usually) Raskinta-Katish commander. They have their own equivalent of a Qerr-Koal council in the form of the high officers in charge of the various subsections of the organization.
+
+City-States provide the SDTFs with volunteers from their respective City-States after which the military organization evaluates them under various criteria to decide how many of them will actually join the group. Although the Skrell have a cultural distaste for conscription, there is rarely a lack of volunteers for this task. Being a SDTF member provides many advantages over being a regular inhabitant of a city: High wages, exceptional healthcare and education for them and their family, and the prestige of defending the species. Given their strong cultural desire to serve in the military, there is a constant reserve pool of Raskinta who would leap at the chance to be a SDTF member.
+
+The Raskinta-Katish represent about 75% of the composition of the average SDTF. Kanin-Katish find roles as military engineers and Malish-Katish coordinate intelligence. Talum-Katish work as war photographers and correspondents, as well as the occasional cook or chaplain trying to get a first-hand glimpse of life as a soldier. Qerr-Katish are the least common SDTF member, as they are unaccustomed to not being in command and tend to be too delicate and clumsy for warfare, although romantic stories of Qerr-Katish princes joining an SDTF and rising through the ranks are common.
+
+The structure of a Skrellian military force comes with specifically delineated sub-castes, much more fluid and less common than the five true castes.
+
+'''Raskinta-Katish Sub-Castes'''
+
+* '''Me’kerr-Ketish''': Soldiers specialized in boarding operations and fighting in 0G, they are trained to perform lighting strikes, at their best in closed environments.
+* '''Me’xoal-Ketish''': The ground forces of a SDTF. Contrary to the Me’kerr-Ketish, they are trained for long range combat, patient and thorough in their actions.
+* '''Qi’kerr-Ketish''': The Skrellian space and air forces. Heavily trained into hit and run operations, mostly as a support and diversion for the infantry.
+* '''Qi’xoal-Ketish''': The ground vehicles of a SDTF, their role is further divided into long range support to the infantry and as a lighting strike force for critical targets.
+
+'''Example Malish-Katish Sub-Castes'''
+
+* '''Keloa-Ketish''': Responsible for reconnaissance, often working closely with Teshari ground scouts and employing the most advanced scanning technology in the galaxy.
+* '''Toglo’i-Ketish''': Technical support for the Raskinta-Katish, these Malish-Katish often accompany them during operations to provide technical and medical support. As such, they often tend to adopt some traits of their military brothers.
+
+'''Kanin-Katish Sub-Castes'''
+
+* '''Megloa-Ketish''': Responsible for construction work both on the battlefield and in fleet-associated shipyards, maintaining forward bases and artillery encampments.
+* '''Xiqarr-Ketish''': Fleet-based, they are in charge of maintaining the SDTF’s fleet and assets.
+* '''Goxo’i-Ketish''': Similarly to the Toglo’i-Katish, they handle technical support for the Raskinta-Katish, generally accompanying the Qi’xoal-Ketish for vehicle maintenance on the field, but also engaged into demolitions and communications operations along the Qi’xoal-Ketish. The similar mindsets of Kanin-Katish and Raskinta-Katish consequently improve their capacity for cooperation.
+
+The Qerr-Katish and Talum-Katish, too few in numbers, do not need and therefore do not have subcastes within the SDTFs. As for the subsequent divisions within the subcastes, they tend to differ from task force to task force, although some global patterns exist (separation of space and air forces within the Qi’kerr-Ketish, artillery and frontline vehicles within the Qi’xoal-Ketish…)
+
+'''Famous SDTFs found across history''':
+
+* '''Qerr’voal''': A famous name within the Raskinta-Katish community, the Qerr’voal is the SDTF in charge of defending the Qerr’Vallis system, a task the military group has fulfilled with honor for the last 600 years. Despite the safety and stability of the system, many young Skrell of Qerr’balak and the surrounding colonies try to enter the prestigious organization, which sees no shortage of anti-terrorism police-actions.
+* '''Pol’verria''': A SDTF in charge of several systems at the border of the Skrellian territories, this group is best known for coming to the aid of the Sol fleet during action over Abel's Rest. They are a popular subject of nationalist media by both human and Skrell artists, a symbol of unity between the two species and a walking insult to the Unathi.
+* '''Qala’oa''': Relatively recent, this particular group was founded shortly after the first contact between Skrell and humans. Patrolling several worlds at the border between the two species, this SDTF has, like the colonies it protects, started to slowly adopt human customs and views, for better and for worse. Still growing today, some expect it to become the largest SDTF of the skrellian territories within the next thirty years.
+
+== Criminality ==
+=== The Qerr-Glia ===
+
+As a millennia-old race spanning across unknown thousands of star systems, it would be foolish to think the Skrellian territories manage to stay free of criminals and illicit organizations. But no group embodies the spirit of Skrellian criminality as the Qerr-Glia do. The Qerr-Glia have their roots in Qerr-Katish royals deposed in the last of the great wars on the Skrellian homeworld. Rather than accept disgrace as Ue-Katish, they turned to a life of crime.
+
+The Qerr-Glia were among the first to each new system colonized by the Skrell, always one step ahead of the law, and constantly deepening their grip on the Skrell. Today, their activities run the gamut from money laundering to the slave trade.
+
+While the Qerr-Glia have at their disposition a very large network of relations and maintain several fragile alliances between various families, their only loyalty resides in their own family. They will temporarily hire anyone competent enough to fulfill their goals, willfully or forcefully, but only the members of the Qerr-Glia family are permanent members of a Qerr-Glia cell. Reciprocally, leaving a Qerr-Glia family is considered a high treason by its members, and any Skrell abandoning their siblings for any reason would find themselves fiercely hunted down by their former brothers and sisters.
+
+The Qerr-Glia are often regarded as schemers and liars, and the sudden birth of a galactic community only presents new frontiers for the clever and resourceful royal gangsters.
+=== Ue-Katish Pirates ===
+
+Contrasting with the Qerr-Glia is a vibrant community of Ue-Katish pirates, who live in cargo flotillas on the edge of Skrellian space (especially on the Human-Skrell border). Ue-Katish ships have no caste system even for the truecaste Skrell and aliens who live there, although still regimented by rank and role in the ship's functioning. Ue-Katish ships are floating black markets where everything is available for the right price, including some of the galaxy's most well-connected information brokers and most skilled guns-for-hire. The Ue-Katish present the greatest Skrellian counterculture and feature heavily in romanticized human media, although at their hearts they are in fact bandits and criminals, and the black markets are filled with goods plundered from human and Skrellian trade ships. Many of the Ue-Katish ships themselves bear the scars of the battle that brought them under the pirate flag.
+
+Ue-Katish pirate culture is somewhat similar to many human countercultures, gleefully reclaiming slurs and subverting expectations for the sheer shock value. Nonetheless, Ue-Katish are still Skrell, and still organize in neat hierarchies under each ship's Captain. The Captain's word is absolute, and unlike the Qerr-Katish they lack any sort of anti-corruption institutions. 
+== Religion ==
+=== Xilar Qall ===
+
+Long ago, the Skrell lived in small tribes. They gathered nutritious fungi, wandering the swamps and raising their tadpoles as best they could. They kept their eyes on the ground, looking for food, or in front of them, looking for predators. They never once looked up.
+
+One day something strange happened, the sun stopped shining. The people in their confusion looked to the sky for the first time and saw a massive, wiggling mass that slowly made its way across their sky.It was massive and out of their reach and as they watched, they heard a low rumbling. It was faint, at first, but the more they listened the louder it got. It was singing.
+
+The singing could be heard throughout all the lands as it floated across the sky, but as soon as it came, it was gone– and with it, the song. The people did not understand why the song had stopped, and tried their best to replicate it. Each note from their maw was filled with meaning and feeling, and it was from these efforts that the Skrell learned to speak.
+
+Eventually, the people decided that they would build up as high as they could, to one day meet the great thing again and to again listen to its divine song.
+
+Modern Practices These days, not many Skrell truly believe the story that something massive sang to them and inspired the species to greater things, but a good number still follow the ethics that the religion preaches. They value working together for a greater goal and the pursuit of knowledge, building their metaphorical tower to the heavens.
+
+Ethical Teachings
+* Keep your eyes to the stars
+* Harmony comes from discipline
+* A united society strives
+* Harm only when harmed
+* Stay forever inquisitive
+
+=== Holidays ===
+'''Vertalliq-Qerr (Festival of the Royals), Jan 12''': A massive festival that celebrates the Qerr-Katish and all they have provided for the rest of Skrell society, it often features colourful displays and skilled performers take this time to show off some of their more fancy displays. Modern Vertalliq-Qerr festivities are often hotbeds for anti-royalist demonstrations, which on occasion turn violent.
+
+'''Qixm-tes (Day of mourning), March 3rd''': A day where Skrell gather at places of worship and sing a song of mourning for all those who have died upholding traditional Xilar Qall ethics or serving the city-state. Modern practice tends to construe “service to the city-state” broadly, as the philosophy behind the caste system teaches that everything is in service to city-state.
+
+'''Jiql-tes (Day of celebration), May 28th''': Similar to Christmas, Skrell communities gather for a grand feast and give gifts to friends and close relatives.
+
+'''Qill-xamr (Night of the dead), September 17th''': Skrell communities hold parties in order to remember loved ones who passed. Unlike Qixm-tes, this explicitly extends to all the dead and is a joyful, if bittersweet, celebration of their lives.
+
+'''Vertalliq-qixim, Nov 22nd''': A grand festival in order to celebrate the day when Skrell kind first landed on one of their moons.
+
+{{Species}}

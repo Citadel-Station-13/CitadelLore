@@ -1,0 +1,9 @@
+{{Outdated}}
+
+{{SidebarJob|jobname=Assistant|img_file=Assistant.png|tagline=Greytide Station-wide|department=None|access=None|duties=None|supervisors=Anyone|difficulty=Very easy|alt_titles=Technical Assistant, Test Subject, Medical Intern, Research Assistant, Visitor, Resident}}
+This job has no access. But it's good to play if you are [[New Players|a newbie]], because you can have an infinite number of assistants on a station. A [[Head of Personnel]] can give you more access on your [[Identification Card]], so you can be something other than a random assistant.
+
+== Overview ==
+As an <s>Emergency Ration</s> Assistant, you'll want to either get a job or just assist with various jobs around the station. Feel free to ask over the radio if anyone would like any assistance. You don't have any access, so it'll be pretty hard to get anywhere <s>or escape from a predator once they lure you deep into a department</s>, but this is still a good job for new players. It's also a good job to play if you want to hop onto the station but not occupy any actual job slots or have any specific duties <s>so you can get gurgled in peace</s>, but be advised that the game is generally ''much'' more enjoyable if you take a job that actually gives you something to do when you're not actively engaged in <s><small>E</small></s>RP.
+
+{{Jobs}}

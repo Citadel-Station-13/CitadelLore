@@ -1,0 +1,197 @@
+==Introduction to Mining==
+For a job that is primarily out in space, mining is a relatively safe, even boring, occupation. Still, the entire station is depending on you to bring back those all-important phoron and minerals. Just follow a few guidelines here to keep yourself from becoming lost in the mines.
+
+The [[Mining Dock]], containing the shuttle to the [[Mining Station]], is located just below the [[Cargo Office]].
+
+==The Outpost==
+See [[Mining Station]].
+
+==The Equipment==
+The following is a complete list of mining equipment:
+* [[File:Mining_Hardsuit.png|32px]] '''Mining [[Space suit|Hardsuit]] and Helmet''': Used so you can mine with impunity on the airless, cold, resource-rich planetoid.
+* [[File:BreathMask.png|32px]] '''[[Breath mask|Breath Mask]] and [[Oxygen]] Tank''': So you can have oxygen when mining. Get an O2 tank from the tank dispenser, and wear it on your suit storage slot.
+* [[File:MGlasses.png|32px]] '''[[Meson Goggles|Meson Scanners]]''': Lets you see where the ore is through the rock.
+* [[File:MiningPick.gif|32px]] '''Mining Tools''': For tunneling through everything. Place this on your belt; it saves room. Alternatively, you can get various drills and other tools from science. These will dig faster, and may have other advantages.
+* [[File:Shovel.png|32px]] '''Shovel''': For gathering sand. You can stick this in your backpack, or just not bother with it and trust the drill technicians to bring in any sand the station may need.
+* [[File:Lantern.png|32px]] '''[[Flashlight|Lantern]]''': For seeing in the dark. Put one in your pocket.
+* [[File:OreSatchel.png|32px]] '''Ore Satchel''': For carrying ore without using an ore box, and holds 25 ore nuggets. Get at least one of these and make sure the bag is set to "all on tile" (the default setting). Use in conjunction with an ore crate; hold the satchel and drag the crate. (Newbie tip: This does not work like a backpack.  Hold it in your hand and click the ore with that hand to pick it up.)
+* [[File:Forensic0-old.png|32px]] '''Ore Detector''': Used for finding out what types of ore are nearby, so you can decide where best to set up the [[Guide_to_Mining#Drill_101|drill]]. Make sure you hold still while scanning, or you won't get any output.
+* [[File:OreCrate.png|32px]] '''Ore Crate''': Used for carrying huge amounts of ore. While a satchel can only hold 25 nuggets, this can hold 1000. Use your satchel on the box to empty it into the box. To unload it, place the box in the unloading machine's input slot or right-click the box and choose the unload option. Drag this around with you. Can be loaded into a Ripley exosuit.
+
+'''Gear that will be very handy, but not included:'''
+* [[File:Crowbar.png|32px]]'''[[Crowbar]]''': To remove the power cell from the drill. Also handy in case you come back from the mines to a power outage.
+* [[File:Screwdriver_tool.png|32px]]'''[[Screwdriver]]''': Needed to open the maintenance hatch on the drills. Also generally handy.
+* [[File:Wrench.png|32px]]'''[[Wrench]]''': To secure the drill parts together.
+* [[File:Multitool.png|px]] '''[[Multitool]]''': Used for cracking the code on the [[abandoned crates]] that are occasionally found buried out on the asteroid.
+* [[File:Ripley.png|32px]] '''[[Roboticist#Ripley_APLU|Ripley]]''': These mechs are awesome at mining. A Ripley equipped with a drill and with an ore box loaded up (using the Hydraulic Clamp) mines three squares at a time and automatically picks up any ore gained from the squares. Upgrading it with a diamond drill will let you drill through reinforced walls, etc., but will not actually speed up the mining time.
+
+==Old-school Mining==
+Before you embark on a mining adventure, it is highly advised that you obtain a proper mining hardsuit, Meson goggles, an ore satchel, and a mining pick. All you need to do is walk around and thanks to the goggles you will be able to see any ore within the walls. Click on the wall with the drill in your hand to start digging! When you have a gathering of ore beside you, click on your ore satchel to pick up any ore in an extended radius by you. Once full, stash the ores in a ore box by clicking on it with the satchel in your hand. If you are holding a pick in your inactive hand, you can bump into the rock wall to start mining it, and you can mine as many as three tiles at a time.
+
+=== Mining Tools ===
+Your major source for tools, other than your drill, will be Research & Development. The better you keep them supplied, the better their research goes and the more likely it is they'll be able to make you high-level tools. Occasionally you'll also find old mining sheds in the asteroid, which you can break into (by digging through or dismantling walls), and which may or may not contain something useful or interesting. Among the possibilities are better mining tools.
+
+From slowest to fastest:
+*Drill: Your basic drill. Slow, but you can get it right away.
+*Advanced mining drill: Get this from Research. It can be made without any special materials from the asteroid, so if they're on the ball you may start out the shift with one.
+*Silver pickaxe: Occasionally found on the asteroid. As fast as an advanced mining drill, and makes no metallurgic sense.
+*Sonic Jackhammer: Get this from Research. Twice as fast as the basic drill, this jackhammer requires silver from the asteroid.
+*Golden pickaxe: Occasionally found on the asteroid. As fast as a sonic jackhammer, and makes no metallurgic sense.
+*Plasma cutter: Made at Research. As fast as the sonic jackhammer, but smaller and also cuts through walls.
+*Borg drill: The drill you start off with if you're a mining cyborg. It's faster than a plasma cutter but not as fast as a diamond tool.
+*Diamond pickaxe: Can occasionally be found on the asteroid. Twice as fast as the plasma cutter.
+*Diamond Drill: The fastest digging tool out there. Research can make you one, but it takes diamond and high-level research.
+
+==Ripley APLU 101==
+If Robotics is kind (insert: functioning), odds are one of the first creations from their lab will be a Ripley APLU for Mining. The machine is typically outfitted with a drill and a hydraulic clamp. Although a good Roboticist will quickly explain the features when asked, the Ripley does offer external lighting, life support, and various user-control security measures. To access the APLU's menu, click on the "Exosuit Interface" tab followed by "View Stats." To select your active tool, click on the name under "Equipment." An underline means it is not active. To load a box into the Ripley, click on the box while facing it with your hydraulic clamp active. To mine, walk into the rock wall with your drill active.
+
+==Drill 101==
+For most drill functions, you will need a crowbar, wrench, and a screwdriver. At time of writing, the drill is found in three parts - A mining drill head and two mining drill braces. In order to set the drill up, drag all three pieces to the drill site. The mining station has two drills available for use.
+
+To set up the drill, place the two braces beside the drill head, and if necessary, turn them so the arms face the drill. Click on the braces with a wrench in your hand to secure them in place. To turn the drill on, click on the drill.
+
+As the drill is powered by a power cell, the occasional change is required. To change, click on the drill head with a screwdriver in your hand. Click on the drill afterwards to remove the power cell.
+Science can upgrade the drill with bigger power cells.
+
+To empty the drill, place an ore box beside it. Click "Unload Drill" under the "Objects" tab.
+
+==Furnace 101==
+There are two points where the furnace can be loaded - One is on the port side of the furnace, immediately beside the belt lever inside the camp. The other is the conveyor belt found starboard, outside the camp. Although both can unload crates automatically, the outside belt is set to have any miner unload the crates themselves. The furnace is operated from inside the station. You can produce multiple products at once, but smelting or compressing something that has no corresponding product will produce useless slag.
+
+
+===The Ores===
+{| border="1" cellspacing="0" cellpadding="2" align="center"
+! style="background-color:Maroon;color:white;" |Wall
+! style="background-color:Maroon;color:white;" |Raw Ore
+! style="background-color:Maroon;color:white;" |Smelted
+! style="background-color:Maroon;color:white;" |Compressed
+! style="background-color:Maroon;color:white;" |Coin
+! style="background-color:Maroon;color:white;" |Door
+! style="background-color:Maroon;color:white;" |Name
+! style="background-color:Maroon;color:white;" |Uses
+|-
+![[File:Mining iron.gif|50px]]
+![[File:Ironore.png|50px]]
+! Iron
+! None
+! None
+![[File:Irondoor.gif|50px]]
+|Hematite
+|For use in steelmaking.
+|-
+![[File:minefloor.png|50px]]
+![[File:Sandore.png|50px]]
+|[[File:Glass.png|center|50px]]
+![[File:Sandstone.png|center|50px]]
+! None
+|[[File:Sanddoor.gif|50px]]
+|Impure silicates
+|For making glass, which has a plethora of station applications.
+|-
+![[File:Mining gold.gif|50px]]
+![[File:Goldore.png|50px]]
+![[File:Golddone.png|50px]]
+! None
+![[File:Goldcoin.png|50px]]
+|[[File:Golddoor.gif|50px]]
+|Native gold
+|For making various electronics.
+|-
+![[File:Mining silver.gif|50px]]
+![[File:Silverore.png|50px]]
+![[File:Silverdone.png|50px]]
+! None
+![[File:Silvercoin.png|50px]]
+|[[File:Silverdoor.gif|50px]]
+|Native silver
+|Making mechs and for material research.
+|-
+![[File:Mining phoron.gif|50px]]
+![[File:Plasmaore.png|50px]]
+! None
+![[File:Plasmadone.png|50px]]
+![[File:Plasmacoin.png|50px]]
+|[[File:Plasmadoor.gif|50px]]
+|Phoron
+|The [[Backstory|reason you're here]].
+|-
+![[File:Mining diamond.gif|50px]]
+![[File:Diamondore.png|50px]]
+! None
+![[File:Diamonddone.png|50px]]
+![[File:Diamondcoin.png|50px]]
+|[[File:DiamondDoor.gif|50px]]
+|Diamond
+|For making mech parts, among other industrial uses.
+|-
+![[File:Mining pitchblende.gif|50px]]
+![[File:Uraniumore.png|50px]]
+![[File:Uraniumdone.png|50px]]
+! None
+![[File:Uraniumcoin.png|50px]]
+|[[File:Uraniumdoor.gif|50px]]
+|Pitchblende
+|For various radioactive tasks.
+|-
+![[File:Mining coal.gif|50px]]
+![[File:Coalore.png|50px]]
+![[File:Plastic.png|50px]]
+! None
+! None
+! None
+|Coal
+|For use in steelmaking and plastics.
+|- None
+![[File:Mining platinum.gif|50px]]
+![[File:Platinumore.png|50px]]
+![[File:Platinum.png|50px]]
+!Osmium
+! None
+! None
+|Platinum
+|For making osmium or selling to Centcomm via Cargo.
+|-
+! None
+![[File:Hydrogenore.png|50px]]
+!Tritium
+![[File:Hydrogen.png|50px]]
+! None
+! None
+|Hydrogen
+|For making tritium fuel or metallic hydrogen for R&D.
+|-
+|}
+
+===The Alloys===
+
+{| border="1" cellspacing="0" cellpadding="2" align="center"
+! style="background-color:Maroon;color:white;" |Raw Ores
+! style="background-color:Maroon;color:white;" |Product
+! style="background-color:Maroon;color:white;" |Name
+! style="background-color:Maroon;color:white;" |Uses
+|-
+![[File:Ironore.png|50px]] [[File:Coalore.png|50px]]
+![[File:Metal.png|50px]]
+|Steel
+|For use in all kinds of tasks around the station.
+|-
+|-
+![[File:Ironore.png|50px]] [[File:Coalore.png|50px]] [[File:Platinumore.png|50px]]
+![[File:Metal r.png|50px]]
+|Plasteel
+|An alloy of hematite, platinum and coal, for reinforced tables and reinforced walls, as well as Mech.
+|-
+![[File:Diamondore.png|50px]] [[File:Platinumore.png|50px]][[File:Coalore.png|50px]][[File:Ironore.png|50px]]
+|
+|Durasteel
+|Incredibly tough and also reflective. The inner walls of the AI core are made of this. Reflects Lasers
+|-
+| <span style="color:white">----------</span>[[File:Platinumore.png|50px]][[File:Sandore.png|50px]]
+|
+|Borosilicate glass
+|Used in engineering, for high strength windows in locations such as the super matter engine. 
+|}
+
+==Shipping the Ores==
+One half of of the main reason why the NSB Adephagia exists is to mine phoron to send back to Central. Although phoron is always in demand with Medical and Science, by shipping phoron back to Central you receive an abundance of cargo points.
+[[Category:Guides]]

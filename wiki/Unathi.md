@@ -1,0 +1,379 @@
+---
+title: Unathi
+permalink: wiki/Unathi/
+layout: wiki
+---
+
+<onlyinclude>The [Unathi](/wiki/Unathi "wikilink") (*ᴇᴡ-nahth-ee*) are a race
+of tall, reptilian humanoids that possess both crocodile-like and
+serpent-like features. Their scales are hard and plate-like, save for
+the softer ones that line the inside of their legs, armpits, and groin.
+Originating from the planet of [Moghes](/wiki/Moghes "wikilink"), the Unathi
+live in an extremely religious society.</onlyinclude>
+
+**Additional Information:** [Moghes](/wiki/Moghes "wikilink"), [Unathi
+Culture](/wiki/Unathi_Culture "wikilink")
+
+### Mechanics
+
+-   Unathi have a unique language, that they can naturally speak and
+    understand. Use this in game by typing **say \#o** or over radio
+    with **say ";\#o**
+
+<!-- -->
+
+-   Instead of punching, Unathi scratch people when unarmed. In
+    addition, Unathi are difficult to severely injure, but tend to heal
+    more slowly than humans.
+
+<!-- -->
+
+-   Unathi ribcages extend past their chests, meaning that surgeons
+    treating internal injuries to the abdomen have to cut through the
+    ribcage.
+
+<!-- -->
+
+-   Unathi do not have kidneys. They filter toxins in a single organ,
+    located roughly where humans have livers.
+
+<!-- -->
+
+-   Unathi have good heat resistance, but very little cold resistance.
+
+<!-- -->
+
+-   Due to different anatomy, Unathi are unable to wear some apparel
+    designed for other species. They are able to wear 'softsuits' (such
+    as non-hardsuit space suits, biosuits, and fire suits), but are
+    unable to wear hardsuits not tailed for Unathi anatomy. An example
+    of an Unathi hardsuit is the breacher suit.
+
+Overview
+========
+
+Naming
+------
+
+Unathi name themselves in manners that are heavy on E's, I's and O's and
+S's, almost sounding hissing, or guttural.
+
+**Clan Unathi**, both Unity and Heretic, are named in three parts: a
+personal name, a family name, and a clan name. Outside of a clan
+environment, these Unathi will refer to themselves by their clan-name,
+when practical. They are allowed, but not required, to include their
+clan name on official paperwork in human space. Addressing one of these
+Unathi by their first name, without permission, is highly disrespectful.
+
+**Unbound Unathi** do not use their clan-name, this right having been
+stripped from them in their exile. Occasionally they are also stripped
+of their right to a family name. Some keep their first name and use only
+that, while others will create or accept a title, denoting some notable
+aspect of their life or personality.
+
+**Redeemed Unathi** are not born into this state, and a name is very
+important to their sense of being. Initiates do not have names of any
+kind, **and will not be seen in human space**. When they are Redeemed
+they gain a Personal name, chosen by them and their Redeemer, and take
+the Redeemer's personal name as their family name. Full-fledged
+Redeemers take their Chapter name in place of a Clan name.
+
+Biology
+-------
+
+<img src="Unathi.png" title="fig:Unathi.png" alt="Unathi.png" width="250" />
+Unathi are a species of carnivorous, reptilian bipeds. Their back scales
+are hard and rigid, but those that line the inside of their legs,
+armpits, and groin, and those on their underbellies, are softer, though
+still rather thick. Hide patterning tends to err towards high contrast
+in neutral tones of grey, tan, or green, though some shades of other
+colours are not unknown, and albino Unathi have special significance in
+many of their cultures.
+
+Unathi never stop growing, though it does slow as they age, and the
+average adult can range anywhere between **200 and 260 centimeters in
+height**, and **weigh between 250 and 400 kilograms**. Females are
+usually slightly larger than the males of similar age. A large amount of
+their weight is taken up by thick bone, especially the ribcage. Their
+ribs are very thick, and extend down to the pelvis to protect their
+organs, which gives them a broad stature and a near-universal bow-legged
+stance. This bone density contributes to their sluggish movement on
+land, but does provide legendary durability. Additionally, Unathi
+physiology is able to regrow any non-vital body part, so long as the
+Unathi can survive without until it is regenerated, which may take
+years, depending on the extent of the damage.
+
+As a cold-blooded species, they suffer fatigue and even short comas when
+exposed to extremely low temperatures. Their hearts have two valves that
+are spread across their chest, which makes it sound as if they have two
+heartbeats at once. Unathi do not have kidneys, but rather a complex
+filtration organ, sharing the functions of a liver and kidneys.
+
+Unathi have a roughly ellipsoid skull, with forward facing and slightly
+elevated eyes. Females tend to possess more rounded snouts than their
+male counterparts. Their eyes have slit pupils, with irides in many
+possible colors. Unathi have no lips, which gives them a distinctive
+look with slightly protruding upper teeth. Unathi have two rows of
+serrated, triangular teeth, which are regrown when lost. They also have
+very long black tongues, which may stretch up to a foot and a half long,
+forked just like a serpent's and in much the same manner as snakes,
+Unathi can sample the air around them using their tongue.
+
+Some Unathi have spines, frills, or horns on their heads, depending on
+their ancestry. Additionally, on many Unathi, a line of spines extends
+from the back of the head down to the base of the tail, and while these
+lay flat in normal circumstances, they pop up when the individual is
+riled up.
+
+Unathi have five digits on their hands, and three on their feet, and
+these are capped with sharp claws. Though they stand plantigrade, their
+size, toe claws, and semi-webbed extremities make it somewhat
+uncomfortable to wear human or skrell made equipment without modifying
+this gear to suit Unathi physiology. This is further complicated by the
+fact that Unathi have a muscular rudder-like tail extending from the
+base of their torso. Unathi are crepuscular, sleeping through the
+brightest and darkest parts of the day-night cycle. Unathi can, with
+some effort, adjust themselves to a more “stable” human sleep cycle, in
+which case they prefer being nocturnal to diurnal.
+
+Lifecycle
+---------
+
+### Hatchling:
+
+-   Females lay eggs, with the average clutch being between one and
+    three. They have a six month gestation period, after which they are
+    laid in a humid, warm area. After two to three weeks, the fetus is
+    fully developed and hatches from the egg.
+
+<!-- -->
+
+-   Unathi hatchlings are extremely small, arguably non-sapient, and
+    very delicate. They grow slowly, and while most hatchlings are
+    technically able to fend for themselves shortly after emerging,
+    Unathi guard the eggs and younglings ferociously. Some historians
+    theorize that this protective need, along with continued support
+    into adolescence, is what lead the primitive Unathi to gather
+    together into clans, rather than remain solitary.
+
+<!-- -->
+
+-   Immediately after hatching, the young Unathi is little more than an
+    aggressive and clever predatory lizard. They are quadrupedal, and
+    the heavy bone plates that characterize an adult Unathi have not yet
+    developed. Unlike humans, Unathi young are more or less capable or
+    caring for themselves, but the Unathi clan structure developed to
+    protect the young from predation, and other packs Until they pass
+    out of this earliest stage, Unathi are incredibly territorial
+    towards non-family, and without the watchful eye of their minders,
+    only a small percentage would survive the running territorial
+    battles that they instinctually wage.
+
+### Infancy and Childhood:
+
+-   After around three Earth years, the Unathi hatchling has grown
+    enough to begin actively recognizing family members, or at least the
+    individuals who raised them. They are now around 30\~40 cm in
+    length, and weigh around 10\~15 kg.
+
+<!-- -->
+
+-   At around three earth years of age, Unathi that manage to survive
+    begin to show signs of a less primal intelligence, willingly seeking
+    out their own kind. They stop attempting to vie for territory, and
+    instead begin acting as pack hunters.
+
+<!-- -->
+
+-   At around five years, the young Unathi will begin to shift towards
+    bipedal movement, as the rear end of their body changes to support
+    it. It is during this time period that most Unathi begin to
+    understand rudimentary language, and some will utter their first
+    words by age six.
+
+<!-- -->
+
+-   Unathi parents formally name their children after they have learned
+    the basics of language, frequently at around nine years of age.
+
+### Adolescence:
+
+-   At fifteen years of age, Unathi begin developing their extended
+    ribplates. The earliest stages of this process can be likened to
+    human teething, and it is incredibly painful. After these first
+    growing pains, a young Unathi will be placed into a Unity education
+    program that best matches their personality and early skillset.
+    While this is by no means a permanent assignment, many Unathi
+    craft-masters can trace their passion back to this first schooling.
+
+<!-- -->
+
+-   By age 24, most Unathi have discovered some inkling of what drives
+    them, and are placed into what amounts to an Apprenticeship in that
+    field, with continued religious and general education on top of
+    that.
+
+### Adulthood:
+
+-   By age 32, an Unathi is considered physically mature. They will
+    continue to serve under their teachers for some years.
+
+<!-- -->
+
+-   An Unathi is considered an adult at forty years of age, and inducted
+    ceremonially into their clan, though Clan Elders may hold this
+    ceremony for a wise young Unathi at as early as age thirty.
+
+<!-- -->
+
+-   Unathi usually don’t pair-bond until after age 80, having spent
+    further time integrating into society, and becoming wise enough to
+    tell instinct from regular thought.
+
+### Venerable Adulthood:
+
+-   While no defined age sets an Unathi adult from their elders, for
+    most there is a certain point at which their great age and wisdom
+    afford them more respect than their younger peers. It is around this
+    point that the Unathi will be seriously considered for the
+    responsibility of clan and regional leadership positions
+
+<!-- -->
+
+-   After around 200 years of age, the Unathi is now a master of its
+    chosen craft. They likely hold great respect from the younger
+    members of their clan, and may have dozens of adult apprentices,
+    learning from this singular master.
+
+<!-- -->
+
+-   Though the Unathi never stop growing, and don’t seem to suffer
+    senescence like most other sapient species, they often die after
+    reaching their third century of life, as a result of the strain of
+    gravity on their increasingly large bodies. Elder Unathi who consign
+    themselves to Zero-G or heavily aquatic lifestyles have been
+    recorded living far longer, though these options present their own
+    issues and risks.
+
+Cultural Backgrounds and Ethnicities
+------------------------------------
+
+**Unity Clans** - Highly religious, they believe their ancestors are
+preparing for a great battle at the end of time. The actions of one
+Unathi should benefit the species as a whole, referred to as The Unity.
+Those who fall out of this line of thinking are more pitied than hated,
+and most true believers would rather bring a heretic back into their
+line of thinking than kill them, though the methods used depend greatly
+on the converter. The Unity currently control the majority of Unathi
+space, under a government known as the Moghes Hegemony, after the
+homeworld of the Unathi. Clans are run by the oldest members of each of
+the families in said clan; the Unathi have great respect for the wisdom
+of their Elders.
+
+Day to day matters are handled by the Circle of Elders, but the official
+leader of a clan is titled Grand Elder, and they are elected roughly
+every 10 Earth years from this Circle. In many respects the Grand Elder
+is little more than prestigious figurehead position, with their
+obligations to the clan overriding their obligations to act in the
+interests of their family, but they do have the final say in all tied
+votes on the Circle. The Hegemony is comprised almost entirely of Unity
+Clans.
+
+**Heretic Clans** - Those clans who have collectively broken away from
+the dogma of the Unity, for whatever reason. This isn’t a specific label
+so much as a catchall term for any clan with differing beliefs from the
+mainline Unathi. So-called Heretic Clans have, in the past, occasionally
+gained enough influence to change the Unity. That fact, coupled with the
+Unity's compunction against killing other Unathi, has caused most
+Heretic Clans to be seen less as heretics, and more as lifestyle
+activists.
+
+The most well known are the clans of Abel’s Rest, who integrated with
+the human colonists after the Unathi-Human Conflict, and have profited
+greatly from the partnership. Their less xenophobic views seem to have
+gained some amount of traction in the Hegemony, and it is possible that
+they will manage to reshape the state of the Unity within the next
+century.
+
+**Unbound** - Some Unathi find themselves unwilling to follow the
+doctrine of the Unity, and surrender their clan ties to make it on their
+own. Some Unathi are stripped of their clan title as punishment for
+heinous crimes. All of these individuals are considered part of a group
+known as the Unbound. Unbound Unathi frequently gather in city slums, or
+in the wilderness, and are rarely welcomed by Unathi who still part of
+the Clan system. The process of becoming an Unbound Unathi is incredibly
+traumatic; one's clan is a fundamental aspect of one's identity, and use
+of one's former clan name with no more claim to it is a grave dishonor.
+Their entrance into the afterlife is jeopardised, as without the
+important resources and training provided within the clan structure,
+Unbound must push themselves harder to earn their place in death.
+
+Some Unbound Unathi rename themselves, or go by self-given grandiose
+titles. Those who do not follow this trend continue to make use of just
+their personal names. Beyond being disgraceful, unwarranted use of a
+clan name is outlawed, and those outside of a Clan are punished more
+harshly in general.
+
+**Redeemers** - The Redeemers are one massive clan-like organisation,
+stretching throughout Hegemony space. Very few Redeemers are actually
+related, as the organization draws almost exclusively from those Unbound
+who wish to find a purpose again, and the children of the Redeemed.
+Unbound are taken in by a Redeemed, and have their remaining names
+removed, to begin the process of killing the old to allow room for the
+new. The new Initiates then spend their days living in asceticism, being
+reintroduced to their old crafts and the Unity by those Redeemed who
+have walked similar paths. After many, possibly hundreds of years of
+manual labor and prayer, those Initiates who show appropriate zeal and
+talent are taken to be renamed, as new Redeemed. Redeemed are given more
+responsibilities, including management and some combat roles.
+
+A Redeemed lives in much the same way as a fresh Initiate, save for the
+fact that he now has a name. They are expected to live the Unity at all
+times, and will, at some point, quite possibly select Initiates of their
+own. Once a Redeemed has himself lead at least five Initiates to their
+redemption, the leaders of the local Chapter may allow him entrance into
+their inner circle as a Redeemer. Redeemers fill an important role in
+both their own organisation, and the Hegemony in general, acting in a
+number of duties, but especially as a sort of “Priest Caste”. Due to the
+death of their Unbound past self and subsequent revival into the
+pinnacle of the Unity, each Redeemer is expected to be a font of faith
+and wisdom, more so even than the Grand Elders of many clans. In the
+Human-Unathi War, Redeemer-led squads of Redeemed were the source of
+many of SolGov's greatest losses; clad in “Breacher suits” and fighting
+in disciplined formation, they were fired from Hegemony ships in large
+torpedoes, and were often able to entirely gut Human (and Skrellian)
+ships from the inside, leaving them adrift and crewless. Horror stories
+of such battles are still common in the USDF (United Sol Defense Force)
+and even some SDTFs (Skrellian Defense Task Forces), but never within
+earshot of any Unathi.
+
+Language
+--------
+
+Unathi speak Galactic Common and other human-made languages with a
+hissing, guttural accent. They address each outsiders by clan or family
+name, rather than by personal name.
+
+Sinta’Unathi - The language spoken amongst Unathi, in a manner similar
+to that of SolCom. It incorporates the natural snarls and hissing of the
+Unathi into a mostly unified format. The exact slang and grammar of the
+language varies slightly from region to region, but is overall kept
+intact by the vigilance of the Hegemony’s linguists.
+
+Job Preferences
+---------------
+
+Anti-Unathi sentiment remains fairly common in SolGov space, and many
+employers, NanoTrasen included, have a tendency to pass over Unathi for
+promotions, especially for supervisor and security roles. Unathi are not
+usually hired into Colony Director roles or Head of Security roles, and
+are strongly discouraged from taking Command roles or stepping into
+Acting Command roles.
+
+Anti-Unathi sentiment remains fairly common within controlled SolGov
+space, although this is lesser seen on the outskirts of space. Many
+believe the Unathi to be little more than aggressive warriors, and as
+such it is common within SolGov space for Unathi to be turned down for
+jobs or promotions. Because of this it is more common to find Unathi
+employed on border and outskirts installations, where they can find more
+success.

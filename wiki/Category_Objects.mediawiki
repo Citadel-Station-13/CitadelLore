@@ -1,0 +1,13 @@
+{{BayPage}}
+This is a page to collect everything that has to do with objects. Things you can pick up and do stuff with.
+
+* [[Engineering Items]]
+* [[Medical Items]]
+* [[Security Items]]
+* [[General Items]]
+* [[Chemistry Items]]
+* [[Clothes and Internals]]
+* [[High-risk Items]]
+* [[Atmospherics objects]]
+
+See also: [[:Category:Station Equipment|Station Equipment]], [[Reading Material]]
