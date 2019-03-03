@@ -64,34 +64,16 @@ body temperature.
 reaction not listed, Then please add it or flag someone done in our
 \#wiki Discord Channel.
 
-| Food or Drink              | Species Effected     | Amount needed   | Time needed to be effected | Cause                      | Effect                                                                                              |
-|----------------------------|----------------------|-----------------|----------------------------|----------------------------|-----------------------------------------------------------------------------------------------------|
-| AntiFreeze                 | Teshari, Promethians | 30units         | near Instant               | Increased body temperature | Heavy burn damage to internal organs                                                                |
-| Deathbell                  | Promethian, Teshari  | One drink       | Instant                    | \*\*unknown\*\*            | Instant limb explosion and heavy burn damage for Promethians, Heavy internal burn damage to Teshari |
-| Coldfront                  | Humans               | \*\*unknown\*\* | \*\*unknown\*\*            | Decreased body temperature | Heavy freeze damage to internal organs                                                              |
-| Named Bullet               | Every non-Promethean | \*\*Unknown\*\* | \*\*Unknown\*\*            | Slime jelly.               | Massive toxic damage to non-Prometheans, but heals Prometheans.                                     |
-| Sbiten                     | \*\*Unknown\*\*      | \*\*Unknown\*\* | \*\*Unknown\*\*            | Raised Temperature         | \*\*Unknown\*\*                                                                                     |
-| Vox Delight                | All non-Vox          | \*\*Unknown\*\* | \*\*Unknown\*\*            | \*\*Unknown\*\*            | Poisons Non-Vox, heals tox damage on vox.                                                           |
-| Three Mile Island Iced Tea | \*\*Unknown\*\*      | \*\*Unknown\*\* | \*\*Unknown\*\*            | Uranium induced High       | \*\*Unknown\*\*                                                                                     |
-| Garble Blaster             | \*\*Unknown\*\*      | \*\*Unknown\*\* | \*\*Unknown\*\*            | \*\*Unknown\*\*            | Varies: Flashing colors, lights, sounds, Slurred speech..                                           |
-
-### Outside Recipe Lists
-
-Due to how often the recipe lists change, and the nature of
-wiki-editing, Two external sites have been created for the purpose of
-offering a convenient full list of Virgos many food and drink recipes.
-(Warning, may also be out of date. Please check the top of the page for
-date of publishing. If they are out of date by a month please tell us on
-our [discord](https://discordapp.com/invite/0yCTdQTDRZL5CFSN).
-Otherwise, We will try our best to keep the recipe pages and wiki guides
-up to date.) **NOTE:** These pages will only contain what the
-ingredients are, not how to cook it. Consider this more a In-character
-friendly reference guide.
-
-Click here for the current recipe lists: [**VOREStation Drink
-List**](https://vore-station.net/infodump/recipes_drinks.html) and
-[**VOREStation Food
-List**](https://vore-station.net/infodump/recipes_food.html).
+| Food or Drink               | Species Effected     | Amount needed   | Time needed to be affected | Cause                       | Effect                                                                                               |
+|-----------------------------|----------------------|-----------------|----------------------------|-----------------------------|------------------------------------------------------------------------------------------------------|
+| Antifreeze                  | Teshari, Prometheans | 30units         | near Instant               | Increased body temperature  | Heavy burn damage to internal organs.                                                                |
+| Deathbell                   | Prometheans, Teshari | One drink       | Instant                    | \*\*unknown\*\*             | Instant limb explosion and heavy burn damage for Prometheans, heavy internal burn damage to Teshari. |
+| Coldfront                   | Humans               | \*\*unknown\*\* | \*\*unknown\*\*            | Decreased body temperature. | Heavy freeze damage to internal organs.                                                              |
+| Named Bullet                | Every non-Promethean | \*\*Unknown\*\* | \*\*Unknown\*\*            | Slime jelly.                | Massive toxic damage to non-Prometheans, but heals Prometheans.                                      |
+| Sbiten                      | \*\*Unknown\*\*      | \*\*Unknown\*\* | \*\*Unknown\*\*            | Raised Temperature          | \*\*Unknown\*\*                                                                                      |
+| Vox Delight                 | All non-Vox          | \*\*Unknown\*\* | \*\*Unknown\*\*            | \*\*Unknown\*\*             | Poisons non-Vox, heals toxins damage on Vox.                                                         |
+| Three Mile Island Iced Tea  | \*\*Unknown\*\*      | \*\*Unknown\*\* | \*\*Unknown\*\*            | Uranium induced High        | \*\*Unknown\*\*                                                                                      |
+| Pan-Galactic Gargle Blaster | \*\*Unknown\*\*      | \*\*Unknown\*\* | \*\*Unknown\*\*            | \*\*Unknown\*\*             | Varies: Flashing colors, lights, sounds, slurred speech.                                             |
 
 Drinks
 ------
@@ -590,745 +572,1430 @@ drinks before pouring them out.
 Food
 ====
 
-#### Grill, deep-frier, and candy machine.
+<div class="toccolours mw-collapsible" style="width:99%; overflow:auto;">
 
-You can make any ingredient or existing food listed below into a variety
-of other interesting variants by using these kitchen machines. Even
-wondered what a boiled egg gobstopper would taste like? Now's your
-chance! Experiment and disgust/delight your crewmates.
+Microwave
+---------
 
-<img src="Microwave.png" title="fig:Microwave.png" alt="Microwave.png" width="50" /> Microwave Recipes
-------------------------------------------------------------------------------------------------------
+<img src="Microwave.gif" title="fig:Microwave.gif" alt="Microwave.gif" width="50" />  
+To operate the microwave, simply insert the listed ingredients to make a
+recipe. The microwave can take multiple full sets of ingredients to make
+multiple copies of the same recipe simultaneously (but don't try to make
+two different things at once).
 
-Note: Milk, Berry Juice, Soy Sauce, Hot Sauce, Cold Sauce, and Soy Milk
-are all measured off of reagent units rather then containers (like in
-previous version). They can be poured directly into the microwave.
-Additionally, you only need at LEAST the suggested amount of those
-ingredients instead of exactly the right amount.
-
-### Burgers
-
-| Picture                                                                                                                            | Recipe            | Ingredients                                                                                                    | Reagents & Notes                                                                                                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <figure>                                                                                                                           
- <img src="Plain_Burger.png" title="Plain_Burger.png" alt="Plain_Burger.png" width="50" /><figcaption>Plain_Burger.png</figcaption>  
- </figure>                                                                                                                           | Burger            | Bun + 1 Meat OR combine Bun + 1 Cutlet OR Bun + Meatball                                                       | If you use human meat, the burger will share the name of your victim. If you add a crayon in the microwave it will color the burger. 3 Nutriment, 13 Animal Protein |
-| <figure>                                                                                                                           
- <img src="Cheeseburger.png" title="Cheeseburger.png" alt="Cheeseburger.png" width="50" /><figcaption>Cheeseburger.png</figcaption>  
- </figure>                                                                                                                           | Cheeseburger      | Combine 1 Cheese Wedge with Burger                                                                             | 2 Animal Protein, 2 Nutriment                                                                                                                                       |
-| <figure>                                                                                                                           
- <img src="tofubuger.png" title="tofubuger.png" alt="tofubuger.png" width="50" /><figcaption>tofubuger.png</figcaption>              
- </figure>                                                                                                                           | Tofu Burger       | Bun + 1 Tofu                                                                                                   | 6 Nutriment, 1 Animal Protein                                                                                                                                       |
-| <figure>                                                                                                                           
- <img src="spell.png" title="spell.png" alt="spell.png" width="50" /><figcaption>spell.png</figcaption>                              
- </figure>                                                                                                                           | Spell Burger      | Bun + 1 Wizard hat                                                                                             | You will eat this until you have had Ei Nath. 6 Nutriment, 3 or 13 Animal Protein                                                                                   |
-| <figure>                                                                                                                           
- <img src="ghostbur.PNG" title="ghostbur.PNG" alt="ghostbur.PNG" width="50" /><figcaption>ghostbur.PNG</figcaption>                  
- </figure>                                                                                                                           | Ghost Burger      | Bun + 1 Ectoplasm                                                                                              | Terror-ifficly tasty. 2 Nutriment, 1 Animal Protein                                                                                                                 |
-| <figure>                                                                                                                           
- <img src="Roburger.png" title="Roburger.png" alt="Roburger.png" width="50" /><figcaption>Roburger.png</figcaption>                  
- </figure>                                                                                                                           | Roburger          | Bun + 1 Robot Head                                                                                             | 2 Nutriment, 1 Animal Protein, 5% probability of 2 units of Nanites                                                                                                 |
-| <figure>                                                                                                                           
- <img src="Brainburger.png" title="Brainburger.png" alt="Brainburger.png" width="50" /><figcaption>Brainburger.png</figcaption>      
- </figure>                                                                                                                           | Brain Burger      | Bun + 1 Brain                                                                                                  | 7 Animal Protein, 6 Alkysine, 5 Blood                                                                                                                               |
-| <figure>                                                                                                                           
- <img src="Xenoburger.png" title="Xenoburger.png" alt="Xenoburger.png" width="50" /><figcaption>Xenoburger.png</figcaption>          
- </figure>                                                                                                                           | Xenoburger        | Bun + 1 Xeno Meat                                                                                              | 15 Animal Protein, 6 Polytrinic Acid                                                                                                                                |
-| <figure>                                                                                                                           
- <img src="Jellyburger.png" title="Jellyburger.png" alt="Jellyburger.png" width="50" /><figcaption>Jellyburger.png</figcaption>      
- </figure>                                                                                                                           | Jelly Burger      | Microwave 1 Bun, 5 units of Cherry Jelly/Slime Jelly                                                           | 5 Nutriment, 5 Slime Jelly or Cherry Jelly, 1 Animal Protein                                                                                                        |
-| <figure>                                                                                                                           
- <img src="Clownburger.png" title="Clownburger.png" alt="Clownburger.png" width="50" /><figcaption>Clownburger.png</figcaption>      
- </figure>                                                                                                                           | Clown Burger      | Bun + 1 Clown wig and mask                                                                                     | 6 Nutriment, 1 Animal Protein                                                                                                                                       |
-| <figure>                                                                                                                           
- <img src="Mimeburger.png" title="Mimeburger.png" alt="Mimeburger.png" width="50" /><figcaption>Mimeburger.png</figcaption>          
- </figure>                                                                                                                           | Mime Burger       | Bun + 1 Beret                                                                                                  | 6 Nutriment, 1 Animal Protein                                                                                                                                       |
-| <figure>                                                                                                                           
- <img src="bigbite.png" title="bigbite.png" alt="bigbite.png" width="50" /><figcaption>bigbite.png</figcaption>                      
- </figure>                                                                                                                           | Big Bite Burger   | 3 Meat + Burger + Egg                                                                                          | Forget the Big Mac.                                                                                                                                                 |
-| <figure>                                                                                                                           
- <img src="superbite.png" title="superbite.png" alt="superbite.png" width="50" /><figcaption>superbite.png</figcaption>              
- </figure>                                                                                                                           | Super Bite Burger | 1 Big Bite Burger, 1 Dough, 1 Meat, 1 Tomato, 1 Boiled Egg, 1 Cheese Wedge, 5 units of Salt, 5 units of Pepper | If this doesn't clog their arteries, nothing will. Two bites will take you from starving to overfed.                                                                |
-
-### Breads & Sandwiches
+<div class="mw-collapsible-content">
 
 <table>
 <thead>
 <tr class="header">
-<th><p>Picture</p></th>
+<th></th>
+<th><p>Result</p></th>
 <th><p>Recipe</p></th>
-<th><p>Ingredients</p></th>
-<th><p>Notes</p></th>
+<th><p>Reagents &amp; Notes</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><figure>
-<img src="bread.png" title="bread.png" alt="bread.png" width="50" /><figcaption>bread.png</figcaption>
+<img src="recipe-friedegg.png" title="recipe-friedegg.png" alt="recipe-friedegg.png" width="50" /><figcaption>recipe-friedegg.png</figcaption>
 </figure></td>
-<td><p>Bread</p></td>
-<td><p>1 Dough, 1 Egg</p></td>
-<td><p>Sliceable.</p></td>
+<td><p>'''Fried Egg</p></td>
+<td><p>Microwave 1 egg, 1 unit of salt, 1 unit of pepper.</p></td>
+<td><p>3 animal protein, 3 egg yolk, 1 salt, 1 pepper</p></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="Bread_Slice.png" title="Bread_Slice.png" alt="Bread_Slice.png" width="50" /><figcaption>Bread_Slice.png</figcaption>
+<img src="recipe-poachedegg.png" title="recipe-poachedegg.png" alt="recipe-poachedegg.png" width="50" /><figcaption>recipe-poachedegg.png</figcaption>
 </figure></td>
-<td><p>Bread Slice</p></td>
-<td><p>Slice up a Bread with a knife to get 5 of these</p></td>
-<td><p>Sliceable.</p></td>
+<td><p>'''Poached Egg</p></td>
+<td><p>Microwave 1 egg, 1 unit salt, 1 unit pepper, 1 unit space spice, 5 units water.</p></td>
+<td><p>3 egg yolk, 1 nutriment, 1 pepper</p></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="meatbread.png" title="meatbread.png" alt="meatbread.png" width="50" /><figcaption>meatbread.png</figcaption>
+<img src="recipe-boiledegg.png" title="recipe-boiledegg.png" alt="recipe-boiledegg.png" width="50" /><figcaption>recipe-boiledegg.png</figcaption>
 </figure></td>
-<td><p>Meatbread</p></td>
-<td><p>3 Meat, 3 Dough, 3 Cheese Wedges</p></td>
-<td><p>Sliceable.</p></td>
+<td><p>'''Boiled Egg</p></td>
+<td><p>Microwave 1 egg, 5 units water.</p></td>
+<td><p>2 animal protein, 3 egg yolk</p></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="tofubread.png" title="tofubread.png" alt="tofubread.png" width="50" /><figcaption>tofubread.png</figcaption>
+<img src="recipe-burger.png" title="recipe-burger.png" alt="recipe-burger.png" width="50" /><figcaption>recipe-burger.png</figcaption>
 </figure></td>
-<td><p>Tofu-Bread</p></td>
-<td><p>3 Tofu, 3 Cheese Wedges, 3 Dough</p></td>
-<td><p>Sliceable.</p></td>
+<td><p>'''Burger</p></td>
+<td><p>Microwave 1 meat, 1 Bun.</p></td>
+<td><p>3 nutriment, 13 animal protein</p></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="xbread.png" title="xbread.png" alt="xbread.png" width="50" /><figcaption>xbread.png</figcaption>
+<img src="recipe-burger.png" title="recipe-burger.png" alt="recipe-burger.png" width="50" /><figcaption>recipe-burger.png</figcaption>
 </figure></td>
-<td><p>Xeno-bread</p></td>
-<td><p>3 Xeno-meat, 3 Dough, 3 Cheese Wedges</p></td>
-<td><p>Sliceable. A fitting, and filling, end to xeno scum.</p></td>
+<td><p>'''Burger</p></td>
+<td><p>Combine 1 Cutlet/Meatball with 1 Bun.</p></td>
+<td><p>3 nutriment, 3 animal protein</p></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="Spidermeatloaf.png" title="Spidermeatloaf.png" alt="Spidermeatloaf.png" width="50" /><figcaption>Spidermeatloaf.png</figcaption>
+<img src="recipe-burger.png" title="recipe-burger.png" alt="recipe-burger.png" width="50" /><figcaption>recipe-burger.png</figcaption>
 </figure></td>
-<td><p>Spider Meatloaf</p></td>
-<td><p>3 Spider Meat, 3 Dough, 3 Cheese Wedges</p></td>
-<td><p>Sliceable. Green but delicious.</p></td>
+<td><p>'''Cheese Burger</p></td>
+<td><p>Combine 1 cheese wedge with 1 Burger.</p></td>
+<td><p>2 animal protein, 2 nutriment</p></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="Bananabread.png" title="Bananabread.png" alt="Bananabread.png" width="50" /><figcaption>Bananabread.png</figcaption>
+<img src="recipe-brainburger.png" title="recipe-brainburger.png" alt="recipe-brainburger.png" width="50" /><figcaption>recipe-brainburger.png</figcaption>
 </figure></td>
-<td><p>Banana-nut Bread</p></td>
-<td><p>3 Dough, 5 units Milk, 15 units Sugar, 1 Banana</p></td>
-<td><p>Sliceable. Contains a massive amount of banana essence.</p></td>
+<td><p>'''Brain Burger</p></td>
+<td><p>Microwave 1 Bun, 1 brain.</p></td>
+<td><p>7 animal protein, <span style="color:blue">6 alkysine</span>, <span style="color:red">5 blood</span></p></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="creambread.png" title="creambread.png" alt="creambread.png" width="50" /><figcaption>creambread.png</figcaption>
+<img src="recipe-roburger.png" title="recipe-roburger.png" alt="recipe-roburger.png" width="50" /><figcaption>recipe-roburger.png</figcaption>
 </figure></td>
-<td><p>Cream Cheese Bread</p></td>
-<td><p>2 Dough, 2 Cheese Wedges.</p></td>
-<td><p>Sliceable.</p></td>
+<td><p>'''Roburger</p></td>
+<td><p>Microwave 1 Bun, 1 robot head.</p></td>
+<td><p>2 nutriment, 1 animal protein, 5% probability of <span style="color:blue">2 nanites</span></p></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="baguette.png" title="baguette.png" alt="baguette.png" width="50" /><figcaption>baguette.png</figcaption>
+<img src="recipe-xenoburger.png" title="recipe-xenoburger.png" alt="recipe-xenoburger.png" width="50" /><figcaption>recipe-xenoburger.png</figcaption>
 </figure></td>
-<td><p>Baguette</p></td>
-<td><p>2 Dough, 1 unit Salt, 1 unit Pepper</p></td>
-<td><p>Hon hon.</p></td>
+<td><p>'''Xenoburger</p></td>
+<td><p>Microwave 1 Bun, 1 <a href="Xenos" title="wikilink">xeno-meat</a>.</p></td>
+<td><p>15 animal protein, 6 <span style="color:red">polytrinic acid</span></p></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="sandwich.png" title="sandwich.png" alt="sandwich.png" width="50" /><figcaption>sandwich.png</figcaption>
+<img src="recipe-bearburger.png" title="recipe-bearburger.png" alt="recipe-bearburger.png" width="50" /><figcaption>recipe-bearburger.png</figcaption>
 </figure></td>
-<td><p>Sandwich</p></td>
-<td><p>2 Bread Slices, 1 Meat Steak, 1 Cheese Wedge</p></td>
-<td><p>Talking to your food may result in a trip to the <a href="Chaplain" title="wikilink">Chaplain</a>.</p></td>
+<td><p>'''Bearburger</p></td>
+<td><p>Microwave 1 Bun, 1 bear meat.</p></td>
+<td><p>10 animal protein, 5 <span style="color:blue">hyperzine</span></p></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="toastsand.png" title="toastsand.png" alt="toastsand.png" width="50" /><figcaption>toastsand.png</figcaption>
+<img src="recipe-filletocarpsandwich.png" title="recipe-filletocarpsandwich.png" alt="recipe-filletocarpsandwich.png" width="50" /><figcaption>recipe-filletocarpsandwich.png</figcaption>
 </figure></td>
-<td><p>Toasted Sandwich</p></td>
-<td><p>Microwave 1 Sandwich <span style="color:#F2F2F2"> What was that, Sandwich? </span></p></td>
-<td><p><span style="color:#F2F2F2"> Kill them all. </span></p></td>
+<td><p>'''Fillet -o- Carp Sandwich</p></td>
+<td><p>Microwave 1 Bun, 1 carp fillet.</p></td>
+<td><p>10 animal protein, <span style="color:red">6 carpotoxin</span></p></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="toastsand.png" title="toastsand.png" alt="toastsand.png" width="50" /><figcaption>toastsand.png</figcaption>
+<img src="recipe-tofuburger.png" title="recipe-tofuburger.png" alt="recipe-tofuburger.png" width="50" /><figcaption>recipe-tofuburger.png</figcaption>
 </figure></td>
-<td><p>Grilled Cheese Sandwich</p></td>
-<td><p>Microwave 2 Bread Slices, 1 Cheese Wedge</p></td>
-<td><p>Space Vegetarian, but not Space Vegan friendly.</p></td>
+<td><p>'''Tofu Burger</p></td>
+<td><p>Microwave 1 Bun, 1 Tofu.</p></td>
+<td><p>6 nutriment, 1 animal protein</p></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="Jellytoast.png" title="Jellytoast.png" alt="Jellytoast.png" width="50" /><figcaption>Jellytoast.png</figcaption>
+<img src="recipe-ghostburger.png" title="recipe-ghostburger.png" alt="recipe-ghostburger.png" width="50" /><figcaption>recipe-ghostburger.png</figcaption>
 </figure></td>
-<td><p>Jelly Toast</p></td>
-<td><p>1 Bread Slice, 5 units of Cherry Jelly/Slime Jelly</p></td>
-<td><p>As if science are gonna give up their slimes for toast!</p></td>
+<td><p>'''Ghost Burger</p></td>
+<td><p>Microwave 1 Bun, 1 ectoplasm.</p></td>
+<td><p>2 nutriment, 1 animal protein</p></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="Twobread.png" title="Twobread.png" alt="Twobread.png" width="50" /><figcaption>Twobread.png</figcaption>
+<img src="recipe-clownburger.png" title="recipe-clownburger.png" alt="recipe-clownburger.png" width="50" /><figcaption>recipe-clownburger.png</figcaption>
 </figure></td>
-<td><p>Two Bread</p></td>
-<td><p>2 Bread Slices, 5 units of Wine</p></td>
-<td><p>Classy.</p></td>
+<td><p>'''Clown Burger</p></td>
+<td><p>Microwave 1 Bun, 1 clown wig and mask.</p></td>
+<td><p>6 nutriment, 1 animal protein</p></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="Jellysandwich.png" title="Jellysandwich.png" alt="Jellysandwich.png" width="50" /><figcaption>Jellysandwich.png</figcaption>
+<img src="recipe-mimeburger.png" title="recipe-mimeburger.png" alt="recipe-mimeburger.png" width="50" /><figcaption>recipe-mimeburger.png</figcaption>
 </figure></td>
-<td><p>Jelly Sandwich</p></td>
-<td><p>2 Bread slices, 5 units of Cherry Jelly/Slime Jelly</p></td>
+<td><p>'''Mime Burger</p></td>
+<td><p>Microwave 1 Bun, 1 beret.</p></td>
+<td><p>6 nutriment, 1 animal protein</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-hotdog.png" title="recipe-hotdog.png" alt="recipe-hotdog.png" width="50" /><figcaption>recipe-hotdog.png</figcaption>
+</figure></td>
+<td><p>'''Hotdog</p></td>
+<td><p>Microwave 1 Sausage, 1 Bun.</p></td>
+<td><p>19 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-bacon.png" title="recipe-bacon.png" alt="recipe-bacon.png" width="50" /><figcaption>recipe-bacon.png</figcaption>
+</figure></td>
+<td><p>'''Microwaved Bacon</p></td>
+<td><p>Microwave 1 Raw Bacon</p></td>
+<td><p>.3 animal protein, 1 unit Triglyceride</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-eggpop.png" title="recipe-eggpop.png" alt="recipe-eggpop.png" width="50" /><figcaption>recipe-eggpop.png</figcaption>
+</figure></td>
+<td><p>'''Eggpop</p></td>
+<td><p>Combine 1 Bacon with 1 Boiled Egg.</p></td>
+<td><p>3 animal protein, 1 egg</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-baconandeggs.png" title="recipe-baconandeggs.png" alt="recipe-baconandeggs.png" width="50" /><figcaption>recipe-baconandeggs.png</figcaption>
+</figure></td>
+<td><p>'''bacon and eggs</p></td>
+<td><p>Combine 1 Bacon with 1 Fried Egg.</p></td>
+<td><p>3 animal protein, 1 egg</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-chickenfilletsandwich.png" title="recipe-chickenfilletsandwich.png" alt="recipe-chickenfilletsandwich.png" width="50" /><figcaption>recipe-chickenfilletsandwich.png</figcaption>
+</figure></td>
+<td><p>'''Chicken Fillet Sandwich</p></td>
+<td><p>Microwave or combine 1 Katsu and 1 Bun.</p></td>
+<td><p>5 nutriment, 10 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-waffles.png" title="recipe-waffles.png" alt="recipe-waffles.png" width="50" /><figcaption>recipe-waffles.png</figcaption>
+</figure></td>
+<td><p>'''Waffles</p></td>
+<td><p>Microwave 2 balls of dough, 10 units sugar.</p></td>
+<td><p>8 nutriment, 2 animal protein</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-donkpocket.png" title="recipe-donkpocket.png" alt="recipe-donkpocket.png" width="50" /><figcaption>recipe-donkpocket.png</figcaption>
+</figure></td>
+<td><p>'''Warm Donk Pocket</p></td>
+<td><p>Microwave 1 ball of dough, 1 meatball.</p></td>
+<td><p>2 nutriment, 6 animal protein, 5 tricordrazine</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-donkpocket.png" title="recipe-donkpocket.png" alt="recipe-donkpocket.png" width="50" /><figcaption>recipe-donkpocket.png</figcaption>
+</figure></td>
+<td><p>'''Warm Donk Pocket</p></td>
+<td><p>Microwave 1 Donk Pocket.</p></td>
+<td><p>2 nutriment, 2 animal protein, 5 tricordrazine</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-donkpocket.png" title="recipe-donkpocket.png" alt="recipe-donkpocket.png" width="50" /><figcaption>recipe-donkpocket.png</figcaption>
+</figure></td>
+<td><p>'''Donk Pocket</p></td>
+<td><p>Allow a warm Donk Pocket to cool.</p></td>
+<td><p>2 nutriment, 2 or 6 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-applepie.png" title="recipe-applepie.png" alt="recipe-applepie.png" width="50" /><figcaption>recipe-applepie.png</figcaption>
+</figure></td>
+<td><p>'''Apple Pie</p></td>
+<td><p>Microwave 1 flat dough, 1 apple.</p></td>
+<td><p>4 nutriment, 1 animal protein</p>
+<p>For some reason, this is not an oven recipe.</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-meatbun.png" title="recipe-meatbun.png" alt="recipe-meatbun.png" width="50" /><figcaption>recipe-meatbun.png</figcaption>
+</figure></td>
+<td><p>'''Meat Bun</p></td>
+<td><p>Microwave 1 raw cutlet, 1 dough slice, 1 unit space spice, 5 units water.</p></td>
+<td><p>5 nutriment, 3 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-custardbun.png" title="recipe-custardbun.png" alt="recipe-custardbun.png" width="50" /><figcaption>recipe-custardbun.png</figcaption>
+</figure></td>
+<td><p>'''Custard Bun</p></td>
+<td><p>Microwave 1 dough slice, 3 units egg yolk, 1 unit space spice, 5 units water. Don't use a whole egg, or it will end up as a boiled egg.</p></td>
+<td><p>6 nutriment, 2 egg yolk</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-chickenmomo.png" title="recipe-chickenmomo.png" alt="recipe-chickenmomo.png" width="50" /><figcaption>recipe-chickenmomo.png</figcaption>
+</figure></td>
+<td><p>'''Chicken Momo</p></td>
+<td><p>Microwave 1 chicken meat, 3 dough slices, 2 units space spice, 5 units water.</p></td>
+<td><p>7 nutriment, 6 animal protein, 2 space spice</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-veggiemomo.png" title="recipe-veggiemomo.png" alt="recipe-veggiemomo.png" width="50" /><figcaption>recipe-veggiemomo.png</figcaption>
+</figure></td>
+<td><p>'''Veggie Momo</p></td>
+<td><p>Microwave 1 carrot, 1 cabbage, 3 dough slices, 2 units space spice, 5 units water.</p></td>
+<td><p>10 nutriment, 4 space spice, 3 carrot juice, <span style="color:blue">1 imidazoline</span></p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-omelettedufromage.png" title="recipe-omelettedufromage.png" alt="recipe-omelettedufromage.png" width="50" /><figcaption>recipe-omelettedufromage.png</figcaption>
+</figure></td>
+<td><p>'''Omelette Du Fromage</p></td>
+<td><p>Microwave 6 units egg yolk, 2 cheese wedges.</p></td>
+<td><p>16 animal protein, 6 egg yolk</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-muffin.png" title="recipe-muffin.png" alt="recipe-muffin.png" width="50" /><figcaption>recipe-muffin.png</figcaption>
+</figure></td>
+<td><p>'''Muffin</p></td>
+<td><p>Microwave 1 ball of dough, 5 units milk, 5 units sugar.</p></td>
+<td><p>6 nutriment, 1 animal protein</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-eggplantparmigiana.png" title="recipe-eggplantparmigiana.png" alt="recipe-eggplantparmigiana.png" width="50" /><figcaption>recipe-eggplantparmigiana.png</figcaption>
+</figure></td>
+<td><p>'''Eggplant Parmigiana</p></td>
+<td><p>Microwave 2 cheese wedges, 1 eggplant.</p></td>
+<td><p>6 nutriment, 8 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-soylenvirdians.png" title="recipe-soylenvirdians.png" alt="recipe-soylenvirdians.png" width="50" /><figcaption>recipe-soylenvirdians.png</figcaption>
+</figure></td>
+<td><p>'''Soylen Virdians</p></td>
+<td><p>Microwave 10 units flour, 1 soybean.</p></td>
+<td><p>10 nutriment, 1 soy milk</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-soylentgreen.png" title="recipe-soylentgreen.png" alt="recipe-soylentgreen.png" width="50" /><figcaption>recipe-soylentgreen.png</figcaption>
+</figure></td>
+<td><p>'''Soylent Green</p></td>
+<td><p>Microwave 2 human meat, 10 units flour.</p></td>
+<td><p>28 Animal Protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-berryclafoutis.png" title="recipe-berryclafoutis.png" alt="recipe-berryclafoutis.png" width="50" /><figcaption>recipe-berryclafoutis.png</figcaption>
+</figure></td>
+<td><p>'''Berry Clafoutis</p></td>
+<td><p>Microwave 1 flat dough, 1 berry.</p></td>
+<td><p>4 nutriment, 7 berry juice, 1 animal protein</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-wingfangchu.png" title="recipe-wingfangchu.png" alt="recipe-wingfangchu.png" width="50" /><figcaption>recipe-wingfangchu.png</figcaption>
+</figure></td>
+<td><p>'''Wing Fang Chu</p></td>
+<td><p>Microwave 5 units soy sauce, 1 xeno-meat.</p></td>
+<td><p>12 animal protein, <span style="color:red">6 polytrinic acid</span></p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-meatkabob.png" title="recipe-meatkabob.png" alt="recipe-meatkabob.png" width="50" /><figcaption>recipe-meatkabob.png</figcaption>
+</figure></td>
+<td><p>'''Meat-kabob</p></td>
+<td><p>Microwave 2 meat, 1 metal rod.</p></td>
+<td><p>26 animal protein May break the microwave.</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-tofukabob.png" title="recipe-tofukabob.png" alt="recipe-tofukabob.png" width="50" /><figcaption>recipe-tofukabob.png</figcaption>
+</figure></td>
+<td><p>'''Tofu-kabob</p></td>
+<td><p>Microwave 2 tofu, 1 metal rod.</p></td>
+<td><p>8 nutriment May break the microwave.</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-loadedbakedpotato.png" title="recipe-loadedbakedpotato.png" alt="recipe-loadedbakedpotato.png" width="50" /><figcaption>recipe-loadedbakedpotato.png</figcaption>
+</figure></td>
+<td><p>'''Loaded Baked Potato</p></td>
+<td><p>Microwave 1 potato, 1 cheese wedge.</p></td>
+<td><p>3 nutriment, 7 animal protein, 2 potato juice</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-cheesyfries.png" title="recipe-cheesyfries.png" alt="recipe-cheesyfries.png" width="50" /><figcaption>recipe-cheesyfries.png</figcaption>
+</figure></td>
+<td><p>'''Cheesy Fries</p></td>
+<td><p>Microwave 1 Space Fries, 1 cheese wedge.</p></td>
+<td><p>4 nutriment, 6 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-chilicheesefries.png" title="recipe-chilicheesefries.png" alt="recipe-chilicheesefries.png" width="50" /><figcaption>recipe-chilicheesefries.png</figcaption>
+</figure></td>
+<td><p>'''Chili Cheese Fries</p></td>
+<td><p>Microwave 1 Space Fries, 1 Hot Chili, 1 cheese wedge.</p></td>
+<td><p>9 nutriment, 9 animal protein, <span style="Color: Blue">2 capsaicin</span></p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-cubancarp.png" title="recipe-cubancarp.png" alt="recipe-cubancarp.png" width="50" /><figcaption>recipe-cubancarp.png</figcaption>
+</figure></td>
+<td><p>'''Cuban Carp</p></td>
+<td><p>Microwave 1 carp fillet, 1 ball of dough, 1 chili pepper.</p></td>
+<td><p>7 animal protein, 3 nutriment, <span style="color:red">6 carpotoxin</span>, <span style="color:blue">10 capsaicin</span></p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-sushiroll.png" title="recipe-sushiroll.png" alt="recipe-sushiroll.png" width="50" /><figcaption>recipe-sushiroll.png</figcaption>
+</figure></td>
+<td><p>'''Sushi Roll</p></td>
+<td><p>Microwave 3 meat, 1 cabbage, 20u rice.</p></td>
+<td><p>6 seafood,</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-popcorn.png" title="recipe-popcorn.png" alt="recipe-popcorn.png" width="50" /><figcaption>recipe-popcorn.png</figcaption>
+</figure></td>
+<td><p>'''Popcorn</p></td>
+<td><p>Microwave 1 corn.</p></td>
+<td><p>2 nutriment, 3 corn oil</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-meatsteak.png" title="recipe-meatsteak.png" alt="recipe-meatsteak.png" width="50" /><figcaption>recipe-meatsteak.png</figcaption>
+</figure></td>
+<td><p>'''Meat Steak</p></td>
+<td><p>Microwave 1 unit salt, 1 unit pepper, 1 meat (any type).</p></td>
+<td><p>13 animal protein, 1 salt, 1 pepper</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-spacylibertyduff.png" title="recipe-spacylibertyduff.png" alt="recipe-spacylibertyduff.png" width="50" /><figcaption>recipe-spacylibertyduff.png</figcaption>
+</figure></td>
+<td><p>'''Spacy Liberty Duff</p></td>
+<td><p>Microwave 5 units water, 5 units vodka, 5 units psilocybin.</p></td>
+<td><p>6 nutriment, <span style="color:blue">6 psilocybin</span></p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-amanitajelly.png" title="recipe-amanitajelly.png" alt="recipe-amanitajelly.png" width="50" /><figcaption>recipe-amanitajelly.png</figcaption>
+</figure></td>
+<td><p>'''Amanita Jelly</p></td>
+<td><p>Microwave 5 units water, 5 units vodka, 5 units amatoxin.</p></td>
+<td><p>6 nutriment, <span style="color:blue">3 psilocybin</span></p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-meatballsoup.png" title="recipe-meatballsoup.png" alt="recipe-meatballsoup.png" width="50" /><figcaption>recipe-meatballsoup.png</figcaption>
+</figure></td>
+<td><p>'''Meatball Soup</p></td>
+<td><p>Microwave 10 units water, 1 meatball, 1 carrot, 1 potato.</p></td>
+<td><p>11 animal protein, 5 water, <span style="color:blue">5 imidazoline</span>, 1 carrot juice, 2 potato juice</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-vegetablesoup.png" title="recipe-vegetablesoup.png" alt="recipe-vegetablesoup.png" width="50" /><figcaption>recipe-vegetablesoup.png</figcaption>
+</figure></td>
+<td><p>'''Vegetable Soup</p></td>
+<td><p>Microwave 10 units water, 1 carrot, 1 corn, 1 eggplant, 1 potato.</p></td>
+<td><p>8 nutriment, 5 water, 3 corn oil, <span style="color:blue">5 imidazoline</span>, 1 carrot juice, 2 potato juice</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-nettlesoup.png" title="recipe-nettlesoup.png" alt="recipe-nettlesoup.png" width="50" /><figcaption>recipe-nettlesoup.png</figcaption>
+</figure></td>
+<td><p>'''Nettle Soup</p></td>
+<td><p>Microwave 10 units water, 1 nettle, 3 units egg yolk, 1 potato.</p></td>
+<td><p>8 nutriment, 5 water, <span style="color:blue">5 tricordrazine</span>, <span style="color:red">9 sulphuric acid</span>, 2 potato juice, 3 egg yolk</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-wishsoup.png" title="recipe-wishsoup.png" alt="recipe-wishsoup.png" width="50" /><figcaption>recipe-wishsoup.png</figcaption>
+</figure></td>
+<td><p>'''Wish Soup</p></td>
+<td><p>Microwave 20 units water. Yep.</p></td>
+<td><p>10 water, 25% chance of 8 nutriment</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-hotchili.png" title="recipe-hotchili.png" alt="recipe-hotchili.png" width="50" /><figcaption>recipe-hotchili.png</figcaption>
+</figure></td>
+<td><p>'''Hot Chili</p></td>
+<td><p>Microwave 1 meat, 1 chili pepper, 1 tomato.</p></td>
+<td><p>3 nutriment, 12 animal protein <span style="color:blue">10 capsaicin</span>, 4 tomato juice</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-coldchili.png" title="recipe-coldchili.png" alt="recipe-coldchili.png" width="50" /><figcaption>recipe-coldchili.png</figcaption>
+</figure></td>
+<td><p>'''Cold Chili</p></td>
+<td><p>Microwave 1 meat, 1 ice pepper, 1 tomato.</p></td>
+<td><p>3 nutriment, 12 animal protein, <span style="color:blue">10 frost oil</span>, 4 tomato juice</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-spellburger.png" title="recipe-spellburger.png" alt="recipe-spellburger.png" width="50" /><figcaption>recipe-spellburger.png</figcaption>
+</figure></td>
+<td><p>'''Spell Burger</p></td>
+<td><p>Microwave 1 Burger, 1 wizard hat.</p></td>
+<td><p>6 nutriment, 3 or 13 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-bigbiteburger.png" title="recipe-bigbiteburger.png" alt="recipe-bigbiteburger.png" width="50" /><figcaption>recipe-bigbiteburger.png</figcaption>
+</figure></td>
+<td><p>'''Big Bite Burger</p></td>
+<td><p>Microwave 1 Burger, 3 meat, 3 egg yolk.</p></td>
+<td><p>40 animal protein, 4 nutriment, 3 egg yolk</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-fishandchips.png" title="recipe-fishandchips.png" alt="recipe-fishandchips.png" width="50" /><figcaption>recipe-fishandchips.png</figcaption>
+</figure></td>
+<td><p>'''Fish and Chips</p></td>
+<td><p>Microwave 1 Space Fries, 1 carp meat.</p></td>
+<td><p>3 nutriment, 6 animal protein, <span style="color:red">6 carpotoxin</span></p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-sandwich.png" title="recipe-sandwich.png" alt="recipe-sandwich.png" width="50" /><figcaption>recipe-sandwich.png</figcaption>
+</figure></td>
+<td><p>'''Sandwich</p></td>
+<td><p>Microwave 2 bread slices, 1 Meat Steak, 1 cheese wedge. Custom sandwiches can be made by combining items with a bread slice, but use this recipe for others that call for a sandwich as an ingredient.</p></td>
+<td><p>3 nutriment, 20.4 animal protein, 1.2 egg yolk, 1 salt, 1 pepper</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-toastedsandwich.png" title="recipe-toastedsandwich.png" alt="recipe-toastedsandwich.png" width="50" /><figcaption>recipe-toastedsandwich.png</figcaption>
+</figure></td>
+<td><p>'''Toasted Sandwich</p></td>
+<td><p>Microwave 1 Sandwich.</p></td>
+<td><p>3 nutriment, 23.4 animal protein, 1.2 egg yolk, 1 salt, 1 pepper, 2 carbon</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-grilledcheesesandwich.png" title="recipe-grilledcheesesandwich.png" alt="recipe-grilledcheesesandwich.png" width="50" /><figcaption>recipe-grilledcheesesandwich.png</figcaption>
+</figure></td>
+<td><p>'''Grilled Cheese Sandwich</p></td>
+<td><p>Microwave 2 bread slices, 1 cheese wedge.</p></td>
+<td><p>3 nutriment, 8.4 animal protein, 1.2 egg yolk</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-tomatosoup.png" title="recipe-tomatosoup.png" alt="recipe-tomatosoup.png" width="50" /><figcaption>recipe-tomatosoup.png</figcaption>
+</figure></td>
+<td><p>'''Tomato Soup</p></td>
+<td><p>Microwave 10 units water, 2 tomatoes.</p></td>
+<td><p>Drinking this makes you feel like a vampire. A tomato vampire. 5 nutriment, 14 tomato juice</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-rofflewaffles.png" title="recipe-rofflewaffles.png" alt="recipe-rofflewaffles.png" width="50" /><figcaption>recipe-rofflewaffles.png</figcaption>
+</figure></td>
+<td><p>'''Roffle Waffles</p></td>
+<td><p>Microwave 2 balls of dough, 10 units sugar, 5 units psilocybin.</p></td>
+<td><p>8 nutriment, <span style="color:blue">8 psilocybin</span>, 2 animal protein</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-stew.png" title="recipe-stew.png" alt="recipe-stew.png" width="50" /><figcaption>recipe-stew.png</figcaption>
+</figure></td>
+<td><p>'''Stew</p></td>
+<td><p>Microwave 10 units water, 1 meat, 1 tomato, 1 potato, 1 carrot, 1 eggplant, 1 chantrelle mushroom.</p></td>
+<td><p>6 nutriment, 13 animal protein, 7 tomato juice, <span style="color:blue">10 imidazoline</span>, 5 water, 2 potato juice, 1 carrot juice</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-bearstew.png" title="recipe-bearstew.png" alt="recipe-bearstew.png" width="50" /><figcaption>recipe-bearstew.png</figcaption>
+</figure></td>
+<td><p>'''Bear Stew</p></td>
+<td><p>Microwave 10 units water, 1 bluespace bear meat, 1 tomato, 1 potato, 1 carrot, 1 eggplant, 1 chantrelle mushroom.</p></td>
+<td><p>6 nutriment, 4 animal protein, 5 tomato juice, <span style="color:blue">5 hyperzine</span>, <span style="color:blue">5 imidazoline</span>, 5 water</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-jelliedtoast.png" title="recipe-jelliedtoast.png" alt="recipe-jelliedtoast.png" width="50" /><figcaption>recipe-jelliedtoast.png</figcaption>
+</figure></td>
+<td><p>'''Jellied Toast</p></td>
+<td><p>Microwave 1 bread slice, 5 units cherry jelly or slime jelly. Slime jelly will poison someone who eats it.</p></td>
+<td><p>1 nutriment, 0.2 animal protein, 0.6 egg yolk, 5 cherry jelly or <span style="color:red">5 slime jelly</span></p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-pieceofhoneyedtoast.png" title="recipe-pieceofhoneyedtoast.png" alt="recipe-pieceofhoneyedtoast.png" width="50" /><figcaption>recipe-pieceofhoneyedtoast.png</figcaption>
+</figure></td>
+<td><p>'''Honeyed Toast</p></td>
+<td><p>Microwave 1 bread slice, 5 units honey.</p></td>
+<td><p>1 nutriment, 0.2 animal protein, 0.6 egg yolk, 5 honey</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-milosoup.png" title="recipe-milosoup.png" alt="recipe-milosoup.png" width="50" /><figcaption>recipe-milosoup.png</figcaption>
+</figure></td>
+<td><p>'''Milosoup</p></td>
+<td><p>Microwave 10 units water, 2 tofu, 2 soy dope.</p></td>
+<td><p>8 nutriment, 5 water</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-stewedsoymeat.png" title="recipe-stewedsoymeat.png" alt="recipe-stewedsoymeat.png" width="50" /><figcaption>recipe-stewedsoymeat.png</figcaption>
+</figure></td>
+<td><p>'''Stewed Soy Meat</p></td>
+<td><p>Microwave 2 soy dope, 1 carrot, 1 tomato.</p></td>
+<td><p>8 nutriment, <span style="color:blue">5 imidazoline</span>, 1 carrot juice, 2 tomato juice</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-boiledspaghetti.png" title="recipe-boiledspaghetti.png" alt="recipe-boiledspaghetti.png" width="50" /><figcaption>recipe-boiledspaghetti.png</figcaption>
+</figure></td>
+<td><p>'''Boiled Spaghetti</p></td>
+<td><p>Microwave 5 units water, 1 spaghetti (uncooked).</p></td>
+<td><p>2 nutriment, .33 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-lomein.png" title="recipe-lomein.png" alt="recipe-lomein.png" width="50" /><figcaption>recipe-lomein.png</figcaption>
+</figure></td>
+<td><p>'''Lo Mein</p></td>
+<td><p>Microwave 5 units water, 5 units soy sauce, 1 carrot, 1 cabbage, 1 spaghetti (uncooked).</p></td>
+<td><p>6 nutriment, 3 carrot juice, <span style="color:blue">1 imidazoline</span></p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-boiledrice.png" title="recipe-boiledrice.png" alt="recipe-boiledrice.png" width="50" /><figcaption>recipe-boiledrice.png</figcaption>
+</figure></td>
+<td><p>'''Boiled Rice</p></td>
+<td><p>Microwave 5 units water, 10 units rice.</p></td>
+<td><p>2 nutriment</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-friedrice.png" title="recipe-friedrice.png" alt="recipe-friedrice.png" width="50" /><figcaption>recipe-friedrice.png</figcaption>
+</figure></td>
+<td><p>'''Fried Rice</p></td>
+<td><p>Microwave 5 units water, 10 units rice, 5 units soy sauce, 1 carrot, 1 cabbage.</p></td>
+<td><p>6 nutriment, 5 rice, 3 carrot juice, <span style="color:blue">1 imidazoline</span></p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-risotto.png" title="recipe-risotto.png" alt="recipe-risotto.png" width="50" /><figcaption>recipe-risotto.png</figcaption>
+</figure></td>
+<td><p>'''Risotto</p></td>
+<td><p>Microwave 5 units wine, 10 units rice, 1 unit space spice, 1 chantrelle mushroom.</p></td>
+<td><p>6 mushroom, 4 rice</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-bibimbapbowl.png" title="recipe-bibimbapbowl.png" alt="recipe-bibimbapbowl.png" width="50" /><figcaption>recipe-bibimbapbowl.png</figcaption>
+</figure></td>
+<td><p>'''Bibimbap Bowl</p></td>
+<td><p>Microwave 5 units rice, 1 cutlet, 1 egg, 1 carrot, 1 cabbage, 1 chantrelle mushroom, 2 units space spice.</p></td>
+<td><p>6 animal protein, 3 egg yolk, 3 space spice, <span style="color:blue">3 imidazoline</span></p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-ricepudding.png" title="recipe-ricepudding.png" alt="recipe-ricepudding.png" width="50" /><figcaption>recipe-ricepudding.png</figcaption>
+</figure></td>
+<td><p>'''Rice Pudding</p></td>
+<td><p>Microwave 5 units milk, 10 units rice.</p></td>
+<td><p>4 nutriment</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-spaghetti.png" title="recipe-spaghetti.png" alt="recipe-spaghetti.png" width="50" /><figcaption>recipe-spaghetti.png</figcaption>
+</figure></td>
+<td><p>'''Spaghetti</p></td>
+<td><p>Microwave 5 units water, 1 spaghetti (uncooked), 2 tomatoes.</p></td>
+<td><p>6 nutriment, 14 tomato juice, .33 animal protein</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-spaghettimeatballs.png" title="recipe-spaghettimeatballs.png" alt="recipe-spaghettimeatballs.png" width="50" /><figcaption>recipe-spaghettimeatballs.png</figcaption>
+</figure></td>
+<td><p>'''Spaghetti and Meatballs</p></td>
+<td><p>Microwave 5 units water, 1 spaghetti (uncooked), 2 meatballs.</p></td>
+<td><p>4 nutriment, 10.33 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-spesslaw.png" title="recipe-spesslaw.png" alt="recipe-spesslaw.png" width="50" /><figcaption>recipe-spesslaw.png</figcaption>
+</figure></td>
+<td><p>'''Spesslaw</p></td>
+<td><p>Microwave 5 units water, 1 spaghetti (uncooked), 4 meatballs.</p></td>
+<td><p>4 nutriment, 16.33 animal protein</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-superbiteburger.png" title="recipe-superbiteburger.png" alt="recipe-superbiteburger.png" width="50" /><figcaption>recipe-superbiteburger.png</figcaption>
+</figure></td>
+<td><p>'''Super Bite Burger</p></td>
+<td><p>Microwave 1 Big Bite Burger, 1 ball of dough, 1 meat, 1 tomato, 1 Boiled Egg, 1 cheese wedge, 5 units salt, 5 units pepper.</p></td>
+<td><p>25 nutriment, 25 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-candiedapple.png" title="recipe-candiedapple.png" alt="recipe-candiedapple.png" width="50" /><figcaption>recipe-candiedapple.png</figcaption>
+</figure></td>
+<td><p>'''Candied Apple</p></td>
+<td><p>Microwave 5 units water, 5 units sugar, 1 apple.</p></td>
+<td><p>3 nutriment</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-jellyburger.png" title="recipe-jellyburger.png" alt="recipe-jellyburger.png" width="50" /><figcaption>recipe-jellyburger.png</figcaption>
+</figure></td>
+<td><p>'''Jelly Burger</p></td>
+<td><p>Microwave 1 bun, 5 units of cherry jelly or slime jelly. Slime jelly will poison someone who eats it.</p></td>
+<td><p>5 nutriment, 5 cherry jelly or <span style="color:red">5 slime jelly</span>, 1 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-twobread.png" title="recipe-twobread.png" alt="recipe-twobread.png" width="50" /><figcaption>recipe-twobread.png</figcaption>
+</figure></td>
+<td><p>'''Two Bread</p></td>
+<td><p>Microwave 2 bread slices, 5 units wine.</p></td>
+<td><p>2 nutriment, 0.4 animal protein, 1.2 egg yolk</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-jellysandwich.png" title="recipe-jellysandwich.png" alt="recipe-jellysandwich.png" width="50" /><figcaption>recipe-jellysandwich.png</figcaption>
+</figure></td>
+<td><p>'''Jelly Sandwich</p></td>
+<td><p>Microwave 2 bread slices, 5 units cherry jelly or slime jelly.</p></td>
+<td><p>2 nutriment, 5 cherry jelly or <span style="color:red">5 slime jelly</span>, .4 animal protein, 1.6 egg yolk</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-tomatosoup.png" title="recipe-tomatosoup.png" alt="recipe-tomatosoup.png" width="50" /><figcaption>recipe-tomatosoup.png</figcaption>
+</figure></td>
+<td><p>'''Tomato Soup</p></td>
+<td><p>Microwave 30 units blood!</p></td>
+<td><p>Smells like copper... 2 animal protein, <span style="color:red">10 blood</span>, 5 water</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-slimesoup.png" title="recipe-slimesoup.png" alt="recipe-slimesoup.png" width="50" /><figcaption>recipe-slimesoup.png</figcaption>
+</figure></td>
+<td><p>'''Slime Soup</p></td>
+<td><p>Microwave 10 units of water, 5 units of slime jelly.</p></td>
+<td><p>10 Water, <span style="color:red">5 Slime Jelly</span></p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-boiledslimecore.png" title="recipe-boiledslimecore.png" alt="recipe-boiledslimecore.png" width="50" /><figcaption>recipe-boiledslimecore.png</figcaption>
+</figure></td>
+<td><p>'''Boiled slime Core</p></td>
+<td><p>Microwave 5 units of water, 1 slime core</p></td>
+<td><p><span style="color:red">35 Slime Jelly</span></p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-chocolateegg.png" title="recipe-chocolateegg.png" alt="recipe-chocolateegg.png" width="50" /><figcaption>recipe-chocolateegg.png</figcaption>
+</figure></td>
+<td><p>'''Chocolate Egg</p></td>
+<td><p>Microwave 1 egg, 1 chocolate bar.</p></td>
+<td><p>3 nutriment, 4 sugar, 4 coco, 3 egg yolk</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-sausage.png" title="recipe-sausage.png" alt="recipe-sausage.png" width="50" /><figcaption>recipe-sausage.png</figcaption>
+</figure></td>
+<td><p>'''Sausage</p></td>
+<td><p>Microwave 1 cutlet, 1 meatball.</p></td>
+<td><p>12 animal protein</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-fishfingers.png" title="recipe-fishfingers.png" alt="recipe-fishfingers.png" width="50" /><figcaption>recipe-fishfingers.png</figcaption>
+</figure></td>
+<td><p>'''Fish Fingers</p></td>
+<td><p>Microwave 10 units flour, 3 units egg yolk, 1 carp meat.</p></td>
+<td><p>7 animal protein, <span style="color:red">6 carpotoxin</span>, 3 egg yolk</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-mysterysoup.png" title="recipe-mysterysoup.png" alt="recipe-mysterysoup.png" width="50" /><figcaption>recipe-mysterysoup.png</figcaption>
+</figure></td>
+<td><p>'''Mystery Soup</p></td>
+<td><p>Microwave 10 units water, 1 Burned Mess, 1 tofu, 3 egg yolk, 1 cheese wedge.</p></td>
+<td><p>Always contains 4 animal protein, <span style="color:red">3+ toxin</span>, and 1+ carbon. Possible other reagents: nutriment, <span style="color:blue">capsaicin</span>, tomato juice, <span style="color:blue">frost oil</span>, water, <span style="color:blue">tricordrazine</span>, banana juice, <span style="color:red">blood</span>, <span style="color:red">slime jelly</span>, or <span style="color:blue">imidazoline</span>.</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-plumphelmetbiscuit.png" title="recipe-plumphelmetbiscuit.png" alt="recipe-plumphelmetbiscuit.png" width="50" /><figcaption>recipe-plumphelmetbiscuit.png</figcaption>
+</figure></td>
+<td><p>'''Plump Helmet Biscuit</p></td>
+<td><p>Microwave 1 plump helmet mushroom, 5 units water, 5 units flour.</p></td>
+<td><p>5 nutriment, 10% chance of 8 nutriment and <span style="color:blue">5 tricordrazine</span></p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-chantrellesoup.png" title="recipe-chantrellesoup.png" alt="recipe-chantrellesoup.png" width="50" /><figcaption>recipe-chantrellesoup.png</figcaption>
+</figure></td>
+<td><p>'''Chantrelle Soup</p></td>
+<td><p>Microwave 5 units water, 5 units milk, 1 chantrelle mushroom.</p></td>
+<td><p>8 nutriment</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-redcurry.png" title="recipe-redcurry.png" alt="recipe-redcurry.png" width="50" /><figcaption>recipe-redcurry.png</figcaption>
+</figure></td>
+<td><p>'''Red Curry</p></td>
+<td><p>Microwave 2 cutlets, 5 units cream, 2 units space spice, 5 units rice.</p></td>
+<td><p>6 animal protein, 2 nutriment, 2 space spice</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-greencurry.png" title="recipe-greencurry.png" alt="recipe-greencurry.png" width="50" /><figcaption>recipe-greencurry.png</figcaption>
+</figure></td>
+<td><p>'''Green Curry</p></td>
+<td><p>Microwave 2 tofu, 1 chili pepper, 5 units cream, 2 units space spice, 5 units rice.</p></td>
+<td><p>5 tofu, <span style="color:blue">2 capsaicin</span>, 1 nutriment, 2 space spice</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-yellowcurry.png" title="recipe-yellowcurry.png" alt="recipe-yellowcurry.png" width="50" /><figcaption>recipe-yellowcurry.png</figcaption>
+</figure></td>
+<td><p>'''Yellow Curry</p></td>
+<td><p>Microwave 2 peanuts, 1 potato, 5 units of cream, 2 units space spice, 5 units rice.</p></td>
+<td><p>8 nutriment, 2 space spice</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-chawanmushi.png" title="recipe-chawanmushi.png" alt="recipe-chawanmushi.png" width="50" /><figcaption>recipe-chawanmushi.png</figcaption>
+</figure></td>
+<td><p>'''Chawanmushi</p></td>
+<td><p>Microwave 5 units water, 5 units soy sauce, 6 units egg yolk, 1 chantrelle mushroom.</p></td>
+<td><p>5 animal protein, 6 egg yolk</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-borsh.png" title="recipe-borsh.png" alt="recipe-borsh.png" width="50" /><figcaption>recipe-borsh.png</figcaption>
+</figure></td>
+<td><p>'''Borscht</p></td>
+<td><p>Microwave 10 units water, 1 white beet, 1 cabbage.</p></td>
+<td><p>"Wait, how do you spell it again..?" 8 nutriment, 3 sugar</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-tossedsalad.png" title="recipe-tossedsalad.png" alt="recipe-tossedsalad.png" width="50" /><figcaption>recipe-tossedsalad.png</figcaption>
+</figure></td>
+<td><p>'''Tossed Salad</p></td>
+<td><p>Microwave 2 cabbage, 1 tomato, 1 carrot, 1 apple.</p></td>
+<td><p>8 nutriment, <span style="color:blue">5 imidazoline</span>, 2 tomato juice, 1 carrot juice</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-aesirsalad.png" title="recipe-aesirsalad.png" alt="recipe-aesirsalad.png" width="50" /><figcaption>recipe-aesirsalad.png</figcaption>
+</figure></td>
+<td><p>'''Aesir salad</p></td>
+<td><p>Microwave 1 ambrosia deus, 1 golden apple.</p></td>
+<td><p>8 nutriment, <span style="color:blue">8 The Doctor's Delight</span>, <span style="color:blue">8 tricordrazine</span>, <span style="color:blue">1 bicaridine</span>, <span style="color:red">1 synaptizine</span>, <span style="color:blue">1 hyperzine</span>, <span style="color:blue">1 space drugs</span>, 3 gold.</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-validsalad.png" title="recipe-validsalad.png" alt="recipe-validsalad.png" width="50" /><figcaption>recipe-validsalad.png</figcaption>
+</figure></td>
+<td><p>'''Valid Salad</p></td>
+<td><p>Microwave 3 ambrosia vulgaris, 1 potato, 1 meatball.</p></td>
+<td><p>6 nutriment, 5 animal protein, <span style="color:blue">3 space drugs</span>, <span style="color:blue">3 kelotane</span>, <span style="color:blue">3 bicaridine</span>, 2 potato juice</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-stuffing.png" title="recipe-stuffing.png" alt="recipe-stuffing.png" width="50" /><figcaption>recipe-stuffing.png</figcaption>
+</figure></td>
+<td><p>'''Stuffing</p></td>
+<td><p>Microwave 1 Bread, 5 units water, 1 unit salt, 1 unit pepper.</p></td>
+<td><p>3 nutriment, 1 animal protein, 3 egg yolk</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-tofurkey.png" title="recipe-tofurkey.png" alt="recipe-tofurkey.png" width="50" /><figcaption>recipe-tofurkey.png</figcaption>
+</figure></td>
+<td><p>'''Tofurkey</p></td>
+<td><p>Microwave 2 tofu, 1 Stuffing.</p></td>
+<td><p>12 nutriment, <span style="color:blue">3 soporific</span>, 1 animal protein, 3 egg yolk</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-taco.png" title="recipe-taco.png" alt="recipe-taco.png" width="50" /><figcaption>recipe-taco.png</figcaption>
+</figure></td>
+<td><p>'''Taco</p></td>
+<td><p>Microwave 1 dough slice, 1 cutlet, 1 cheese wedge. Alternatively, microwave 1 tortilla, 1 cutlet, 1 cheese wedge.</p></td>
+<td><p>4 nutriment, 10.3 animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-basketofchips.png" title="recipe-basketofchips.png" alt="recipe-basketofchips.png" width="50" /><figcaption>recipe-basketofchips.png</figcaption>
+</figure></td>
+<td><p>'''Basket of Chips</p></td>
+<td><p>Microwave 1 tortilla, 1 salt.</p></td>
+<td><p>10 nutriment</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-plateofnachos.png" title="recipe-plateofnachos.png" alt="recipe-plateofnachos.png" width="50" /><figcaption>recipe-plateofnachos.png</figcaption>
+</figure></td>
+<td><p>'''Plate of Nachos</p></td>
+<td><p>Microwave 1 chip basket, 1 cheese wedge.</p></td>
+<td><p>10 nutriment</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-salsadip.png" title="recipe-salsadip.png" alt="recipe-salsadip.png" width="50" /><figcaption>recipe-salsadip.png</figcaption>
+</figure></td>
+<td><p>'''Salsa Dip</p></td>
+<td><p>Microwave 1 chili pepper, 1 tomato, 1 lime, 1 space spice, 1 salt, 1 pepper. Dip chips or nachos in this!</p></td>
+<td><p>20 nutriment</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-guacdip.png" title="recipe-guacdip.png" alt="recipe-guacdip.png" width="50" /><figcaption>recipe-guacdip.png</figcaption>
+</figure></td>
+<td><p>'''Guacamole Dip</p></td>
+<td><p>Microwave 1 tofu, 1 chili pepper, 1 lime, 1 space spice, 1 salt, 1 pepper. Dip chips or nachos in this!</p></td>
+<td><p>20 nutriment Don't tell anyone there's no avocado in it.</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-quesodip.png" title="recipe-quesodip.png" alt="recipe-quesodip.png" width="50" /><figcaption>recipe-quesodip.png</figcaption>
+</figure></td>
+<td><p>'''Queso Dip</p></td>
+<td><p>Microwave 1 cheese wedge, 1 chili pepper, 1 tomato, 1 space spice, 1 salt, 1 pepper. Dip chips or nachos in this!</p></td>
+<td><p>20 nutriment</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-meatburrito.png" title="recipe-meatburrito.png" alt="recipe-meatburrito.png" width="50" /><figcaption>recipe-meatburrito.png</figcaption>
+</figure></td>
+<td><p>'''Meat Burrito</p></td>
+<td><p>Microwave 1 tortilla, 2 meatballs, 1 space spice.</p></td>
+<td><p>6 nutriment, animal protein</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-veganburrito.png" title="recipe-veganburrito.png" alt="recipe-veganburrito.png" width="50" /><figcaption>recipe-veganburrito.png</figcaption>
+</figure></td>
+<td><p>'''Vegan Burrito</p></td>
+<td><p>Microwave 1 tortilla, 1 tofu.</p></td>
+<td><p>6 nutriment, 4 tofu</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-spicymeatburrito.png" title="recipe-spicymeatburrito.png" alt="recipe-spicymeatburrito.png" width="50" /><figcaption>recipe-spicymeatburrito.png</figcaption>
+</figure></td>
+<td><p>'''Spicy Meat Burrito</p></td>
+<td><p>Microwave 1 burrito, 2 chili</p></td>
+<td><p>6 nutriment, animal protein, capsaicin</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-meatcheeseburrito.png" title="recipe-meatcheeseburrito.png" alt="recipe-meatcheeseburrito.png" width="50" /><figcaption>recipe-meatcheeseburrito.png</figcaption>
+</figure></td>
+<td><p>'''Meat Cheese Burrito</p></td>
+<td><p>Microwave 1 burrito, 1 cheesewedge.</p></td>
+<td><p>6 nutriment, animal protein</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-spicycheesemeatburrito.png" title="recipe-spicycheesemeatburrito.png" alt="recipe-spicycheesemeatburrito.png" width="50" /><figcaption>recipe-spicycheesemeatburrito.png</figcaption>
+</figure></td>
+<td><p>'''Spicy Cheese Meat Burrito</p></td>
+<td><p>Microwave 1 burrito, 1 cheesewedge, 2 chili.</p></td>
+<td><p>6 nutriment, animal protein, capsaicin</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-eldiablo.png" title="recipe-eldiablo.png" alt="recipe-eldiablo.png" width="50" /><figcaption>recipe-eldiablo.png</figcaption>
+</figure></td>
+<td><p>'''El Diablo (Hell Burrito)</p></td>
+<td><p>Microwave 1 burrito spicy, 10 chili.</p></td>
+<td><p>6 nutriment, animal protein, capsaicin While it may be a great Burrito, the peppers will still make it unpleasant.</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-mysterymeatburrito.png" title="recipe-mysterymeatburrito.png" alt="recipe-mysterymeatburrito.png" width="50" /><figcaption>recipe-mysterymeatburrito.png</figcaption>
+</figure></td>
+<td><p>'''Mystery Meat Burrito</p></td>
+<td><p>Microwave 1 burrito, 1 mystery soup.</p></td>
+<td><p>6 nutriment, ???</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-breakfastwrap.png" title="recipe-breakfastwrap.png" alt="recipe-breakfastwrap.png" width="50" /><figcaption>recipe-breakfastwrap.png</figcaption>
+</figure></td>
+<td><p>'''Breakfast Wrap</p></td>
+<td><p>Microwave 1 burrito, 1 cheese wedge, 1 egg.</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="Bunbun.png" title="Bunbun.png" alt="Bunbun.png" width="50" /><figcaption>Bunbun.png</figcaption>
+<img src="recipe-mint.png" title="recipe-mint.png" alt="recipe-mint.png" width="50" /><figcaption>recipe-mint.png</figcaption>
 </figure></td>
-<td><p>Bun Bun</p></td>
-<td><p>2 Buns</p></td>
+<td><p>'''Mint</p></td>
+<td><p>Microwave 5 units sugar, 5 units frost oil.</p></td>
+<td><p>1 mint toxin</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-breakfastofchampions.png" title="recipe-breakfastofchampions.png" alt="recipe-breakfastofchampions.png" width="50" /><figcaption>recipe-breakfastofchampions.png</figcaption>
+</figure></td>
+<td><p>'''Breakfast of Champions</p></td>
+<td><p>Microwave 1 sausage, 1 omelette, 1 meatsteak.</p></td>
+<td><p>6 animal protein, 4 egg.</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-moghesianseadelight.png" title="recipe-moghesianseadelight.png" alt="recipe-moghesianseadelight.png" width="50" /><figcaption>recipe-moghesianseadelight.png</figcaption>
+</figure></td>
+<td><p>'''Moghesian Sea delight</p></td>
+<td><p>Microwave 3 eggs, 15 units blood.</p></td>
+<td><p>4 egg.</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-redsunspecial.png" title="recipe-redsunspecial.png" alt="recipe-redsunspecial.png" width="50" /><figcaption>recipe-redsunspecial.png</figcaption>
+</figure></td>
+<td><p>'''Red Sun Special</p></td>
+<td><p>Microwave 1 sausage, 1 cheese wedge</p></td>
+<td><p>2 animal protein.</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-hatchlingsuprise.png" title="recipe-hatchlingsuprise.png" alt="recipe-hatchlingsuprise.png" width="50" /><figcaption>recipe-hatchlingsuprise.png</figcaption>
+</figure></td>
+<td><p>'''Hatchling Surprise</p></td>
+<td><p>Microwave 1 poached egg, 3 bacon.</p></td>
+<td><p>2 egg, 4 animal protein.</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-meatpancake.png" title="recipe-meatpancake.png" alt="recipe-meatpancake.png" width="50" /><figcaption>recipe-meatpancake.png</figcaption>
+</figure></td>
+<td><p>'''Meat Pancake</p></td>
+<td><p>Microwave 3 meatball, 1 omelette.</p></td>
+<td><p>2 egg, 6 animal protein.</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-chiliedeggs.png" title="recipe-chiliedeggs.png" alt="recipe-chiliedeggs.png" width="50" /><figcaption>recipe-chiliedeggs.png</figcaption>
+</figure></td>
+<td><p>'''Chilied Eggs</p></td>
+<td><p>Microwave 1 hotchili, 3 boiled egg.</p></td>
+<td><p>6 egg, 2 animal protein.</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-stuffedmeatball.png" title="recipe-stuffedmeatball.png" alt="recipe-stuffedmeatball.png" width="50" /><figcaption>recipe-stuffedmeatball.png</figcaption>
+</figure></td>
+<td><p>'''Stuffed Meatball</p></td>
+<td><p>Microwave 1 meatball, 1 cheese wedge, 1 cabbage.</p></td>
+<td><p>4 animal protein.</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-korlaaskak.png" title="recipe-korlaaskak.png" alt="recipe-korlaaskak.png" width="50" /><figcaption>recipe-korlaaskak.png</figcaption>
+</figure></td>
+<td><p>'''Korlaaskak</p></td>
+<td><p>Microwave 6 carp meat, 1 cabbage, 1 lime, 1 units space spice.</p></td>
+<td><p>12 seafood.</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="burnedmess.png" title="burnedmess.png" alt="burnedmess.png" width="50" /><figcaption>burnedmess.png</figcaption>
+</figure></td>
+<td><p>'''Burned Mess</p></td>
+<td><p>Created when you try to microwave an invalid recipe. It may also break or dirty the microwave.</p></td>
+<td><p><span style="color:red">1+ toxin</span>, 3+ carbon</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-baconburger.png" title="recipe-baconburger.png" alt="recipe-baconburger.png" width="50" /><figcaption>recipe-baconburger.png</figcaption>
+</figure></td>
+<td><p>'''Bacon Burger</p></td>
+<td><p>Microwave a bun, meat, and three bacon</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><figure>
-<img src="Croissant.png" title="Croissant.png" alt="Croissant.png" width="50" /><figcaption>Croissant.png</figcaption>
+<img src="recipe-ntmuffin.png" title="recipe-ntmuffin.png" alt="recipe-ntmuffin.png" width="50" /><figcaption>recipe-ntmuffin.png</figcaption>
 </figure></td>
-<td><p>Croissant</p></td>
-<td><p>1 Dough, 1 unit of Salt, 5 units of Water, 5 units of Milk</p></td>
+<td><p>'''NT Muffin</p></td>
+<td><p>Microwave a plump helment biscuit, sausage, fried egg, and cheese wedge.</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><figure>
-<img src="Benedict.png" title="Benedict.png" alt="Benedict.png" width="50" /><figcaption>Benedict.png</figcaption>
+<img src="recipe-carptaco.png" title="recipe-carptaco.png" alt="recipe-carptaco.png" width="50" /><figcaption>recipe-carptaco.png</figcaption>
 </figure></td>
-<td><p>Benedict</p></td>
-<td><p>1 Cutlet, 1 Fried Egg, 1 Bread Slice</p></td>
-<td><p>A traitorous breakfast.</p></td>
+<td><p>'''Carp Taco</p></td>
+<td><p>Microwave a carp fillet, a tortilla, a chili, and a lemon.</p></td>
+<td><p>Caution: Contains carpotoxin!</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-blt.png" title="recipe-blt.png" alt="recipe-blt.png" width="50" /><figcaption>recipe-blt.png</figcaption>
+</figure></td>
+<td><p>'''BLT</p></td>
+<td><p>Microwave two bread slices, two bacon, one tomato, and one cabbage.</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-porkbowl.png" title="recipe-porkbowl.png" alt="recipe-porkbowl.png" width="50" /><figcaption>recipe-porkbowl.png</figcaption>
+</figure></td>
+<td><p>'''Porkbowl</p></td>
+<td><p>Microwave 10 rice, 5 water, 1 bacon.</p></td>
+<td><p>4 protein, 6 rice.</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-mashedpotato.png" title="recipe-mashedpotato.png" alt="recipe-mashedpotato.png" width="50" /><figcaption>recipe-mashedpotato.png</figcaption>
+</figure></td>
+<td><p>'''Mashed potato</p></td>
+<td><p>Microwave 1 potato.</p></td>
+<td><p>4 nutriment.</p></td>
+</tr>
+<tr class="even">
+<td><figure>
+<img src="recipe-onionrings.png" title="recipe-onionrings.png" alt="recipe-onionrings.png" width="50" /><figcaption>recipe-onionrings.png</figcaption>
+</figure></td>
+<td><p>'''Onion Rings</p></td>
+<td><p>Microwave 1 onion, 1 doughslice.</p></td>
+<td><p>5 nutriment.</p></td>
+</tr>
+<tr class="odd">
+<td><figure>
+<img src="recipe-onionsoup.png" title="recipe-onionsoup.png" alt="recipe-onionsoup.png" width="50" /><figcaption>recipe-onionsoup.png</figcaption>
+</figure></td>
+<td><p>'''Onion Soup</p></td>
+<td><p>Microwave 1 onion, 10 water.</p></td>
+<td><p>5 nutriment.</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
-### Pizzas
+</div>
+</div>
+<div class="toccolours mw-collapsible" style="width:99%; overflow:auto;">
 
-| Picture                                                                                                                                        | Recipe           | Ingredients                                                          | Notes                                                |
-|------------------------------------------------------------------------------------------------------------------------------------------------|------------------|----------------------------------------------------------------------|------------------------------------------------------|
-| <figure>                                                                                                                                       
- <img src="Margheritapizza.png" title="Margheritapizza.png" alt="Margheritapizza.png" width="50" /><figcaption>Margheritapizza.png</figcaption>  
- </figure>                                                                                                                                       | Margherita Pizza | 1 Flat Dough, 4 Cheese Wedges, 1 Tomato                              | Sliceable.                                           |
-| <figure>                                                                                                                                       
- <img src="mushroompizza.png" title="mushroompizza.png" alt="mushroompizza.png" width="50" /><figcaption>mushroompizza.png</figcaption>          
- </figure>                                                                                                                                       | Mushroom Pizza   | 1 Flat Dough, 5 Chantrelle Mushrooms, 1 Cheese wedge, 1 Tomato       | Sliceable.                                           |
-| <figure>                                                                                                                                       
- <img src="meatpizza.png" title="meatpizza.png" alt="meatpizza.png" width="50" /><figcaption>meatpizza.png</figcaption>                          
- </figure>                                                                                                                                       | Meat Pizza       | 1 Flat Dough, 3 Meat, 1 Cheese Wedge, 1 Tomato                       | Sliceable. Extremely nutritious, despite the grease. |
-| <figure>                                                                                                                                       
- <img src="vegepizza.png" title="vegepizza.png" alt="vegepizza.png" width="50" /><figcaption>vegepizza.png</figcaption>                          
- </figure>                                                                                                                                       | Vegetable Pizza  | 1 Flat Dough, 1 Cheese Wedge, 1 Eggplant, 1 Carrot, 1 Corn, 1 Tomato | Sliceable.                                           |
+Oven
+----
 
-### Pastas
+<img src="Oven.gif" title="fig:Oven.gif" alt="Oven.gif" width="50" />  
+\*Before you can use the oven, it must be preheated. Right-click and
+select Toggle Power to turn it on. Preheating takes several minutes, but
+after a short while it can be used to cook even if not fully preheated.
+The food will cook more slowly until preheating is complete. Examine the
+oven while next to it to see how hot it is.
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Picture</p></th>
-<th><p>Recipe</p></th>
-<th><p>Ingredients</p></th>
-<th><p>Notes</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><figure>
-<img src="Lasagna.png" title="Lasagna.png" alt="Lasagna.png" width="50" /><figcaption>Lasagna.png</figcaption>
-</figure></td>
-<td><p>Lasagna</p></td>
-<td><p>2 Tomatoes, 1 Eggplant, 2 Cutlet, 2 Flat Dough</p></td>
-<td><p>Fresh from Space Olive Garden</p></td>
-</tr>
-<tr class="even">
-<td><figure>
-<img src="spagettiboiled.png" title="spagettiboiled.png" alt="spagettiboiled.png" width="50" /><figcaption>spagettiboiled.png</figcaption>
-</figure></td>
-<td><p>Boiled Spaghetti</p></td>
-<td><p>5 units of Water, 1 Spaghetti.</p></td>
-<td><p>Mama Mia!</p></td>
-</tr>
-<tr class="odd">
-<td><figure>
-<img src="pastatomato.png" title="pastatomato.png" alt="pastatomato.png" width="50" /><figcaption>pastatomato.png</figcaption>
-</figure></td>
-<td><p>Tomato Pasta</p></td>
-<td><p>5 units of Water, 1 Spaghetti, 2 Tomatoes.</p></td>
-<td><p>Don't put it in your pockets. That's just unsanitary.</p></td>
-</tr>
-<tr class="even">
-<td><figure>
-<img src="meatballspag.png" title="meatballspag.png" alt="meatballspag.png" width="50" /><figcaption>meatballspag.png</figcaption>
-</figure></td>
-<td><p>Spaghetti &amp; Meatballs</p></td>
-<td><p>5 units of Water, 1 Spaghetti, 2 Meatballs.</p></td>
-<td><p>That's-a a spicy meat-aball!</p></td>
-</tr>
-<tr class="odd">
-<td><figure>
-<img src="Spesslaw.png" title="Spesslaw.png" alt="Spesslaw.png" width="50" /><figcaption>Spesslaw.png</figcaption>
-</figure></td>
-<td><p>Spesslaw</p></td>
-<td><p>5 units of Water, 1 Spaghetti, 4 Meatballs.</p></td>
-<td><p>Lawyer's choice!</p></td>
-</tr>
-<tr class="even">
-<td><figure>
-<img src="eggplantparmigiana.png" title="eggplantparmigiana.png" alt="eggplantparmigiana.png" width="50" /><figcaption>eggplantparmigiana.png</figcaption>
-</figure></td>
-<td><p>Eggplant Parmigiana</p></td>
-<td><p>2 Cheese Wedges, 1 Eggplant</p></td>
-<td><p>Clogs your arteries, healthily!</p></td>
-</tr>
-<tr class="odd">
-<td><figure>
-<img src="Kitsuneudon.png" title="Kitsuneudon.png" alt="Kitsuneudon.png" width="50" /><figcaption>Kitsuneudon.png</figcaption>
-</figure></td>
-<td><p>Kitsune Udon</p></td>
-<td><p>3 units of Egg Yolk, 1 Spaghetti, 1 Tofu</p></td>
-<td><p>Clogs your arteries, healthily!</p></td>
-</tr>
-</tbody>
-</table>
+-   -   You can alt+click the oven to open and close the oven door.
+    -   If the oven door is left open, heat will escape. Make sure it's
+        closed, especially when cooking and preheating!
 
-### Soups & Stews
+<!-- -->
 
-| Picture                                                                                                                                | Recipe            | Ingredients                                                                                 | Notes                                                                                                             |
-|----------------------------------------------------------------------------------------------------------------------------------------|-------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| <figure>                                                                                                                               
- <img src="meatsoup.png" title="meatsoup.png" alt="meatsoup.png" width="50" /><figcaption>meatsoup.png</figcaption>                      
- </figure>                                                                                                                               | Meatball Soup     | 10 units of Water, 1 Meatball, 1 Carrot, 1 Potato                                           | Out of spaghetti? Don't like stew? Here's the thing for you.                                                      |
-| <figure>                                                                                                                               
- <img src="nettlesoup.png" title="nettlesoup.png" alt="nettlesoup.png" width="50" /><figcaption>nettlesoup.png</figcaption>              
- </figure>                                                                                                                               | Nettle Soup       | 10 units of Water, 1 Nettle, 1 Egg, 1 Potato                                                | Contains trace amounts of sulpheric acid.                                                                         |
-| <figure>                                                                                                                               
- <img src="vegesoup.png" title="vegesoup.png" alt="vegesoup.png" width="50" /><figcaption>vegesoup.png</figcaption>                      
- </figure>                                                                                                                               | Vegetable Soup    | 10 units of Water, 1 Carrot, 1 Corn, 1 Eggplant, 1 Potato                                   | Force feed the Botanists this.                                                                                    |
-| <figure>                                                                                                                               
- <img src="tomatosoup.png" title="tomatosoup.png" alt="tomatosoup.png" width="50" /><figcaption>tomatosoup.png</figcaption>              
- </figure>                                                                                                                               | Tomato Soup       | 10 units of water, 2 tomatoes                                                               | What, no crackers?                                                                                                |
-| <figure>                                                                                                                               
- <img src="Bloodsoup.png" title="Bloodsoup.png" alt="Bloodsoup.png" width="50" /><figcaption>Bloodsoup.png</figcaption>                  
- </figure>                                                                                                                               | Blood Soup        | 30 units of Blood                                                                           | They *may* think you're the [homicidal maniac](/wiki/Chef "wikilink") you are when you produce a large amount of these. |
-| <figure>                                                                                                                               
- <img src="Metriodsoup.png" title="Metriodsoup.png" alt="Metriodsoup.png" width="50" /><figcaption>Metriodsoup.png</figcaption>          
- </figure>                                                                                                                               | Slime Soup        | 10 units of water, 5 units of slime jelly.                                                  | Mmm, mmm, oh God my guts.                                                                                         |
-| <figure>                                                                                                                               
- <img src="Mysterysoup.png" title="Mysterysoup.png" alt="Mysterysoup.png" width="50" /><figcaption>Mysterysoup.png</figcaption>          
- </figure>                                                                                                                               | Mystery Soup      | 10 units of Water, 1 Burned Mess, 1 Tofu, 1 Egg, 1 Cheese Wedge.                            | This dish contains all the essential nutriment for a growing crew, and almost anything else you can feed them.    |
-| <figure>                                                                                                                               
- <img src="Mushroomsoup.png" title="Mushroomsoup.png" alt="Mushroomsoup.png" width="50" /><figcaption>Mushroomsoup.png</figcaption>      
- </figure>                                                                                                                               | Chantrelle Soup   | 5 units of Water, 5 units of Milk, 1 Chanterelle.                                           | The debate on whether you can use Aminitas for the soup goes on.                                                  |
-| <figure>                                                                                                                               
- <img src="Beetsoup.png" title="Beetsoup.png" alt="Beetsoup.png" width="50" /><figcaption>Beetsoup.png</figcaption>                      
- </figure>                                                                                                                               | Borscht           | 10 units of Water, 1 White Beet, 1 Cabbage.                                                 | Feed your inner Russian with borscht.                                                                             |
-| <figure>                                                                                                                               
- <img src="milo.png" title="milo.png" alt="milo.png" width="50" /><figcaption>milo.png</figcaption>                                      
- </figure>                                                                                                                               | Milo Soup         | 10 units of Water, 2 Tofu, 2 Soy Dope.                                                      | Made when the [hippies](/wiki/Botanist "wikilink") decide to only grow soy crops.                                       |
-| <figure>                                                                                                                               
- <img src="Stewedsoymeat.png" title="Stewedsoymeat.png" alt="Stewedsoymeat.png" width="50" /><figcaption>Stewedsoymeat.png</figcaption>  
- </figure>                                                                                                                               | Stewed Soy Meat   | 2 Soy Dope, 1 Carrot, 1 Tomato                                                              | Like a steak dinner, only with less murder.                                                                       |
-| <figure>                                                                                                                               
- <img src="stew.png" title="stew.png" alt="stew.png" width="50" /><figcaption>stew.png</figcaption>                                      
- </figure>                                                                                                                               | Stew              | 10 units of water, 1 meat, 1 tomato, 1 potato, 1 carrot, 1 eggplant, 1 Chantrelle mushroom. | The perfect thing for when the bar starts to get cold.                                                            |
-| <figure>                                                                                                                               
- <img src="coldstew.png" title="coldstew.png" alt="coldstew.png" width="50" /><figcaption>coldstew.png</figcaption>                      
- </figure>                                                                                                                               | Cold Chili Stew   | 1 Meat, 1 Ice Pepper, 1 Tomato                                                              | Ice, ice, baby!                                                                                                   |
-| <figure>                                                                                                                               
- <img src="hotstew.png" title="hotstew.png" alt="hotstew.png" width="50" /><figcaption>hotstew.png</figcaption>                          
- </figure>                                                                                                                               | Hot Chili Stew    | 1 Meat, 1 Chili Pepper, 1 Tomato                                                            | Some like it hot, hot, HOT!                                                                                       |
-| <figure>                                                                                                                               
- <img src="Wishsoup.png" title="Wishsoup.png" alt="Wishsoup.png" width="50" /><figcaption>Wishsoup.png</figcaption>                      
- </figure>                                                                                                                               | Wish Soup         | 20 Water                                                                                    | Make you wish the chef could cook.                                                                                |
-| <figure>                                                                                                                               
- <img src="Goulash.png" title="Goulash.png" alt="Goulash.png" width="50" /><figcaption>Goulash.png</figcaption>                          
- </figure>                                                                                                                               | Goulash           | 1 Tomato, 1 Cutlet, 1 Spaghetti                                                             | Everyone's favorite set of leftovers.                                                                             |
-| <figure>                                                                                                                               
- <img src="Hotsoursoup.png" title="Hotsoursoup.png" alt="Hotsoursoup.png" width="50" /><figcaption>Hotsoursoup.png</figcaption>          
- </figure>                                                                                                                               | Hot and Sour Soup | 1 Cabbage, 1 Mushroom, 2 units of Salt, 2 units of pepper, 10 units of Water, 1 Tofu        | It's Hot! It's Sour! It's a Soup!                                                                                 |
-| <figure>                                                                                                                               
- <img src="Onionsoup.png" title="Onionsoup.png" alt="Onionsoup.png" width="50" /><figcaption>Onionsoup.png</figcaption>                  
- </figure>                                                                                                                               | Onion Soup        | 1 Onion, 10 units of Water                                                                  | Don't cry!                                                                                                        |
+-   To add a single food item to the oven, use the food directly on the
+    oven, which will place it into an empty oven tray. If you want to
+    cook a recipe that requires multiple ingredients, remove one of the
+    oven trays, put all recipe ingredients into it, and then put the
+    tray back in the oven.
 
-### Seafood
+<!-- -->
 
-| Picture                                                                                                                            | Recipe                   | Ingredients                             | Notes                                                                                              |
-|------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------------------------|----------------------------------------------------------------------------------------------------|
-| <figure>                                                                                                                           
- <img src="carpsandwich.png" title="carpsandwich.png" alt="carpsandwich.png" width="50" /><figcaption>carpsandwich.png</figcaption>  
- </figure>                                                                                                                           | Fillet -o- Carp Sandwich | 1 Bun, 1 Carp Fillet                    | Slightly toxic.                                                                                    |
-| <figure>                                                                                                                           
- <img src="cubancarp.png" title="cubancarp.png" alt="cubancarp.png" width="50" /><figcaption>cubancarp.png</figcaption>              
- </figure>                                                                                                                           | Cuban Carp               | 1 Carp Fillet, 1 Dough, 1 Chilli Pepper | Slightly toxic, and very spicy.                                                                    |
-| <figure>                                                                                                                           
- <img src="fishandchips.png" title="fishandchips.png" alt="fishandchips.png" width="50" /><figcaption>fishandchips.png</figcaption>  
- </figure>                                                                                                                           | Fish & Chips             | 1 Space Fries, 1 Carp Meat              | The Brit's favorite. Good luck getting [space carp](space_carp "wikilink") meat. (Note: POISONOUS) |
-| <figure>                                                                                                                           
- <img src="Fishfingers.png" title="Fishfingers.png" alt="Fishfingers.png" width="50" /><figcaption>Fishfingers.png</figcaption>      
- </figure>                                                                                                                           | Fish Fingers             | 10 units Flour, 1 Egg, 1 Carp Meat      | Good luck getting [space carp](space_carp "wikilink") meat. (Note: POISONOUS)                      |
-| <figure>                                                                                                                           
- <img src="Sashimi.png" title="Sashimi.png" alt="Sashimi.png" width="50" /><figcaption>Sashimi.png</figcaption>                      
- </figure>                                                                                                                           | Sashimi                  | 1 Carp Meat, 5 units of Soy Sauce       | Made with actual fish!                                                                             |
+-   The oven can cook any variety and quantity of recipes
+    simultaneously, as long as you have all the ingredients in a single
+    tray.
+    -   Any leftover reagents will be absorbed into the cooked foods.
+-   When not making a recipe the oven can also be used to just bake any
+    food, which will cook it, give it a nice brown colour.
 
-### Meat
+<!-- -->
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Picture</p></th>
-<th><p>Recipe</p></th>
-<th><p>Ingredients</p></th>
-<th><p>Notes</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><figure>
-<img src="meatstake.png" title="meatstake.png" alt="meatstake.png" width="50" /><figcaption>meatstake.png</figcaption>
-</figure></td>
-<td><p>Meat Steak</p></td>
-<td><p>1 unit of Salt, 1 unit of Black Pepper, 1 Meat (Any Type)</p></td>
-<td><p>Wait, how can it have grill marks if it's in the microwave...?</p></td>
-</tr>
-<tr class="even">
-<td><figure>
-<img src="Sausage.png" title="Sausage.png" alt="Sausage.png" width="50" /><figcaption>Sausage.png</figcaption>
-</figure></td>
-<td><p>Sausage</p></td>
-<td><p>1 Cutlet, 1 Meatball</p></td>
-<td><p>Who even knows what or who it's made from anymore.</p></td>
-</tr>
-<tr class="odd">
-<td><figure>
-<img src="Roastbeef.png" title="Roastbeef.png" alt="Roastbeef.png" width="50" /><figcaption>Roastbeef.png</figcaption>
-</figure></td>
-<td><p>Roast Beef</p></td>
-<td><p>2 Carrots, 2 Potatoes, 1 Meat</p></td>
-<td><p>Just like Grandma used to make.</p></td>
-</tr>
-<tr class="even">
-<td><figure>
-<img src="Generalschicken.png" title="Generalschicken.png" alt="Generalschicken.png" width="50" /><figcaption>Generalschicken.png</figcaption>
-</figure></td>
-<td><p>General's Chicken</p></td>
-<td><p>2 units of Capsaicin, 2 units of Sugar, 10 units of Flour, 2 Meat</p></td>
-<td><p>Mm! Just like they make it in Space China.</p></td>
-</tr>
-<tr class="odd">
-<td><figure>
-<img src="Meatbun.png" title="Meatbun.png" alt="Meatbun.png" width="50" /><figcaption>Meatbun.png</figcaption>
-</figure></td>
-<td><p>Meat Bun</p></td>
-<td><p>1 Meatball, 1 Flat Dough</p></td>
-<td><p>The traditional hot pocket</p></td>
-</tr>
-</tbody>
-</table>
+-   The oven can also be used for Combination Cooking, which allows you
+    to make custom bread, pies, cakes, and pizzas with whatever
+    fillings/toppings you want. To do this, right click and Choose
+    Output, select the combine target, and then insert an oven tray full
+    of ingredients.
+    -   The quantity of stuff used to make it will determine the size of
+        the result.
+    -   Combination Cooking can only make one item at a time - whatever
+        output is set will only work for the next item cooked.
 
-### Salads
+<div class="mw-collapsible-content">
 
-| Picture                                                                                                                    | Recipe       | Ingredients                                | Notes                                                 |
-|----------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------|-------------------------------------------------------|
-| <figure>                                                                                                                   
- <img src="Herbsalad.png" title="Herbsalad.png" alt="Herbsalad.png" width="50" /><figcaption>Herbsalad.png</figcaption>      
- </figure>                                                                                                                   | Tossed Salad | 2 Cabbages + 1 Carrot + 1 Tomato + 1 Apple | What if, like, WE'RE the aliens, man?                 |
-| <figure>                                                                                                                   
- <img src="Aesirsalad.png" title="Aesirsalad.png" alt="Aesirsalad.png" width="50" /><figcaption>Aesirsalad.png</figcaption>  
- </figure>                                                                                                                   | Aesir salad  | 3 Ambrosia Deus + 1 Goldapple              | Duuuuuuuuuude.                                        |
-| <figure>                                                                                                                   
- <img src="Validsalad.png" title="Validsalad.png" alt="Validsalad.png" width="50" /><figcaption>Validsalad.png</figcaption>  
- </figure>                                                                                                                   | Valid Salad  | 3 Ambrosia Vulgaris + 1 Potato             | Heals everyone! <font color="white">Not really</font> |
-| <figure>                                                                                                                   
- <img src="Fruitsalad.png" title="Fruitsalad.png" alt="Fruitsalad.png" width="50" /><figcaption>Fruitsalad.png</figcaption>  
- </figure>                                                                                                                   | Fruit Salad  | 1 Orange, 1 Apple, 1 Grapes, 1 Watermelon  | Very fruity, but where does the salad part come in?   |
+|                                                                                                                                                                                                            | Result                        | Recipe                                                                                                                                                    | Reagents & Notes                                                                                                                                                                                                                       |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-ovenchips.png" title="recipe-ovenchips.png" alt="recipe-ovenchips.png" width="50" /><figcaption>recipe-ovenchips.png</figcaption>                                                          
+ </figure>                                                                                                                                                                                                   | '''Oven chips                 | Bake 1 raw potato sticks.                                                                                                                                 | 4 nutriment                                                                                                                                                                                                                            |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-roastdiona.png" title="recipe-roastdiona.png" alt="recipe-roastdiona.png" width="50" /><figcaption>recipe-roastdiona.png</figcaption>                                                      
+ </figure>                                                                                                                                                                                                   | '''Roast Diona                | Bake 1 Diona nymph, 1 apple, 5 units polytrinic acid.                                                                                                     | 6 nutriment, <span style="color:red">2 radium</span>                                                                                                                                                                                   |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-plateofribs.png" title="recipe-plateofribs.png" alt="recipe-plateofribs.png" width="50" /><figcaption>recipe-plateofribs.png</figcaption>                                                  
+ </figure>                                                                                                                                                                                                   | '''Plate of Ribs              | Bake 1 meat, 5 units honey, 2 units space spice, 1 unit black pepper. Obtain honey from beehives, or small amounts by grinding up the Messa's tear plant. | 6 animal protein, 5 honey, 2 triglyceride, 1 black pepper                                                                                                                                                                              |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-ovencookedbacon.png" title="recipe-ovencookedbacon.png" alt="recipe-ovencookedbacon.png" width="50" /><figcaption>recipe-ovencookedbacon.png</figcaption>                                  
+ </figure>                                                                                                                                                                                                   | '''Oven-Cooked Bacon          | 6 Raw Bacon, 1 spread Mass baked Bacon.                                                                                                                   | .3 animal protein, 1 unit Triglyceride                                                                                                                                                                                                 |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-meatbreadloaf.png" title="recipe-meatbreadloaf.png" alt="recipe-meatbreadloaf.png" width="50" /><figcaption>recipe-meatbreadloaf.png</figcaption>                                          
+ </figure>                                                                                                                                                                                                   | '''Meatbread Loaf             | Bake 3 meat, 3 balls of dough, 3 cheese wedges.                                                                                                           | 10 nutriment, 20 animal protein Sliceable: Makes 5 slices.                                                                                                                                                                             |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-banananutbread.png" title="recipe-banananutbread.png" alt="recipe-banananutbread.png" width="50" /><figcaption>recipe-banananutbread.png</figcaption>                                      
+ </figure>                                                                                                                                                                                                   | '''Banana-nut Bread           | Bake 3 balls of dough, 5 units milk, 15 units sugar, 1 banana.                                                                                            | 20 nutriment, 21 banana juice, 3 animal protein Sliceable: Makes 5 slices.                                                                                                                                                             |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-bun.png" title="recipe-bun.png" alt="recipe-bun.png" width="50" /><figcaption>recipe-bun.png</figcaption>                                                                                  
+ </figure>                                                                                                                                                                                                   | '''Bun                        | Bake 1 dough.                                                                                                                                             | 3 nutriment, 1 animal protein                                                                                                                                                                                                          |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-honeybun.png" title="recipe-honeybun.png" alt="recipe-honeybun.png" width="50" /><figcaption>recipe-honeybun.png</figcaption>                                                              
+ </figure>                                                                                                                                                                                                   | '''Honeybun                   | Bake 1 dough, 5 honey.                                                                                                                                    | 3 nutriment, 5 honey, 1 animal protein                                                                                                                                                                                                 |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-tofubread.png" title="recipe-tofubread.png" alt="recipe-tofubread.png" width="50" /><figcaption>recipe-tofubread.png</figcaption>                                                          
+ </figure>                                                                                                                                                                                                   | '''Tofu-Bread                 | Bake 3 tofu, 3 cheese wedges, 3 balls of dough.                                                                                                           | 30 nutriment, 15 animal protein Sliceable: Makes 5 slices.                                                                                                                                                                             |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-baguette.png" title="recipe-baguette.png" alt="recipe-baguette.png" width="50" /><figcaption>recipe-baguette.png</figcaption>                                                              
+ </figure>                                                                                                                                                                                                   | '''Baguette                   | Bake 2 balls of dough, 1 unit salt, 1 unit pepper.                                                                                                        | 6 nutriment, 1 pepper, 1 salt, 2 animal protein                                                                                                                                                                                        |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-flatbread.png" title="recipe-flatbread.png" alt="recipe-flatbread.png" width="50" /><figcaption>recipe-flatbread.png</figcaption>                                                          
+ </figure>                                                                                                                                                                                                   | '''Flatbread                  | Bake 1 flat dough.                                                                                                                                        | 3 nutriment, 1 animal protein                                                                                                                                                                                                          |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-creamcheesebread.png" title="recipe-creamcheesebread.png" alt="recipe-creamcheesebread.png" width="50" /><figcaption>recipe-creamcheesebread.png</figcaption>                              
+ </figure>                                                                                                                                                                                                   | '''Cream Cheese Bread         | Bake 2 balls of dough, 2 cheese wedges.                                                                                                                   | 5 nutriment, 25 animal protein. Sliceable: Makes 5 slices.                                                                                                                                                                             |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-bread.png" title="recipe-bread.png" alt="recipe-bread.png" width="50" /><figcaption>recipe-bread.png</figcaption>                                                                          
+ </figure>                                                                                                                                                                                                   | '''Bread                      | Bake 4 balls of dough, 1 unit salt.                                                                                                                       | 6 nutriment, 1 animal protein, 3 egg yolk Sliceable: Makes 5 slices. Bread slices can be turned into custom sandwiches by combining them with any food item.                                                                           |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-pancakes.png" title="recipe-pancakes.png" alt="recipe-pancakes.png" width="50" /><figcaption>recipe-pancakes.png</figcaption>                                                              
+ </figure>                                                                                                                                                                                                   | '''Pancakes                   | Bake 2 flatdough, 2 berries.                                                                                                                              | 8 nutriment                                                                                                                                                                                                                            |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-meatpie.png" title="recipe-meatpie.png" alt="recipe-meatpie.png" width="50" /><figcaption>recipe-meatpie.png</figcaption>                                                                  
+ </figure>                                                                                                                                                                                                   | '''Meat-Pie                   | Bake 1 meat, 1 flat dough.                                                                                                                                | 20 animal protein                                                                                                                                                                                                                      |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-tofupie.png" title="recipe-tofupie.png" alt="recipe-tofupie.png" width="50" /><figcaption>recipe-tofupie.png</figcaption>                                                                  
+ </figure>                                                                                                                                                                                                   | '''Tofu-Pie                   | Bake 1 tofu, 1 flat dough.                                                                                                                                | 10 nutriment, 1 animal protein                                                                                                                                                                                                         |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-xenopie.png" title="recipe-xenopie.png" alt="recipe-xenopie.png" width="50" /><figcaption>recipe-xenopie.png</figcaption>                                                                  
+ </figure>                                                                                                                                                                                                   | '''Xeno-Pie                   | Bake 1 xeno-meat, 1 flat dough.                                                                                                                           | 17 animal protein, <span style="color:red">6 polytrinic acid</span>                                                                                                                                                                    |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-bananacreampie.png" title="recipe-bananacreampie.png" alt="recipe-bananacreampie.png" width="50" /><figcaption>recipe-bananacreampie.png</figcaption>                                      
+ </figure>                                                                                                                                                                                                   | '''Banana Cream Pie           | Bake 1 flat dough, 1 banana, 5 units sugar.                                                                                                               | 4 nutriment, 6 banana juice, 1 animal protein                                                                                                                                                                                          |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-cherrypie.png" title="recipe-cherrypie.png" alt="recipe-cherrypie.png" width="50" /><figcaption>recipe-cherrypie.png</figcaption>                                                          
+ </figure>                                                                                                                                                                                                   | '''Cherry Pie                 | Bake 1 cherry, 1 flat dough, 10 units sugar.                                                                                                              | 4 nutriment, 1 sugar, 1 cherry jelly, 1 animal protein                                                                                                                                                                                 |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-pumpkinpie.png" title="recipe-pumpkinpie.png" alt="recipe-pumpkinpie.png" width="50" /><figcaption>recipe-pumpkinpie.png</figcaption>                                                      
+ </figure>                                                                                                                                                                                                   | '''Pumpkin Pie                | Bake 1 pumpkin, 10 units flour, 3 units egg yolk, 5 units milk, 5 units sugar.                                                                            | 15 nutriment Sliceable: Makes 5 slices.                                                                                                                                                                                                |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-goldenapplestreuseltart.png" title="recipe-goldenapplestreuseltart.png" alt="recipe-goldenapplestreuseltart.png" width="50" /><figcaption>recipe-goldenapplestreuseltart.png</figcaption>  
+ </figure>                                                                                                                                                                                                   | '''Golden Apple Streusel Tart | Bake 10 units flour, 1 egg, 1 golden apple, 5 units milk, 5 units sugar.                                                                                  | 8 nutriment, 8 gold, 3 egg yolk                                                                                                                                                                                                        |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-keylimepie.png" title="recipe-keylimepie.png" alt="recipe-keylimepie.png" width="50" /><figcaption>recipe-keylimepie.png</figcaption>                                                      
+ </figure>                                                                                                                                                                                                   | '''Key Lime Pie               | Bake 2 limes, 10 units flour, 3 units egg yolk, 5 units milk, 5 units sugar.                                                                              | 16 nutriment Sliceable: Makes 5 slices.                                                                                                                                                                                                |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-amanitapie.png" title="recipe-amanitapie.png" alt="recipe-amanitapie.png" width="50" /><figcaption>recipe-amanitapie.png</figcaption>                                                      
+ </figure>                                                                                                                                                                                                   | '''Amanita Pie                | Bake 1 flat dough, 5 units amatoxin.                                                                                                                      | 5 nutriment, <span style="color:red">3 amatoxin</span>, <span style="color:blue">1 psilocybin</span>, 1 animal protein                                                                                                                 |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-plumppie.png" title="recipe-plumppie.png" alt="recipe-plumppie.png" width="50" /><figcaption>recipe-plumppie.png</figcaption>                                                              
+ </figure>                                                                                                                                                                                                   | '''Plump Pie                  | Bake 1 flat dough, 1 plump helmet.                                                                                                                        | 8 nutriment, 1 animal protein, 10% chance of <span style="color:blue">5 tricordrazine</span>                                                                                                                                           |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-quiche.png" title="recipe-quiche.png" alt="recipe-quiche.png" width="50" /><figcaption>recipe-quiche.png</figcaption>                                                                      
+ </figure>                                                                                                                                                                                                   | '''Quiche                     | Bake 9 units egg yolk, 10 units flour, 5 units milk, 1 cheese wedge                                                                                       | 10 nutriment, 10 cheese Sliceable: Makes 5 slices.                                                                                                                                                                                     |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-cookie.png" title="recipe-cookie.png" alt="recipe-cookie.png" width="50" /><figcaption>recipe-cookie.png</figcaption>                                                                      
+ </figure>                                                                                                                                                                                                   | '''Cookie                     | Bake 1 ball of dough, 1 chocolate bar, 10 units milk, 10 units sugar. Makes four cookies.                                                                 | 5 nutriment, 2 sugar, 2 coco, 1 animal protein                                                                                                                                                                                         |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-fortunecookie.png" title="recipe-fortunecookie.png" alt="recipe-fortunecookie.png" width="50" /><figcaption>recipe-fortunecookie.png</figcaption>                                          
+ </figure>                                                                                                                                                                                                   | '''Fortune Cookie             | Bake 1 dough slice, 5 units sugar, 1 piece of paper. Write something on the paper to serve as the fortune!                                                | 3 nutriment, .33 animal protein                                                                                                                                                                                                        |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-poppypretzel.png" title="recipe-poppypretzel.png" alt="recipe-poppypretzel.png" width="50" /><figcaption>recipe-poppypretzel.png</figcaption>                                              
+ </figure>                                                                                                                                                                                                   | '''Poppy Pretzel              | Bake 1 ball of dough, 1 poppy.                                                                                                                            | 10 nutriment, 1 animal protein, <span style="color:blue">3 bicaridine</span>                                                                                                                                                           |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-cracker.png" title="recipe-cracker.png" alt="recipe-cracker.png" width="50" /><figcaption>recipe-cracker.png</figcaption>                                                                  
+ </figure>                                                                                                                                                                                                   | '''Cracker                    | Bake 1 dough slice, 1 unit salt.                                                                                                                          | 1 nutriment, .3 animal protein You might also get these by gibbing a parrot! In that case, they have 5.4 nutriment, for some reason.                                                                                                   |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-supremecheesetoast.png" title="recipe-supremecheesetoast.png" alt="recipe-supremecheesetoast.png" width="50" /><figcaption>recipe-supremecheesetoast.png</figcaption>                      
+ </figure>                                                                                                                                                                                                   | '''Supreme Cheese Toast       | Bake 1 spread, 1 breadslice, 1 unit space spice.                                                                                                          | 8 nutriment.                                                                                                                                                                                                                           |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-enchiladas.png" title="recipe-enchiladas.png" alt="recipe-enchiladas.png" width="50" /><figcaption>recipe-enchiladas.png</figcaption>                                                      
+ </figure>                                                                                                                                                                                                   | '''Enchiladas                 | Bake 1 cutlet, 2 chilis, 1 corn. Alternatively, bake 1 tortilla, 1 cutlet, 2 chili peppers.                                                               | 9 animal protein, 2 nutriment, <span style="color:blue">20 capsaicin</span>, 3 corn oil                                                                                                                                                |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-monkeysdelight.png" title="recipe-monkeysdelight.png" alt="recipe-monkeysdelight.png" width="50" /><figcaption>recipe-monkeysdelight.png</figcaption>                                      
+ </figure>                                                                                                                                                                                                   | '''Monkey's Delight           | Bake 1 monkey cube, 10 units flour, 1 banana, 1 unit salt, 1 unit pepper.                                                                                 | 20 animal protein, 6 banana, 1 pepper, 1 salt                                                                                                                                                                                          |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-vanillacake.png" title="recipe-vanillacake.png" alt="recipe-vanillacake.png" width="50" /><figcaption>recipe-vanillacake.png</figcaption>                                                  
+ </figure>                                                                                                                                                                                                   | '''Vanilla Cake               | Bake 5 units milk, 15 units flour, 15 units sugar, 9 units egg yolk.                                                                                      | 20 nutriment. Sliceable: Makes 5 slices.                                                                                                                                                                                               |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-carrotcake.png" title="recipe-carrotcake.png" alt="recipe-carrotcake.png" width="50" /><figcaption>recipe-carrotcake.png</figcaption>                                                      
+ </figure>                                                                                                                                                                                                   | '''Carrot Cake                | Bake 5 units milk, 15 units flour, 15 units sugar, 9 units egg yolk, 3 carrots.                                                                           | 25 nutriment, <span style="color:blue">25 imidazoline</span> Sliceable: Makes 5 slices.                                                                                                                                                |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-cheesecake.png" title="recipe-cheesecake.png" alt="recipe-cheesecake.png" width="50" /><figcaption>recipe-cheesecake.png</figcaption>                                                      
+ </figure>                                                                                                                                                                                                   | '''Cheese Cake                | Bake 5 units milk, 15 units flour, 15 units sugar, 9 units egg yolk, 2 cheese wedges.                                                                     | 10 nutriment, 19 animal protein Sliceable: Makes 5 slices.                                                                                                                                                                             |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-orangecake.png" title="recipe-orangecake.png" alt="recipe-orangecake.png" width="50" /><figcaption>recipe-orangecake.png</figcaption>                                                      
+ </figure>                                                                                                                                                                                                   | '''Orange Cake                | Bake 5 units milk, 15 units flour, 5 units sugar, 9 units egg yolk, 3 units orange juice, 1 orange.                                                       | 20 nutriment, 1 orange juice Sliceable: Makes 5 slices.                                                                                                                                                                                |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-limecake.png" title="recipe-limecake.png" alt="recipe-limecake.png" width="50" /><figcaption>recipe-limecake.png</figcaption>                                                              
+ </figure>                                                                                                                                                                                                   | '''Lime Cake                  | Bake 5 units milk, 15 units flour, 5 units sugar, 9 units egg yolk, 3 units lime juice, 1 lime.                                                           | 20 nutriment, 1 lime juice Sliceable: Makes 5 slices.                                                                                                                                                                                  |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-lemoncake.png" title="recipe-lemoncake.png" alt="recipe-lemoncake.png" width="50" /><figcaption>recipe-lemoncake.png</figcaption>                                                          
+ </figure>                                                                                                                                                                                                   | '''Lemon Cake                 | Bake 5 units milk, 15 units flour, 5 units sugar, 9 units egg yolk, 3 units lemon juice, 1 lemon.                                                         | 20 nutriment, 1 lemon juice Sliceable: Makes 5 slices.                                                                                                                                                                                 |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-chocolatecake.png" title="recipe-chocolatecake.png" alt="recipe-chocolatecake.png" width="50" /><figcaption>recipe-chocolatecake.png</figcaption>                                          
+ </figure>                                                                                                                                                                                                   | '''Chocolate Cake             | Bake 5 units milk, 15 units flour, 5 units sugar, 9 units egg yolk, 4 units coco, 1 chocolate bar.                                                        | 20 nutriment, 4 sugar, 4 coco powder Sliceable: Makes 5 slices.                                                                                                                                                                        |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-applecake.png" title="recipe-applecake.png" alt="recipe-applecake.png" width="50" /><figcaption>recipe-applecake.png</figcaption>                                                          
+ </figure>                                                                                                                                                                                                   | '''Apple Cake                 | Bake 5 units milk, 15 units flour, 15 units sugar, 9 units egg yolk, 2 apples.                                                                            | 15 nutriment Sliceable: Makes 5 slices.                                                                                                                                                                                                |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-brownies.png" title="recipe-brownies.png" alt="recipe-brownies.png" width="50" /><figcaption>recipe-brownies.png</figcaption>                                                              
+ </figure>                                                                                                                                                                                                   | '''Brownies                   | Bake 10 units brownie mix, 3 units egg yolk.                                                                                                              | 8 nutriment, 2 brownie mix Sliceable: Makes 4 pieces.                                                                                                                                                                                  |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-cosmicbrownies.png" title="recipe-cosmicbrownies.png" alt="recipe-cosmicbrownies.png" width="50" /><figcaption>recipe-cosmicbrownies.png</figcaption>                                      
+ </figure>                                                                                                                                                                                                   | '''Cosmic Brownies            | Bake 10 units brownie mix, 3 units egg yolk, 1 ambrosia vulgaris.                                                                                         | 8 nutriment, 4 brownie mix, <span style="color:blue">4 space drugs</span>, <span style="color:blue">2 bicaridine</span>, <span style="color:blue">2 kelotane</span>, <span style="color:red">2 toxin</span> Sliceable: Makes 4 pieces. |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-margherita.png" title="recipe-margherita.png" alt="recipe-margherita.png" width="50" /><figcaption>recipe-margherita.png</figcaption>                                                      
+ </figure>                                                                                                                                                                                                   | '''Margherita                 | Bake 1 flat dough, 4 cheese wedges, 1 tomato.                                                                                                             | 35 nutriment, 8 tomato juice, 7 animal protein Sliceable: Makes 6 slices.                                                                                                                                                              |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-meatpizza.png" title="recipe-meatpizza.png" alt="recipe-meatpizza.png" width="50" /><figcaption>recipe-meatpizza.png</figcaption>                                                          
+ </figure>                                                                                                                                                                                                   | '''Meatpizza                  | Bake 1 flat dough, 3 meat, 1 cheese wedge, 1 tomato. Substituting synthetic meat from chemistry will also work.                                           | 40 animal protein, 10 nutriment Sliceable: Makes 6 slices.                                                                                                                                                                             |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-mushroompizza.png" title="recipe-mushroompizza.png" alt="recipe-mushroompizza.png" width="50" /><figcaption>recipe-mushroompizza.png</figcaption>                                          
+ </figure>                                                                                                                                                                                                   | '''Mushroom Pizza             | Bake 1 flat dough, 5 chantrelle mushrooms, 1 cheese wedge, 1 tomato.                                                                                      | 35 nutriment, 10 animal protein, 2 tomato juice Sliceable: Makes 6 slices.                                                                                                                                                             |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-vegetablepizza.png" title="recipe-vegetablepizza.png" alt="recipe-vegetablepizza.png" width="50" /><figcaption>recipe-vegetablepizza.png</figcaption>                                      
+ </figure>                                                                                                                                                                                                   | '''Vegetable Pizza            | Bake 1 flat dough, 1 cheese wedge, 1 eggplant, 1 carrot, 1 corn, 1 tomato.                                                                                | 30 nutriment, 6 tomato juice, <span style="color:blue">9 imidazoline</span>, 5 animal protein Sliceable: Makes 6 slices.                                                                                                               |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-hampineapplepizza.png" title="recipe-hampineapplepizza.png" alt="recipe-hampineapplepizza.png" width="50" /><figcaption>recipe-hampineapplepizza.png</figcaption>                          
+ </figure>                                                                                                                                                                                                   | '''Ham and Pineapple Pizza    | Bake 1 flat dough, 1 cheese wedge, 2 pineapple rings. Where does the ham come from? Who knows.                                                            | 30 nutriment, 6 tomato juice, 4 animal protein, 5 cheese. Sliceable: Makes 6 slices.                                                                                                                                                   |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-meatpocket.png" title="recipe-meatpocket.png" alt="recipe-meatpocket.png" width="50" /><figcaption>recipe-meatpocket.png</figcaption>                                                      
+ </figure>                                                                                                                                                                                                   | '''Meat Pocket                | Bake 1 flat dough, 1 meat ball, 1 cheese wedge                                                                                                            | Results in 2 units                                                                                                                                                                                                                     |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-baconcheeseflatbread.png" title="recipe-baconcheeseflatbread.png" alt="recipe-baconcheeseflatbread.png" width="50" /><figcaption>recipe-baconcheeseflatbread.png</figcaption>              
+ </figure>                                                                                                                                                                                                   | '''Bacon Cheese Flatbread     | Bake 1 flat dough, 1 cheese wedge, 4 bacon, 2 tomatoes                                                                                                    |                                                                                                                                                                                                                                        |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-chocolatetruffle.png" title="recipe-chocolatetruffle.png" alt="recipe-chocolatetruffle.png" width="50" /><figcaption>recipe-chocolatetruffle.png</figcaption>                              
+ </figure>                                                                                                                                                                                                   | '''Chocolate Truffle          | Bake 1 chocolate bar, 2 coco powder, 5 cream                                                                                                              | Results in 4 units                                                                                                                                                                                                                     |
+| <figure>                                                                                                                                                                                                   
+ <img src="recipe-croissant.png" title="recipe-croissant.png" alt="recipe-croissant.png" width="50" /><figcaption>recipe-croissant.png</figcaption>                                                          
+ </figure>                                                                                                                                                                                                   | '''Croissant                  | Bake 1 dough, 1 sodium chloride, 5 water, 5 milk                                                                                                          |                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                            |                               |                                                                                                                                                           |                                                                                                                                                                                                                                        |
 
-### Pies
+</div>
+</div>
+<div class="toccolours mw-collapsible" style="width:99%; overflow:auto;">
 
-| Picture                                                                                                                                    | Recipe                     | Ingredients                                                               | Notes                                                                 |
-|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------|
-| <figure>                                                                                                                                   
- <img src="pie.gif" title="pie.gif" alt="pie.gif" width="50" /><figcaption>pie.gif</figcaption>                                              
- </figure>                                                                                                                                   | Banana Cream Pie           | 1 Flat Dough, 1 Banana, 5 units Sugar                                     | Contains a moderate amount of banana essence.                         |
-| <figure>                                                                                                                                   
- <img src="berryclafoutis.png" title="berryclafoutis.png" alt="berryclafoutis.png" width="50" /><figcaption>berryclafoutis.png</figcaption>  
- </figure>                                                                                                                                   | Berry Clafoutis            | 1 Flat Dough, 1 Berry                                                     | It's like asking the deep-friers at a carnival for something healthy! |
-| <figure>                                                                                                                                   
- <img src="meatpies.png" title="meatpies.png" alt="meatpies.png" width="50" /><figcaption>meatpies.png</figcaption>                          
- </figure>                                                                                                                                   | Meatpies                   | 1 Meat, 1 Flat Dough                                                      | Made of people, or not?                                               |
-| <figure>                                                                                                                                   
- <img src="meatpies.png" title="meatpies.png" alt="meatpies.png" width="50" /><figcaption>meatpies.png</figcaption>                          
- </figure>                                                                                                                                   | Tofu Pie                   | 1 Tofu, 1 Flat Dough                                                      | Made of plants, or not?                                               |
-| <figure>                                                                                                                                   
- <img src="xpie.png" title="xpie.png" alt="xpie.png" width="50" /><figcaption>xpie.png</figcaption>                                          
- </figure>                                                                                                                                   | Xeno-pie                   | 1 Xeno-meat, 1 Flat Dough                                                 | A delicious end to the xeno threat.                                   |
-| <figure>                                                                                                                                   
- <img src="applepie.png" title="applepie.png" alt="applepie.png" width="50" /><figcaption>applepie.png</figcaption>                          
- </figure>                                                                                                                                   | Apple Pie                  | 1 Flat Dough, 1 Apple                                                     | The traditional dessert.                                              |
-| <figure>                                                                                                                                   
- <img src="Cherrypie.png" title="Cherrypie.png" alt="Cherrypie.png" width="50" /><figcaption>Cherrypie.png</figcaption>                      
- </figure>                                                                                                                                   | Cherry Pie                 | 1 Flat Dough, 1 Cherry, 10 units Sugar                                    | "To bake a pie, we must first invent the universe." -Carl Sagan       |
-| <figure>                                                                                                                                   
- <img src="Amapie.png" title="Amapie.png" alt="Amapie.png" width="50" /><figcaption>Amapie.png</figcaption>                                  
- </figure>                                                                                                                                   | Amanita Pie                | 1 Flat Dough, 5 units Amatoxin                                            | Only slightly toxic, really!                                          |
-| <figure>                                                                                                                                   
- <img src="Pumpkinpie.png" title="Pumpkinpie.png" alt="Pumpkinpie.png" width="50" /><figcaption>Pumpkinpie.png</figcaption>                  
- </figure>                                                                                                                                   | Pumpkin Pie                | 1 Pumpkin, 10 units Flour, 3 units Egg, 5 units of Milk, 5 units of Sugar | Can be sliced. Dangerously delicious.                                 |
-| <figure>                                                                                                                                   
- <img src="Plumppie.GIF" title="Plumppie.GIF" alt="Plumppie.GIF" width="50" /><figcaption>Plumppie.GIF</figcaption>                          
- </figure>                                                                                                                                   | Plump Pie                  | 1 Flat Dough, 1 Plump Helmet                                              | Has a chance to be "exceptional" - it'll contain Tricordrazine!       |
-| <figure>                                                                                                                                   
- <img src="Gappletart.png" title="Gappletart.png" alt="Gappletart.png" width="50" /><figcaption>Gappletart.png</figcaption>                  
- </figure>                                                                                                                                   | Golden Apple Streusel Tart | 10 units Flour, 1 Egg, 1 Golden Apple, 5 units of Milk, 5 units of Sugar. | Tastes like chaos!                                                    |
+Deepfryer
+---------
 
-### Cakes
+<img src="Fryer.gif" title="fig:Fryer.gif" alt="Fryer.gif" width="50" />  
+\*Before you can use the fryer, it must be preheated. Right-click and
+select Toggle Power to turn it on. Heating up takes a while, so be sure
+to do it early. Prepare other ingredients while it warms up!
 
-| Picture                                                                                                                        | Recipe         | Ingredients                                                                     | Notes                                                                            |
-|--------------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| <figure>                                                                                                                       
- <img src="regularcake.png" title="regularcake.png" alt="regularcake.png" width="50" /><figcaption>regularcake.png</figcaption>  
- </figure>                                                                                                                       | Vanilla Cake   | 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk                  | Slicable and <s>boring</s> vanilla flavored.                                     |
-| <figure>                                                                                                                       
- <img src="carrotcake.png" title="carrotcake.png" alt="carrotcake.png" width="50" /><figcaption>carrotcake.png</figcaption>      
- </figure>                                                                                                                       | Carrot Cake    | 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 3 Carrots       | Slicable. Heals minor eye damage.                                                |
-| <figure>                                                                                                                       
- <img src="cheesecake.png" title="cheesecake.png" alt="cheesecake.png" width="50" /><figcaption>cheesecake.png</figcaption>      
- </figure>                                                                                                                       | Cheese Cake    | 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 2 Cheese Wedges | Slicable. <font color="white">Does not come with scantily dressed ladies.</font> |
-| <figure>                                                                                                                       
- <img src="birthday.png" title="birthday.png" alt="birthday.png" width="50" /><figcaption>birthday.png</figcaption>              
- </figure>                                                                                                                       | Birthday Cake  | 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 1 Cake Hat      | Sliceable. Don't forget to make a wish.                                          |
-| <figure>                                                                                                                       
- <img src="applecake.png" title="applecake.png" alt="applecake.png" width="50" /><figcaption>applecake.png</figcaption>          
- </figure>                                                                                                                       | Apple Cake     | 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 2 Apples        | Sliceable.                                                                       |
-| <figure>                                                                                                                       
- <img src="Braincake.png" title="Braincake.png" alt="Braincake.png" width="50" /><figcaption>Braincake.png</figcaption>          
- </figure>                                                                                                                       | Brain Cake     | 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 1 Brain         | Sliceable. Bother the [Roboticist](/wiki/Roboticist "wikilink") for unusable brains.   |
-| <figure>                                                                                                                       
- <img src="Orangecake.png" title="Orangecake.png" alt="Orangecake.png" width="50" /><figcaption>Orangecake.png</figcaption>      
- </figure>                                                                                                                       | Orange Cake    | 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Orange         | Sliceable.                                                                       |
-| <figure>                                                                                                                       
- <img src="Limecake.png" title="Limecake.png" alt="Limecake.png" width="50" /><figcaption>Limecake.png</figcaption>              
- </figure>                                                                                                                       | Lime Cake      | 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Lime           | Sliceable.                                                                       |
-| <figure>                                                                                                                       
- <img src="Lemoncake.png" title="Lemoncake.png" alt="Lemoncake.png" width="50" /><figcaption>Lemoncake.png</figcaption>          
- </figure>                                                                                                                       | Lemon Cake     | 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Lemon          | Sliceable.                                                                       |
-| <figure>                                                                                                                       
- <img src="Choccake.png" title="Choccake.png" alt="Choccake.png" width="50" /><figcaption>Choccake.png</figcaption>              
- </figure>                                                                                                                       | Chocolate Cake | 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Chocolate Bar  | Sliceable.                                                                       |
+-   The deep fryer has an oil level that you should keep an eye on -
+    cooking efficiency will fall as it drops, and it starts off at a
+    randomized level. For optimal cooking, keep the oil topped up to the
+    maximum.
+    -   You can sometimes find a spare tank of cooking oil in the
+        maintenance behind the kitchen. Otherwise, you can order one
+        from cargo.
 
-### Side Dishes
+<!-- -->
 
-| Picture                                                                                                                                    | Recipe               | Ingredients                                             | Notes                                                                                          |
-|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------|---------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| <figure>                                                                                                                                   
- <img src="cheesefries.png" title="cheesefries.png" alt="cheesefries.png" width="50" /><figcaption>cheesefries.png</figcaption>              
- </figure>                                                                                                                                   | Cheese Fries         | 1 Space Fries, 1 Cheese Wedge                           | Tasty, tasty cheese fries.                                                                     |
-| <figure>                                                                                                                                   
- <img src="cheesepmelet.png" title="cheesepmelet.png" alt="cheesepmelet.png" width="50" /><figcaption>cheesepmelet.png</figcaption>          
- </figure>                                                                                                                                   | Cheese Omelette      | 2 Eggs, 2 Cheese Wedges                                 | Can eat these with a fork. Have a medical team on standby in case of utensil-related injuries. |
-| <figure>                                                                                                                                   
- <img src="friedegg.png" title="friedegg.png" alt="friedegg.png" width="50" /><figcaption>friedegg.png</figcaption>                          
- </figure>                                                                                                                                   | Fried Egg            | 1 Egg + 1 unit Salt + 1 unit Pepper                     | The ancient and sacred meal of the solar wiring engineer.                                      |
-| <figure>                                                                                                                                   
- <img src="begg.png" title="begg.png" alt="begg.png" width="50" /><figcaption>begg.png</figcaption>                                          
- </figure>                                                                                                                                   | Boiled Egg           | 1 Egg + 5 units Water                                   | Precracked, just eat!                                                                          |
-| <figure>                                                                                                                                   
- <img src="bakedpotato.png" title="bakedpotato.png" alt="bakedpotato.png" width="50" /><figcaption>bakedpotato.png</figcaption>              
- </figure>                                                                                                                                   | Loaded Baked Potato  | 1 Potato + 1 Cheese Wedge                               | No bacon bits?                                                                                 |
-| <figure>                                                                                                                                   
- <img src="popcorn.png" title="popcorn.png" alt="popcorn.png" width="40" /><figcaption>popcorn.png</figcaption>                              
- </figure>                                                                                                                                   | Popcorn              | 1 Corn                                                  | Some bites will contain unpopped kernels, which will cause brute damage.                       |
-| <figure>                                                                                                                                   
- <img src="donkpocket.png" title="donkpocket.png" alt="donkpocket.png" width="50" /><figcaption>donkpocket.png</figcaption>                  
- </figure>                                                                                                                                   | Warm Donk Pocket     | 1 Dough, 1 Meatball                                     | Contains tricordrazine, until they cool. Reheatable once they do.                              |
-| <figure>                                                                                                                                   
- <img src="Hotdog.png" title="Hotdog.png" alt="Hotdog.png" width="50" /><figcaption>Hotdog.png</figcaption>                                  
- </figure>                                                                                                                                   | Hot Dog              | 1 Sausage, 1 Bun                                        | Fresh footlong ready to go down on.                                                            |
-| <figure>                                                                                                                                   
- <img src="Wingbasket.png" title="Wingbasket.png" alt="Wingbasket.png" width="50" /><figcaption>Wingbasket.png</figcaption>                  
- </figure>                                                                                                                                   | Chicken Wings        | 5 units of Capsaicin, 10 units of Flour, 4 Meat         | Now all you need is Pizza and Beer. Complete the trifecta!                                     |
-| <figure>                                                                                                                                   
- <img src="Chocegg.png" title="Chocegg.png" alt="Chocegg.png" width="75" /><figcaption>Chocegg.png</figcaption>                              
- </figure>                                                                                                                                   | Chocolate Lizard Egg | 1 Lizard Egg, 1 Chocolate Bar                           | Ask your resident, egg-laying Lizard.                                                          |
-| <figure>                                                                                                                                   
- <img src="Friedegg.png" title="Friedegg.png" alt="Friedegg.png" width="75" /><figcaption>Friedegg.png</figcaption>                          
- </figure>                                                                                                                                   | Fried Lizard Egg     | 1 Lizard Egg, 1 unit of Salt, 1 unit of Pepper          | Ask your resident, egg-laying Lizard.                                                          |
-| <figure>                                                                                                                                   
- <img src="Begg.png" title="Begg.png" alt="Begg.png" width="75" /><figcaption>Begg.png</figcaption>                                          
- </figure>                                                                                                                                   | Boiled Lizard Egg    | 1 Lizard Egg, 5 units of Water                          | Ask your resident, egg-laying Lizard.                                                          |
-| <figure>                                                                                                                                   
- <img src="Mashedpotato.png" title="Mashedpotato.png" alt="Mashedpotato.png" width="50" /><figcaption>Mashedpotato.png</figcaption>          
- </figure>                                                                                                                                   | Mashed Potato        | 1 Potato                                                | Goes well with Gravy!                                                                          |
-| <figure>                                                                                                                                   
- <img src="Bangersandmash.png" title="Bangersandmash.png" alt="Bangersandmash.png" width="50" /><figcaption>Bangersandmash.png</figcaption>  
- </figure>                                                                                                                                   | Bangers And Mash     | 1 Mashed Potato, 1 Sausage                              | Still goes well with Gravy!                                                                    |
-| <figure>                                                                                                                                   
- <img src="Cheesymash.png" title="Cheesymash.png" alt="Cheesymash.png" width="50" /><figcaption>Cheesymash.png</figcaption>                  
- </figure>                                                                                                                                   | Cheesy Mash          | 1 Mashed Potato, 1 Cheese Wedge                         | You don't even need gravy!                                                                     |
-| <figure>                                                                                                                                   
- <img src="Blackpudding.png" title="Blackpudding.png" alt="Blackpudding.png" width="50" /><figcaption>Blackpudding.png</figcaption>          
- </figure>                                                                                                                                   | Black Pudding        | 5 units of Blood, 1 Sausage                             | Made from real blood!                                                                          |
-| <figure>                                                                                                                                   
- <img src="Onionrings.png" title="Onionrings.png" alt="Onionrings.png" width="50" /><figcaption>Onionrings.png</figcaption>                  
- </figure>                                                                                                                                   | Onion Rings          | 1 Onion, 5 units of Flour                               | A good substitute for Fries.                                                                   |
-| <figure>                                                                                                                                   
- <img src="Bakedbeans.png" title="Bakedbeans.png" alt="Bakedbeans.png" width="50" /><figcaption>Bakedbeans.png</figcaption>                  
- </figure>                                                                                                                                   | Baked Beans          | 2 Soybeans, 5 units of Ketchup                          | The musical fruit!                                                                             |
-| <figure>                                                                                                                                   
- <img src="Eggroll.png" title="Eggroll.png" alt="Eggroll.png" width="50" /><figcaption>Eggroll.png</figcaption>                              
- </figure>                                                                                                                                   | Eggroll              | 1 Fried Egg, 10 units of Soy Sauce                      | Mm, Space China.                                                                               |
-| <figure>                                                                                                                                   
- <img src="Eggbowl.png" title="Eggbowl.png" alt="Eggbowl.png" width="50" /><figcaption>Eggbowl.png</figcaption>                              
- </figure>                                                                                                                                   | Egg Bowl             | 5 units of Water, 10 units of Rice, 3 units of Egg Yolk | A simple, soupy breakfast!                                                                     |
-| <figure>                                                                                                                                   
- <img src="Porkbowl.png" title="Porkbowl.png" alt="Porkbowl.png" width="50" /><figcaption>Porkbowl.png</figcaption>                          
- </figure>                                                                                                                                   | Pork Bowl            | 5 units of Water, 10 units of Rice, 1 Cutlet            | When you need a bit more protein.                                                              |
+-   To add a single food item to the fryer, use the food directly on it,
+    which will place that item into an empty fryer basket. If you want
+    to cook a recipe that requires multiple ingredients, remove one of
+    the fryer baskets by clicking the fryer with an empty hand, and put
+    all your ingredients into the basket. Once everything for the recipe
+    is inside, put the basket back in the fryer.
 
-### Pastries
+<!-- -->
 
-| Picture                                                                                                                                    | Recipe                | Ingredients                                                                      | Notes                                                                                                                                                                                                                                       |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <figure>                                                                                                                                   
- <img src="donuts.png" title="donuts.png" alt="donuts.png" width="50" /><figcaption>donuts.png</figcaption>                                  
- </figure>                                                                                                                                   | Donut                 | 1 Dough, 5 units Sugar                                                           | Security members recover morale quickly with these.                                                                                                                                                                                         |
-| <figure>                                                                                                                                   
- <img src="jdonut1.gif" title="jdonut1.gif" alt="jdonut1.gif" width="50" /><figcaption>jdonut1.gif</figcaption>                              
- </figure>                                                                                                                                   | Jelly Donut           | 1 Dough, 5 units Sugar, 5 units of Berry Juice/Cherry Jelly/Slime Jelly          | Security members recover more morale with these.                                                                                                                                                                                            |
-| <figure>                                                                                                                                   
- <img src="donuts.png" title="donuts.png" alt="donuts.png" width="50" /><figcaption>donuts.png</figcaption>                                  
- </figure>                                                                                                                                   | Chaos Donuts          | 1 Dough, 5 units Sugar, 5 units Hot Sauce, 5 units Cold Sauce                    | Produces a variety of (possibly dangerous) effects when eaten. *Equal chance of containing 3 units of one of the following: Nutriment, capsaicin, frost oil, sprinkles, phoron, coco, Slime Jelly, banana, berry juice, and tricordrazine.* |
-| <figure>                                                                                                                                   
- <img src="soylenvirdians.png" title="soylenvirdians.png" alt="soylenvirdians.png" width="50" /><figcaption>soylenvirdians.png</figcaption>  
- </figure>                                                                                                                                   | Soylen Viridians      | 10 units Flour, 1 Soybean                                                        | SOYLENT VIRIDIAN IS PLANTS!                                                                                                                                                                                                                 |
-| <figure>                                                                                                                                   
- <img src="waffles.png" title="waffles.png" alt="waffles.png" width="50" /><figcaption>waffles.png</figcaption>                              
- </figure>                                                                                                                                   | Waffles               | 2 Dough, 10 units Sugar                                                          | Like pancakes with syrup traps.                                                                                                                                                                                                             |
-| <figure>                                                                                                                                   
- <img src="roffle.png" title="roffle.png" alt="roffle.png" width="50" /><figcaption>roffle.png</figcaption>                                  
- </figure>                                                                                                                                   | Roffle Waffles        | 2 Dough, 10 units of Sugar, 5 units of Psilocybin.                               | Like pancakes with hallucinogen traps.                                                                                                                                                                                                      |
-| <figure>                                                                                                                                   
- <img src="chawanmushi.png" title="chawanmushi.png" alt="chawanmushi.png" width="50" /><figcaption>chawanmushi.png</figcaption>              
- </figure>                                                                                                                                   | Chawanmushi           | 5 units of Water, 5 units of Soy Sauce, 2 Eggs, 1 Chanterelle.                   | Nǐ xiǎng yào chī shénme?                                                                                                                                                                                                                    |
-| <figure>                                                                                                                                   
- <img src="fortunecookie.png" title="fortunecookie.png" alt="fortunecookie.png" width="50" /><figcaption>fortunecookie.png</figcaption>      
- </figure>                                                                                                                                   | Fortune Cookie        | 1 Dough Slice, 5 units of Sugar, 1 Piece of Paper (with something written on it) | Bad luck and misfortune will infest your pathetic soul for all eternity.                                                                                                                                                                    |
-| <figure>                                                                                                                                   
- <img src="Sugarcookie.png" title="Sugarcookie.png" alt="Sugarcookie.png" width="50" /><figcaption>Sugarcookie.png</figcaption>              
- </figure>                                                                                                                                   | Sugar Cookie          | 5 [Flour](/wiki/Flour "wikilink") + 1 Egg + 5 units of Sugar                           | Just like your little sister used to make.                                                                                                                                                                                                  |
-| <figure>                                                                                                                                   
- <img src="Muffin.png" title="Muffin.png" alt="Muffin.png" width="50" /><figcaption>Muffin.png</figcaption>                                  
- </figure>                                                                                                                                   | Muffin                | 1 Dough, 5 units Milk, 5 units Sugar                                             | Muffin!                                                                                                                                                                                                                                     |
-| <figure>                                                                                                                                   
- <img src="Berrymuffin.png" title="Berrymuffin.png" alt="Berrymuffin.png" width="50" /><figcaption>Berrymuffin.png</figcaption>              
- </figure>                                                                                                                                   | Berry Muffin          | 1 Dough, 5 units of Milk, 5 units of Sugar, 1 Berry                              | Muffin, but with Berries!                                                                                                                                                                                                                   |
-| <figure>                                                                                                                                   
- <img src="Ghostmuffin.png" title="Ghostmuffin.png" alt="Ghostmuffin.png" width="50" /><figcaption>Ghostmuffin.png</figcaption>              
- </figure>                                                                                                                                   | Ghost Muffin          | 1 Dough, 5 units of Milk, 5 units of Sugar, 1 Berry, 1 Ectoplasm                 | Spooky!                                                                                                                                                                                                                                     |
-| <figure>                                                                                                                                   
- <img src="cracker.png" title="cracker.png" alt="cracker.png" width="50" /><figcaption>cracker.png</figcaption>                              
- </figure>                                                                                                                                   | Cracker               | 1 Dough Slice, 1 unit Salt                                                       | Poly yells, "POLY WANNA CRACKER!"                                                                                                                                                                                                           |
-| <figure>                                                                                                                                   
- <img src="Poppypretzel.png" title="Poppypretzel.png" alt="Poppypretzel.png" width="50" /><figcaption>Poppypretzel.png</figcaption>          
- </figure>                                                                                                                                   | Poppy Pretzel         | 1 Dough, 1 Poppy                                                                 | Heals brute damage with opium!                                                                                                                                                                                                              |
-| <figure>                                                                                                                                   
- <img src="Phelmbiscuit.png" title="Phelmbiscuit.png" alt="Phelmbiscuit.png" width="50" /><figcaption>Phelmbiscuit.png</figcaption>          
- </figure>                                                                                                                                   | Plump Helmet Biscuits | 1 Plump Helmet, 5 units of Water, 5 units of Flour                               | The perfect chaser for a Manly Dorf.                                                                                                                                                                                                        |
+-   The fryer can cook any variety and quantity of recipes
+    simultaneously, as long as you have all the ingredients in a single
+    basket.
+    -   Many fryer recipes require an ingredient to be coated in batter
+        or beer-batter for the recipe to work. See the next section for
+        an explanation of battering foods.
+    -   Any leftover reagents will be absorbed into the cooked foods.
+-   When not making a recipe the fryer can also be used to just "deep
+    fry" any food, which will cook it, give it a nice brown color, and
+    add some extra nutrition to it.
 
-### Sweets
+<div class="mw-collapsible-content">
 
-| Picture                                                                                                                            | Recipe        | Ingredients                                                                     | Notes                                                        |
-|------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------|--------------------------------------------------------------|
-| <figure>                                                                                                                           
- <img src="Chocegg.png" title="Chocegg.png" alt="Chocegg.png" width="50" /><figcaption>Chocegg.png</figcaption>                      
- </figure>                                                                                                                           | Chocolate Egg | 1 Egg, 1 Chocolate bar                                                          | NT regulations forbid stuffing toys in these things anymore. |
-| <figure>                                                                                                                           
- <img src="candiedapple.png" title="candiedapple.png" alt="candiedapple.png" width="50" /><figcaption>candiedapple.png</figcaption>  
- </figure>                                                                                                                           | Candied Apple | 5 units of Water, 5 units of Sugar, 1 Apple                                     | Happy ~~Halloween~~ generic shift!                           |
-| <figure>                                                                                                                           
- <img src="Reishiscup.png" title="Reishiscup.png" alt="Reishiscup.png" width="50" /><figcaption>Reishiscup.png</figcaption>          
- </figure>                                                                                                                           | Reishi Cup    | 3u of Psilocybin, 3u of Sugar, 1 Chocolate Bar                                  | A popular candy treat that makes you see COLORS.             |
-| <figure>                                                                                                                           
- <img src="mmmi.png" title="mmmi.png" alt="mmmi.png" width="50" /><figcaption>mmmi.png</figcaption>                                  
- </figure>                                                                                                                           | Mämmi         | 1 Orange, 10 units of Water, 10 units of Flour, 5 units of Milk, 1 unit of Salt | Traditional Easter Desert, in some places!                   |
-| <figure>                                                                                                                           
- <img src="Ricepudding.png" title="Ricepudding.png" alt="Ricepudding.png" width="50" /><figcaption>Ricepudding.png</figcaption>      
- </figure>                                                                                                                           | Rice Pudding  | 5 units of Milk, 10 units of Rice                                               |                                                              |
+|                                                                                                                                                                                | Result                 | Recipe                                                                                 | Reagents & Notes                                                                                                                                                                                                                                                                                                                                                                                                |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <figure>                                                                                                                                                                       
+ <img src="recipe-batteredsausage.png" title="recipe-batteredsausage.png" alt="recipe-batteredsausage.png" width="50" /><figcaption>recipe-batteredsausage.png</figcaption>      
+ </figure>                                                                                                                                                                       | '''Battered Sausage    | Fry 1 Sausage, battered.                                                               | 6 protein, 1.7 batter, 1.5 oil                                                                                                                                                                                                                                                                                                                                                                                  |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-corndog.png" title="recipe-corndog.png" alt="recipe-corndog.png" width="50" /><figcaption>recipe-corndog.png</figcaption>                                      
+ </figure>                                                                                                                                                                       | '''Corndog             | Fry 1 Sausage, 1 batter,                                                               | 4 nutriment, 12 animal protein                                                                                                                                                                                                                                                                                                                                                                                  |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-pizzacrunch.png" title="recipe-pizzacrunch.png" alt="recipe-pizzacrunch.png" width="50" /><figcaption>recipe-pizzacrunch.png</figcaption>                      
+ </figure>                                                                                                                                                                       | '''Pizza Crunch        | Fry 1 Pizza Slice, battered.                                                           | 25 nutriment, 6.5 batter, 4 oil                                                                                                                                                                                                                                                                                                                                                                                 |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-cubancarp.png" title="recipe-cubancarp.png" alt="recipe-cubancarp.png" width="50" /><figcaption>recipe-cubancarp.png</figcaption>                              
+ </figure>                                                                                                                                                                       | '''Cuban Carp          | Fry 1 chili, 1 ball of dough, 1 carp meat.                                             | 3 seafood, 3 nutriment, <span style="color:red">3 carpotoxin</span>, <span style="color:blue">3 capsaicin</span>                                                                                                                                                                                                                                                                                                |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-sweetandsourpork.png" title="recipe-sweetandsourpork.png" alt="recipe-sweetandsourpork.png" width="50" /><figcaption>recipe-sweetandsourpork.png</figcaption>  
+ </figure>                                                                                                                                                                       | '''Sweet and Sour Pork | Fry 1 Bacon, 1 cutlet, 5 soysauce, 10 batter.                                          | 3 protein, 6 nutriment                                                                                                                                                                                                                                                                                                                                                                                          |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-donut.png" title="recipe-donut.png" alt="recipe-donut.png" width="50" /><figcaption>recipe-donut.png</figcaption>                                              
+ </figure>                                                                                                                                                                       | '''Donut               | Fry 1 ball of dough, 10 units sugar.                                                   | 3 nutriment, 1 sprinkles (3 if frosted), 1 animal protein                                                                                                                                                                                                                                                                                                                                                       |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-chaosdonut.png" title="recipe-chaosdonut.png" alt="recipe-chaosdonut.png" width="50" /><figcaption>recipe-chaosdonut.png</figcaption>                          
+ </figure>                                                                                                                                                                       | '''Chaos Donut         | Fry 1 ball of dough, 10 units sugar, 10 units Hot Sauce, 10 units Cold Sauce.          | Always: 2 nutriment, 1 sprinkles (3 if frosted), 1 animal protein Chance of containing an additional 3 units of one of the following: nutriment, <span style="color:blue">capsaicin</span>, <span style="color:blue">frost oil</span>, sprinkles, <span style="color:red">phoron</span>, coco,<span style="color:red">slime jelly</span>, banana, berry juice, or <span style="color:blue">tricordrazine</span> |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-jellydonut.png" title="recipe-jellydonut.png" alt="recipe-jellydonut.png" width="50" /><figcaption>recipe-jellydonut.png</figcaption>                          
+ </figure>                                                                                                                                                                       | '''Jelly Donut         | Fry 1 ball of dough, 10 units sugar, 10 units of berry juice/cherry jelly/slime Jelly. | 3 nutriment, 1 sprinkles (3 if frosted), 5 berry juice or cherry jelly or <span style="color:red">slime jelly</span>, 1 animal protein                                                                                                                                                                                                                                                                          |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-friedmushroom.png" title="recipe-friedmushroom.png" alt="recipe-friedmushroom.png" width="50" /><figcaption>recipe-friedmushroom.png</figcaption>              
+ </figure>                                                                                                                                                                       | '''Fried Mushroom      | Fry 1 plump helmet mushroom, beer-battered.                                            | 4 nutriment, 2 protein                                                                                                                                                                                                                                                                                                                                                                                          |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-funnelcake.png" title="recipe-funnelcake.png" alt="recipe-funnelcake.png" width="50" /><figcaption>recipe-funnelcake.png</figcaption>                          
+ </figure>                                                                                                                                                                       | '''Funnel Cake         | Fry 10 batter, 5 sugar.                                                                | 10 batter, 5 sugar                                                                                                                                                                                                                                                                                                                                                                                              |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-jalapenopopper.png" title="recipe-jalapenopopper.png" alt="recipe-jalapenopopper.png" width="50" /><figcaption>recipe-jalapenopopper.png</figcaption>          
+ </figure>                                                                                                                                                                       | '''Jalapeno Popper     | Fry 1 chili, battered.                                                                 | 1.5 nutriment, 0.3 batter, 0.15 oil                                                                                                                                                                                                                                                                                                                                                                             |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-chickenkatsu.png" title="recipe-chickenkatsu.png" alt="recipe-chickenkatsu.png" width="50" /><figcaption>recipe-chickenkatsu.png</figcaption>                  
+ </figure>                                                                                                                                                                       | '''Chicken Katsu       | Fry 1 chicken meat, beer-battered.                                                     | 6 protein, 2 beer batter, 1 oil                                                                                                                                                                                                                                                                                                                                                                                 |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-pisanggoreng.png" title="recipe-pisanggoreng.png" alt="recipe-pisanggoreng.png" width="50" /><figcaption>recipe-pisanggoreng.png</figcaption>                  
+ </figure>                                                                                                                                                                       | '''Pisang Goreng       | Fry 2 bananas, battered.                                                               | 8 nutriment                                                                                                                                                                                                                                                                                                                                                                                                     |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-risottoballs.png" title="recipe-risottoballs.png" alt="recipe-risottoballs.png" width="50" /><figcaption>recipe-risottoballs.png</figcaption>                  
+ </figure>                                                                                                                                                                       | '''Risotto Balls       | Fry 1 salt, 1 black pepper, 1 Risotto, battered.                                       | 2 nutriment, 4 rice, 1 black pepper                                                                                                                                                                                                                                                                                                                                                                             |
+| <figure>                                                                                                                                                                       
+ <img src="recipe-spacefries.png" title="recipe-spacefries.png" alt="recipe-spacefries.png" width="50" /><figcaption>recipe-spacefries.png</figcaption>                          
+ </figure>                                                                                                                                                                       | '''Space Fries         | Fry 1 raw potato sticks.                                                               | 4 nutriment                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                                                                                                                                                |                        |                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
-### Other
+</div>
+</div>
+<div class="toccolours mw-collapsible" style="width:99%; overflow:auto;">
 
-| Picture                                                                                                                                                | Recipe              | Ingredients                                                            | Notes                                                             |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|-------------------------------------------------------------------|
-| <figure>                                                                                                                                               
- <img src="monkeydel.png" title="monkeydel.png" alt="monkeydel.png" width="50" /><figcaption>monkeydel.png</figcaption>                                  
- </figure>                                                                                                                                               | Monkey's Delight    | 1 Monkey Cube, 10 units Flour, 1 Banana, 1 unit Salt, 1 unit Pepper    | EE EEE!                                                           |
-| <figure>                                                                                                                                               
- <img src="wingchu.png" title="wingchu.png" alt="wingchu.png" width="50" /><figcaption>wingchu.png</figcaption>                                          
- </figure>                                                                                                                                               | Wing Fang Chu       | 5 units of Soy Sauce, 1 Xeno-Meat                                      | At least it wasn't the [Head of Personnel's dog](/wiki/Ian "wikilink"). |
-| <figure>                                                                                                                                               
- <img src="enchi.png" title="enchi.png" alt="enchi.png" width="50" /><figcaption>enchi.png</figcaption>                                                  
- </figure>                                                                                                                                               | Enchiladas          | 1 Cutlet, 2 Chili, 1 Corn                                              | Spicy.                                                            |
-| <figure>                                                                                                                                               
- <img src="taco.png" title="taco.png" alt="taco.png" width="50" /><figcaption>taco.png</figcaption>                                                      
- </figure>                                                                                                                                               | Taco                | Dough slice, cutlet, cheese wedge                                      | Take a bite!                                                      |
-| <figure>                                                                                                                                               
- <img src="Kebab.png" title="Kebab.png" alt="Kebab.png" width="50" /><figcaption>Kebab.png</figcaption>                                                  
- </figure>                                                                                                                                               | Kebab               | 2 Meat, 1 Metal Rod                                                    | You get a metal rod back after eating. May break microwave.       |
-| <figure>                                                                                                                                               
- <img src="Kebab.png" title="Kebab.png" alt="Kebab.png" width="50" /><figcaption>Kebab.png</figcaption>                                                  
- </figure>                                                                                                                                               | Tofu-Kabob          | 2 Tofu, 1 Metal Rod                                                    | You get a metal rod back after eating. May break microwave.       |
-| <figure>                                                                                                                                               
- <img src="Mint.png" title="Mint.png" alt="Mint.png" width="50" /><figcaption>Mint.png</figcaption>                                                      
- </figure>                                                                                                                                               | Mint                | 5 units of sugar, 5 units of frost oil.                                | It is only wafer thin.                                            |
-| <figure>                                                                                                                                               
- <img src="Boiledcore.png" title="Boiledcore.png" alt="Boiledcore.png" width="50" /><figcaption>Boiledcore.png</figcaption>                              
- </figure>                                                                                                                                               | Boiled Slime Core   | 5 units of water, 1 slime core                                         | Magically delicious\~ Also poisonous.                             |
-| <figure>                                                                                                                                               
- <img src="AmanitaJelly.gif" title="AmanitaJelly.gif" alt="AmanitaJelly.gif" width="50" /><figcaption>AmanitaJelly.gif</figcaption>                      
- </figure>                                                                                                                                               | Amanita Jelly       | 5 units of Water, 5 units of Vodka, 5 Amatoxin                         | It's evil, don't touch it!                                        |
-| <figure>                                                                                                                                               
- <img src="duff.gif" title="duff.gif" alt="duff.gif" width="50" /><figcaption>duff.gif</figcaption>                                                      
- </figure>                                                                                                                                               | Space Liberty Duff  | 5 units of Water, 5 units of Vodka, 5 units of Psilocybin              | The colors, maaaan, THE COLORS.                                   |
-| <figure>                                                                                                                                               
- <img src="sushi.png" title="sushi.png" alt="sushi.png" width="50" /><figcaption>sushi.png</figcaption>                                                  
- </figure>                                                                                                                                               | Sushi Roll          | 1 Cabbage, 20u of Rice, and 3 [Meat](#Meat "wikilink")                 | Sliceable. Appease your inner weaboo.                             |
-| <figure>                                                                                                                                               
- <img src="Donerkebab.png" title="Donerkebab.png" alt="Donerkebab.png" width="50" /><figcaption>Donerkebab.png</figcaption>                              
- </figure>                                                                                                                                               | Donerkebab          | 1 Tomato, 1 Cabbage, 1u of Salt, 1 Meat Steak, 1 Flat Dough            | Open Kebab, Show Vagene.                                          |
-| <figure>                                                                                                                                               
- <img src="Grubball.png" title="Grubball.png" alt="Grubball.png" width="50" /><figcaption>Grubball.png</figcaption>                                      
- </figure>                                                                                                                                               | Bugball             | 1 Grubmeat, 5 units of Carbon                                          | Do you really want to eat this?                                   |
-| <figure>                                                                                                                                               
- <img src="Makaronilaatikko.png" title="Makaronilaatikko.png" alt="Makaronilaatikko.png" width="50" /><figcaption>Makaronilaatikko.png</figcaption>      
- </figure>                                                                                                                                               | Makaroni            | 15 units of flour, 5 units of Milk, 1 Grubmeat, 1 Egg, 2 Cheese Wedges | Krafty!                                                           |
-| <figure>                                                                                                                                               
- <img src="Ruinedvirussample.png" title="Ruinedvirussample.png" alt="Ruinedvirussample.png" width="50" /><figcaption>Ruinedvirussample.png</figcaption>  
- </figure>                                                                                                                                               | Ruined Virus Sample | 1 Virus Dish                                                           | Just like vaccination!                                            |
-| <figure>                                                                                                                                               
- <img src="Meatburrito.png" title="Meatburrito.png" alt="Meatburrito.png" width="50" /><figcaption>Meatburrito.png</figcaption>                          
- </figure>                                                                                                                                               | Meat Burrito        | 1 Soybean, 1 Tortilla, 2 Cutlets                                       | Carne!                                                            |
-| <figure>                                                                                                                                               
- <img src="Cheeseburrito.png" title="Cheeseburrito.png" alt="Cheeseburrito.png" width="50" /><figcaption>Cheeseburrito.png</figcaption>                  
- </figure>                                                                                                                                               | Cheese Burrito      | 1 Soybean, 1 Tortilla, 2 Cheese Wedges                                 | Queso!                                                            |
-| <figure>                                                                                                                                               
- <img src="Fuegoburrito.png" title="Fuegoburrito.png" alt="Fuegoburrito.png" width="50" /><figcaption>Fuegoburrito.png</figcaption>                      
- </figure>                                                                                                                                               | Fuego Burrito       | 1 Soybean, 2 Chili, 1 Tortilla                                         | Fuego!                                                            |
-| <figure>                                                                                                                                               
- <img src="Nachos.png" title="Nachos.png" alt="Nachos.png" width="50" /><figcaption>Nachos.png</figcaption>                                              
- </figure>                                                                                                                                               | Nachos              | 1 Tortilla, 1 unit of Salt                                             | Now if only we had some cheese...                                 |
-| <figure>                                                                                                                                               
- <img src="Cheesenachos.png" title="Cheesenachos.png" alt="Cheesenachos.png" width="50" /><figcaption>Cheesenachos.png</figcaption>                      
- </figure>                                                                                                                                               | Cheesenachos        | 1 Tortilla, 1 unit of Salt, 1 Cheese Wedge                             | Now if only it were spicier...                                    |
-| <figure>                                                                                                                                               
- <img src="Cubannachos.png" title="Cubannachos.png" alt="Cubannachos.png" width="50" /><figcaption>Cubannachos.png</figcaption>                          
- </figure>                                                                                                                                               | Cuban Nachos        | 1 Tortilla, 1 Chili, 5 units of Ketchup                                | Perfect!                                                          |
-| <figure>                                                                                                                                               
- <img src="Piginblanket.png" title="Piginblanket.png" alt="Piginblanket.png" width="50" /><figcaption>Piginblanket.png</figcaption>                      
- </figure>                                                                                                                                               | Pig-in-a-Blanket    | 1 Flat Dough, 1 Sausage                                                | A simple breakfast treat, sometimes served for Brunch!            |
+### Batter
+
+You can coat food in batter before putting it in the deepfryer!
+
+-   Nearly everything you can fry can be coated in batter.
+-   Put all of the ingredients of the batter in a container to create
+    the batter, then use a food item on the container to cover it in
+    batter.
+-   The ingredients for the batter can be mixed in any kind of
+    container.
+
+<div class="mw-collapsible-content">
+
+|                                                                                                                        | Result         | Recipe                                                  | Reagents & Notes |
+|------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------------------------------------|------------------|
+| <figure>                                                                                                               
+ <img src="Condiment.png" title="Condiment.png" alt="Condiment.png" width="50" /><figcaption>Condiment.png</figcaption>  
+ </figure>                                                                                                               | '''Batter      | Mix 1 egg, 10 units flour, 5 units water, 2 units salt. | TBA              |
+| <figure>                                                                                                               
+ <img src="Condiment.png" title="Condiment.png" alt="Condiment.png" width="50" /><figcaption>Condiment.png</figcaption>  
+ </figure>                                                                                                               | '''Beer Batter | Mix 1 egg, 10 units flour, 5 units beer, 2 units salt.  | TBA              |
+
+</div>
+</div>
 
 <img src="Icecream_Vat.png" title="fig:Icecream_Vat.png" alt="Icecream_Vat.png" width="50" /> Ice Cream Vat
 -----------------------------------------------------------------------------------------------------------
@@ -1511,138 +2178,145 @@ will require the Grinder's other setting **Juice**.
 </tr>
 <tr class="odd">
 <td><figure>
+<img src="recipe-brownies.png" title="recipe-brownies.png" alt="recipe-brownies.png" width="50" /><figcaption>recipe-brownies.png</figcaption>
+</figure></td>
+<td><p>Brownie Mix</p></td>
+<td><p>Mix 5 units flour, 5 units coco powder, 5 units sugar. Makes 15 units. You'll need to mix twice as much to get enough to use it all up (three brownie trays total).</p></td>
+</tr>
+<tr class="even">
+<td><figure>
 <img src="Tofu.gif" title="Tofu.gif" alt="Tofu.gif" width="50" /><figcaption>Tofu.gif</figcaption>
 </figure></td>
 <td><p>Tofu</p></td>
 <td><p>Mix 10 soymilk + 5 Universal Enzyme</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><figure>
 <img src="Emptycondiment.png" title="Emptycondiment.png" alt="Emptycondiment.png" width="50" /><figcaption>Emptycondiment.png</figcaption>
 </figure></td>
 <td><p>Sugar</p></td>
 <td><p>Grind white beet or sugar cane</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><figure>
 <img src="Condiment.png" title="Condiment.png" alt="Condiment.png" width="50" /><figcaption>Condiment.png</figcaption>
 </figure></td>
 <td><p>Sprinkles</p></td>
 <td><p>Grind donuts</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><figure>
 <img src="Dough.png" title="Dough.png" alt="Dough.png" width="50" /><figcaption>Dough.png</figcaption>
 </figure></td>
 <td><p>Dough</p></td>
 <td><p>Mix 3 units of Egg and 10 units of Flour</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><figure>
 <img src="Meatball.png" title="Meatball.png" alt="Meatball.png" width="50" /><figcaption>Meatball.png</figcaption>
 </figure></td>
 <td><p>Meatball</p></td>
 <td><p>Mix 3 Animal Protein and 5 Flour</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><figure>
 <img src="Bun.png" title="Bun.png" alt="Bun.png" width="50" /><figcaption>Bun.png</figcaption>
 </figure></td>
 <td><p>Bun</p></td>
 <td><p>Microwave 1 Dough</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><figure>
 <img src="Flat_Dough.png" title="Flat_Dough.png" alt="Flat_Dough.png" width="50" /><figcaption>Flat_Dough.png</figcaption>
 </figure></td>
 <td><p>FlatDough</p></td>
 <td><p>Roll out 1 Dough with Rolling Pin</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><figure>
 <img src="Dough_Slice.png" title="Dough_Slice.png" alt="Dough_Slice.png" width="50" /><figcaption>Dough_Slice.png</figcaption>
 </figure></td>
 <td><p>DoughSlice</p></td>
 <td><p>Cut Flat Dough with Kitchen Knife</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><figure>
 <img src="Spaghetti.png" title="Spaghetti.png" alt="Spaghetti.png" width="50" /><figcaption>Spaghetti.png</figcaption>
 </figure></td>
 <td><p>Spaghetti</p></td>
 <td><p>Cut Dough Slice with Kitchen Knife</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><figure>
 <img src="Raw_Cutlet.png" title="Raw_Cutlet.png" alt="Raw_Cutlet.png" width="50" /><figcaption>Raw_Cutlet.png</figcaption>
 </figure></td>
 <td><p>RawCutlet</p></td>
 <td><p>Cut 1 Meat (Any Type). Microwave for a Cutlet.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><figure>
 <img src="Cutlet.png" title="Cutlet.png" alt="Cutlet.png" width="50" /><figcaption>Cutlet.png</figcaption>
 </figure></td>
 <td><p>Cutlet</p></td>
 <td><p>Microwave for a Raw Cutlet.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><figure>
 <img src="Soydope.png" title="Soydope.png" alt="Soydope.png" width="50" /><figcaption>Soydope.png</figcaption>
 </figure></td>
 <td><p>Soy Dope</p></td>
 <td><p>Cut 1 Soybean</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><figure>
 <img src="Meat.png" title="Meat.png" alt="Meat.png" width="50" /><figcaption>Meat.png</figcaption>
 </figure></td>
 <td><p>Meat</p></td>
 <td><p>From butchering or processing most animals (and people). Recipes that call for meat will accept any generic meat (except for specific, named meats such as the ones listed below, which have their own recipes). From the Biogenerator in Botany, or from mixing blood and Clonexadone.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><figure>
 <img src="Carpfillet.png" title="Carpfillet.png" alt="Carpfillet.png" width="50" /><figcaption>Carpfillet.png</figcaption>
 </figure></td>
 <td><p>Carp Fillet</p></td>
 <td><p>Butcher a Carp (gibbing gives three fillets, cutting with a knife gives one.)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><figure>
 <img src="Grubmeat.png" title="Grubmeat.png" alt="Grubmeat.png" width="50" /><figcaption>Grubmeat.png</figcaption>
 </figure></td>
 <td><p>Grub Meat</p></td>
 <td><p>A slab of grub meat, it gives a gentle shock if you touch it. Butcher a Solargrub (gibbing gives three fillets, cutting with a knife gives one.)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><figure>
 <img src="Xenomeat.png" title="Xenomeat.png" alt="Xenomeat.png" width="50" /><figcaption>Xenomeat.png</figcaption>
 </figure></td>
 <td><p>Xeno Meat</p></td>
 <td><p>Butcher a Xenomorph (gibbing gives three fillets, cutting with a knife gives one.)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><figure>
 <img src="Bearmeat.png" title="Bearmeat.png" alt="Bearmeat.png" width="50" /><figcaption>Bearmeat.png</figcaption>
 </figure></td>
 <td><p>Bear Meat</p></td>
 <td><p>Butcher a Spacebear (gibbing gives three fillets, cutting with a knife gives one.)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><figure>
 <img src="Raw_Sticks.png" title="Raw_Sticks.png" alt="Raw_Sticks.png" width="50" /><figcaption>Raw_Sticks.png</figcaption>
 </figure></td>
 <td><p>Raw Potato Sticks</p></td>
 <td><p>Cut up one potato.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><figure>
 <img src="Carrotfries.png" title="Carrotfries.png" alt="Carrotfries.png" width="50" /><figcaption>Carrotfries.png</figcaption>
 </figure></td>
 <td><p>Carrot Fries</p></td>
 <td><p>Cut up one carrot.</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><figure>
 <img src="Tortilla.png" title="Tortilla.png" alt="Tortilla.png" width="50" /><figcaption>Tortilla.png</figcaption>
 </figure></td>

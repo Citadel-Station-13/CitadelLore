@@ -1,4 +1,5 @@
 {{BayPage}}
+{{LoreReview}}
 {{toc_right}}
 The [[Tajaran]] have divurged in cultural practices since their freedom from The Slavemasters 30 years ago. But much remains unified.
  

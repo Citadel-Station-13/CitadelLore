@@ -34,30 +34,30 @@ While on other servers the races have mechanically included allergies (such as S
 !Food or Drink
 !Species Effected
 !Amount needed
-!Time needed to be effected
+!Time needed to be affected
 !Cause
 !Effect
 |-
-|AntiFreeze
-|Teshari, Promethians
+|Antifreeze
+|Teshari, Prometheans
 |30units 
 |near Instant
 |Increased body temperature
-|Heavy burn damage to internal organs
+|Heavy burn damage to internal organs.
 |-
 |Deathbell
-|Promethian, Teshari
+|Prometheans, Teshari
 |One drink
 |Instant
 |**unknown**
-|Instant limb explosion and heavy burn damage for Promethians, Heavy internal burn damage to Teshari 
+|Instant limb explosion and heavy burn damage for Prometheans, heavy internal burn damage to Teshari.
 |-
 |Coldfront
 |Humans
 |**unknown**
 |**unknown**
-|Decreased body temperature
-|Heavy freeze damage to internal organs
+|Decreased body temperature.
+|Heavy freeze damage to internal organs.
 |-
 |Named Bullet
 |Every non-Promethean
@@ -78,7 +78,7 @@ While on other servers the races have mechanically included allergies (such as S
 |**Unknown**
 |**Unknown**
 |**Unknown**
-|Poisons Non-Vox, heals tox damage on vox.
+|Poisons non-Vox, heals toxins damage on Vox.
 |-
 |Three Mile Island Iced Tea
 |**Unknown**
@@ -87,18 +87,13 @@ While on other servers the races have mechanically included allergies (such as S
 |Uranium induced High
 |**Unknown**
 |-
-|Garble Blaster
+|Pan-Galactic Gargle Blaster
 |**Unknown**
 |**Unknown**
 |**Unknown**
 |**Unknown**
-|Varies: Flashing colors, lights, sounds, Slurred speech.. 
+|Varies: Flashing colors, lights, sounds, slurred speech.
 |}
-
-===Outside Recipe Lists===
-Due to how often the recipe lists change, and the nature of wiki-editing, Two external sites have been created for the purpose of offering a convenient full list of Virgos many food and drink recipes. (Warning, may also be out of date. Please check the top of the page for date of publishing. If they are out of date by a month please tell us on our [https://discordapp.com/invite/0yCTdQTDRZL5CFSN discord]. Otherwise, We will try our best to keep the recipe pages and wiki guides up to date.) '''NOTE:''' These pages will only contain what the ingredients are, not how to cook it. Consider this more a In-character friendly reference guide.
-
-Click here for the current recipe lists: [https://vore-station.net/infodump/recipes_drinks.html '''VOREStation Drink List'''] and [https://vore-station.net/infodump/recipes_food.html '''VOREStation Food List'''].
 
 ==Drinks==
 
@@ -925,910 +920,1153 @@ Cold Drinks vending machine.
 
 =Food=
 
-====Grill, deep-frier, and candy machine.====
-You can make any ingredient or existing food listed below into a variety of other interesting variants by using these kitchen machines. Even wondered what a boiled egg gobstopper would taste like? Now's your chance!
-Experiment and disgust/delight your crewmates.
+<!-- overflow:auto; to fix collapsed display, because the toggle link has float:right; -->
+<div class="toccolours mw-collapsible" style="width:99%; overflow:auto;">
+==Microwave==
+[[File:Microwave.gif|50px]]
+<br>
+To operate the microwave, simply insert the listed ingredients to make a recipe. The microwave can take multiple full sets of ingredients to make multiple copies of the same recipe simultaneously (but don't try to make two different things at once).
+<div class="mw-collapsible-content">
 
-== [[File:Microwave.png|50px]] Microwave Recipes==
-Note: Milk, Berry Juice, Soy Sauce, Hot Sauce, Cold Sauce, and Soy Milk are all measured off of reagent units rather then containers (like in previous version). They can be poured directly into the microwave. Additionally, you only need at LEAST the suggested amount of those ingredients instead of exactly the right amount.
+{| class="sortable" border="1" cellspacing="0" cellpadding="2" align="center"
+! style='background-color:Red;'|
+! style='background-color:Red;'|Result
+! style='background-color:Red;'|Recipe
+! style='background-color:Red;'|Reagents & Notes
 
-===Burgers===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Red;" |Picture
-! scope="col" style="background-color:Red;" |Recipe
-! scope="col" class="unsortable" style="background-color:Red;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Red;" |Reagents & Notes
 |-
-![[File:Plain_Burger.png|50px]]
-!Burger
-| Bun + 1 Meat OR combine Bun + 1 Cutlet OR Bun + Meatball
-| If you use human meat, the burger will share the name of your victim. If you add a crayon in the microwave it will color the burger. 3 Nutriment, 13 Animal Protein
+|[[File:recipe-friedegg.png|50px]]
+|'''Fried Egg
+| Microwave 1 egg, 1 unit of salt, 1 unit of pepper.
+| 3 animal protein, 3 egg yolk, 1 salt, 1 pepper
 |-
-![[File:Cheeseburger.png|50px]]
-!Cheeseburger
-| Combine 1 Cheese Wedge with Burger
-| 2 Animal Protein, 2 Nutriment
+|[[File:recipe-poachedegg.png|50px]]
+|'''Poached Egg
+| Microwave 1 egg, 1 unit salt, 1 unit pepper, 1 unit space spice, 5 units water.
+| 3 egg yolk, 1 nutriment, 1 pepper
 |-
-![[File:tofubuger.png|50px]]
-!Tofu Burger
-| Bun + 1 Tofu
-| 6 Nutriment, 1 Animal Protein
+|[[File:recipe-boiledegg.png|50px]]
+|'''Boiled Egg
+| Microwave 1 egg, 5 units water.
+| 2 animal protein, 3 egg yolk
 |-
-![[File:spell.png|50px]]
-!Spell Burger
-| Bun + 1 Wizard hat
-| You will eat this until you have had Ei Nath. 6 Nutriment, 3 or 13 Animal Protein
+|[[File:recipe-burger.png|50px]]
+|'''Burger
+| Microwave 1 meat, 1 Bun.
+| 3 nutriment, 13 animal protein
 |-
-![[File:ghostbur.PNG|50px]]
-!Ghost Burger
-| Bun + 1 Ectoplasm
-| Terror-ifficly tasty. 2 Nutriment, 1 Animal Protein
+|[[File:recipe-burger.png|50px]]
+|'''Burger
+| Combine 1 Cutlet/Meatball with 1 Bun.
+| 3 nutriment, 3 animal protein
 |-
-![[File:Roburger.png|50px]]
-!Roburger
-| Bun + 1 Robot Head
-| 2 Nutriment, 1 Animal Protein, 5% probability of 2 units of Nanites
+|[[File:recipe-burger.png|50px]]
+|'''Cheese Burger
+| Combine 1 cheese wedge with 1 Burger.
+| 2 animal protein, 2 nutriment
 |-
-![[File:Brainburger.png|50px]]
-!Brain Burger
-| Bun + 1 Brain
-| 7 Animal Protein, 6 Alkysine, 5 Blood
+|[[File:recipe-brainburger.png|50px]]
+|'''Brain Burger
+| Microwave 1 Bun, 1 brain.
+| 7 animal protein, <span style="color:blue">6 alkysine</span>, <span style="color:red">5 blood</span>
 |-
-![[File:Xenoburger.png|50px]]
-!Xenoburger
-| Bun + 1 Xeno Meat
-| 15 Animal Protein, 6 Polytrinic Acid
+|[[File:recipe-roburger.png|50px]]
+|'''Roburger
+| Microwave 1 Bun, 1 robot head.
+| 2 nutriment, 1 animal protein, 5% probability of <span style="color:blue">2 nanites</span>
 |-
-![[File:Jellyburger.png|50px]]
-!Jelly Burger
-| Microwave 1 Bun, 5 units of Cherry Jelly/Slime Jelly
-| 5 Nutriment, 5 Slime Jelly or Cherry Jelly, 1 Animal Protein
+|[[File:recipe-xenoburger.png|50px]]
+|'''Xenoburger
+| Microwave 1 Bun, 1 [[Xenos|xeno-meat]].
+| 15 animal protein, 6 <span style="color:red">polytrinic acid</span>
 |-
-![[File:Clownburger.png|50px]]
-!Clown Burger
-| Bun + 1 Clown wig and mask
-| 6 Nutriment, 1 Animal Protein
+|[[File:recipe-bearburger.png|50px]]
+|'''Bearburger
+| Microwave 1 Bun, 1 bear meat.
+| 10 animal protein, 5 <span style="color:blue">hyperzine</span>
 |-
-![[File:Mimeburger.png|50px]]
-!Mime Burger
-| Bun + 1 Beret
-| 6 Nutriment, 1 Animal Protein
+|[[File:recipe-filletocarpsandwich.png|50px]]
+|'''Fillet -o- Carp Sandwich
+| Microwave 1 Bun, 1 carp fillet.
+| 10 animal protein, <span style="color:red">6 carpotoxin</span>
 |-
-![[File:bigbite.png|50px]]
-!Big Bite Burger
-| 3 Meat + Burger + Egg
-| Forget the Big Mac.
+|[[File:recipe-tofuburger.png|50px]]
+|'''Tofu Burger
+| Microwave 1 Bun, 1 Tofu.
+| 6 nutriment, 1 animal protein
 |-
-![[File:superbite.png|50px]]
-!Super Bite Burger
-| 1 Big Bite Burger, 1 Dough, 1 Meat, 1 Tomato, 1 Boiled Egg, 1 Cheese Wedge, 5 units of Salt, 5 units of Pepper 
-| If this doesn't clog their arteries, nothing will. Two bites will take you from starving to overfed.
+|[[File:recipe-ghostburger.png|50px]]
+|'''Ghost Burger
+| Microwave 1 Bun, 1 ectoplasm.
+| 2 nutriment, 1 animal protein
+|-
+|[[File:recipe-clownburger.png|50px]]
+|'''Clown Burger
+| Microwave 1 Bun, 1 clown wig and mask.
+| 6 nutriment, 1 animal protein
+|-
+|[[File:recipe-mimeburger.png|50px]]
+|'''Mime Burger
+| Microwave 1 Bun, 1 beret.
+| 6 nutriment, 1 animal protein
+|-
+|[[File:recipe-hotdog.png|50px]]
+|'''Hotdog
+| Microwave 1 Sausage, 1 Bun.
+| 19 animal protein
+|-
+|[[File:recipe-bacon.png|50px]]
+|'''Microwaved Bacon
+| Microwave 1 Raw Bacon
+| .3 animal protein, 1 unit Triglyceride
+|-
+|[[File:recipe-eggpop.png|50px]]
+|'''Eggpop
+| Combine 1 Bacon with 1 Boiled Egg.
+| 3 animal protein, 1 egg
+|-
+|[[File:recipe-baconandeggs.png|50px]]
+|'''bacon and eggs
+| Combine 1 Bacon with 1 Fried Egg.
+| 3 animal protein, 1 egg
+|-
+|[[File:recipe-chickenfilletsandwich.png|50px]]
+|'''Chicken Fillet Sandwich
+| Microwave or combine 1 Katsu and 1 Bun.
+| 5 nutriment, 10 animal protein
+|-
+|[[File:recipe-waffles.png|50px]]
+|'''Waffles
+| Microwave 2 balls of dough, 10 units sugar.
+| 8 nutriment, 2 animal protein
+|-
+|[[File:recipe-donkpocket.png|50px]]
+|'''Warm Donk Pocket
+| Microwave 1 ball of dough, 1 meatball.
+| 2 nutriment, 6 animal protein, 5 tricordrazine
+|-
+|[[File:recipe-donkpocket.png|50px]]
+|'''Warm Donk Pocket
+| Microwave 1 Donk Pocket.
+| 2 nutriment, 2 animal protein, 5 tricordrazine
+|-
+|[[File:recipe-donkpocket.png|50px]]
+|'''Donk Pocket
+| Allow a warm Donk Pocket to cool.
+| 2 nutriment, 2 or 6 animal protein
+|-
+|[[File:recipe-applepie.png|50px]]
+|'''Apple Pie
+| Microwave 1 flat dough, 1 apple.
+| 4 nutriment, 1 animal protein
+
+For some reason, this is not an oven recipe.
+|-
+|[[File:recipe-meatbun.png|50px]]
+|'''Meat Bun
+| Microwave 1 raw cutlet, 1 dough slice, 1 unit space spice, 5 units water.
+| 5 nutriment, 3 animal protein
+|-
+|[[File:recipe-custardbun.png|50px]]
+|'''Custard Bun
+| Microwave 1 dough slice, 3 units egg yolk, 1 unit space spice, 5 units water.
+Don't use a whole egg, or it will end up as a boiled egg.
+| 6 nutriment, 2 egg yolk
+|-
+|[[File:recipe-chickenmomo.png|50px]]
+|'''Chicken Momo
+| Microwave 1 chicken meat, 3 dough slices, 2 units space spice, 5 units water.
+| 7 nutriment, 6 animal protein, 2 space spice
+|-
+|[[File:recipe-veggiemomo.png|50px]]
+|'''Veggie Momo
+| Microwave 1 carrot, 1 cabbage, 3 dough slices, 2 units space spice, 5 units water.
+| 10 nutriment, 4 space spice, 3 carrot juice, <span style="color:blue">1 imidazoline</span>
+|-
+|[[File:recipe-omelettedufromage.png|50px]]
+|'''Omelette Du Fromage
+| Microwave 6 units egg yolk, 2 cheese wedges.
+| 16 animal protein, 6 egg yolk 
+|-
+|[[File:recipe-muffin.png|50px]]
+|'''Muffin
+| Microwave 1 ball of dough, 5 units milk, 5 units sugar.
+| 6 nutriment, 1 animal protein
+|-
+|[[File:recipe-eggplantparmigiana.png|50px]]
+|'''Eggplant Parmigiana
+| Microwave 2 cheese wedges, 1 eggplant.
+| 6 nutriment, 8 animal protein
+|-
+|[[File:recipe-soylenvirdians.png|50px]]
+|'''Soylen Virdians
+| Microwave 10 units flour, 1 soybean.
+| 10 nutriment, 1 soy milk
+|-
+|[[File:recipe-soylentgreen.png|50px]]
+|'''Soylent Green
+| Microwave 2 human meat, 10 units flour.
+| 28 Animal Protein
+|-
+|[[File:recipe-berryclafoutis.png|50px]]
+|'''Berry Clafoutis
+| Microwave 1 flat dough, 1 berry.
+| 4 nutriment, 7 berry juice, 1 animal protein
+|-
+|[[File:recipe-wingfangchu.png|50px]]
+|'''Wing Fang Chu
+| Microwave 5 units soy sauce, 1 xeno-meat.
+| 12 animal protein, <span style="color:red">6 polytrinic acid</span>
+|-
+|[[File:recipe-meatkabob.png|50px]]
+|'''Meat-kabob
+| Microwave 2 meat, 1 metal rod.
+| 26 animal protein
+May break the microwave. 
+|-
+|[[File:recipe-tofukabob.png|50px]]
+|'''Tofu-kabob
+| Microwave 2 tofu, 1 metal rod.
+| 8 nutriment
+May break the microwave.
+|-
+|[[File:recipe-loadedbakedpotato.png|50px]]
+|'''Loaded Baked Potato
+| Microwave 1 potato, 1 cheese wedge.
+| 3 nutriment, 7 animal protein, 2 potato juice
+|-
+|[[File:recipe-cheesyfries.png|50px]]
+|'''Cheesy Fries
+| Microwave 1 Space Fries, 1 cheese wedge.
+| 4 nutriment, 6 animal protein
+|-
+|[[File:recipe-chilicheesefries.png|50px]]
+|'''Chili Cheese Fries
+| Microwave 1 Space Fries, 1 Hot Chili, 1 cheese wedge.
+| 9 nutriment, 9 animal protein, <span style="Color: Blue">2 capsaicin</span>
+|-
+|[[File:recipe-cubancarp.png|50px]]
+|'''Cuban Carp
+| Microwave 1 carp fillet, 1 ball of dough, 1 chili pepper.
+| 7 animal protein, 3 nutriment, <span style="color:red">6 carpotoxin</span>, <span style="color:blue">10 capsaicin</span>
+|-
+|[[File:recipe-sushiroll.png|50px]]
+|'''Sushi Roll
+| Microwave 3 meat, 1 cabbage, 20u rice.
+| 6 seafood, 
+|-
+|[[File:recipe-popcorn.png|50px]]
+|'''Popcorn
+| Microwave 1 corn.
+| 2 nutriment, 3 corn oil
+|-
+|[[File:recipe-meatsteak.png|50px]]
+|'''Meat Steak
+| Microwave 1 unit salt, 1 unit pepper, 1 meat (any type).
+| 13 animal protein, 1 salt, 1 pepper
+|-
+|[[File:recipe-spacylibertyduff.png|50px]]
+|'''Spacy Liberty Duff
+| Microwave 5 units water, 5 units vodka, 5 units psilocybin.
+| 6 nutriment, <span style="color:blue">6 psilocybin</span>
+|-
+|[[File:recipe-amanitajelly.png|50px]]
+|'''Amanita Jelly
+| Microwave 5 units water, 5 units vodka, 5 units amatoxin.
+|6 nutriment, <span style="color:blue">3 psilocybin</span>
+|-
+|[[File:recipe-meatballsoup.png|50px]]
+|'''Meatball Soup
+| Microwave 10 units water, 1 meatball, 1 carrot, 1 potato.
+| 11 animal protein, 5 water, <span style="color:blue">5 imidazoline</span>, 1 carrot juice, 2 potato juice
+|-
+|[[File:recipe-vegetablesoup.png|50px]]
+|'''Vegetable Soup
+| Microwave 10 units water, 1 carrot, 1 corn, 1 eggplant, 1 potato.
+| 8 nutriment, 5 water, 3 corn oil, <span style="color:blue">5 imidazoline</span>, 1 carrot juice, 2 potato juice
+|-
+|[[File:recipe-nettlesoup.png|50px]]
+|'''Nettle Soup
+| Microwave 10 units water, 1 nettle, 3 units egg yolk, 1 potato.
+| 8 nutriment, 5 water, <span style="color:blue">5 tricordrazine</span>, <span style="color:red">9 sulphuric acid</span>, 2 potato juice, 3 egg yolk
+|-
+|[[File:recipe-wishsoup.png|50px]]
+|'''Wish Soup
+| Microwave 20 units water. Yep.
+| 10 water, 25% chance of 8 nutriment
+|-
+|[[File:recipe-hotchili.png|50px]]
+|'''Hot Chili
+| Microwave 1 meat, 1 chili pepper, 1 tomato.
+| 3 nutriment, 12 animal protein <span style="color:blue">10 capsaicin</span>, 4 tomato juice
+|-
+|[[File:recipe-coldchili.png|50px]]
+|'''Cold Chili
+| Microwave 1 meat, 1 ice pepper, 1 tomato.
+| 3 nutriment, 12 animal protein, <span style="color:blue">10 frost oil</span>, 4 tomato juice
+|-
+|[[File:recipe-spellburger.png|50px]]
+|'''Spell Burger
+| Microwave 1 Burger, 1 wizard hat.
+| 6 nutriment, 3 or 13 animal protein
+|-
+|[[File:recipe-bigbiteburger.png|50px]]
+|'''Big Bite Burger
+| Microwave 1 Burger, 3 meat, 3 egg yolk.
+| 40 animal protein, 4 nutriment, 3 egg yolk
+|-
+|[[File:recipe-fishandchips.png|50px]]
+|'''Fish and Chips
+| Microwave 1 Space Fries, 1 carp meat.
+| 3 nutriment, 6 animal protein, <span style="color:red">6 carpotoxin</span>
+|-
+|[[File:recipe-sandwich.png|50px]]
+|'''Sandwich
+| Microwave 2 bread slices, 1 Meat Steak, 1 cheese wedge.
+Custom sandwiches can be made by combining items with a bread slice, but use this recipe for others that call for a sandwich as an ingredient.
+| 3 nutriment, 20.4 animal protein, 1.2 egg yolk, 1 salt, 1 pepper
+|-
+|[[File:recipe-toastedsandwich.png|50px]]
+|'''Toasted Sandwich
+| Microwave 1 Sandwich.
+| 3 nutriment, 23.4 animal protein, 1.2 egg yolk, 1 salt, 1 pepper, 2 carbon
+|-
+|[[File:recipe-grilledcheesesandwich.png|50px]]
+|'''Grilled Cheese Sandwich
+| Microwave 2 bread slices, 1 cheese wedge.
+| 3 nutriment, 8.4 animal protein, 1.2 egg yolk
+|-
+|[[File:recipe-tomatosoup.png|50px]]
+|'''Tomato Soup
+| Microwave 10 units water, 2 tomatoes.
+| Drinking this makes you feel like a vampire. A tomato vampire.
+5 nutriment, 14 tomato juice
+|-
+|[[File:recipe-rofflewaffles.png|50px]]
+|'''Roffle Waffles
+| Microwave 2 balls of dough, 10 units sugar, 5 units psilocybin.
+| 8 nutriment, <span style="color:blue">8 psilocybin</span>, 2 animal protein
+|-
+|[[File:recipe-stew.png|50px]]
+|'''Stew
+| Microwave 10 units water, 1 meat, 1 tomato, 1 potato, 1 carrot, 1 eggplant, 1 chantrelle mushroom.
+| 6 nutriment, 13 animal protein, 7 tomato juice, <span style="color:blue">10 imidazoline</span>, 5 water, 2 potato juice, 1 carrot juice
+|-
+|[[File:recipe-bearstew.png|50px]]
+|'''Bear Stew
+| Microwave 10 units water, 1 bluespace bear meat, 1 tomato, 1 potato, 1 carrot, 1 eggplant, 1 chantrelle mushroom.
+| 6 nutriment, 4 animal protein, 5 tomato juice, <span style="color:blue">5 hyperzine</span>, <span style="color:blue">5 imidazoline</span>, 5 water
+|-
+|[[File:recipe-jelliedtoast.png|50px]]
+|'''Jellied Toast
+| Microwave 1 bread slice, 5 units cherry jelly or slime jelly.
+Slime jelly will poison someone who eats it.
+| 1 nutriment, 0.2 animal protein, 0.6 egg yolk, 5 cherry jelly or <span style="color:red">5 slime jelly</span>
+|-
+|[[File:recipe-pieceofhoneyedtoast.png|50px]]
+|'''Honeyed Toast
+| Microwave 1 bread slice, 5 units honey.
+| 1 nutriment, 0.2 animal protein, 0.6 egg yolk, 5 honey
+|-
+|[[File:recipe-milosoup.png|50px]]
+|'''Milosoup
+| Microwave 10 units water, 2 tofu, 2 soy dope.
+| 8 nutriment, 5 water
+|-
+|[[File:recipe-stewedsoymeat.png|50px]]
+|'''Stewed Soy Meat
+| Microwave 2 soy dope, 1 carrot, 1 tomato.
+| 8 nutriment, <span style="color:blue">5 imidazoline</span>, 1 carrot juice, 2 tomato juice
+|-
+|[[File:recipe-boiledspaghetti.png|50px]]
+|'''Boiled Spaghetti
+| Microwave 5 units water, 1 spaghetti (uncooked).
+| 2 nutriment, .33 animal protein
+|-
+|[[File:recipe-lomein.png|50px]]
+|'''Lo Mein
+| Microwave 5 units water, 5 units soy sauce, 1 carrot, 1 cabbage, 1 spaghetti (uncooked).
+| 6 nutriment, 3 carrot juice, <span style="color:blue">1 imidazoline</span>
+|-
+|[[File:recipe-boiledrice.png|50px]]
+|'''Boiled Rice
+| Microwave 5 units water, 10 units rice.
+| 2 nutriment
+|-
+|[[File:recipe-friedrice.png|50px]]
+|'''Fried Rice
+| Microwave 5 units water, 10 units rice, 5 units soy sauce, 1 carrot, 1 cabbage.
+| 6 nutriment, 5 rice, 3 carrot juice, <span style="color:blue">1 imidazoline</span>
+|-
+|[[File:recipe-risotto.png|50px]]
+|'''Risotto
+| Microwave 5 units wine, 10 units rice, 1 unit space spice, 1 chantrelle mushroom.
+| 6 mushroom, 4 rice
+|-
+|[[File:recipe-bibimbapbowl.png|50px]]
+|'''Bibimbap Bowl
+| Microwave 5 units rice, 1 cutlet, 1 egg, 1 carrot, 1 cabbage, 1 chantrelle mushroom, 2 units space spice. 
+| 6 animal protein, 3 egg yolk, 3 space spice, <span style="color:blue">3 imidazoline</span>
+|-
+|[[File:recipe-ricepudding.png|50px]]
+|'''Rice Pudding
+| Microwave 5 units milk, 10 units rice.
+| 4 nutriment
+|-
+|[[File:recipe-spaghetti.png|50px]]
+|'''Spaghetti
+| Microwave 5 units water, 1 spaghetti (uncooked), 2 tomatoes.
+| 6 nutriment, 14 tomato juice, .33 animal protein
+|-
+|[[File:recipe-spaghettimeatballs.png|50px]]
+|'''Spaghetti and Meatballs
+| Microwave 5 units water, 1 spaghetti (uncooked), 2 meatballs.
+| 4 nutriment, 10.33 animal protein
+|-
+|[[File:recipe-spesslaw.png|50px]]
+|'''Spesslaw
+| Microwave 5 units water, 1 spaghetti (uncooked), 4 meatballs.
+| 4 nutriment, 16.33 animal protein
+|-
+|[[File:recipe-superbiteburger.png|50px]]
+|'''Super Bite Burger
+| Microwave 1 Big Bite Burger, 1 ball of dough, 1 meat, 1 tomato, 1 Boiled Egg, 1 cheese wedge, 5 units salt, 5 units pepper.
+| 25 nutriment, 25 animal protein
+|-
+|[[File:recipe-candiedapple.png|50px]]
+|'''Candied Apple
+| Microwave 5 units water, 5 units sugar, 1 apple.
+| 3 nutriment
+|-
+|[[File:recipe-jellyburger.png|50px]]
+|'''Jelly Burger
+| Microwave 1 bun, 5 units of cherry jelly or slime jelly.
+Slime jelly will poison someone who eats it.
+| 5 nutriment, 5 cherry jelly or <span style="color:red">5 slime jelly</span>, 1 animal protein
+|-
+|[[File:recipe-twobread.png|50px]]
+|'''Two Bread
+| Microwave 2 bread slices, 5 units wine.
+| 2 nutriment, 0.4 animal protein, 1.2 egg yolk
+|-
+|[[File:recipe-jellysandwich.png|50px]]
+|'''Jelly Sandwich
+| Microwave 2 bread slices, 5 units cherry jelly or slime jelly.
+| 2 nutriment, 5 cherry jelly or <span style="color:red">5 slime jelly</span>, .4 animal protein, 1.6 egg yolk
+|-
+|[[File:recipe-tomatosoup.png|50px]]
+|'''Tomato Soup
+| Microwave 30 units blood!
+| Smells like copper...
+2 animal protein, <span style="color:red">10 blood</span>, 5 water
+|-
+|[[File:recipe-slimesoup.png|50px]]
+|'''Slime Soup
+| Microwave 10 units of water, 5 units of slime jelly.
+| 10 Water, <span style="color:red">5 Slime Jelly</span>
+|-
+|[[File:recipe-boiledslimecore.png|50px]]
+|'''Boiled slime Core
+| Microwave 5 units of water, 1 slime core
+| <span style="color:red">35 Slime Jelly</span>
+|-
+|[[File:recipe-chocolateegg.png|50px]]
+|'''Chocolate Egg
+| Microwave 1 egg, 1 chocolate bar.
+| 3 nutriment, 4 sugar, 4 coco, 3 egg yolk
+|-
+|[[File:recipe-sausage.png|50px]]
+|'''Sausage
+| Microwave 1 cutlet, 1 meatball.
+| 12 animal protein
+|-
+|[[File:recipe-fishfingers.png|50px]]
+|'''Fish Fingers
+| Microwave 10 units flour, 3 units egg yolk, 1 carp meat.
+| 7 animal protein, <span style="color:red">6 carpotoxin</span>, 3 egg yolk
+|-
+|[[File:recipe-mysterysoup.png|50px]]
+|'''Mystery Soup
+| Microwave 10 units water, 1 Burned Mess, 1 tofu, 3 egg yolk, 1 cheese wedge.
+| Always contains 4 animal protein, <span style="color:red">3+ toxin</span>, and 1+ carbon.
+Possible other reagents: nutriment, <span style="color:blue">capsaicin</span>, tomato juice, <span style="color:blue">frost oil</span>, water, <span style="color:blue">tricordrazine</span>, banana juice, <span style="color:red">blood</span>, <span style="color:red">slime jelly</span>, or <span style="color:blue">imidazoline</span>.
+|-
+|[[File:recipe-plumphelmetbiscuit.png|50px]]
+|'''Plump Helmet Biscuit
+| Microwave 1 plump helmet mushroom, 5 units water, 5 units flour.
+| 5 nutriment, 10% chance of 8 nutriment and <span style="color:blue">5 tricordrazine</span>
+|-
+|[[File:recipe-chantrellesoup.png|50px]]
+|'''Chantrelle Soup
+| Microwave 5 units water, 5 units milk, 1 chantrelle mushroom.
+| 8 nutriment
+|-
+|[[File:recipe-redcurry.png|50px]]
+|'''Red Curry
+| Microwave 2 cutlets, 5 units cream, 2 units space spice, 5 units rice.
+| 6 animal protein, 2 nutriment, 2 space spice
+|-
+|[[File:recipe-greencurry.png|50px]]
+|'''Green Curry
+| Microwave 2 tofu, 1 chili pepper, 5 units cream, 2 units space spice, 5 units rice.
+| 5 tofu, <span style="color:blue">2 capsaicin</span>, 1 nutriment, 2 space spice
+|-
+|[[File:recipe-yellowcurry.png|50px]]
+|'''Yellow Curry
+| Microwave 2 peanuts, 1 potato, 5 units of cream, 2 units space spice, 5 units rice.
+| 8 nutriment, 2 space spice
+|-
+|[[File:recipe-chawanmushi.png|50px]]
+|'''Chawanmushi
+| Microwave 5 units water, 5 units soy sauce, 6 units egg yolk, 1 chantrelle mushroom.
+| 5 animal protein, 6 egg yolk
+|-
+|[[File:recipe-borsh.png|50px]]
+|'''Borscht
+| Microwave 10 units water, 1 white beet, 1 cabbage.
+| "Wait, how do you spell it again..?"
+8 nutriment, 3 sugar
+|-
+|[[File:recipe-tossedsalad.png|50px]]
+|'''Tossed Salad
+| Microwave 2 cabbage, 1 tomato, 1 carrot, 1 apple.
+| 8 nutriment, <span style="color:blue">5 imidazoline</span>, 2 tomato juice, 1 carrot juice
+|-
+|[[File:recipe-aesirsalad.png|50px]]
+|'''Aesir salad
+| Microwave 1 ambrosia deus, 1 golden apple.
+| 8 nutriment, <span style="color:blue">8 The Doctor's Delight</span>, <span style="color:blue">8 tricordrazine</span>, <span style="color:blue">1 bicaridine</span>, <span style="color:red">1 synaptizine</span>, <span style="color:blue">1 hyperzine</span>, <span style="color:blue">1 space drugs</span>, 3 gold.
+|-
+|[[File:recipe-validsalad.png|50px]]
+|'''Valid Salad
+| Microwave 3 ambrosia vulgaris, 1 potato, 1 meatball.
+| 6 nutriment, 5 animal protein, <span style="color:blue">3 space drugs</span>, <span style="color:blue">3 kelotane</span>, <span style="color:blue">3 bicaridine</span>, 2 potato juice
+|-
+|[[File:recipe-stuffing.png|50px]]
+|'''Stuffing
+| Microwave 1 Bread, 5 units water, 1 unit salt, 1 unit pepper.
+| 3 nutriment, 1 animal protein, 3 egg yolk
+|-
+|[[File:recipe-tofurkey.png|50px]]
+|'''Tofurkey
+| Microwave 2 tofu, 1 Stuffing.
+| 12 nutriment, <span style="color:blue">3 soporific</span>, 1 animal protein, 3 egg yolk
+|-
+|[[File:recipe-taco.png|50px]]
+|'''Taco
+| Microwave 1 dough slice, 1 cutlet, 1 cheese wedge.
+Alternatively, microwave 1 tortilla, 1 cutlet, 1 cheese wedge.
+| 4 nutriment, 10.3 animal protein
+|-
+|[[File:recipe-basketofchips.png|50px]]
+|'''Basket of Chips
+| Microwave 1 tortilla, 1 salt.
+| 10 nutriment
+|-
+|[[File:recipe-plateofnachos.png|50px]]
+|'''Plate of Nachos
+| Microwave 1 chip basket, 1 cheese wedge.
+| 10 nutriment
+|-
+|[[File:recipe-salsadip.png|50px]]
+|'''Salsa Dip
+| Microwave 1 chili pepper, 1 tomato, 1 lime, 1 space spice, 1 salt, 1 pepper.
+Dip chips or nachos in this!
+| 20 nutriment
+|-
+|[[File:recipe-guacdip.png|50px]]
+|'''Guacamole Dip
+| Microwave 1 tofu, 1 chili pepper, 1 lime, 1 space spice, 1 salt, 1 pepper.
+Dip chips or nachos in this!
+| 20 nutriment
+Don't tell anyone there's no avocado in it. 
+|-
+|[[File:recipe-quesodip.png|50px]]
+|'''Queso Dip
+| Microwave 1 cheese wedge, 1 chili pepper, 1 tomato, 1 space spice, 1 salt, 1 pepper.
+Dip chips or nachos in this!
+| 20 nutriment
+|-
+|[[File:recipe-meatburrito.png|50px]]
+|'''Meat Burrito
+| Microwave 1 tortilla, 2 meatballs, 1 space spice.
+| 6 nutriment, animal protein
+|-
+|[[File:recipe-veganburrito.png|50px]]
+|'''Vegan Burrito
+| Microwave 1 tortilla, 1 tofu.
+| 6 nutriment, 4 tofu
+|-
+|[[File:recipe-spicymeatburrito.png|50px]]
+|'''Spicy Meat Burrito
+| Microwave 1 burrito, 2 chili
+| 6 nutriment, animal protein, capsaicin
+|-
+|[[File:recipe-meatcheeseburrito.png|50px]]
+|'''Meat Cheese Burrito
+| Microwave 1 burrito, 1 cheesewedge.
+| 6 nutriment, animal protein
+|-
+|[[File:recipe-spicycheesemeatburrito.png|50px]]
+|'''Spicy Cheese Meat Burrito
+| Microwave 1 burrito, 1 cheesewedge, 2 chili.
+| 6 nutriment, animal protein, capsaicin 
+|-
+|[[File:recipe-eldiablo.png|50px]]
+|'''El Diablo (Hell Burrito)
+| Microwave 1 burrito spicy, 10 chili.
+| 6 nutriment, animal protein, capsaicin
+While it may be a great Burrito, the peppers will still make it unpleasant. 
+|-
+|[[File:recipe-mysterymeatburrito.png|50px]]
+|'''Mystery Meat Burrito
+| Microwave 1 burrito, 1 mystery soup.
+| 6 nutriment, ???
+|-
+|[[File:recipe-breakfastwrap.png|50px]]
+|'''Breakfast Wrap
+| Microwave 1 burrito, 1 cheese wedge, 1 egg.
+|-
+|[[File:recipe-mint.png|50px]]
+|'''Mint
+| Microwave 5 units sugar, 5 units frost oil.
+| 1 mint toxin
+|-
+|[[File:recipe-breakfastofchampions.png|50px]]
+|'''Breakfast of Champions
+| Microwave 1 sausage, 1 omelette, 1 meatsteak.
+| 6 animal protein, 4 egg.
+|-
+|[[File:recipe-moghesianseadelight.png|50px]]
+|'''Moghesian Sea delight
+| Microwave 3 eggs, 15 units blood.
+| 4 egg.
+|-
+|[[File:recipe-redsunspecial.png|50px]]
+|'''Red Sun Special
+| Microwave 1 sausage, 1 cheese wedge
+| 2 animal protein.
+|-
+|[[File:recipe-hatchlingsuprise.png|50px]]
+|'''Hatchling Surprise
+| Microwave 1 poached egg, 3 bacon.
+| 2 egg, 4 animal protein.
+|-
+|[[File:recipe-meatpancake.png|50px]]
+|'''Meat Pancake
+| Microwave 3 meatball, 1 omelette.
+| 2 egg, 6 animal protein.
+|-
+|[[File:recipe-chiliedeggs.png|50px]]
+|'''Chilied Eggs
+| Microwave 1 hotchili, 3 boiled egg.
+| 6 egg, 2 animal protein.
+|-
+|[[File:recipe-stuffedmeatball.png|50px]]
+|'''Stuffed Meatball
+| Microwave 1 meatball, 1 cheese wedge, 1 cabbage.
+| 4 animal protein.
+|-
+|[[File:recipe-korlaaskak.png|50px]]
+|'''Korlaaskak
+| Microwave 6 carp meat, 1 cabbage, 1 lime, 1 units space spice.
+| 12 seafood.
+|-
+|[[File:burnedmess.png|50px]]
+|'''Burned Mess
+| Created when you try to microwave an invalid recipe. It may also break or dirty the microwave.
+| <span style="color:red">1+ toxin</span>, 3+ carbon
+|-
+|[[File:recipe-baconburger.png|50px]]
+|'''Bacon Burger
+| Microwave a bun, meat, and three bacon
+|
+|-
+|[[File:recipe-ntmuffin.png|50px]]
+|'''NT Muffin
+| Microwave a plump helment biscuit, sausage, fried egg, and cheese wedge.
+|
+|-
+|[[File:recipe-carptaco.png|50px]]
+|'''Carp Taco
+| Microwave a carp fillet, a tortilla, a chili, and a lemon.
+| Caution: Contains carpotoxin!
+|-
+|[[File:recipe-blt.png|50px]]
+|'''BLT
+| Microwave two bread slices, two bacon, one tomato, and one cabbage.
+|
+|-
+|[[File:recipe-porkbowl.png|50px]]
+|'''Porkbowl
+| Microwave 10 rice, 5 water, 1 bacon.
+| 4 protein, 6 rice.
+|-
+|[[File:recipe-mashedpotato.png|50px]]
+|'''Mashed potato
+| Microwave 1 potato.
+| 4 nutriment.
+|-
+|[[File:recipe-onionrings.png|50px]]
+|'''Onion Rings
+| Microwave 1 onion, 1 doughslice.
+| 5 nutriment.
+|-
+|[[File:recipe-onionsoup.png|50px]]
+|'''Onion Soup
+| Microwave 1 onion, 10 water.
+| 5 nutriment.
+|-
 |}
+</div></div>
 
-===Breads & Sandwiches===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Orangered;" |Picture
-! scope="col" style="background-color:Orangered;" |Recipe
-! scope="col" class="unsortable" style="background-color:Orangered;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Orangered;" |Notes
-|-
-![[File:bread.png|50px]]
-!{{anchor|Bread}}Bread
-| 1 Dough, 1 Egg
-| Sliceable.
-|-
-![[File:Bread_Slice.png|50px]]
-!{{anchor|Bread Slice}}Bread Slice
-| Slice up a Bread with a knife to get 5 of these
-| Sliceable.
-|-
-![[File:meatbread.png|50px]]
-!Meatbread
-| 3 Meat, 3 Dough, 3 Cheese Wedges
-| Sliceable.
-|-
-![[File:tofubread.png|50px]]
-!Tofu-Bread
-| 3 Tofu, 3 Cheese Wedges, 3 Dough 
-| Sliceable.
-|-
-![[File:xbread.png|50px]]
-!Xeno-bread
-| 3 Xeno-meat, 3 Dough, 3 Cheese Wedges
-| Sliceable. A fitting, and filling, end to xeno scum.
-|-
-![[File:Spidermeatloaf.png|50px]]
-!Spider Meatloaf
-| 3 Spider Meat, 3 Dough, 3 Cheese Wedges
-| Sliceable. Green but delicious.
-|-
-![[File:Bananabread.png|50px]]
-!Banana-nut Bread
-| 3 Dough, 5 units Milk, 15 units Sugar, 1 Banana
-| Sliceable. Contains a massive amount of banana essence.
-|-
-![[File:creambread.png|50px]]
-!Cream Cheese Bread
-| 2 Dough, 2 Cheese Wedges. 
-| Sliceable.
-|-
-![[File:baguette.png|50px]]
-!Baguette
-| 2 Dough, 1 unit Salt, 1 unit Pepper 
-| Hon hon.
-|-
-![[File:sandwich.png|50px]]
-!Sandwich
-| 2 Bread Slices, 1 Meat Steak, 1 Cheese Wedge 
-| Talking to your food may result in a trip to the [[Chaplain]].
-|-
-![[File:toastsand.png|50px]]
-!Toasted Sandwich
-| Microwave 1 Sandwich <span style="color:#F2F2F2"> What was that, Sandwich? </span>
-| <span style="color:#F2F2F2"> Kill them all. </span>
-|-
-![[File:toastsand.png|50px]]
-!Grilled Cheese Sandwich
-| Microwave 2 Bread Slices, 1 Cheese Wedge
-| Space Vegetarian, but not Space Vegan friendly.
-|-
-![[File:Jellytoast.png|50px]]
-!Jelly Toast
-| 1 Bread Slice, 5 units of Cherry Jelly/Slime Jelly
-| As if science are gonna give up their slimes for toast!
-|-
-![[File:Twobread.png|50px]]
-!Two Bread
-| 2 Bread Slices, 5 units of Wine 
-| Classy.
-|-
-![[File:Jellysandwich.png|50px]]
-!Jelly Sandwich
-| 2 Bread slices, 5 units of Cherry Jelly/Slime Jelly
-|-
-![[File:Bunbun.png|50px]]
-!Bun Bun
-| 2 Buns
-|-
-![[File:Croissant.png|50px]]
-!Croissant
-| 1 Dough, 1 unit of Salt, 5 units of Water, 5 units of Milk
-|-
-![[File:Benedict.png|50px]]
-!Benedict
-| 1 Cutlet, 1 Fried Egg, 1 Bread Slice
-| A traitorous breakfast.
-|}
+<!-- overflow:auto; to fix collapsed display, because the toggle link has float:right; -->
+<div class="toccolours mw-collapsible" style="width:99%; overflow:auto;">
+==Oven==
+[[File:Oven.gif|50px]]
+<br>
+*Before you can use the oven, it must be preheated. Right-click and select Toggle Power to turn it on. Preheating takes several minutes, but after a short while it can be used to cook even if not fully preheated. The food will cook more slowly until preheating is complete. Examine the oven while next to it to see how hot it is. 
+**You can alt+click the oven to open and close the oven door.
+**If the oven door is left open, heat will escape. Make sure it's closed, especially when cooking and preheating!
 
-===Pizzas===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Orange;" |Picture
-! scope="col" style="background-color:Orange;" |Recipe
-! scope="col" class="unsortable" style="background-color:Orange;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Orange;" |Notes
-|-
-![[File:Margheritapizza.png|50px]]
-!Margherita Pizza
-| 1 Flat Dough, 4 Cheese Wedges, 1 Tomato
-| Sliceable.
-|-
-![[File:mushroompizza.png|50px]]
-!Mushroom Pizza
-| 1 Flat Dough, 5 Chantrelle Mushrooms, 1 Cheese wedge, 1 Tomato
-| Sliceable.
-|-
-![[File:meatpizza.png|50px]]
-!Meat Pizza
-| 1 Flat Dough, 3 Meat, 1 Cheese Wedge, 1 Tomato 
-| Sliceable. Extremely nutritious, despite the grease.
-|-
-![[File:vegepizza.png|50px]]
-!Vegetable Pizza
-| 1 Flat Dough, 1 Cheese Wedge, 1 Eggplant, 1 Carrot, 1 Corn, 1 Tomato 
-| Sliceable.
-|}
+*To add a single food item to the oven, use the food directly on the oven, which will place it into an empty oven tray. If you want to cook a recipe that requires multiple ingredients, remove one of the oven trays, put all recipe ingredients into it, and then put the tray back in the oven. 
 
-===Pastas===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Yellow;" |Picture
-! scope="col" style="background-color:Yellow;" |Recipe
-! scope="col" class="unsortable" style="background-color:Yellow;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Yellow;" |Notes
-|-
-![[File:Lasagna.png|50px]]
-!{{anchor|Lasagna}}Lasagna
-| 2 Tomatoes, 1 Eggplant, 2 Cutlet, 2 Flat Dough
-|Fresh from Space Olive Garden
-|-
-![[File:spagettiboiled.png|50px]]
-!Boiled Spaghetti
-| 5 units of Water, 1 Spaghetti. 
-| Mama Mia!
-|-
-![[File:pastatomato.png|50px]]
-!Tomato Pasta
-| 5 units of Water, 1 Spaghetti, 2 Tomatoes. 
-| Don't put it in your pockets. That's just unsanitary.
-|-
-![[File:meatballspag.png|50px]]
-!Spaghetti & Meatballs
-| 5 units of Water, 1 Spaghetti, 2 Meatballs. 
-| That's-a a spicy meat-aball!
-|-
-![[File:Spesslaw.png|50px]]
-!Spesslaw
-| 5 units of Water, 1 Spaghetti, 4 Meatballs. 
-| Lawyer's choice!
-|-
-![[File:eggplantparmigiana.png|50px]]
-!Eggplant Parmigiana
-| 2 Cheese Wedges, 1 Eggplant
-| Clogs your arteries, healthily!
-|-
-![[File:Kitsuneudon.png|50px]]
-!Kitsune Udon
-| 3 units of Egg Yolk, 1 Spaghetti, 1 Tofu
-| Clogs your arteries, healthily!
-|}
+*The oven can cook any variety and quantity of recipes simultaneously, as long as you have all the ingredients in a single tray. 
+**Any leftover reagents will be absorbed into the cooked foods. 
+*When not making a recipe the oven can also be used to just bake any food, which will cook it, give it a nice brown colour.
 
-===Soups & Stews===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Khaki;" |Picture
-! scope="col" style="background-color:Khaki;" |Recipe
-! scope="col" class="unsortable" style="background-color:Khaki;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Khaki;" |Notes
-|-
-![[File:meatsoup.png|50px]]
-!Meatball Soup
-| 10 units of Water, 1 Meatball, 1 Carrot, 1 Potato
-| Out of spaghetti? Don't like stew? Here's the thing for you.
-|-
-![[File:nettlesoup.png|50px]]
-!Nettle Soup
-| 10 units of Water, 1 Nettle, 1 Egg, 1 Potato
-| Contains trace amounts of sulpheric acid.
-|-
-![[File:vegesoup.png|50px]]
-!Vegetable Soup
-| 10 units of Water, 1 Carrot, 1 Corn, 1 Eggplant, 1 Potato 
-| Force feed the Botanists this.
-|-
-![[File:tomatosoup.png|50px]]
-!Tomato Soup
-| 10 units of water, 2 tomatoes
-| What, no crackers?
-|-
-![[File:Bloodsoup.png|50px]]
-!Blood Soup
-| 30 units of Blood
-| They ''may'' think you're the [[Chef|homicidal maniac]] you are when you produce a large amount of these.
-|-
-![[File:Metriodsoup.png|50px]]
-!Slime Soup
-| 10 units of water, 5 units of slime jelly. 
-| Mmm, mmm, oh God my guts.
-|-
-![[File:Mysterysoup.png|50px]]
-!Mystery Soup
-| 10 units of Water, 1 Burned Mess, 1 Tofu, 1 Egg, 1 Cheese Wedge. 
-| This dish contains all the essential nutriment for a growing crew, and almost anything else you can feed them. 
-|-
-![[File:Mushroomsoup.png|50px]]
-!Chantrelle Soup
-| 5 units of Water, 5 units of Milk, 1 Chanterelle. 
-| The debate on whether you can use Aminitas for the soup goes on.
-|-
-![[File:Beetsoup.png|50px]]
-!Borscht
-| 10 units of Water, 1 White Beet, 1 Cabbage.
-| Feed your inner Russian with borscht.
-|-
-![[File:milo.png|50px]]
-!Milo Soup
-| 10 units of Water, 2 Tofu, 2 Soy Dope.
-| Made when the [[Botanist|hippies]] decide to only grow soy crops.
-|-
-![[File:Stewedsoymeat.png|50px]]
-!Stewed Soy Meat
-| 2 Soy Dope, 1 Carrot, 1 Tomato 
-| Like a steak dinner, only with less murder.
-|-
-![[File:stew.png|50px]]
-!Stew
-| 10 units of water, 1 meat, 1 tomato, 1 potato, 1 carrot, 1 eggplant, 1 Chantrelle mushroom. 
-| The perfect thing for when the bar starts to get cold.
-|-
-![[File:coldstew.png|50px]]
-!Cold Chili Stew
-| 1 Meat, 1 Ice Pepper, 1 Tomato
-| Ice, ice, baby!
-|-
-![[File:hotstew.png|50px]]
-!Hot Chili Stew
-| 1 Meat, 1 Chili Pepper, 1 Tomato
-|  Some like it hot, hot, HOT!
-|-
-![[File:Wishsoup.png|50px]]
-!Wish Soup
-| 20 Water
-| Make you wish the chef could cook.
-|-
-![[File:Goulash.png|50px]]
-!Goulash
-| 1 Tomato, 1 Cutlet, 1 Spaghetti
-|  Everyone's favorite set of leftovers.
-|-
-![[File:Hotsoursoup.png|50px]]
-!Hot and Sour Soup
-| 1 Cabbage, 1 Mushroom, 2 units of Salt, 2 units of pepper, 10 units of Water, 1 Tofu
-| It's Hot! It's Sour! It's a Soup!
-|-
-![[File:Onionsoup.png|50px]]
-!Onion Soup
-| 1 Onion, 10 units of Water
-| Don't cry!
-|}
+*The oven can also be used for Combination Cooking, which allows you to make custom bread, pies, cakes, and pizzas with whatever fillings/toppings you want. To do this, right click and Choose Output, select the combine target, and then insert an oven tray full of ingredients. 
+**The quantity of stuff used to make it will determine the size of the result.
+**Combination Cooking can only make one item at a time - whatever output is set will only work for the next item cooked.
 
-===Seafood===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Yellowgreen;" |Picture
-! scope="col" style="background-color:Yellowgreen;" |Recipe
-! scope="col" class="unsortable" style="background-color:Yellowgreen;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Yellowgreen;" |Notes
-|-
-![[File:carpsandwich.png|50px]]
-!Fillet -o- Carp Sandwich
-| 1 Bun, 1 Carp Fillet 
-| Slightly toxic.
-|-
-![[File:cubancarp.png|50px]]
-!Cuban Carp
-| 1 Carp Fillet, 1 Dough, 1 Chilli Pepper 
-| Slightly toxic, and very spicy.
-|-
-![[File:fishandchips.png|50px]]
-!Fish & Chips
-| 1 Space Fries, 1 Carp Meat 
-| The Brit's favorite. Good luck getting [[space carp]] meat. (Note: POISONOUS)
-|-
-![[File:Fishfingers.png|50px]]
-!Fish Fingers
-| 10 units Flour, 1 Egg, 1 Carp Meat 
-| Good luck getting [[space carp]] meat. (Note: POISONOUS)
-|-
-![[File:Sashimi.png|50px]]
-!Sashimi
-| 1 Carp Meat, 5 units of Soy Sauce
-| Made with actual fish!
-|}
 
-===Meat===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Green;" |Picture
-! scope="col" style="background-color:Green;" |Recipe
-! scope="col" class="unsortable" style="background-color:Green;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Green;" |Notes
-|-
-![[File:meatstake.png|50px]]
-!{{anchor|Meat Steak}}Meat Steak
-| 1 unit of Salt, 1 unit of Black Pepper, 1 Meat (Any Type)
-| Wait, how can it have grill marks if it's in the microwave...?
-|-
-![[File:Sausage.png|50px]]
-!Sausage
-| 1 Cutlet, 1 Meatball
-| Who even knows what or who it's made from anymore.
-|-
-![[File:Roastbeef.png|50px]]
-!Roast Beef
-| 2 Carrots, 2 Potatoes, 1 Meat
-| Just like Grandma used to make.
-|-
-![[File:Generalschicken.png|50px]]
-!General's Chicken
-| 2 units of Capsaicin, 2 units of Sugar, 10 units of Flour, 2 Meat
-| Mm! Just like they make it in Space China.
-|-
-![[File:Meatbun.png|50px]]
-!Meat Bun
-| 1 Meatball, 1 Flat Dough
-| The traditional hot pocket
-|}
+<div class="mw-collapsible-content">
 
-===Salads===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Palegreen;" |Picture
-! scope="col" style="background-color:Palegreen;" |Recipe
-! scope="col" class="unsortable" style="background-color:Palegreen;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Palegreen;" |Notes
+{| class="sortable" border="1" cellspacing="0" cellpadding="2" align="center"
+! style='background-color:Red;'|
+! style='background-color:Red;'|Result
+! style='background-color:Red;'|Recipe
+! style='background-color:Red;'|Reagents & Notes
 |-
-![[File:Herbsalad.png|50px]]
-!Tossed Salad
-| 2 Cabbages + 1 Carrot + 1 Tomato + 1 Apple
-| What if, like, WE'RE the aliens, man?
+|[[File:recipe-ovenchips.png|50px]]
+|'''Oven chips
+| Bake 1 raw potato sticks.
+| 4 nutriment
 |-
-![[File:Aesirsalad.png|50px]]
-!Aesir salad
-| 3 Ambrosia Deus + 1 Goldapple
-| Duuuuuuuuuude.
+|[[File:recipe-roastdiona.png|50px]]
+|'''Roast Diona
+| Bake 1 Diona nymph, 1 apple, 5 units polytrinic acid. 
+| 6 nutriment, <span style="color:red">2 radium</span>
 |-
-![[File:Validsalad.png|50px]]
-!Valid Salad
-| 3 Ambrosia Vulgaris + 1 Potato
-| Heals everyone! <font color="white">Not really</font>
+|[[File:recipe-plateofribs.png|50px]]
+|'''Plate of Ribs
+| Bake 1 meat, 5 units honey, 2 units space spice, 1 unit black pepper.
+Obtain honey from beehives, or small amounts by grinding up the Messa's tear plant.
+| 6 animal protein, 5 honey, 2 triglyceride, 1 black pepper 
 |-
-![[File:Fruitsalad.png|50px]]
-!Fruit Salad
-| 1 Orange, 1 Apple, 1 Grapes, 1 Watermelon
-| Very fruity, but where does the salad part come in?
+|[[File:recipe-ovencookedbacon.png|50px]]
+|'''Oven-Cooked Bacon
+| 6 Raw Bacon, 1 spread
+Mass baked Bacon.
+| .3 animal protein, 1 unit Triglyceride
+|-
+|[[File:recipe-meatbreadloaf.png|50px]]
+|'''Meatbread Loaf
+| Bake 3 meat, 3 balls of dough, 3 cheese wedges.
+| 10 nutriment, 20 animal protein
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-banananutbread.png|50px]]
+|'''Banana-nut Bread
+| Bake 3 balls of dough, 5 units milk, 15 units sugar, 1 banana.
+| 20 nutriment, 21 banana juice, 3 animal protein
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-bun.png|50px]]
+|'''Bun
+|Bake 1 dough.
+|3 nutriment, 1 animal protein
+|-
+|[[File:recipe-honeybun.png|50px]]
+|'''Honeybun
+|Bake 1 dough, 5 honey.
+|3 nutriment, 5 honey, 1 animal protein
+|-
+|[[File:recipe-tofubread.png|50px]]
+|'''Tofu-Bread
+| Bake 3 tofu, 3 cheese wedges, 3 balls of dough.
+| 30 nutriment, 15 animal protein
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-baguette.png|50px]]
+|'''Baguette
+| Bake 2 balls of dough, 1 unit salt, 1 unit pepper.
+| 6 nutriment, 1 pepper, 1 salt, 2 animal protein
+|-
+|[[File:recipe-flatbread.png|50px]]
+|'''Flatbread
+| Bake 1 flat dough.
+| 3 nutriment, 1 animal protein
+|-
+|[[File:recipe-creamcheesebread.png|50px]]
+|'''Cream Cheese Bread
+| Bake 2 balls of dough, 2 cheese wedges.
+| 5 nutriment, 25 animal protein.
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-bread.png|50px]]
+|'''Bread
+| Bake 4 balls of dough, 1 unit salt.
+| 6 nutriment, 1 animal protein, 3 egg yolk
+Sliceable: Makes 5 slices. Bread slices can be turned into custom sandwiches by combining them with any food item.
+|-
+|[[File:recipe-pancakes.png|50px]]
+|'''Pancakes
+| Bake 2 flatdough, 2 berries.
+| 8 nutriment
+|-
+|[[File:recipe-meatpie.png|50px]]
+|'''Meat-Pie
+| Bake 1 meat, 1 flat dough.
+| 20 animal protein
+|-
+|[[File:recipe-tofupie.png|50px]]
+|'''Tofu-Pie
+| Bake 1 tofu, 1 flat dough.
+| 10 nutriment, 1 animal protein
+|-
+|[[File:recipe-xenopie.png|50px]]
+|'''Xeno-Pie
+| Bake 1 xeno-meat, 1 flat dough.
+| 17 animal protein, <span style="color:red">6 polytrinic acid</span>
+|-
+|[[File:recipe-bananacreampie.png|50px]]
+|'''Banana Cream Pie
+| Bake 1 flat dough, 1 banana, 5 units sugar.
+| 4 nutriment, 6 banana juice, 1 animal protein
+|-
+|[[File:recipe-cherrypie.png|50px]]
+|'''Cherry Pie
+| Bake 1 cherry, 1 flat dough, 10 units sugar.
+| 4 nutriment, 1 sugar, 1 cherry jelly, 1 animal protein
+|-
+|[[File:recipe-pumpkinpie.png|50px]]
+|'''Pumpkin Pie
+| Bake 1 pumpkin, 10 units flour, 3 units egg yolk, 5 units milk, 5 units sugar.
+| 15 nutriment
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-goldenapplestreuseltart.png|50px]]
+|'''Golden Apple Streusel Tart
+| Bake 10 units flour, 1 egg, 1 golden apple, 5 units milk, 5 units sugar.
+| 8 nutriment, 8 gold, 3 egg yolk
+|-
+|[[File:recipe-keylimepie.png|50px]]
+|'''Key Lime Pie
+| Bake 2 limes, 10 units flour, 3 units egg yolk, 5 units milk, 5 units sugar.
+| 16 nutriment
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-amanitapie.png|50px]]
+|'''Amanita Pie
+| Bake 1 flat dough, 5 units amatoxin.
+| 5 nutriment, <span style="color:red">3 amatoxin</span>, <span style="color:blue">1 psilocybin</span>, 1 animal protein
+|-
+|[[File:recipe-plumppie.png|50px]]
+|'''Plump Pie
+| Bake 1 flat dough, 1 plump helmet.
+| 8 nutriment, 1 animal protein, 10% chance of <span style="color:blue">5 tricordrazine</span>
+|-
+|[[File:recipe-quiche.png|50px]]
+|'''Quiche
+| Bake 9 units egg yolk, 10 units flour, 5 units milk, 1 cheese wedge
+| 10 nutriment, 10 cheese
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-cookie.png|50px]]
+|'''Cookie
+| Bake 1 ball of dough, 1 chocolate bar, 10 units milk, 10 units sugar.
+Makes four cookies.
+| 5 nutriment, 2 sugar, 2 coco, 1 animal protein
+|-
+|[[File:recipe-fortunecookie.png|50px]]
+|'''Fortune Cookie
+| Bake 1 dough slice, 5 units sugar, 1 piece of paper.
+Write something on the paper to serve as the fortune!
+| 3 nutriment, .33 animal protein
+|-
+|[[File:recipe-poppypretzel.png|50px]]
+|'''Poppy Pretzel
+| Bake 1 ball of dough, 1 poppy.
+| 10 nutriment, 1 animal protein, <span style="color:blue">3 bicaridine</span>
+|-
+|[[File:recipe-cracker.png|50px]]
+|'''Cracker
+| Bake 1 dough slice, 1 unit salt.
+| 1 nutriment, .3 animal protein
+You might also get these by gibbing a parrot! In that case, they have 5.4 nutriment, for some reason.
+|-
+|[[File:recipe-supremecheesetoast.png|50px]]
+|'''Supreme Cheese Toast
+| Bake 1 spread, 1 breadslice, 1 unit space spice.
+| 8 nutriment.
+|-
+|[[File:recipe-enchiladas.png|50px]]
+|'''Enchiladas
+| Bake 1 cutlet, 2 chilis, 1 corn.
+Alternatively, bake 1 tortilla, 1 cutlet, 2 chili peppers.
+| 9 animal protein, 2 nutriment, <span style="color:blue">20 capsaicin</span>, 3 corn oil
+|-
+|[[File:recipe-monkeysdelight.png|50px]]
+|'''Monkey's Delight
+| Bake 1 monkey cube, 10 units flour, 1 banana, 1 unit salt, 1 unit pepper.
+| 20 animal protein, 6 banana, 1 pepper, 1 salt
+|-
+|[[File:recipe-vanillacake.png|50px]]
+|'''Vanilla Cake
+| Bake 5 units milk, 15 units flour, 15 units sugar, 9 units egg yolk.
+| 20 nutriment.
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-carrotcake.png|50px]]
+|'''Carrot Cake
+| Bake 5 units milk, 15 units flour, 15 units sugar, 9 units egg yolk, 3 carrots.
+| 25 nutriment, <span style="color:blue">25 imidazoline</span>
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-cheesecake.png|50px]]
+|'''Cheese Cake
+| Bake 5 units milk, 15 units flour, 15 units sugar, 9 units egg yolk, 2 cheese wedges.
+| 10 nutriment, 19 animal protein
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-orangecake.png|50px]]
+|'''Orange Cake
+| Bake 5 units milk, 15 units flour, 5 units sugar, 9 units egg yolk, 3 units orange juice, 1 orange.
+| 20 nutriment, 1 orange juice
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-limecake.png|50px]]
+|'''Lime Cake
+| Bake 5 units milk, 15 units flour, 5 units sugar, 9 units egg yolk, 3 units lime juice, 1 lime.
+| 20 nutriment, 1 lime juice
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-lemoncake.png|50px]]
+|'''Lemon Cake
+| Bake 5 units milk, 15 units flour, 5 units sugar, 9 units egg yolk, 3 units lemon juice, 1 lemon.
+| 20 nutriment, 1 lemon juice
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-chocolatecake.png|50px]]
+|'''Chocolate Cake
+| Bake 5 units milk, 15 units flour, 5 units sugar, 9 units egg yolk, 4 units coco, 1 chocolate bar.
+| 20 nutriment, 4 sugar, 4 coco powder
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-applecake.png|50px]]
+|'''Apple Cake
+| Bake 5 units milk, 15 units flour, 15 units sugar, 9 units egg yolk, 2 apples.
+| 15 nutriment
+Sliceable: Makes 5 slices.
+|-
+|[[File:recipe-brownies.png|50px]]
+|'''Brownies
+| Bake 10 units brownie mix, 3 units egg yolk.
+| 8 nutriment, 2 brownie mix
+Sliceable: Makes 4 pieces.
+|-
+|[[File:recipe-cosmicbrownies.png|50px]]
+|'''Cosmic Brownies
+| Bake 10 units brownie mix, 3 units egg yolk, 1 ambrosia vulgaris.
+| 8 nutriment, 4 brownie mix, <span style="color:blue">4 space drugs</span>, <span style="color:blue">2 bicaridine</span>, <span style="color:blue">2 kelotane</span>, <span style="color:red">2 toxin</span>
+Sliceable: Makes 4 pieces.
+|-
+|[[File:recipe-margherita.png|50px]]
+|'''Margherita
+| Bake 1 flat dough, 4 cheese wedges, 1 tomato.
+| 35 nutriment, 8 tomato juice, 7 animal protein
+Sliceable: Makes 6 slices.
+|-
+|[[File:recipe-meatpizza.png|50px]]
+|'''Meatpizza
+| Bake 1 flat dough, 3 meat, 1 cheese wedge, 1 tomato.
+Substituting synthetic meat from chemistry will also work.
+| 40 animal protein, 10 nutriment
+Sliceable: Makes 6 slices.
+|-
+|[[File:recipe-mushroompizza.png|50px]]
+|'''Mushroom Pizza
+| Bake 1 flat dough, 5 chantrelle mushrooms, 1 cheese wedge, 1 tomato.
+| 35 nutriment, 10 animal protein, 2 tomato juice
+Sliceable: Makes 6 slices.
+|-
+|[[File:recipe-vegetablepizza.png|50px]]
+|'''Vegetable Pizza
+| Bake 1 flat dough, 1 cheese wedge, 1 eggplant, 1 carrot, 1 corn, 1 tomato.
+| 30 nutriment, 6 tomato juice, <span style="color:blue">9 imidazoline</span>, 5 animal protein
+Sliceable: Makes 6 slices.
+|-
+|[[File:recipe-hampineapplepizza.png|50px]]
+|'''Ham and Pineapple Pizza
+| Bake 1 flat dough, 1 cheese wedge, 2 pineapple rings. Where does the ham come from? Who knows.
+| 30 nutriment, 6 tomato juice, 4 animal protein, 5 cheese.
+Sliceable: Makes 6 slices.
+|-
+|[[File:recipe-meatpocket.png|50px]]
+|'''Meat Pocket
+| Bake 1 flat dough, 1 meat ball, 1 cheese wedge
+| Results in 2 units
+|
+|-
+|[[File:recipe-baconcheeseflatbread.png|50px]]
+|'''Bacon Cheese Flatbread
+| Bake 1 flat dough, 1 cheese wedge, 4 bacon, 2 tomatoes
+|
+|-
+|[[File:recipe-chocolatetruffle.png|50px]]
+|'''Chocolate Truffle
+| Bake 1 chocolate bar, 2 coco powder, 5 cream
+| Results in 4 units
+|-
+|[[File:recipe-croissant.png|50px]]
+|'''Croissant
+| Bake 1 dough, 1 sodium chloride, 5 water, 5 milk
+|
+|-
 |}
+</div></div>
 
-===Pies===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Aquamarine;" |Picture
-! scope="col" style="background-color:Aquamarine;" |Recipe
-! scope="col" class="unsortable" style="background-color:Aquamarine;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Aquamarine;" |Notes
-|-
-![[File:pie.gif|50px]]
-!Banana Cream Pie
-| 1 Flat Dough, 1 Banana, 5 units Sugar
-| Contains a moderate amount of banana essence.
-|-
-![[File:berryclafoutis.png|50px]]
-!Berry Clafoutis
-| 1 Flat Dough, 1 Berry
-| It's like asking the deep-friers at a carnival for something healthy!
-|-
-![[File:meatpies.png|50px]]
-!Meatpies
-| 1 Meat, 1 Flat Dough 
-| Made of people, or not?
-|-
-![[File:meatpies.png|50px]]
-!Tofu Pie
-| 1 Tofu, 1 Flat Dough
-| Made of plants, or not?
-|-
-![[File:xpie.png|50px]]
-!Xeno-pie
-| 1 Xeno-meat, 1 Flat Dough
-| A delicious end to the xeno threat.
-|-
-![[File:applepie.png|50px]]
-!Apple Pie
-| 1 Flat Dough, 1 Apple 
-| The traditional dessert.
-|-
-![[File:Cherrypie.png|50px]]
-!Cherry Pie
-| 1 Flat Dough, 1 Cherry, 10 units Sugar
-| "To bake a pie, we must first invent the universe." -Carl Sagan
-|-
-![[File:Amapie.png|50px]]
-!Amanita Pie
-| 1 Flat Dough, 5 units Amatoxin
-| Only slightly toxic, really!
-|-
-![[File:Pumpkinpie.png|50px]]
-!Pumpkin Pie
-| 1 Pumpkin, 10 units Flour, 3 units Egg, 5 units of Milk, 5 units of Sugar 
-|Can be sliced. Dangerously delicious.
-|-
-![[File:Plumppie.GIF|50px]]
-!Plump Pie
-| 1 Flat Dough, 1 Plump Helmet 
-| Has a chance to be "exceptional" - it'll contain Tricordrazine!
-|-
-![[File:Gappletart.png|50px]]
-!Golden Apple Streusel Tart
-| 10 units Flour, 1 Egg, 1 Golden Apple, 5 units of Milk, 5 units of Sugar. 
-| Tastes like chaos!
-|}
+<!-- overflow:auto; to fix collapsed display, because the toggle link has float:right; -->
+<div class="toccolours mw-collapsible" style="width:99%; overflow:auto;">
+==Deepfryer==
+[[File:Fryer.gif|50px]]
+<br>
+*Before you can use the fryer, it must be preheated. Right-click and select Toggle Power to turn it on. Heating up takes a while, so be sure to do it early. Prepare other ingredients while it warms up!
+*The deep fryer has an oil level that you should keep an eye on - cooking efficiency will fall as it drops, and it starts off at a randomized level. For optimal cooking, keep the oil topped up to the maximum. 
+**You can sometimes find a spare tank of cooking oil in the maintenance behind the kitchen. Otherwise, you can order one from cargo.
 
-===Cakes===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Lightblue;" |Picture
-! scope="col" style="background-color:Lightblue;" |Recipe
-! scope="col" class="unsortable" style="background-color:Lightblue;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Lightblue;" |Notes
-|-
-![[File:regularcake.png|50px]]
-!Vanilla Cake
-| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk
-| Slicable and <s>boring</s> vanilla flavored.
-|-
-![[File:carrotcake.png|50px]]
-!Carrot Cake
-| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 3 Carrots 
-| Slicable. Heals minor eye damage.
-|-
-![[File:cheesecake.png|50px]]
-!Cheese Cake
-| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 2 Cheese Wedges 
-| Slicable. <font color="white">Does not come with scantily dressed ladies.</font>
-|-
-![[File:birthday.png|50px]]
-!Birthday Cake
-| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 1 Cake Hat 
-| Sliceable. Don't forget to make a wish.
-|-
-![[File:applecake.png|50px]]
-!Apple Cake
-| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 2 Apples 
-| Sliceable. 
-|-
-![[File:Braincake.png|50px]]
-!Brain Cake
-| 5 units Milk, 15 units Flour, 15 units Sugar, 9 units Egg Yolk, 1 Brain 
-| Sliceable. Bother the [[Roboticist]] for unusable brains.
-|-
-![[File:Orangecake.png|50px]]
-!Orange Cake
-| 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Orange 
-| Sliceable.
-|-
-![[File:Limecake.png|50px]]
-!Lime Cake
-| 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Lime 
-| Sliceable.
-|-
-![[File:Lemoncake.png|50px]]
-!Lemon Cake
-| 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Lemon 
-| Sliceable.
-|-
-![[File:Choccake.png|50px]]
-!Chocolate Cake
-| 5 units Milk, 15 units Flour, 5 units Sugar, 9 units Egg Yolk, 1 Chocolate Bar 
-| Sliceable.
-|}
+*To add a single food item to the fryer, use the food directly on it, which will place that item into an empty fryer basket. If you want to cook a recipe that requires multiple ingredients, remove one of the fryer baskets by clicking the fryer with an empty hand, and put all your ingredients into the basket. Once everything for the recipe is inside, put the basket back in the fryer. 
 
-===Side Dishes===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Blue;" |Picture
-! scope="col" style="background-color:Blue;" |Recipe
-! scope="col" class="unsortable" style="background-color:Blue;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Blue;" |Notes
-|-
-![[File:cheesefries.png|50px]]
-!Cheese Fries
-| 1 Space Fries, 1 Cheese Wedge 
-| Tasty, tasty cheese fries.
-|-
-![[File:cheesepmelet.png|50px]]
-!Cheese Omelette
-| 2 Eggs, 2 Cheese Wedges
-| Can eat these with a fork. Have a medical team on standby in case of utensil-related injuries.
-|-
-![[File:friedegg.png|50px]]
-!Fried Egg
-| 1 Egg + 1 unit Salt + 1 unit Pepper
-| The ancient and sacred meal of the solar wiring engineer.
-|-
-![[File:begg.png|50px]]
-!Boiled Egg
-| 1 Egg + 5 units Water
-| Precracked, just eat!
-|-
-![[File:bakedpotato.png|50px]]
-!Loaded Baked Potato
-| 1 Potato + 1 Cheese Wedge
-| No bacon bits?
-|-
-![[File:popcorn.png|40px]]
-!Popcorn
-| 1 Corn
-| Some bites will contain unpopped kernels, which will cause brute damage.
-|-
-![[File:donkpocket.png|50px]]
-!Warm Donk Pocket
-| 1 Dough, 1 Meatball 
-| Contains tricordrazine, until they cool. Reheatable once they do.
-|-
-![[File:Hotdog.png|50px]]
-!Hot Dog
-| 1 Sausage, 1 Bun
-| Fresh footlong ready to go down on.
-|-
-![[File:Wingbasket.png|50px]]
-!Chicken Wings
-| 5 units of Capsaicin, 10 units of Flour, 4 Meat
-| Now all you need is Pizza and Beer. Complete the trifecta!
-|-
-![[File:Chocegg.png|75px]]
-!Chocolate Lizard Egg
-| 1 Lizard Egg, 1 Chocolate Bar
-| Ask your resident, egg-laying Lizard.
-|-
-![[File:Friedegg.png|75px]]
-!Fried Lizard Egg
-| 1 Lizard Egg, 1 unit of Salt, 1 unit of Pepper
-| Ask your resident, egg-laying Lizard.
-|-
-![[File:Begg.png|75px]]
-!Boiled Lizard Egg
-| 1 Lizard Egg, 5 units of Water
-| Ask your resident, egg-laying Lizard.
-|-
-![[File:Mashedpotato.png|50px]]
-!Mashed Potato
-| 1 Potato
-| Goes well with Gravy!
-|-
-![[File:Bangersandmash.png|50px]]
-!Bangers And Mash
-| 1 Mashed Potato, 1 Sausage
-| Still goes well with Gravy!
-|-
-![[File:Cheesymash.png|50px]]
-!Cheesy Mash
-| 1 Mashed Potato, 1 Cheese Wedge
-| You don't even need gravy!
-|-
-![[File:Blackpudding.png|50px]]
-!Black Pudding
-| 5 units of Blood, 1 Sausage
-| Made from real blood!
-|-
-![[File:Onionrings.png|50px]]
-!Onion Rings
-| 1 Onion, 5 units of Flour
-| A good substitute for Fries.
-|-
-![[File:Bakedbeans.png|50px]]
-!Baked Beans
-| 2 Soybeans, 5 units of Ketchup
-| The musical fruit!
-|-
-![[File:Eggroll.png|50px]]
-!Eggroll
-| 1 Fried Egg, 10 units of Soy Sauce
-| Mm, Space China.
-|-
-![[File:Eggbowl.png|50px]]
-!Egg Bowl
-| 5 units of Water, 10 units of Rice, 3 units of Egg Yolk
-| A simple, soupy breakfast!
-|-
-![[File:Porkbowl.png|50px]]
-!Pork Bowl
-| 5 units of Water, 10 units of Rice, 1 Cutlet
-| When you need a bit more protein.
-|}
+*The fryer can cook any variety and quantity of recipes simultaneously, as long as you have all the ingredients in a single basket. 
+**Many fryer recipes require an ingredient to be coated in batter or beer-batter for the recipe to work. See the next section for an explanation of battering foods.
+**Any leftover reagents will be absorbed into the cooked foods. 
+*When not making a recipe the fryer can also be used to just "deep fry" any food, which will cook it, give it a nice brown color, and add some extra nutrition to it.
 
-===Pastries===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Dodgerblue;" |Picture
-! scope="col" style="background-color:Dodgerblue;" |Recipe
-! scope="col" class="unsortable" style="background-color:Dodgerblue;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Dodgerblue;" |Notes
-|-
-![[File:donuts.png|50px]]
-!Donut
-| 1 Dough, 5 units Sugar 
-| Security members recover morale quickly with these.
-|-
-![[File:jdonut1.gif|50px]]
-!Jelly Donut
-| 1 Dough, 5 units Sugar, 5 units of Berry Juice/Cherry Jelly/Slime Jelly 
-| Security members recover more morale with these.
-|-
-![[File:donuts.png|50px]]
-!Chaos Donuts
-| 1 Dough, 5 units Sugar, 5 units Hot Sauce, 5 units Cold Sauce 
-| Produces a variety of (possibly dangerous) effects when eaten. ''Equal chance of containing 3 units of one of the following: Nutriment, capsaicin, frost oil, sprinkles, phoron, coco, Slime Jelly, banana, berry juice, and tricordrazine.''
-|-
-![[File:soylenvirdians.png|50px]]
-!Soylen Viridians
-| 10 units Flour, 1 Soybean 
-| SOYLENT VIRIDIAN IS PLANTS!
-|-
-![[File:waffles.png|50px]]
-!Waffles
-| 2 Dough, 10 units Sugar 
-| Like pancakes with syrup traps.
-|-
-![[File:roffle.png|50px]]
-!Roffle Waffles
-| 2 Dough, 10 units of Sugar, 5 units of Psilocybin. 
-| Like pancakes with hallucinogen traps.
-|-
-![[File:chawanmushi.png|50px]]
-!Chawanmushi
-| 5 units of Water, 5 units of Soy Sauce, 2 Eggs, 1 Chanterelle. 
-| Nǐ xiǎng yào chī shénme?
-|-
-![[File:fortunecookie.png|50px]]
-!Fortune Cookie
-| 1 Dough Slice, 5 units of Sugar, 1 Piece of Paper (with something written on it)
-| Bad luck and misfortune will infest your pathetic soul for all eternity.
-|-
-![[File:Sugarcookie.png|50px]]
-!Sugar Cookie
-| 5 [[Flour]] + 1 Egg + 5 units of Sugar
-| Just like your little sister used to make.
-|-
-![[File:Muffin.png|50px]]
-!Muffin
-| 1 Dough, 5 units Milk, 5 units Sugar 
-| Muffin!
-|-
-![[File:Berrymuffin.png|50px]]
-!Berry Muffin
-| 1 Dough, 5 units of Milk, 5 units of Sugar, 1 Berry
-| Muffin, but with Berries!
-|-
-![[File:Ghostmuffin.png|50px]]
-!Ghost Muffin
-| 1 Dough, 5 units of Milk, 5 units of Sugar, 1 Berry, 1 Ectoplasm
-| Spooky!
-|-
-![[File:cracker.png|50px]]
-!Cracker
-| 1 Dough Slice, 1 unit Salt 
-| Poly yells, "POLY WANNA CRACKER!"
-|-
-![[File:Poppypretzel.png|50px]]
-!Poppy Pretzel
-| 1 Dough, 1 Poppy
-| Heals brute damage with opium!
-|-
-![[File:Phelmbiscuit.png|50px]]
-!Plump Helmet Biscuits
-| 1 Plump Helmet, 5 units of Water, 5 units of Flour
-| The perfect chaser for a Manly Dorf.
-|}
+<div class="mw-collapsible-content">
 
-===Sweets===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Cyan;" |Picture
-! scope="col" style="background-color:Cyan;" |Recipe
-! scope="col" class="unsortable" style="background-color:Cyan;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Cyan;" |Notes
+{| class="sortable" border="1" cellspacing="0" cellpadding="2" align="center"
+! style='background-color:Red;'|
+! style='background-color:Red;'|Result
+! style='background-color:Red;'|Recipe
+! style='background-color:Red;'|Reagents & Notes
 |-
-![[File:Chocegg.png|50px]]
-!Chocolate Egg
-|  1 Egg, 1 Chocolate bar
-| NT regulations forbid stuffing toys in these things anymore.
+|[[File:recipe-batteredsausage.png|50px]]
+|'''Battered Sausage
+| Fry 1 Sausage, battered.
+| 6 protein, 1.7 batter, 1.5 oil
 |-
-![[File:candiedapple.png|50px]]
-!Candied Apple
-| 5 units of Water, 5 units of Sugar, 1 Apple 
-| Happy <strike>Halloween</strike> generic shift!
+|[[File:recipe-corndog.png|50px]]
+|'''Corndog
+| Fry 1 Sausage, 1 batter, 
+| 4 nutriment, 12 animal protein
 |-
-![[File:Reishiscup.png|50px]]
-!Reishi Cup
-| 3u of Psilocybin, 3u of Sugar, 1 Chocolate Bar
-| A popular candy treat that makes you see COLORS.
+|[[File:recipe-pizzacrunch.png|50px]]
+|'''Pizza Crunch
+| Fry 1 Pizza Slice, battered.
+| 25 nutriment, 6.5 batter, 4 oil
 |-
-![[File:mmmi.png|50px]]
-!Mämmi
-| 1 Orange, 10 units of Water, 10 units of Flour, 5 units of Milk, 1 unit of Salt
-| Traditional Easter Desert, in some places!
+|[[File:recipe-cubancarp.png|50px]]
+|'''Cuban Carp
+| Fry 1 chili, 1 ball of dough, 1 carp meat.
+| 3 seafood, 3 nutriment, <span style="color:red">3 carpotoxin</span>, <span style="color:blue">3 capsaicin</span>
 |-
-![[File:Ricepudding.png|50px]]
-!Rice Pudding
-| 5 units of Milk, 10 units of Rice
+|[[File:recipe-sweetandsourpork.png|50px]]
+|'''Sweet and Sour Pork
+| Fry 1 Bacon, 1 cutlet, 5 soysauce, 10 batter.
+| 3 protein, 6 nutriment
+|-
+|[[File:recipe-donut.png|50px]]
+|'''Donut
+| Fry 1 ball of dough, 10 units sugar.
+| 3 nutriment, 1 sprinkles (3 if frosted), 1 animal protein
+|-
+|[[File:recipe-chaosdonut.png|50px]]
+|'''Chaos Donut
+| Fry 1 ball of dough, 10 units sugar, 10 units Hot Sauce, 10 units Cold Sauce.
+| Always: 2 nutriment, 1 sprinkles (3 if frosted), 1 animal protein
+Chance of containing an additional 3 units of one of the following: nutriment, <span style="color:blue">capsaicin</span>, <span style="color:blue">frost oil</span>, sprinkles, <span style="color:red">phoron</span>, coco,<span style="color:red">slime jelly</span>, banana, berry juice, or <span style="color:blue">tricordrazine</span>
+|-
+|[[File:recipe-jellydonut.png|50px]]
+|'''Jelly Donut
+| Fry 1 ball of dough, 10 units sugar, 10 units of berry juice/cherry jelly/slime Jelly.
+| 3 nutriment, 1 sprinkles (3 if frosted), 5 berry juice or cherry jelly or <span style="color:red">slime jelly</span>, 1 animal protein
+|-
+|[[File:recipe-friedmushroom.png|50px]]
+|'''Fried Mushroom
+| Fry 1 plump helmet mushroom, beer-battered.
+| 4 nutriment, 2 protein
+|-
+|[[File:recipe-funnelcake.png|50px]]
+|'''Funnel Cake
+| Fry 10 batter, 5 sugar.
+| 10 batter, 5 sugar
+|-
+|[[File:recipe-jalapenopopper.png|50px]]
+|'''Jalapeno Popper
+| Fry 1 chili, battered.
+| 1.5 nutriment, 0.3 batter, 0.15 oil
+|-
+|[[File:recipe-chickenkatsu.png|50px]]
+|'''Chicken Katsu
+| Fry 1 chicken meat, beer-battered.
+| 6 protein, 2 beer batter, 1 oil
+|-
+|[[File:recipe-pisanggoreng.png|50px]]
+|'''Pisang Goreng
+| Fry 2 bananas, battered.
+| 8 nutriment
+|-
+|[[File:recipe-risottoballs.png|50px]]
+|'''Risotto Balls
+| Fry 1 salt, 1 black pepper, 1 Risotto, battered.
+| 2 nutriment, 4 rice, 1 black pepper
+|-
+|[[File:recipe-spacefries.png|50px]]
+|'''Space Fries
+| Fry 1 raw potato sticks.
+| 4 nutriment
+|-
 |}
+</div></div>
+<!-- overflow:auto; to fix collapsed display, because the toggle link has float:right; -->
+<div class="toccolours mw-collapsible" style="width:99%; overflow:auto;">
 
-===Other===
-{| class="wikitable sortable" style="width:80%" border="1" cellspacing="0" cellpadding="2"
-! scope="col" class="unsortable" style="background-color:Violet;" |Picture
-! scope="col" style="background-color:Violet;" |Recipe
-! scope="col" class="unsortable" style="background-color:Violet;" |Ingredients
-! scope="col" class="unsortable" style="background-color:Violet;" |Notes
+===Batter===
+You can coat food in batter before putting it in the deepfryer!
+*Nearly everything you can fry can be coated in batter. 
+*Put all of the ingredients of the batter in a container to create the batter, then use a food item on the container to cover it in batter.
+*The ingredients for the batter can be mixed in any kind of container.
+
+<div class="mw-collapsible-content">
+
+{| class="sortable" border="1" cellspacing="0" cellpadding="2" align="center"
+! style='background-color:Red;'|
+! style='background-color:Red;'|Result
+! style='background-color:Red;'|Recipe
+! style='background-color:Red;'|Reagents & Notes
 |-
-![[File:monkeydel.png|50px]]
-!Monkey's Delight
-| 1 Monkey Cube, 10 units Flour, 1 Banana, 1 unit Salt, 1 unit Pepper 
-| EE EEE!
+|[[File:Condiment.png|50px]]
+|'''Batter
+| Mix 1 egg, 10 units flour, 5 units water, 2 units salt.
+| TBA
 |-
-![[File:wingchu.png|50px]]
-!Wing Fang Chu
-| 5 units of Soy Sauce, 1 Xeno-Meat
-| At least it wasn't the [[Ian|Head of Personnel's dog]].
-|-
-![[File:enchi.png|50px]]
-!Enchiladas
-| 1 Cutlet, 2 Chili, 1 Corn 
-| Spicy.
-|-
-![[File:taco.png|50px]]
-!Taco
-| Dough slice, cutlet, cheese wedge
-| Take a bite!
-|-
-![[File:Kebab.png|50px]]
-!Kebab
-| 2 Meat, 1 Metal Rod
-| You get a metal rod back after eating. May break microwave.
-|-
-![[File:Kebab.png|50px]]
-!Tofu-Kabob
-| 2 Tofu, 1 Metal Rod
-| You get a metal rod back after eating. May break microwave.
-|-
-![[File:Mint.png|50px]]
-!Mint
-| 5 units of sugar, 5 units of frost oil. 
-| It is only wafer thin.
-|-
-![[File:Boiledcore.png|50px]]
-!Boiled Slime Core
-| 5 units of water, 1 slime core 
-| Magically delicious~ Also poisonous.
-|-
-![[File:AmanitaJelly.gif|50px]]
-!Amanita Jelly
-| 5 units of Water, 5 units of Vodka, 5 Amatoxin 
-| It's evil, don't touch it!
-|-
-![[File:duff.gif|50px]]
-!Space Liberty Duff
-| 5 units of Water, 5 units of Vodka, 5 units of Psilocybin 
-| The colors, maaaan, THE COLORS.
-|-
-![[File:sushi.png|50px]]
-!Sushi Roll
-| 1 Cabbage, 20u of Rice, and 3 [[#Meat|Meat]]
-| Sliceable. Appease your inner weaboo.
-|-
-![[File:Donerkebab.png|50px]]
-!Donerkebab
-| 1 Tomato, 1 Cabbage, 1u of Salt, 1 Meat Steak, 1 Flat Dough
-| Open Kebab, Show Vagene.
-|-
-![[File:Grubball.png|50px]]
-!Bugball
-| 1 Grubmeat, 5 units of Carbon
-| Do you really want to eat this?
-|-
-![[File:Makaronilaatikko.png|50px]]
-!Makaroni
-| 15 units of flour, 5 units of Milk, 1 Grubmeat, 1 Egg, 2 Cheese Wedges
-| Krafty!
-|-
-![[File:Ruinedvirussample.png|50px]]
-!Ruined Virus Sample
-| 1 Virus Dish
-| Just like vaccination!
-|-
-![[File:Meatburrito.png|50px]]
-!Meat Burrito
-| 1 Soybean, 1 Tortilla, 2 Cutlets
-| Carne!
-|-
-![[File:Cheeseburrito.png|50px]]
-!Cheese Burrito
-| 1 Soybean, 1 Tortilla, 2 Cheese Wedges
-| Queso!
-|-
-![[File:Fuegoburrito.png|50px]]
-!Fuego Burrito
-| 1 Soybean, 2 Chili, 1 Tortilla
-| Fuego!
-|-
-![[File:Nachos.png|50px]]
-!Nachos
-| 1 Tortilla, 1 unit of Salt
-| Now if only we had some cheese...
-|-
-![[File:Cheesenachos.png|50px]]
-!Cheesenachos
-| 1 Tortilla, 1 unit of Salt, 1 Cheese Wedge
-| Now if only it were spicier...
-|-
-![[File:Cubannachos.png|50px]]
-!Cuban Nachos
-| 1 Tortilla, 1 Chili, 5 units of Ketchup
-| Perfect!
-|-
-![[File:Piginblanket.png|50px]]
-!Pig-in-a-Blanket
-| 1 Flat Dough, 1 Sausage
-| A simple breakfast treat, sometimes served for Brunch!
+|[[File:Condiment.png|50px]]
+|'''Beer Batter
+| Mix 1 egg, 10 units flour, 5 units beer, 2 units salt.
+| TBA
 |}
+</div></div>
 
 ==[[File:Icecream_Vat.png|50px]] Ice Cream Vat==
 ''Ding-aling ding dong. Get your Nanotrasen-approved ice cream!''
@@ -1930,6 +2168,10 @@ Any recipe listed as '''Grind''' will require the use of the blender, any recipe
 ![[File:chocolatebar.gif|50px]]
 !{{anchor|Chocolate Bar}}Chocolate Bar
 | Mix 2 units Coco powder (grind a Cocoa Pod) + 2 units Milk/Soy Milk + 2 units Sugar
+|-
+![[File:recipe-brownies.png|50px]]
+!{{anchor|Brownie Mix}}Brownie Mix
+| Mix 5 units flour, 5 units coco powder, 5 units sugar. Makes 15 units. You'll need to mix twice as much to get enough to use it all up (three brownie trays total).
 |-
 ![[File:Tofu.gif|50px]]
 !{{anchor|Tofu}}Tofu

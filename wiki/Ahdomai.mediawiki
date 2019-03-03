@@ -1,4 +1,5 @@
 {{BayPage}}
+{{LoreReview}}
 Ahdomai is the home planet of the [[Tajaran]].  In general, it is a cold and icy world, which is why the Tajaran have thick, full fur coats to better insulate themselves from its climate.  It is one part of a larger system.
 {{toc_right}}
  

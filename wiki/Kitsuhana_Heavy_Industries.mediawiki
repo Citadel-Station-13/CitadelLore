@@ -1,3 +1,4 @@
+{{uncanon}}
 {{SidebarOrganization
 | orgname = Kitsuhana Heavy Industries
 | img_file = Kitsuhana_Logo.png

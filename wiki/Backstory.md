@@ -29,14 +29,15 @@ Once again welcome to VORE Station, we hope your stay here is a long and
 enjoyable one!
 
 </div>
-![Virgo Prime](Virgo-Prime.jpg "fig:Virgo Prime")The year is CE (Common
-Era). With the help of massive [colony ships](colony_ship "wikilink"),
-humanity had slowly spread and colonized our sun's neighboring systems.
-[Alpha Centauri](/wiki/Alpha_Centauri "wikilink"), [Tau
-Ceti](/wiki/Tau_Ceti "wikilink"), [Sirius](Sirius "wikilink") and more are
-connected by a network of [warpgates](/wiki/Warpgate "wikilink") that makes
-travel between systems take as little as hours instead of decades. With
-the discovery of the seemingly supernatural [phoron](phoron "wikilink"),
+![Virgo Prime](Virgo-Prime.jpg "fig:Virgo Prime")The year is
+[2562](/wiki/Timeline "wikilink") CE (Common Era). With the help of massive
+[colony ships](colony_ship "wikilink"), humanity had slowly spread and
+colonized our sun's neighboring systems. [Alpha
+Centauri](/wiki/Alpha_Centauri "wikilink"), [Tau Ceti](/wiki/Tau_Ceti "wikilink"),
+[Sirius](/wiki/Sirius "wikilink") and more are connected by a network of
+[warpgates](/wiki/Warpgate "wikilink") that makes travel between systems take
+as little as hours instead of decades. With the discovery of the
+seemingly supernatural [phoron](phoron "wikilink"),
 [Bluespace](/wiki/Bluespace "wikilink"), and the acquisition of [Terraforming
 Machines](/wiki/Terraforming "wikilink"), on-ship [FTL
 drives](/wiki/Faster-than-Light_Travel "wikilink") became a possibility,
@@ -135,8 +136,8 @@ Many of the inhabitants of Virgo-Prime fly off-world to work aboard the
 Non-Canon species
 -----------------
 
-<img src="Custom_Species_Fuckery.png" title="fig:Nervere from /tg/ made this fucking abomination, so now you have to see it too. -Ace" alt="Nervere from /tg/ made this fucking abomination, so now you have to see it too. -Ace" width="200" />
-**Custom Species** Home planet: ???
+**Custom Species** [left](file:Background-CustomSpecies.gif "wikilink")
+Home planet: ???
 
 Home system: ???
 
@@ -159,106 +160,35 @@ information about the species.
 
 **NOTE: If you wish to play a whitelisted or a canon-bending version of
 one of the species listed below, please log into our forums and head to
-the [Special
-Characters](https://forum.vore-station.net/viewforum.php?f=45&sid=262b542651b49b2e7dfa0e4f7cdc16c1)
-Section and Fill out a [Special Character
-Applications](https://forum.vore-station.net/viewtopic.php?f=45&t=277).**
+the "[Special
+Characters](https://forum.vore-station.net/viewforum.php?f=45&sid=262b542651b49b2e7dfa0e4f7cdc16c1)"
+Section and Fill out a "[Special Character
+Applications](https://forum.vore-station.net/viewtopic.php?f=45&t=277)".**
 See the [whitelist](whitelist "wikilink") page for more details.
 
 (Please add new species to the [template](:Template:Species "wikilink")
 as well.)
-
-### [Humans](/wiki/Humans "wikilink")
-
-[left](file:Background-humans.png "wikilink") **Home planet**:
-[Earth](/wiki/Earth "wikilink")
-
-**Home system**: [Sol](/wiki/Sol "wikilink")
-
-Humanity, everything and nothing can be said about them. They are the
-primary driving force for rapid space expansion and perhaps the most
-populated (known and sentient) species in the galaxy. From atop their
-[SolGov](/wiki/United_Systems_of_Sol_Central "wikilink") throne their economic
-prowess helps secure a position on the galactic stage. The vast majority
-of [Trans-Stellar Corporations](/wiki/Trans-Stellar_Corporations "wikilink")
-are owned by humans, and the mighty USDF is the main military presence
-in any system where humans make up the majority of the inhabitants. By
-this time men and women are treated all but equal, however there may
-still be exceptions.
-
-While most humans are accepting of other species and simply want to earn
-an honest paycheck, the best and worst are found among them. You never
-know what a human is going to be like when you first meet them.
-
-Due to their prevalence in current known space, and their ability to
-encompass all traits, good and bad, humanity is often considered the
-'status quo'.
-
-### [Skrell](/wiki/Skrell "wikilink")
-
-[left](file:Background-Skrell.png "wikilink") **Home planet**:
-[Qerr'balak](/wiki/Qerr'balak "wikilink")
-
-**Home system**: [Qerr'Vallis](/wiki/Qerr'Vallis "wikilink")
-
-The Skrell is a species of amphibious humanoids, distinguished by their
-green-blue gelatinous appearance and head tentacles. Skrell warble from
-the world of [Qerrbalak](/wiki/Qerrbalak "wikilink") (or as the lore once
-called it, [Jargon 4](/wiki/Jargon_4 "wikilink")), a humid planet with plenty
-of swamps and jungles. Currently more technologically advanced than
-humanity, they emphasize the study of the mind above all else.
-
-Gender has little meaning to Skrell outside of reproduction, and in
-fact, many other species have a difficult time telling the difference
-between male and female Skrell apart. The most obvious signs (voice in a
-slightly higher register, longer head-tails for females) are never a
-guarantee.
-
-Due to their scientific focus on the mind and body, Skrell tends to be
-more peaceful and their colonization has been slow, swiftly outpaced by
-humanity. They were the first contact sentient species, and are
-humanity's longest and closest ally in space.
-
-### [Teshari](/wiki/Teshari "wikilink")
-
-[128px\|left](file:Background-Teshari.png "wikilink") **Home planet**:
-[Qerr'balak](/wiki/Qerr'balak "wikilink")
-
-**Home system**: [Qerr'Vallis](/wiki/Qerr'Vallis "wikilink")
-
-The Teshari are reptilian pack predators from the Skrell homeworld.
-While they evolved alongside the Skrell, their interactions with them
-tended to be confused and violent, and until peaceful contact was made
-they largely stayed in their territories on and around the poles, in
-tundra terrain far too desolate and cold to be of interest to the
-Skrell. In more recent times, the Teshari were technologically uplifted
-by the Skrell to be a space-faring race of their own, one that's ready
-to prove its worth to the galaxy at large.
 
 ### [Akula](/wiki/Akula "wikilink")
 
 ![](Background-Akula.png "fig:Background-Akula.png") **Home planet**:
 Unknown
 
-**Home system**: [Qerr'Vallis](/wiki/Qerr'Vallis "wikilink")
-
-**(Akula Lore is pending a rewrite. Please follow what is written for
-now until a later date.)**
-
-The Akula is a species of amphibious humanoids like the Skrell, but have
-an appearance very similar to that of a shark. They were first
-discovered as a primitive race of underwater-dwelling tribal creatures
-by the Skrell. At first they were not believed to be noteworthy, but the
-Akula proved to be such swift and clever learners that the Skrell
-reclassified them as sentients. Allegedly, the Akula was also the first
-sentient life that the Skrell had ever encountered beside themselves,
-and thus the two species became swift allies over the next few hundred
-years. With the help of Skrellean technology, the Akula had their genome
-modified to be capable of surviving in open air for long periods of
-time. However, Akula even today still require a high humidity
-environment to avoid drying out after a few days, which would make life
-on an arid world like Virgo-Prime nearly impossible if it were not for
-Skrellean technology to aid them.
+**Home system**: [Qerr'Vallis](/wiki/Qerr'Vallis "wikilink") The Akula is a
+species of amphibious humanoids like the Skrell, but have an appearance
+very similar to that of a shark. They were first discovered as a
+primitive race of underwater-dwelling tribal creatures by the Skrell. At
+first they were not believed to be noteworthy, but the Akula proved to
+be such swift and clever learners that the Skrell reclassified them as
+sentients. Allegedly, the Akula was also the first sentient life that
+the Skrell had ever encountered beside themselves, and thus the two
+species became swift allies over the next few hundred years. With the
+help of Skrellean technology, the Akula had their genome modified to be
+capable of surviving in open air for long periods of time. However,
+Akula even today still require a high humidity environment to avoid
+drying out after a few days, which would make life on an arid world like
+Virgo-Prime nearly impossible if it were not for Skrellean technology to
+aid them.
 
 Most Akula today consider Qerr'Vallis to be their home where they live
 alongside their Skrell allies, while their true homeworld has been
@@ -296,58 +226,188 @@ piracy, smuggling operations, mining, and mercenary work. However, due
 to their mutual respect of the Skrell, most will not engage in hostile
 activity against Skrell or other Akula.
 
-### [Unathi](/wiki/Unathi "wikilink")
+### [Alraune](/wiki/Alraune "wikilink")
 
-[left](file:Background-unathi.png "wikilink") **Home planet**:
-[Moghes](/wiki/Moghes "wikilink")
+**Home Planet:** [Abundance in All Things
+Serene](/wiki/Abundane_in_All_Things_Serene "wikilink")
 
-**Home system**: [Uueoa-Esa](/wiki/Moghes#Astrology "wikilink")
+**Home System:** [Beta-Carnelium
+Ventrum](/wiki/Beta-Carnelium_Ventrum "wikilink")
 
-The Unathi are a race of tall, reptilian humanoids that possess both
-crocodile-like and serpent-like features. Their scales are hard and
-plate-like, save for the softer ones that line the inside of their legs,
-armpits, and groin. Originating from the planet of
-[Moghes](/wiki/Moghes "wikilink"), the Unathi live in an extremely religious
-society.
+The Alraune are the native species of a planet within the Territory of
+Sanctum, concurrently under protection for them to develop on their own
+pace. However, previous to this non-contact policy, many Alraune were
+displaced by angels as companions and pet projects in uplifting,
+ultimately leading to a Diaspora of more culturally advanced Alraune
+living on Sanctum, Virgo-Erigone, Vilous and other Virgo-Erigone
+colonies.
 
-The Unathi generally believe in and closely follow a set of
-[Decrees](/wiki/Unathi_Culture#Religion,_The_Unity "wikilink") laid out in
-their belief system, The Unity. Unathi believes in living long,
-prosperous, honorable and productive lives. They firmly believe in
-improving the skills of their craft to reach a level where they can be
-considered to have mastered it.
+### [Angels](/wiki/Angels "wikilink") and [Demons](/wiki/Demons "wikilink")
 
-The Unathi were humanity's second alien contact, but due to their
-aggressive nature, engaged in an interstellar war with humanity known as
-the [Sol-Hegemony Conflict](/wiki/Sol-Hegemony_Conflict "wikilink"). Although
-the conflict has long since ended, and relations have slowly improved,
-Unathi are still often considered to be 'second-class' citizens and are
-rarely seen in jobs other than where muscle is needed. It is also still
-common for racial tensions to run high, although this is less common on
-the outskirts of SolGov's grasp.
+[left](file:Background-Angels.png "wikilink") **Home Planet**: Sanctorum
 
-### [Tajaran](/wiki/Tajaran "wikilink")
+**Home System**: Sanctum
 
-![](Background-tajaran.png "fig:Background-tajaran.png") **Home
-planet**: Meralar
+[left](file:Background-Demons.png "wikilink") **Home Planet**: Infernum
 
-**Home system**: Rarkajar
+**Home System**: Sanctum
 
-The Tajaran are a humanoid race possessing cat-like features. Hailing
-from Meralar, they possess insulating fur and felinoid stability to
-better survive in their harsh native environment. Their home planet is a
-cold planet of vast tundra and arctic zones. For generations the Tajaran
-were practically enslaved by the leading class who were recently
-overthrown. Males and females are treated roughly equal. There are three
-divisions of Tajaran, two being sensible, the other... not so much.
+[Angels](/wiki/Angels "wikilink") are a species of winged humanoids. They
+essentially look like humans but have white feathered wings and a much
+lighter body. Their bones are hollowed similarly to birds and retain
+little fat. Sanctum's society isn't commonly known about, while Infernum
+might have a few more words because of it's tourists. Their society
+tends to have an elegant yet minimalist taste to it, due to their early
+post-scarcity state. The majority of their work tends to be automated
+with the use of machines, and their medicines are advanced. They a
+significantly older race than many of the others. There are Angels who
+are heavily genetically modified, who tend to live in Infernum. They are
+known as [Demons](/wiki/Demons "wikilink").
 
-Tajaran is one of the more recent contacts humanity has encountered.
-While plenty of Tajaran hold reservations with their new allies, overall
-the alliance is accepted and welcome. Though, like the
-[Unathi](/wiki/Unathi "wikilink"), plenty of humans take advantage of the less
-than modern education, and it is rare to see a Tajaran in a position of
-command outside of systems like Virgo where the human population is
-limited.
+### [Diona](/wiki/Diona "wikilink")
+
+![](Background-Dioan.png "fig:Background-Dioan.png") **(( Whitelisted
+species - requires a special character application to play. ))**
+
+**Home system**: [Epsilon Ursae
+Majoris](/wiki/Epsilon_Ursae_Majoris "wikilink")
+
+The diona are a group of omnivorous, slow-metabolism plantlike organisms
+that are in fact clusters of individual, smaller organisms. They exhibit
+a high degree of structural flexibility and come in a wide variety of
+shapes and colors to reflect the intelligence of each individual
+creature. They were discovered by the Skrell in 2294CE, not on a planet,
+but in open space between three stars, a figurative hell that made it
+difficult to discover, much less contact them.
+
+Diona spread by seeds and are asexual, no gender. When grown into their
+small 'nymph' state, they are known to eat large amounts of dead plant
+matter and fertilize plants while they learn from those around them by
+sampling their genetic code (usually through blood extractions), and as
+they grow further merger into larger and larger forms. It is not unheard
+of for Skrell explorers to be traveling in a ship composed of habitat
+modules and engines of Skrell make, with the body of the ship formed by
+their Diona allies to warble across the cosmos.
+
+Introduced by the Skrell, and quite slow and peaceful, the Diona share
+good relations with humanity.
+
+### [Humans](/wiki/Humans "wikilink")
+
+[left](file:Background-humans.png "wikilink") **Home planet**:
+[Earth](/wiki/Earth "wikilink")
+
+**Home system**: [Sol](/wiki/Sol "wikilink")
+
+Humanity, everything and nothing can be said about them. They are the
+primary driving force for rapid space expansion and perhaps the most
+populated (known and sentient) species in the galaxy. From atop their
+[SolGov](/wiki/United_Systems_of_Sol_Central "wikilink") throne their economic
+prowess helps secure a position on the galactic stage. The vast majority
+of [Trans-Stellar Corporations](/wiki/Trans-Stellar_Corporations "wikilink")
+are owned by humans, and the mighty USDF is the main military presence
+in any system where humans make up the majority of the inhabitants. By
+this time men and women are treated all but equal, however there may
+still be exceptions.
+
+While most humans are accepting of other species and simply want to earn
+an honest paycheck, the best and worst are found among them. You never
+know what a human is going to be like when you first meet them.
+
+Due to their prevalence in current known space, and their ability to
+encompass all traits, good and bad, humanity is often considered the
+'status quo'.
+
+### [Nevrean](/wiki/Nevrean "wikilink")
+
+[left](file:Background-Nevrean.png "wikilink") **Home planet**:
+[Eltus](/wiki/Vilous#Eltus "wikilink")
+
+**Home system**: [Vilous](/wiki/Vilous "wikilink")
+
+**(Sergal Lore is about to go under Renovation, this will also effect
+Nevrean. Please follow what is written for now until a later date.)**
+
+An avian species hailing from the planet Eltus in the Vilous system,
+characterized by their long whiplike tail-feathers. The species is
+generally matriarchal, with females tending towards duller, brown
+coloration and bulkier bodies, while males are slight and brightly
+colored. In both typical mannerisms, culture and physical build, the
+sexes are directly reversed when compared to traditional human society.
+Their build is somewhere between a bird and a feathered dinosaur.
+Females tend to have short feathers on their arms that are not capable
+of flight, while males often have more developed flight-feathers -
+on-station, these are often kept tucked away and folded under their
+jumpsuit sleeves.
+
+There are no remaining records describing how the Nevreans came to leave
+Eltus and relocate to Tal - they have little to no written history from
+that time, having a tradition of oral history and song, and most of what
+little history survives of their former homeworld is couched in myth,
+legend, stories, fairy tales and adventures. Humanity has not yet had
+time to study these stories and separate fact from fiction, and reality
+from metaphor, or what parts of the stories might hint at the
+then-primitive race having a visit from a spacefaring species. As a
+result, Eltus has attracted no small amount of interest from
+xenoarchaeologists.
+
+After the exodus, Nevreans coexisted alongside Sergals, though tend to
+be much more forward-looking when it comes to new technology. While
+sergals still tended towards traditional melee weapons and armor in
+battle, Nevreans have no such hangups when it comes to more modern
+armaments and has earned a reputation as crafters and engineers in urban
+communities. Likewise, the urban groups have tended to adopt the written
+languages of other cultures, nevreans lacking any written form of their
+own tongue.
+
+During [The Vilous Incident](/wiki/The_Vilous_Incident "wikilink"), most
+nevrean communities avoided confrontation, though a handful of urban
+groups took to asymmetric warfare tactics against USDF special forces
+when fighting entered the city.
+
+### [Promethean](/wiki/Promethean "wikilink")
+
+![](Background-Promethians.png "fig:Background-Promethians.png") **Home
+planet**: [Aetolus](/wiki/Aetolus "wikilink")
+
+**Home system**: [Kataigal](/wiki/Kataigal "wikilink")
+
+A gelatinous race of mimics evolved from their slime predecessors that
+were first discovered aboard the NRS Prometheus, these colorful
+humanoids are best characterized by their ability to repurpose and shape
+their bodies for whatever a situation may warrant by means of their
+semi-solid structure. Along with this is their semipermeable membrane
+encasing their gel, allowing them to filter feed while keeping the
+undesirable matter out of their bodies. Their composition allows them to
+resist most sources of brute trauma, though energy will cause their
+limbs to become unstable and disintegrate. Prometheans are also void of
+most normal organs, only possessing a core and cytoskeleton, both of
+which are crucial to the slime's survival.
+
+Being an artificially created race, and a new one at that, Prometheans
+have no unified culture, though there are small populations of
+Prometheans scattered around the universe, the tropical planet of
+[Aetolus](/wiki/Aetolus "wikilink") in particular having roughly one thousand
+such individuals. Currently, Prometheans *must* have a caretaker in
+accordance with USDF regulations, normally a xenobiologist or other
+trained caretaker.
+
+### [Rapala](/wiki/Rapala "wikilink")
+
+[left](file:Rapala-background.png "wikilink")
+
+**Home Planet**: Verita
+
+**Home System**: Kastra-71
+
+An Avian species, coming from a distant planet, the Rapalas are the very
+proud race. Sol researchers have commented on them having a very close
+resemblance to the mythical race called 'Harpies', who are known for
+having massive winged arms and talons as feet. They've been clocked at
+speeds of over 35 miles per hour chasing the planet's many fish-like
+faunae. The Rapalan's home-world 'Verita' is a strangely habitable gas
+giant, while no physical earth exists, there are fertile floating
+islands orbiting around the planet from past asteroid activity."
 
 ### [Sergal](/wiki/Sergal "wikilink")
 
@@ -357,8 +417,8 @@ limited.
 
 **Home system**: [Vilous](/wiki/Vilous "wikilink")
 
-**(Sergal Lore is pending a rewrite. Please follow what is written for
-now until a later date.)**
+**(Sergal Lore is about to go under Renovation, Please follow it for now
+until we can Finalize the rewrite.)**
 
 There are two subspecies of Sergal, Southern and Northern. Northern
 sergals are a highly aggressive race that lives in the plains and tundra
@@ -410,107 +470,30 @@ Sergals were killed in a brief military conflict. The Vilous system has
 been under USDF occupation ever since, and has only recently been
 officially annexed into [SolGov](/wiki/SolGov "wikilink")'s influence.
 
-### [Promethean](/wiki/Promethean "wikilink")
+### [Skrell](/wiki/Skrell "wikilink")
 
-![](Background-Promethians.png "fig:Background-Promethians.png") **Home
-planet**: [Aetolus](/wiki/Aetolus "wikilink")
+[left](file:Background-Skrell.png "wikilink") **Home planet**:
+[Qerr'balak](/wiki/Qerr'balak "wikilink")
 
-**Home system**: [Kataigal](/wiki/Kataigal "wikilink")
+**Home system**: [Qerr'Vallis](/wiki/Qerr'Vallis "wikilink")
 
-A gelatinous race of mimics evolved from their slime predecessors that
-were first discovered aboard the NRS Prometheus, these colorful
-humanoids are best characterized by their ability to repurpose and shape
-their bodies for whatever a situation may warrant by means of their
-semi-solid structure. Along with this is their semipermeable membrane
-encasing their gel, allowing them to filter feed while keeping the
-undesirable matter out of their bodies. Their composition allows them to
-resist most sources of brute trauma, though energy will cause their
-limbs to become unstable and disintegrate. Prometheans are also void of
-most normal organs, only possessing a core and cytoskeleton, both of
-which are crucial to the slime's survival.
+The Skrell is a species of amphibious humanoids, distinguished by their
+green-blue gelatinous appearance and head tentacles. Skrell warble from
+the world of [Qerrbalak](/wiki/Qerrbalak "wikilink") (or as the lore once
+called it, [Jargon 4](/wiki/Jargon_4 "wikilink")), a humid planet with plenty
+of swamps and jungles. Currently more technologically advanced than
+humanity, they emphasize the study of the mind above all else.
 
-Being an artificially created race, and a new one at that, Prometheans
-have no unified culture, though there are small populations of
-Prometheans scattered around the universe, the tropical planet of
-[Aetolus](/wiki/Aetolus "wikilink") in particular having roughly one thousand
-such individuals. Currently, Prometheans *must* have a caretaker in
-accordance with USDF regulations, normally a xenobiologist or other
-trained caretaker.
+Gender has little meaning to Skrell outside of reproduction, and in
+fact, many other species have a difficult time telling the difference
+between male and female Skrell apart. The most obvious signs (voice in a
+slightly higher register, longer head-tails for females) are never a
+guarantee.
 
-### [Nevrean](/wiki/Nevrean "wikilink")
-
-[left](file:Background-Nevrean.png "wikilink") **Home planet**:
-[Eltus](/wiki/Vilous#Eltus "wikilink")
-
-**Home system**: [Vilous](/wiki/Vilous "wikilink")
-
-**(Sergal Lore is pending a rewrite, which will also effect Nevreans.
-Please follow what is written for now until a later date.)**
-
-An avian species hailing from the planet Eltus in the Vilous system,
-characterized by their long whiplike tail-feathers. The species is
-generally matriarchal, with females tending towards duller, brown
-coloration and bulkier bodies, while males are slight and brightly
-colored. In both typical mannerisms, culture and physical build, the
-sexes are directly reversed when compared to traditional human society.
-Their build is somewhere between a bird and a feathered dinosaur.
-Females tend to have short feathers on their arms that are not capable
-of flight, while males often have more developed flight-feathers -
-on-station, these are often kept tucked away and folded under their
-jumpsuit sleeves.
-
-There are no remaining records describing how the Nevreans came to leave
-Eltus and relocate to Tal - they have little to no written history from
-that time, having a tradition of oral history and song, and most of what
-little history survives of their former homeworld is couched in myth,
-legend, stories, fairy tales and adventures. Humanity has not yet had
-time to study these stories and separate fact from fiction, and reality
-from metaphor, or what parts of the stories might hint at the
-then-primitive race having a visit from a spacefaring species. As a
-result, Eltus has attracted no small amount of interest from
-xenoarchaeologists.
-
-After the exodus, Nevreans coexisted alongside Sergals, though tend to
-be much more forward-looking when it comes to new technology. While
-sergals still tended towards traditional melee weapons and armor in
-battle, Nevreans have no such hangups when it comes to more modern
-armaments and has earned a reputation as crafters and engineers in urban
-communities. Likewise, the urban groups have tended to adopt the written
-languages of other cultures, nevreans lacking any written form of their
-own tongue.
-
-During [The Vilous Incident](/wiki/The_Vilous_Incident "wikilink"), most
-nevrean communities avoided confrontation, though a handful of urban
-groups took to asymmetric warfare tactics against USDF special forces
-when fighting entered the city.
-
-### [Diona](/wiki/Diona "wikilink")
-
-![](Background-Dioan.png "fig:Background-Dioan.png") **(( Whitelisted
-species - requires a special character application to play. ))**
-
-**Home system**: [Epsilon Ursae
-Majoris](/wiki/Epsilon_Ursae_Majoris "wikilink")
-
-The diona are a group of omnivorous, slow-metabolism plantlike organisms
-that are in fact clusters of individual, smaller organisms. They exhibit
-a high degree of structural flexibility and come in a wide variety of
-shapes and colors to reflect the intelligence of each individual
-creature. They were discovered by the Skrell in 2294CE, not on a planet,
-but in open space between three stars, a figurative hell that made it
-difficult to discover, much less contact them.
-
-Diona spread by seeds and are asexual, no gender. When grown into their
-small 'nymph' state, they are known to eat large amounts of dead plant
-matter and fertilize plants while they learn from those around them by
-sampling their genetic code (usually through blood extractions), and as
-they grow further merger into larger and larger forms. It is not unheard
-of for Skrell explorers to be traveling in a ship composed of habitat
-modules and engines of Skrell make, with the body of the ship formed by
-their Diona allies to warble across the cosmos.
-
-Introduced by the Skrell, and quite slow and peaceful, the Diona share
-good relations with humanity.
+Due to their scientific focus on the mind and body, Skrell tends to be
+more peaceful and their colonization has been slow, swiftly outpaced by
+humanity. They were the first contact sentient species, and are
+humanity's longest and closest ally in space.
 
 ### [Synthetics](/wiki/Synthetics "wikilink")
 
@@ -548,27 +531,109 @@ chassis](/wiki/Cyborg "wikilink"). However, transition from one to the other
 is often more expensive than the net worth of the bodies and is thus
 done sparingly.
 
-### [Zorren](/wiki/Zorren "wikilink")
+### [Tajaran](/wiki/Tajaran "wikilink")
 
-[left](file:Background-Zorren.png "wikilink") **Home Planet**:
-[Virgo-Prime](/wiki/Virgo-Prime "wikilink")
+![](Background-tajaran.png "fig:Background-tajaran.png") **Home
+planet**: Meralar
 
-**Home System**: [Virgo-Erigone](/wiki/Virgo-Erigone "wikilink")
+**Home system**: Rarkajar
 
-The fox-like Zorren are native to Virgo-Prime, however there are two
-distinct varieties of Zorren one with large ears and shorter fur, and
-the other with longer fur that is a bit more vibrant. The long-eared,
-short-furred Zorren have come to be known as "Flatland" Zorren as that
-is where most of their settlements are located. The Flatland Zorren are
-somewhat tribal and shamanistic as they have only recently started to be
-hired by the Trans-Stellar Corporations. The other variety of Zorren are
-known as "Highland" Zorren as they frequently settle in hilly and/or
-mountainous areas, they have a differing societal structure than the
-Flatland Zorren having a more feudal social structure, like the Flatland
-Zorren, the Highland Zorren have also only recently been hired by the
-Trans-Stellar Corporations, but thanks to the different social structure
-they seem to have adjusted better to their new lives. Though similar
-fox-like beings have been seen they are different than the Zorren.
+The Tajaran are a humanoid race possessing cat-like features. Hailing
+from Meralar, they possess insulating fur and felinoid stability to
+better survive in their harsh native environment. Their home planet is a
+cold planet of vast tundra and arctic zones. For generations the Tajaran
+were practically enslaved by the leading class who were recently
+overthrown. Males and females are treated roughly equal. There are three
+divisions of Tajaran, two being sensible, the other... not so much.
+
+Tajaran is one of the more recent contacts humanity has encountered.
+While plenty of Tajaran hold reservations with their new allies, overall
+the alliance is accepted and welcome. Though, like the
+[Unathi](/wiki/Unathi "wikilink"), plenty of humans take advantage of the less
+than modern education, and it is rare to see a Tajaran in a position of
+command outside of systems like Virgo where the human population is
+limited.
+
+### [Teshari](/wiki/Teshari "wikilink")
+
+[128px\|left](file:Background-Teshari.png "wikilink") **Home planet**:
+[Qerr'balak](/wiki/Qerr'balak "wikilink")
+
+**Home system**: [Qerr'Vallis](/wiki/Qerr'Vallis "wikilink")
+
+The Teshari are reptilian pack predators from the Skrell homeworld.
+While they evolved alongside the Skrell, their interactions with them
+tended to be confused and violent, and until peaceful contact was made
+they largely stayed in their territories on and around the poles, in
+tundra terrain far too desolate and cold to be of interest to the
+Skrell. In more recent times, the Teshari were technologically uplifted
+by the Skrell to be a space-faring race of their own, one that's ready
+to prove its worth to the galaxy at large.
+
+### [Unathi](/wiki/Unathi "wikilink")
+
+[left](file:Background-unathi.png "wikilink") **Home planet**:
+[Moghes](/wiki/Moghes "wikilink")
+
+**Home system**: [Uueoa-Esa](/wiki/Moghes#Astrology "wikilink")
+
+The Unathi are a race of tall, reptilian humanoids that possess both
+crocodile-like and serpent-like features. Their scales are hard and
+plate-like, save for the softer ones that line the inside of their legs,
+armpits, and groin. Originating from the planet of
+[Moghes](/wiki/Moghes "wikilink"), the Unathi live in an extremely religious
+society.
+
+The Unathi generally believe in and closely follow a set of
+[Decrees](/wiki/Unathi_Culture#Religion,_The_Unity "wikilink") laid out in
+their belief system, The Unity. Unathi believes in living long,
+prosperous, honorable and productive lives. They firmly believe in
+improving the skills of their craft to reach a level where they can be
+considered to have mastered it.
+
+The Unathi were humanity's second alien contact, but due to their
+aggressive nature, engaged in an interstellar war with humanity known as
+the [Sol-Hegemony Conflict](/wiki/Sol-Hegemony_Conflict "wikilink"). Although
+the conflict has long since ended, and relations have slowly improved,
+Unathi are still often considered to be 'second-class' citizens and are
+rarely seen in jobs other than where muscle is needed. It is also still
+common for racial tensions to run high, although this is less common on
+the outskirts of SolGov's grasp.
+
+### [Vasilissans](/wiki/Vasilissans "wikilink")
+
+[left](file:Background-Vasilissans.png "wikilink") **Home planet**:
+Varilak
+
+**Home system**: Antares
+
+Vasilissans are a carnivorous, large spider-like people with tall, lanky
+bipedal bodies covered in chitin, and four large spider-like limbs
+protruding from their backs. They come in a variety of colors and are
+extremely diverse in that aspect. The females are usually about a foot
+taller than the males, averaging in at about seven feet. The females are
+also much stronger than the males. Their faces have four eyes of solid
+and varying colors. On the top of their heads are strange, thick,
+leg-like feelers that are normally styled in much the same way as hair.
+Their color varies greatly and isn’t normally the same color as the
+Vasilissan’s body. They have several feelers and sharp claw-like limbs
+around their lipped human-like mouths. These mouths contain only fangs,
+a strange, bulbous, long tongue, and spinnerets, giving them the ability
+to spit large strands of silk from their mouths. Their faces are
+traditionally very pretty, long, and elegant, almost elf-like despite
+their hard chitin plating and lack of a nose.
+
+From a temperate jungle planet, the Vasilissans were once a solitary,
+territorial people until great queens began to subjugate them. These
+'Star Queens' ruled with an iron fist and urged their subjects to expand
+her territory and to attempt to build great towering cities tall enough
+to reach the stars and their sun, which they believed to be gems of
+great magical power and spiritual significance. They were eventually
+picked up and ‘uplifted’ by NT due to their world being rich in precious
+metals, but their ability to design and create vast, strong, and
+luxurious structures with their silk, stood out well among their
+talents, and due to their naturally somewhat solitary natures, they make
+great scouts and explorers.
 
 ### [Vulpkanin](/wiki/Vulpkanin "wikilink")
 
@@ -630,41 +695,6 @@ are also apt security officers and wardens due to the hierarchical
 mindset of the pack, but only a rare handful have the traits to actually
 lead as an alpha.
 
-### [Vasilissans](/wiki/Vasilissans "wikilink")
-
-[left](file:Background-Vasilissans.png "wikilink") **Home planet**:
-Varilak
-
-**Home system**: Antares
-
-Vasilissans are a carnivorous, large spider-like people with tall, lanky
-bipedal bodies covered in chitin, and four large spider-like limbs
-protruding from their backs. They come in a variety of colors and are
-extremely diverse in that aspect. The females are usually about a foot
-taller than the males, averaging in at about seven feet. The females are
-also much stronger than the males. Their faces have four eyes of solid
-and varying colors. On the top of their heads are strange, thick,
-leg-like feelers that are normally styled in much the same way as hair.
-Their color varies greatly and isn’t normally the same color as the
-Vasilissan’s body. They have several feelers and sharp claw-like limbs
-around their lipped human-like mouths. These mouths contain only fangs,
-a strange, bulbous, long tongue, and spinnerets, giving them the ability
-to spit large strands of silk from their mouths. Their faces are
-traditionally very pretty, long, and elegant, almost elf-like despite
-their hard chitin plating and lack of a nose.
-
-From a temperate jungle planet, the Vasilissans were once a solitary,
-territorial people until great queens began to subjugate them. These
-'Star Queens' ruled with an iron fist and urged their subjects to expand
-her territory and to attempt to build great towering cities tall enough
-to reach the stars and their sun, which they believed to be gems of
-great magical power and spiritual significance. They were eventually
-picked up and ‘uplifted’ by NT due to their world being rich in precious
-metals, but their ability to design and create vast, strong, and
-luxurious structures with their silk, stood out well among their
-talents, and due to their naturally somewhat solitary natures, they make
-great scouts and explorers.
-
 ### [Xenochimera](/wiki/Xenochimera "wikilink")
 
 [left](file:Background-Xenochimera.png "wikilink") **(( Whitelisted
@@ -704,11 +734,10 @@ species - requires a special character application to play. ))**
 Xenomorph hybrids are an extraterrestrial species. The origins of
 xenomorphs are primarily unknown, although hybrids have been formed
 through various ways. One of the most common ways they are created is by
-genetic experimentation. This is done either by
-[splicing](splicing "wikilink") xenomorph DNA into a humanoid, or
-splicing humanoid DNA into a xenomorph, although the former is much more
-common. This process creates a hybrid of the two species with them
-sharing various traits.
+genetic experimentation. This is done either by splicing xenomorph DNA
+into a humanoid, or splicing humanoid DNA into a xenomorph, although the
+former is much more common. This process creates a hybrid of the two
+species with them sharing various traits.
 
 Some of the traits xenomorph hybrids have are: A thick chitinous
 exoskeleton of varying hardness, much like a lobster, an elongated
@@ -722,95 +751,27 @@ hive-mind that most feral xenomorphs seem to possess, along with their
 ability to produce resin, and their increased ability to sense prey.
 This can also be assumed to be due to the intensive mutation process.
 
-### [Angels](/wiki/Angels "wikilink") and [Demons](/wiki/Demons "wikilink")
+### [Zorren](/wiki/Zorren "wikilink")
 
-[left](file:Background-Angels.png "wikilink") **Home planet**: Sanctorum
+[left](file:Background-Zorren.png "wikilink") **Home Planet**:
+[Virgo-Prime](/wiki/Virgo-Prime "wikilink")
 
-**Home system**: Sanctum
+**Home System**: [Virgo-Erigone](/wiki/Virgo-Erigone "wikilink")
 
-[left](file:Background-Demons.png "wikilink") **Home planet**: Infernum
-
-**Home system**: Sanctum
-
-[Angels](/wiki/Angels "wikilink") are a species of winged humanoids. They
-essentially look like humans but have white feathered wings and a much
-lighter body. Their bones are hollowed similarly to birds and retain
-little fat. Sanctum's society isn't commonly known about, while Infernum
-might have a few more words because of it's tourists. Their society
-tends to have an elegant yet minimalist taste to it, due to their early
-post-scarcity state. The majority of their work tends to be automated
-with the use of machines, and their medicines are advanced. They a
-significantly older race than many of the others. There are Angels who
-are heavily genetically modified, who tend to live in Infernum. They are
-known as [Demons](/wiki/Demons "wikilink").
-
-### [Rapala](/wiki/Rapala "wikilink")
-
-[left](file:Rapala-background.png "wikilink") **Home planet**: Verita
-
-**Home system**: Kastra-71
-
-An Avian species, coming from a distant planet, the Rapalas are the very
-proud race. Sol researchers have commented on them having a very close
-resemblance to the mythical race called 'Harpies', who are known for
-having massive winged arms and talons as feet. They've been clocked at
-speeds of over 35 miles per hour chasing the planet's many fish-like
-faunae. The Rapalan's home-world 'Verita' is a strangely habitable gas
-giant, while no physical earth exists, there are fertile floating
-islands orbiting around the planet from past asteroid activity."
-
-### [Alraune](/wiki/Alraune "wikilink")
-
-[left](file:Alraune-background.png "wikilink") **Home planet:**
-[Abundance in All Things
-Serene](/wiki/Abundane_in_All_Things_Serene "wikilink")
-
-**Home system:** [Beta-Carnelium
-Ventrum](/wiki/Beta-Carnelium_Ventrum "wikilink")
-
-The Alraune are the native species of a planet within the Territory of
-Sanctum, concurrently under protection for them to develop on their own
-pace. However, previous to this non-contact policy, many Alraune were
-displaced by angels as companions and pet projects in uplifting,
-ultimately leading to a Diaspora of more culturally advanced Alraune
-living on Sanctum, Virgo-Erigone, Vilous and other Virgo-Erigone
-colonies.
-
-### [Sylvanus](/wiki/Sylvanus "wikilink") (Elves)
-
-[left](file:Elves-background.png "wikilink")
-[200px\|thumbnail\|right\|This region of space is impossible to see from
-Earth-based telescopes, as it is blocked by the densely arranged stars
-of the galactic core. Nearly all star systems within this shadow are
-unexplored.](file:Observational-Shadow.png "wikilink") **Home planet:**
-[Ashkel](/wiki/Ashkel "wikilink")
-
-**Home system:** \[DATA NOT FOUND\]
-
-Sylvanusians, colloquially known as 'Elves' due to their pointed ears,
-are a humanoid species believed to have originated from somewhere within
-Earth's observational shadow. Little is known about the origin of their
-species, but among what is known is that the Sylvanussi species far
-predates that of Humans or possibly even the Skrell. Sylvanussi colonies
-exist scattered throughout the far reaches of the galaxy, but very few
-have expanded beyond their own system, such as [Scion](/wiki/Scion "wikilink")
-Sylvanussians. Those who have expanded usually only occupy perhaps two
-or three local star systems, and often possess technology considered
-primitive by modern standards.
-
-A notable exception however is the [Auream
-Imperium](/wiki/Auream_Imperium "wikilink"), whose technology and military
-might seems to rival that of even [SolGov](/wiki/SolGov "wikilink"). Even
-still, Auream Sylvanussians are especially known for their highly
-secretive behavior, and will betray few details about their culture, or
-even the whereabouts of their home planet. Xenoanthropolists believe
-that the reason for this is that Auream Sylvanussians fear conflict with
-the galactic superpower that is SolGov. Whether the Auream Imperium's
-apparent might is legitimate or mere posturing is not yet known.
-
-The Auream Imperium has taken a peculiar interest with the
-[Virgo-Erigone](/wiki/Virgo-Erigone "wikilink") system, though the reasons why
-have not been clearly stated.
+The fox-like Zorren are native to Virgo-Prime, however there are two
+distinct varieties of Zorren one with large ears and shorter fur, and
+the other with longer fur that is a bit more vibrant. The long-eared,
+short-furred Zorren have come to be known as "Flatland" Zorren as that
+is where most of their settlements are located. The Flatland Zorren are
+somewhat tribal and shamanistic as they have only recently started to be
+hired by the Trans-Stellar Corporations. The other variety of Zorren are
+known as "Highland" Zorren as they frequently settle in hilly and/or
+mountainous areas, they have a differing societal structure than the
+Flatland Zorren having a more feudal social structure, like the Flatland
+Zorren, the Highland Zorren have also only recently been hired by the
+Trans-Stellar Corporations, but thanks to the different social structure
+they seem to have adjusted better to their new lives. Though similar
+fox-like beings have been seen they are different than the Zorren.
 
 Important Groups
 ----------------
@@ -857,64 +818,6 @@ The banner over which most of humanity is united under. They focus on
 keeping humanity's best interest in check and tend to keep out of a
 system's personal problems unless they are in a dire state of emergency.
 They are protected by the USDF.
-
-### [Military Groups](/wiki/Military_Groups "wikilink")
-
-Not only are there corporate interests out in deep space, but also
-military ones. These factions tend to be neutral to corporate empires
-like NanoTrasen, but occasionally NanoTrasen will find its self in the
-crossfire of an ongoing conflict.
-
-The most well known trans-stellar military group is the [United Sol
-Defense Forces](/wiki/United_Sol_Defense_Force "wikilink") (USDF), based out
-of Earth in Sol Central, as well as its mostly defunct grandfather
-organization, the United States Colonial Marines. NanoTrasen is
-non-hostile to the USDF and has a number of lobbyists in Sol Central's
-government to ensure the USDF's cooperation.
-
-Another group, wary of the influence of Sol Central and hostile to any
-Trans-Stellar Corporation is the [Ares
-Confederation](/wiki/Ares_Confederation "wikilink"), a dozen of colony worlds
-on the fringe of human-occupied space. Obviously, considering NT is one
-of their "sworn" enemies, relationships are frosty at best, although no
-open hostility broke out yet. They are cordial to both the Soviets and
-the United Federation, while rumors persist that they back up the
-Syndicate as well.
-
-Also out of Sol Central is the [3rd Soviet
-Union](3rd_Soviet_Union "wikilink"), which hails from
-[Europa](/wiki/Europa "wikilink") and continues to exist despite tensions with
-the USDF thanks to supporters from scattered colonies and sympathizers
-across the galaxy providing weapons and resources. NanoTrasen maintains
-a shakey neutrality with the Soviets, often through the exchange of
-technology. The Soviets also purchase weapons from NanoTrasen to use
-against the USDF.
-
-Contrasty, there is the [Fourth Reich](/wiki/Nazis "wikilink"), which is a
-small but rabidly fascist military group which preys upon the hearts of
-disenfranchised citizens in colonies otherwise left for dead by groups
-like NanoTrasen once the phoron has dried up. Originally overlooked by
-NanoTrasen, the Fourth Reich became a threat during the [November
-Crisis](/wiki/November_Crisis "wikilink") of 2558, where Reich forces fired
-upon the [Virgo Orbital Research
-Establishment](/wiki/Virgo_Orbital_Research_Establishment "wikilink") and [NDV
-Brutus](/wiki/NDV_Brutus "wikilink"). The small [NDV
-Icarus](/wiki/NDV_Icarus "wikilink") was also completely destroyed in the
-conflict. The Reich is hostile toward the USDF, the Federation, and the
-Soviets, but are generally neutral toward the Syndicate.
-
-Finally, there is the infamous [Syndicate](/wiki/Syndicate "wikilink")
-paramilitary group, of which cells still persist to this day from their
-infamous inception back in 2262. The chapter operating within Vilous and
-Virgo-Erigone is considered destroyed, however this does not stop
-independent mercenaries, operatives and criminals turn up with their
-equipment which has been salvaged in one way or another.
-
-To defend against belligerent forces, NanoTrasen also employs a vast
-number of mercenaries to serve in the [NanoTrasen Defense
-Navy](/wiki/NanoTrasen_Defense_Navy "wikilink"), whose weapons and armaments
-are a mishmash of hardware purchased from surplus USDF military
-stockpiles or developed on their own.
 
 Pirates and Smugglers
 ---------------------

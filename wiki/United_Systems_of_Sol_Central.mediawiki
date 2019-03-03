@@ -1,5 +1,4 @@
-{{Wip
-|assign = Aces}}
+{{LoreReview}}
 
 The '''United Systems of Sol Central''' or '''SolGov''' is [[Humans|humanity's]] primary galactic governing body in {{Year}} CE. It consists of the organization's founding members in the [[Sol]] system as well as many [[Colonies|colonies]] and a handful of [[Trans-Stellar Corporations|corporations]] that have successfully been admitted into the union.
 

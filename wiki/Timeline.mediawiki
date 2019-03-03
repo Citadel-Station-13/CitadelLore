@@ -1,10 +1,7 @@
-<!--- https://wiki.vore-station.net/Template:Year --->
-{{wip
-|assign = PontifexMinimus}}
-{{toc_right}}
+{{uncanon}}
 What follows is a complete '''timeline''' of significant events in the known history of space travel in the [[Milky Way]], and the history of the [[Virgo Orbital Research Establishment]].
 
-It is mostly feature complete, but will be added upon or slightly revised. 
+It is mostly feature complete, but will be added upon or minorly revised. 
 
 The history of the '''Space Station 13''' universe is (obviously) not entirely our own, but rather one that has diverged from ours during the early 20th century. So while it takes place in the future, it is not our future, but a future as imagined by this community.
 
@@ -15,54 +12,14 @@ If you wish to contribute to this lore, or make any changes, please contact the 
 
 = 20th Century =
 
-=== 1900s ===
-* '''1903:''' Inspired by the writings of Jules Verne, the first serious scientific papers are published that show physical space exploration is theoretically possible.
-* '''1905:''' Albert Einstein publishes his Special Theory of Relativity.
-
-=== 1910s ===
-* '''1912:''' Victor Hess discovers the existence of cosmic radiation.
-* '''1918:''' [[Chase Monroe]] is born in Montana.
-
-=== 1920s ===
-* '''1920:''' The Nazi Party is formed.
-* '''1926:''' Robert H. Goddard launches humanity's first liquid-fueled rocket.
-* '''1927:''' Verein für Raumschiffahrt (Society for Space Travel) is formed; it includes many top European rocket scientists.
-* '''1929:''' Hermann Oberth, with students including Wernher von Braun, launches his first liquid-fueled rocket. Among them is [[Dietrich Troy]], who has been studying Special Relativity among other quantum mechanical theories.
-
-=== 1930s ===
-* '''1930:''' Paul Dirac Dirac's textbook Principles of Quantum Mechanics is published.
-* '''1931:''' First German military liquid-fueled rocket engines developed.
-* '''1932:''' Adolf Hitler is appointed as Chancellor of Germany.
-* '''1933:''' Work begins on the Aggregate series of rockets which leads to the V-2 rocket.
-* '''1934:''' Adolf Hitler becomes Führer of Germany.
-* '''1935:''' Dietrich Troy joins the Nazi Party.
-* '''1937:''' Chase Monroe joins the United States Army.
-
-=== 1940s ===
-* '''1941:''' The United States enters World War 2.
-* '''1942:''' The Battle of Stalingrad takes place.
-* '''1944:''' Dietrich Troy becomes a Wonder Weapons researcher working on the V-2 rocket under the supervision of [[Ludwig Brandt]]. However, Brandt becomes interested in research notes by Troy regarding the possibility of time travel, and has Troy reassigned.
-** '''September:''' The V-2 Rocket is the first man-made object to cross what would later be defined as the Kármán line, becoming the first spaceflight in human history.
-** '''June:''' Chase Monroe participates in the Battle of Normandy. The allied invasion of Europe begins.
-* '''1945:''' Under Ludwig Brandt's supervision, using Dietrich Troy's designs and calculations, the first [[Bluespace Gateway]] in history is built within a secret underground facility beneath the city of Lübeck. It is referred to as the Saphirdimensionale Zeitbrücke (SDZ).
-** The Battle of Berlin takes place. Adolf Hitler, realizing the war is lost, escapes in secret with the German 21st Army to Lübeck. An unknown individual, possibly one of Hitler's body doubles, is executed and their body burned to fool the Soviets and even Hitler's personal guard into believing that Hitler committed suicide. Hitler instead goes into hiding at the underground base in Lübeck as the SDZ is rushed to completion.
-** '''July:''' The Manhattan Project produces the first nuclear fission explosion during the Trinity test in New Mexico.
-** '''August:''' The nuclear bombs Fat Man and Little Boy are dropped on Japan, formally ending World War 2.
-** '''October:''' The [[United Nations]] are established.
-* '''1946:''' Chase Monroe is promoted to Sergeant and reassigned to Operation Paperclip to locate and retrieve Nazi technology before the Soviet Union can do the same.
-* '''November:''' Monroe and his unit are sent to investigate rumors of a hidden Nazi base in Lübeck. A secret passage is discovered beneath [https://en.wikipedia.org/wiki/Holstentor Holstein Tor], leading to an underground complex still inhabited by active Nazi troops. A firefight breaks out between American and Nazi-remnant forces. As American forces call for backup, Chase Monroe breaks from his group to pursue several high ranking Nazi officers including Dietrich Troy, Ludwig Brandt, and even Adolf Hitler himself. The officers evacuate through the SDZ, but Monroe is able to follow them just moments before the portal is deliberately sabotaged by the Nazi-remnants using dynamite. The [[Incident at Lübeck]] is covered up by the Office of Strategic Services, and any documents that were not destroyed by the Nazi-remnants are brought back to the United States. However, American scientist are unable to put together the missing pieces, and eventually give up on the project, assuming it to be another impossible Wonder Weapon that never would have worked in practice.
-* '''December:''' Chase Monroe is declared Missing In Action.
-
 === 1950s ===
-* '''1957:''' Hugh Everett formulates the many-worlds interpretation of quantum mechanics, which states that every possible quantum outcome is realized in divergent, non-communicating parallel universes in quantum superposition.
-** '''October:''' Humanity's first artificial satellite, Sputnik 1, is launched into orbit.
+* '''1957:''' Humanity's first artificial satellite, Sputnik 1, is launched into orbit.
 
 === 1960s ===
-* '''1964:''' John Stewart Bell puts forth Bell's theorem, which inaugurated the study of quantum entanglement; the phenomenon in which separate particles share the same quantum state despite being at a distance from each other.
-* '''1966:''' Humanity's first soft landing on another world (the Moon).
+* '''1966:''' Humans make their first landing on the Moon.
 
 === 1970s ===
-* '''1971:''' Humanity's first soft landing on another planet (Mars).
+* '''1971:''' Humans make their first Rover landing on Mars.
 * '''1977:''' Voyager 1 and 2 are launched from Earth.
 
 ===1980s ===
@@ -78,17 +35,14 @@ If you wish to contribute to this lore, or make any changes, please contact the 
 * '''2009:''' Scientists warn that the effects of global warming are now so severe that they cannot be reversed.
 === 2010s ===
 * '''2011:''' The corporate endeavor Mars One is founded, planning for a one-way trip to make the first human Mars, which will be funded by making it a reality TV show.
-* '''2018:''' The IPCC reports that if global warming continues to allow global temperatures to pass 1.5 degrees Celsius by 2030, the results will be catastrophic and irreversible, resulting in the destruction of habitats, the loss of food sources, and the displacement of billions.
-
 === 2020s ===
 * '''2023:''' The Global War on Terror is declared over through a mix of negotiation and (in some cases) complete annihilation of various terror groups.
 === 2030s ===
-* '''2030:''' Global temperatures pass the 1.5 degree rise warned about by the IPCC. Runaway glacial melting begins.
 * '''2032:''' Mars One departs from Earth after several delays.
 * '''2033:''' Mars One arrives on Mars.
 * '''2034:''' Mars One colonists all perish due to dwindling supplies and mental breakdowns, making international news as the entire tragedy is caught on live video. An incompetent selection process is blamed.
 * '''2036:''' Mars One goes bankrupt.
-* '''2038:''' Chronic flooding of the world's coastal cities, combined with severe droughts further inland, begins to severely devastate the economies of many nations. The [[Water Wars]] begin in the Middle East.
+* '''2038:''' Chronic flooding of the world's coastal cities, combined with droughts further inland, begins to severely devastate the economies of many nations. The [[Water Wars]] begin in the Middle East.
 
 === 2040s ===
 * '''2040:''' The Water Wars result in skyrocketing prices for crude oil, culminating in a standoff between China, Europe, Russia, India, and the United States.
@@ -141,7 +95,7 @@ If you wish to contribute to this lore, or make any changes, please contact the 
 *'''2105:'''
 ** '''February:''' The February Offensive is the first major military operation staged in the transorbital war zone. Fleet Elements of the First Terran Armada blockade the Ares Federation drydrocks and a sortie is deployed to break this siege. It ends in a pyhrric victory for the UEG. UEG forces land in Roanoake. Martian independence is threatened for the first time. While the UEG fail to meet its primary objectives, they manage to entrench themselves and establish a beachhead. Volunteer forces fight with more and more radical methods and desperately attempt total mobilization. Elements within the Ares Federation doubt they will fully break the yoke of the UEG and are willing to negotiate.
 ** '''March:''' The war becomes increasingly unpopular with Earth's population and public support for the war effort dwindles. Sympathy spreads for the Martian colonists, especially after the documentary "Beyond the Green : Life on Mars" is published against the desire of the UEG.
-** '''June:''' An Armistice is declared. Forces stand down as they have driven themselves into a deadlock. Negotiations start for the future of the Red Planet.
+** '''June:''' An Armistice is been declared. Forces stand down as they have driven themselves into a deadlock. Negotiations start for the future of the Red Planet.
 ** '''December:''' After a period of long negotiations and intermittent belligerence on both sides, the UEG and the Ares Federation declare peace. The Federation dissolves and its constituent members are fully integrated as voting members into the UEG, which becomes an artificial title as Humanity is now a true interplanetary government. What follows is a renaissance in both Martian and Terran societies as Humanity is united once again. The Ares Crisis ends, having planted the seeds for extraplanetary warfare, legal combatant PMCs, and war economy on a Global Scale.
 * '''2106:''' The Hakobune charges its Bluespace Jump Drive for the first time and departs for [[Proxima Centauri]], where the first exoplanet, now named [[Covenant]], is colonized soon after. The first colony to be founded is called [[Goddard's Intent]]. It is the first of millions of human colonies to come.
 ** '''May:''' Crude artificial gravity devices spread in human space after the first interstellar Bluespace jump.
@@ -221,7 +175,7 @@ If you wish to contribute to this lore, or make any changes, please contact the 
 === 2240s ===
 * '''2247:''' Another scandal hits the UEG, this time outside of their influence. A particularly rebellious colony is revealed to have developed on an unprecedented scale, leading to investigations by the new and reformed ONI. As it turns out, the colony had received help from a mysterious benefactor...
 * '''2248:''' The [[Skrell]] are publicly acknowledged as the first intelligent species to be discovered by Humanity. The aforementioned colony had been pretending to be a native species to the planet they were inhabiting, and are now calling for status as a client species to the many [[Qerr Monarchies]]. The Skrell misunderstand this as a request for all of humanity to be uplifted, and begin nonviolently invading other human systems. The UEG has to explain repeatedly to Skrellian governments that Humanity is already a very capable interstellar species, and that this fringe colony does not speak for the whole of the UEG. The humiliation suffered makes one thing clear; the Colonial Cold War must end, one way or another.
-* '''2249:''' Tensions rise between the Skrellian city-states and the UEG, as the UEG confiscates alien artifacts that the Skrell had gifted to the lying colony. Reverse-engineering of the technology is achieved despite protests from the Skrell. The Bluespace Drive becomes even more refined and reliable, all the while gaining valuable insight for the stable creation of Bluespace tunnels between two fixed points, which shares similarities to an Einstein-Rosen Bridge. This will later lead to the development of Bluespace Gateways.
+* '''2249:''' Tensions rise between the Skrellian city-states and the UEG, as the UEG confiscates alien artifacts that the Skrell had gifted to the lying colony. Reverse-engineering of the technology is achieved despite protests from the Skrell. The Bluespace Drive become even more refined and reliable, all the while gaining valuable insight for the stable creation of Bluespace tunnels between two fixed points, which shares similarities to an Einstein-Rosen Bridge. This will later lead to the development of Bluespace Gateways.
 
 === 2250s ===
 * '''2250:''' Xenophobic tensions cause harsh legislation to be passed against [[Splicers]]. Formerly, it was illegal to offer the procedure, but not illegal to undergo it. Changes to the law make it illegal to have genetic augmentations of any kind not directly prescribed by a doctor. Splicers are arrested en masse and forcibly reverted back to human forms while serving prison sentences.
@@ -393,17 +347,5 @@ If you wish to contribute to this lore, or make any changes, please contact the 
 ** '''December:''' [[Tal]] is annexed under SolGov's control, granting [[Sol Central]] passports to Sergals, and later Nevareans. These two races begin leaving Vilous to work for various corporations  and businesses, including NanoTrasen.
 * '''2558:''' [[The Redspace Crisis]] takes place. Between May and October, anomalous space-time rifts begin to appear in the Virgo-Erigone system, unleashing deadly creatures that terrorize the station's crew. A researcher aboard VORE-2 named [[Kisuke Gema]] spearheads research of the anomalies, and discovers a new field of inter-dimensional physics which becomes known as [[Redspace]].
 ** '''October:''' The Redspace Crisis ends with the destruction of a cultist citadel ship designed to open a massive gateway to the hellish creatures that had been invading the system. Captain [[Jeremiah Acacius]] is awarded the [[Medals|Medal of Exceptional Heroism]] by NanoTrasen for his role in the assault on the Citadel ship. Redspace anomalies in the sector decline sharply. Kisuke Gema is awarded with an honorary doctorate by the NanoTrasen Institute of Technology. He becomes the youngest member of the corporation with a doctorate.
-** '''November:''' [[Chase Monroe]] re-emerges from a portal through time, appearing on the station.
-* '''2559:''' The [[Space Nazi Incident]] begins. The USDF Jörmungandr is hijacked by an extremist organization called [[The Fourth Reich]], which is commanded by Adolf Hitler look-alike who claims to have escaped 20th century Germany on Earth via time travel.
-** '''May:''' Chase Monroe and several V.O.R.E. crew members board a Nazi vessel threatening the Tajaran homeworld of Meralar with a planet-destroying [[Singularity]] Bomb. Chase Monroe activates the bomb prematurely aboard the ship in order to destroy it, and is killed in the implosion. Chase Monroe refused to have himself clone-scanned at any point prior to the incident, so his death was permanent. He is posthumously awarded the [[Medal|Medal of Extraordinary Heroism]].
-** '''June:''' USDF Admiral [[Glenn Pink]] conscripts V.O.R.E. crew members to aid in the recapture of his flagship, the USDF Jörmungandr. [[Operation Wolf Hunt]] brings an end to the Space Nazi Incident, and 'Hitler' is killed. ONI agents confiscate the body of the Nazi leader shortly afterwards.
-** '''December:''' The VORE-2 is retired and demolished in favor of VORE-3, which is an asteroid colony based on the blueprints of the [[Northern Star]] in the [[Vir]] system. Technical issues plague its deployment. NanoTrasen brings in a pair of experts from [[Kitsuhana Heavy Industries]] to oversee the technical development of the new station, which results in these issues being resolved.
-
-=== 2560s ===
-* '''2560:''' Kitsuhana Heavy Industries sells [[Guide to Resleeving|Resleeving]] technology to NanoTrasen, intended to replace traditional flash-cloning. Medical trials of the new technology begin on VORE-3.
-** '''January:''' The role of Captain is retired from use aboard NanoTrasen facilities in favor of the term Station Administrator, and later, [[Colony Director]].
-* '''2561:''' VORE-3 is decommissioned in favor of the [[tether]] on [[Virgo-3B]], which is opened for operation, and is designated as the NSB Adephagia (VORE-4).
-** '''September:''' The [[Auream Imperium]] reveals its self to humanity, arriving in the Virgo-Erigone system under the command of [[Livius Thraun]]. However, conspiracies claim that ONI had known about the Imperium long before their public appearance.
-* '''2562:''' A Tesla engine prototype is built onto NSB Adephagia. Several accidents occur, causing insurance rates for the station to rise dramatically.
 
 [[Category:Lore]]

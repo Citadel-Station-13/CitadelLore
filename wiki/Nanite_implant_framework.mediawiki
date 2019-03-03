@@ -1,3 +1,5 @@
+{{LoreReview}}
+
 The Nanite Implant Framework ("NIF") is a sophisticated implant designed to provide features over the span of several shifts. It's a persistent inter-round item that once implanted, can be used indefinitely, provided the character takes care to not lose it. The NIF is an implant that constructs other implants or body modifications by using nanotechnology 'blueprints' called NIFSoft. The design was originally by [[Kitsuhana Heavy Industries]], however they no longer manufacture them. Instead, [[NanoTrasen]] has designed a clone that is becoming fairly common in the [[Virgo-Erigone]] system, while there are still some original Kitsuhana NIFs floating around.
 
 == Obtaining a NIF ==

@@ -11,7 +11,7 @@ known history of space travel in the [Milky Way](/wiki/Milky_Way "wikilink"),
 and the history of the [Virgo Orbital Research
 Establishment](/wiki/Virgo_Orbital_Research_Establishment "wikilink").
 
-It is mostly feature complete, but will be added upon or slightly
+It is mostly feature complete, but will be added upon or minorly
 revised.
 
 The history of the **Space Station 13** universe is (obviously) not
@@ -34,119 +34,18 @@ our [Discord channel](https://discord.gg/0yCTdQTDRZL5CFSN).
 20th Century
 ============
 
-### 1900s
-
--   **1903:** Inspired by the writings of Jules Verne, the first serious
-    scientific papers are published that show physical space exploration
-    is theoretically possible.
--   **1905:** Albert Einstein publishes his Special Theory of
-    Relativity.
-
-### 1910s
-
--   **1912:** Victor Hess discovers the existence of cosmic radiation.
--   **1918:** [Chase Monroe](/wiki/Chase_Monroe "wikilink") is born in
-    Montana.
-
-### 1920s
-
--   **1920:** The Nazi Party is formed.
--   **1926:** Robert H. Goddard launches humanity's first liquid-fueled
-    rocket.
--   **1927:** Verein für Raumschiffahrt (Society for Space Travel) is
-    formed; it includes many top European rocket scientists.
--   **1929:** Hermann Oberth, with students including Wernher von Braun,
-    launches his first liquid-fueled rocket. Among them is [Dietrich
-    Troy](/wiki/Dietrich_Troy "wikilink"), who has been studying Special
-    Relativity among other quantum mechanical theories.
-
-### 1930s
-
--   **1930:** Paul Dirac Dirac's textbook Principles of Quantum
-    Mechanics is published.
--   **1931:** First German military liquid-fueled rocket engines
-    developed.
--   **1932:** Adolf Hitler is appointed as Chancellor of Germany.
--   **1933:** Work begins on the Aggregate series of rockets which leads
-    to the V-2 rocket.
--   **1934:** Adolf Hitler becomes Führer of Germany.
--   **1935:** Dietrich Troy joins the Nazi Party.
--   **1937:** Chase Monroe joins the United States Army.
-
-### 1940s
-
--   **1941:** The United States enters World War 2.
--   **1942:** The Battle of Stalingrad takes place.
--   **1944:** Dietrich Troy becomes a Wonder Weapons researcher working
-    on the V-2 rocket under the supervision of [Ludwig
-    Brandt](/wiki/Ludwig_Brandt "wikilink"). However, Brandt becomes
-    interested in research notes by Troy regarding the possibility of
-    time travel, and has Troy reassigned.
-    -   **September:** The V-2 Rocket is the first man-made object to
-        cross what would later be defined as the Kármán line, becoming
-        the first spaceflight in human history.
-    -   **June:** Chase Monroe participates in the Battle of Normandy.
-        The allied invasion of Europe begins.
--   **1945:** Under Ludwig Brandt's supervision, using Dietrich Troy's
-    designs and calculations, the first [Bluespace
-    Gateway](/wiki/Bluespace_Gateway "wikilink") in history is built within a
-    secret underground facility beneath the city of Lübeck. It is
-    referred to as the Saphirdimensionale Zeitbrücke (SDZ).
-    -   The Battle of Berlin takes place. Adolf Hitler, realizing the
-        war is lost, escapes in secret with the German 21st Army to
-        Lübeck. An unknown individual, possibly one of Hitler's body
-        doubles, is executed and their body burned to fool the Soviets
-        and even Hitler's personal guard into believing that Hitler
-        committed suicide. Hitler instead goes into hiding at the
-        underground base in Lübeck as the SDZ is rushed to completion.
-    -   **July:** The Manhattan Project produces the first nuclear
-        fission explosion during the Trinity test in New Mexico.
-    -   **August:** The nuclear bombs Fat Man and Little Boy are dropped
-        on Japan, formally ending World War 2.
-    -   **October:** The [United Nations](/wiki/United_Nations "wikilink") are
-        established.
--   **1946:** Chase Monroe is promoted to Sergeant and reassigned to
-    Operation Paperclip to locate and retrieve Nazi technology before
-    the Soviet Union can do the same.
--   **November:** Monroe and his unit are sent to investigate rumors of
-    a hidden Nazi base in Lübeck. A secret passage is discovered beneath
-    [Holstein Tor](https://en.wikipedia.org/wiki/Holstentor), leading to
-    an underground complex still inhabited by active Nazi troops. A
-    firefight breaks out between American and Nazi-remnant forces. As
-    American forces call for backup, Chase Monroe breaks from his group
-    to pursue several high ranking Nazi officers including Dietrich
-    Troy, Ludwig Brandt, and even Adolf Hitler himself. The officers
-    evacuate through the SDZ, but Monroe is able to follow them just
-    moments before the portal is deliberately sabotaged by the
-    Nazi-remnants using dynamite. The [Incident at
-    Lübeck](/wiki/Incident_at_Lübeck "wikilink") is covered up by the Office
-    of Strategic Services, and any documents that were not destroyed by
-    the Nazi-remnants are brought back to the United States. However,
-    American scientist are unable to put together the missing pieces,
-    and eventually give up on the project, assuming it to be another
-    impossible Wonder Weapon that never would have worked in practice.
--   **December:** Chase Monroe is declared Missing In Action.
-
 ### 1950s
 
--   **1957:** Hugh Everett formulates the many-worlds interpretation of
-    quantum mechanics, which states that every possible quantum outcome
-    is realized in divergent, non-communicating parallel universes in
-    quantum superposition.
-    -   **October:** Humanity's first artificial satellite, Sputnik 1,
-        is launched into orbit.
+-   **1957:** Humanity's first artificial satellite, Sputnik 1, is
+    launched into orbit.
 
 ### 1960s
 
--   **1964:** John Stewart Bell puts forth Bell's theorem, which
-    inaugurated the study of quantum entanglement; the phenomenon in
-    which separate particles share the same quantum state despite being
-    at a distance from each other.
--   **1966:** Humanity's first soft landing on another world (the Moon).
+-   **1966:** Humans make their first landing on the Moon.
 
 ### 1970s
 
--   **1971:** Humanity's first soft landing on another planet (Mars).
+-   **1971:** Humans make their first Rover landing on Mars.
 -   **1977:** Voyager 1 and 2 are launched from Earth.
 
 ### 1980s
@@ -176,11 +75,6 @@ our [Discord channel](https://discord.gg/0yCTdQTDRZL5CFSN).
 -   **2011:** The corporate endeavor Mars One is founded, planning for a
     one-way trip to make the first human Mars, which will be funded by
     making it a reality TV show.
--   **2018:** The IPCC reports that if global warming continues to allow
-    global temperatures to pass 1.5 degrees Celsius by 2030, the results
-    will be catastrophic and irreversible, resulting in the destruction
-    of habitats, the loss of food sources, and the displacement of
-    billions.
 
 ### 2020s
 
@@ -190,8 +84,6 @@ our [Discord channel](https://discord.gg/0yCTdQTDRZL5CFSN).
 
 ### 2030s
 
--   **2030:** Global temperatures pass the 1.5 degree rise warned about
-    by the IPCC. Runaway glacial melting begins.
 -   **2032:** Mars One departs from Earth after several delays.
 -   **2033:** Mars One arrives on Mars.
 -   **2034:** Mars One colonists all perish due to dwindling supplies
@@ -200,9 +92,9 @@ our [Discord channel](https://discord.gg/0yCTdQTDRZL5CFSN).
     blamed.
 -   **2036:** Mars One goes bankrupt.
 -   **2038:** Chronic flooding of the world's coastal cities, combined
-    with severe droughts further inland, begins to severely devastate
-    the economies of many nations. The [Water
-    Wars](/wiki/Water_Wars "wikilink") begin in the Middle East.
+    with droughts further inland, begins to severely devastate the
+    economies of many nations. The [Water Wars](/wiki/Water_Wars "wikilink")
+    begin in the Middle East.
 
 ### 2040s
 
@@ -413,9 +305,9 @@ our [Discord channel](https://discord.gg/0yCTdQTDRZL5CFSN).
         Sympathy spreads for the Martian colonists, especially after the
         documentary "Beyond the Green : Life on Mars" is published
         against the desire of the UEG.
-    -   **June:** An Armistice is declared. Forces stand down as they
-        have driven themselves into a deadlock. Negotiations start for
-        the future of the Red Planet.
+    -   **June:** An Armistice is been declared. Forces stand down as
+        they have driven themselves into a deadlock. Negotiations start
+        for the future of the Red Planet.
     -   **December:** After a period of long negotiations and
         intermittent belligerence on both sides, the UEG and the Ares
         Federation declare peace. The Federation dissolves and its
@@ -813,7 +705,7 @@ our [Discord channel](https://discord.gg/0yCTdQTDRZL5CFSN).
     UEG, as the UEG confiscates alien artifacts that the Skrell had
     gifted to the lying colony. Reverse-engineering of the technology is
     achieved despite protests from the Skrell. The Bluespace Drive
-    becomes even more refined and reliable, all the while gaining
+    become even more refined and reliable, all the while gaining
     valuable insight for the stable creation of Bluespace tunnels
     between two fixed points, which shares similarities to an
     Einstein-Rosen Bridge. This will later lead to the development of
@@ -1613,57 +1505,3 @@ our [Discord channel](https://discord.gg/0yCTdQTDRZL5CFSN).
         with an honorary doctorate by the NanoTrasen Institute of
         Technology. He becomes the youngest member of the corporation
         with a doctorate.
-    -   **November:** [Chase Monroe](/wiki/Chase_Monroe "wikilink") re-emerges
-        from a portal through time, appearing on the station.
--   **2559:** The [Space Nazi Incident](/wiki/Space_Nazi_Incident "wikilink")
-    begins. The USDF Jörmungandr is hijacked by an extremist
-    organization called [The Fourth Reich](/wiki/The_Fourth_Reich "wikilink"),
-    which is commanded by Adolf Hitler look-alike who claims to have
-    escaped 20th century Germany on Earth via time travel.
-    -   **May:** Chase Monroe and several V.O.R.E. crew members board a
-        Nazi vessel threatening the Tajaran homeworld of Meralar with a
-        planet-destroying [Singularity](/wiki/Singularity "wikilink") Bomb.
-        Chase Monroe activates the bomb prematurely aboard the ship in
-        order to destroy it, and is killed in the implosion. Chase
-        Monroe refused to have himself clone-scanned at any point prior
-        to the incident, so his death was permanent. He is posthumously
-        awarded the [Medal of Extraordinary Heroism](/wiki/Medal "wikilink").
-    -   **June:** USDF Admiral [Glenn Pink](/wiki/Glenn_Pink "wikilink")
-        conscripts V.O.R.E. crew members to aid in the recapture of his
-        flagship, the USDF Jörmungandr. [Operation Wolf
-        Hunt](/wiki/Operation_Wolf_Hunt "wikilink") brings an end to the Space
-        Nazi Incident, and 'Hitler' is killed. ONI agents confiscate the
-        body of the Nazi leader shortly afterwards.
-    -   **December:** The VORE-2 is retired and demolished in favor of
-        VORE-3, which is an asteroid colony based on the blueprints of
-        the [Northern Star](/wiki/Northern_Star "wikilink") in the
-        [Vir](/wiki/Vir "wikilink") system. Technical issues plague its
-        deployment. NanoTrasen brings in a pair of experts from
-        [Kitsuhana Heavy
-        Industries](/wiki/Kitsuhana_Heavy_Industries "wikilink") to oversee
-        the technical development of the new station, which results in
-        these issues being resolved.
-
-### 2560s
-
--   **2560:** Kitsuhana Heavy Industries sells
-    [Resleeving](/wiki/Guide_to_Resleeving "wikilink") technology to
-    NanoTrasen, intended to replace traditional flash-cloning. Medical
-    trials of the new technology begin on VORE-3.
-    -   **January:** The role of Captain is retired from use aboard
-        NanoTrasen facilities in favor of the term Station
-        Administrator, and later, [Colony
-        Director](/wiki/Colony_Director "wikilink").
--   **2561:** VORE-3 is decommissioned in favor of the
-    [tether](tether "wikilink") on [Virgo-3B](/wiki/Virgo-3B "wikilink"),
-    which is opened for operation, and is designated as the NSB
-    Adephagia (VORE-4).
-    -   **September:** The [Auream Imperium](/wiki/Auream_Imperium "wikilink")
-        reveals its self to humanity, arriving in the Virgo-Erigone
-        system under the command of [Livius
-        Thraun](/wiki/Livius_Thraun "wikilink"). However, conspiracies claim
-        that ONI had known about the Imperium long before their public
-        appearance.
--   **2562:** A Tesla engine prototype is built onto NSB Adephagia.
-    Several accidents occur, causing insurance rates for the station to
-    rise dramatically.
