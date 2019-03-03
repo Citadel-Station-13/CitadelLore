@@ -16,18 +16,20 @@ With the rise of the  United Systems of Sol Central, the Solar Militia Mandate w
 While many Colonial Marine organizations disbanded or absorbed into the new USDF, the Solar Militia Mandate is still in effect, although much diminished - It is no longer required for a colony to have their own military and many are not able to pay for the USDF and their own force. Some do. Few actually exercise this right.
 ==Organization==
 The USDF is assembled out of four branches, each with their unique doctrine,command structure and logistic lines - much like any conventional army.
-===Rapid Deployment Guard===
+===Rapid Deployment Armada===
+''"On the Wings of Vengeance"''
+
+The RDA is the one of the two navies within the USDF. Originally a part of the SDN, it gradually became its own branch due to very different logistical needs and differing doctrine - The RDA is primarily concerned with patrolling the shipping lines of Humanity, as well border patrol and any stellar occurrence that needs a quick response. With fast, small ships they are able to rapidly deploy from their bases and respond as first line of defense against any incurring threat, where they delay and harass the enemy until the SDN can arrive.
+====Orbital Drop Troopers====
+''"Might from the Heavens"''
+
+A department of the RDA, although sometimes seen as "Fifth Branch" by particularly prideful members is the ODT. Originally used for space-to-ground assaults, the OTD has grown to become the multi-tool of the USDF, acting as first assault force, rapid deployment raids and first wave in planetary sieges to secure a bridge point. ODT are often seen as the elite troops within the USDF - Rightfully. Their job is extremely dangerous and their causality rate is the highest among all troops in the USDF, owing to their high risk assignments and the fact they get stuffed into pods and shot from low orbit unto a planetary surface.
+===Solar Defense Navy===
 ''"We are the shield of Sol."''
 
-The RDG is the sector-level naval guard of SolGov. Originally a part of the SDN, it gradually became its own branch due to very different logistical needs and differing doctrine - The RDG is primarily concerned with patrolling the shipping lines of Humanity, as well border patrol and any stellar occurrence that needs a quick response. With fast, small ships they are able to rapidly deploy from their bases and respond as first line of defense against any incurring threat, where they delay and harass the enemy until the SDN can arrive. Their organisation is heavily decentralized to enable autonomous operation within their given sectors. In times of war, the RDG becomes adjunct to the SDN and serve as their escort ships and skirmish fleets.
-
-===Solar Defense Navy===
-''"On the wings of Vengeance."''
-
-The SDN is the Navy of the USDF. Little changed in their doctrine and they are still considered the core of human military might, as any given ship of the SDN is a veritable powerhouse of defensive measures and raw firepower. An united spearhead attack of a SDN fleet can level the board in any military engagement. The problem arises bringing them there, as their ships are universally heavily armored, slow and costly to run without easy logistic lines. Deploying the SDN in a conflict usually means serious business, as their use is otherwise prohibited. SDN vessels are also used as flag ships of the RDG sometimes, in case a solid backbone is needed within a given sector.
-
-====Orbital Drop Troopers====
-A department of the SDN, although sometimes seen as "Fifth Branch" by particularly prideful members is the ODT. Originally used for space-to-ground assaults, the OTD has grown to become the multi-tool of the USDF, acting as first assault force, rapid deployment raids and first wave in planetary sieges to secure a bridge point. ODT are often seen as the elite troops within the USDF - Rightfully. Their job is extremely dangerous and their causality rate is the highest among all troops in the USDF, owing to their high risk assignments and the fact they get stuffed into pods and shot from low orbit unto a planetary surface or stuffed into heavy transports that are often shot out of the sky.
+The SDN is the mirror sibling of the RDA and their original branch. Little changed in their doctrine and they are still considered the core of human military might, as any given ship of the SDN is a veritable powerhouse of defensive measures and raw firepower. An united spearhead attack of a SDN fleet can level the board in any military engagement. The problem arises bringing them there, as their ships are universally heavily armored, slow and costly to run without easy logistic lines. Deploying the SDN in a conflict usually means serious business, as their use is otherwise prohibited. SDN vessels are also used as flag ships of the RDA sometimes, in case a solid backbone is needed within a given sector.
+====Marine Corp====
+Marines are both present in the SDN and the RDA, as well any space installation of the USDF. They are navy personnel trained in boarding action, ship and station security and any related tasks, acting as the armed soldiers of a ship. They are rarely deployed on planetary bodies, but act as military police and boarders (or defenders against boarders) for their vessels. Formally, they are sailors.
 ===Colonial Army===
 ''"Nothing can beat the human spirit."''
 

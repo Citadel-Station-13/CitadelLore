@@ -447,27 +447,27 @@ During the evacuation of the station, it is the '''CMO's duty''' to gather all m
 * Decontamination and medical examination.
 
 === Scientific Expeditions ===
-* Gateway/Shuttle expeditions are to be organized by the Pathfinder unless CentComm commands otherwise. Failing the presence of a Pathfinder, a [[Research Director]] may organize an expedition. If two or more [[Explorer]] crewmembers wish to embark on an expedition when no Pathfinder or [[Research Director]] is available, they may do so after faxing notice of their intent to Central Command. The [[Colony Director]] should not be starting expeditions on their own without orders directly from Central Command.
-* The [[Research Director]] has the ability to prevent an expedition from leaving, only if they have a valid reason for preventing it. Any research director that is found to be preventing an organized and equipped expedition from leaving, provided the minimum requirements for leaving, as listed under the next section are met, shall be considered as exceeding official authority.
+* Gateway/Shuttle expeditions are to be organized by the Pathfinder unless CentCom commands otherwise. Failing the presence of a Pathfinder, a [[Research Director]] may organize an expedition. If two or more [[Explorer]] crewmembers wish to embark on an expedition when no Pathfinder or [[Research Director]] is available, they may do so after faxing notice of their intent to Central Command. The [[Colony Director]] should not be starting expeditions on their own without orders directly from Central Command.
 * If the Pathfinder insists on bringing the [[Colony Director]] along, the Director should assign an Acting Director in their place.
 * Heads of staff excluding the [[Research Director]] should <b>not</b> be participating in gateway missions without explicit consent of the Colony Director.
 
 ====Initial Away Team====
 An initial expedition team must consist of the following where reasonably possible. Preferably such requests for staff should be made via the PDA department relay, command channel with the appropriate heads of staff, or station announcements.
-* Either the Pathfinder, or the [[Research Director]], acting as the leadership role for the expedition. In instances where both the Pathfinder and [[Research Director]] are out on the planet's surface, the Pathfinder retains command of the expedition, if the Pathfinder is incapacitated, the [[Research Director]] assumes command.
+* Either the Pathfinder, or the [[Research Director]], acting as the leadership role for the expedition. In instances where both the Pathfinder and [[Research Director]] are out on the planet's surface, the Pathfinder retains command of the expedition, if they are incapacitated, the [[Research Director]] assumes command.
 * All available [[Explorer]] crew members. This is their primary mission purpose, after all. They should be armed and armored with whatever equipment Research can provide. Their first goal should be to identify any threats near the landing site or gateway endpoint and ensure the path is clear for other members, before the next stage of the expedition.
 * An [[Engineer]] may accompany to play the role of sapper, equipped with general purpose tools for hacking, construction, and deconstruction. One goal of the engineer should be to set up a telecommunications relay, if the site is discovered to be habitable and will maintain crew for a large part of the shift. 
 * A [[Scientist]] may accompany the initial expedition, equipped with camera, scientific instruments, and clipboard with pen and papers for taking notes. This can be the Research Director but it is preferred that a normal scientist come along instead or in addition to the Research Director. It may be better, however, if the scientist arrives after the site is cleaned and prepared. 
 * A [[Medical Doctor]], [[Paramedic]], [[Explorer]] Medic, or [[Search and Rescue]] crew member to play the role of medic, equipped with one of each type of first aid kit, and at least one cryobag for emergencies.
-* If reasonably available, a [[Security Officer]] to play the role of escort, equipped with lethal ranged weapons of choice, or equipment from storage as assigned by the expedition leader. Their goal should be to secure the landing site with the initial team, and prevent any creatures from compromising the gateway or shuttle and making it back to the station.
+* A [[Security Officer]] to play the role of escort, equipped with lethal ranged weapons of choice, or as assigned by the research director. Their goal should be to secure the landing site with the initial team, and prevent any creatures from compromising the gateway or shuttle and making it back to the station.
 * A [[Pilot]] should accompany any expeditions via shuttle, as their skills can be required to make a hasty departure, or ferry crew members to and from the landing zone to obtain additional supplies or return any casualties. 
 *Volunteers may enlist to join the initial expedition, if they sign a waiver before departing on the expedition, and have the required skills to fulfill one of the above roles.
 
 ====Pre-Mission Setup====
-* All weapon-trained crew may be offered the opportunity to arm themselves from Security supplies or Research production. Crew armed in such a manner shall return the weaponry obtained to the armory for storage after the expedition is over.
-* It is heavily recommended that when possible, energy weaponry should be used. Friendly fire incidents are easier to treat when surgery is not required in the field.
-* All participants must bring a shortwave radio. Confirm a shared frequency on all shortwaves before embarking. Setting up a communications relay at the landing zone, while an admirable endeavor, is optional.
+* All weapon-trained crew should be offered the opportunity to arm themselves from Security supplies or Research production.
+* Non-security participants, if given weapons, should be energy based only, such as lasers. (The reason for this is inexperienced personnel often have very poor weapon discipline, so friendly fire is an unfortunate but common occurrence. Laser burns are easier to treat than ballistic trauma while in the field.)
+* All participants must bring a shortwave radio. Confirm a shared frequency on all shortwaves before embarking.
 * The participants should be in sealed pressure suits unless the destination is already known, and confirmed to have a habitable atmosphere.
+* The Research Director must assign a team leader to the squad, who will command the other participants during the expedition. This should usually be an [[Explorer]].
 * Internals must be turned on prior to crossing the threshold of the gateway, and during all shuttle flights for the initial expedition.
 * Magboots are recommended but not required.
 * As each team member's loadout is complete, they should wait outside the gateway or shuttle until the mission begins.
@@ -477,7 +477,7 @@ An initial expedition team must consist of the following where reasonably possib
 * Once present with the whole group, and no longer in an airless environment, all members but the assigned team leader should turn off their long range communications until separated again.
 * If the group is scattered due to an imprecise gateway destination target, and the location of the return gateway is unknown, first objective is to locate and calibrate the return gateway. Return gateway can be calibrated using a multitool on the control panel in the center of the gate.
 * Any artifacts or strange life forms should be documented as soon as it is safe to do so. If possible, they should be brought back. Having an artifact handling container may help with this.
-* If an expedition participant is injured and needs surgery, they should be evacuated to the station immediately. The expedition should not proceed unless their role is satisfied by someone else, or they return to continue. (That said, you're allowed to use your better judgment. You're not going to get banned because someone got ate and you decided to keep going. That risk is kind of part of the whole point of things.)
+* If an expedition participant is injured and needs surgery, they should be evacuated to the station immediately. The expedition should not proceed unless their role is satisfied by someone else, or they return to continue.
 
 ====Post-Mission Debriefing====
 * The returning crew are not to leave the gateway room or shuttle hangar until allowed to do so by the Research Director, or if the research director is absent, then by the team leader, or next in command. During this time, participants should be screened for contraband, health, and mental well-being before returning to the rest of the station.

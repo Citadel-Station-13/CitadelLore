@@ -537,8 +537,8 @@ for title, filename, date, username, text, comment in c.execute('SELECT * FROM r
         commit_revision(mw_filename, md_filename, username, date, comment)
     else:
         # Only the mediawiki changed, could not convert to markdown.
-        cmd = "git reset --hard"
-        run(cmd)
+        #cmd = "git reset --hard"
+        #run(cmd)
         sys.stderr.write("Skipping this revision!\n")
 
 print("=" * 60)

@@ -378,22 +378,22 @@ repairs.
 #### Removing Internal Organs
 
 You might sometimes need to remove an organ from the body of a synth.
-The most common occurrence of this is removing a MMI or posibrain from a
-heavily damaged synth so it can be placed into the newly printed body.
-To remove any internal organ in a synth:
+The most common occurrence of this is removing a MMI from a heavily
+damaged synth so it can be placed into the newly printed body. To remove
+any internal organ in a synth:
 
-1.  Use a **screwdriver** and crowbar to open your patient up.
-2.  Use a **multitool** on them, this will bring up a window asking you
+1.  Use a screwdriver and crowbar to open your patient up.
+2.  Use a multitool on them, this will bring up a window asking you
     which organ you want to prepare for removal.
 3.  Select the organ and hit okay, this will cause a progress bar to
     appear.
-4.  Once that bar is filled, you'll be able to use a **hemostat** on the
+4.  Once that bar is filled, you'll be able to use a hemostat on the
     patient to bring up a window asking you which organ you want to
     remove.
 5.  Select the organ you want and hit okay, then wait for the progress
-    bar to finish like before. With the **hemostat** you might have to
-    try more than once, but failing 'to grab something' doesn't damage
-    the patient.
+    bar to finish like before. With the hemostat you might have to try
+    more than once, but failing 'to grab something' doesn't damage the
+    patient.
 6.  With that, the organ should be out!
 
 ### In A Pinch
@@ -1114,60 +1114,3 @@ remove him/her by following a series of steps.
 -   [Wrench](/wiki/Wrench "wikilink")
 -   [Crowbar](/wiki/Crowbar "wikilink")
 -   [Multitool](/wiki/Multitool "wikilink")
-
-Vehicles
-========
-
-Robotics can also construct a couple of kinds of vehicles!
-
-Quadbike
---------
-
-A quick four wheeled all terrain vehicle.
-
-Instructions
-
--   Create the Quadbike Chassis from the exosuit fabricator
--   Create a Console Screen, a Spring, and a Motor from the autolathe
--   Then apply plastic to the Quadbike Chassis
--   Console Screen
--   Spring
--   Cable Coil
--   A Power Cell
--   Motor
--   Plasteel
--   [Wrench](/wiki/Wrench "wikilink")
-
-Trailer
--------
-
-A trailer to latch to the Quadbike.
-
-Instructions
-
--   Create the Quadbike Chassis from the exosuit fabricator
--   Create a console screen from the autolathe
--   Then apply plastic to the Quadbike Chassis
--   Console Screen
--   Steel
--   Cable Coil
--   [Screwdriver](/wiki/Screwdriver "wikilink")
-
-Spacebike
----------
-
-A hovering vehicle to get around quickly in.
-
-Instructions
-
--   Create the Spacebike Chassis from the exosuit fabricator
--   Create a or acquire a jetpack, or create a jetpack upgrade motule
-    from the prosthetics fabricator
--   Create a console screen, and a spring from the autolathe
--   Then apply the jetpack to the Quadbike Chassis
--   Cable Coil
--   Plastic
--   Console Screen
--   Spring
--   A Power Cell
--   [Wrench](/wiki/Wrench "wikilink")

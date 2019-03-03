@@ -179,12 +179,12 @@ Sometimes the damage to a humanoid with prosthetics or a synthmorph may be sever
 # Use the '''crowbar''' to shut the maintenance panel when done. It will latch back into place.
 
 ==== Removing Internal Organs ====
-You might sometimes need to remove an organ from the body of a synth. The most common occurrence of this is removing a MMI or posibrain from a heavily damaged synth so it can be placed into the newly printed body. To remove any internal organ in a synth:
-# Use a '''screwdriver''' and crowbar to open your patient up.
-# Use a '''multitool''' on them, this will bring up a window asking you which organ you want to prepare for removal.
+You might sometimes need to remove an organ from the body of a synth. The most common occurrence of this is removing a MMI from a heavily damaged synth so it can be placed into the newly printed body. To remove any internal organ in a synth:
+# Use a screwdriver and crowbar to open your patient up.
+# Use a multitool on them, this will bring up a window asking you which organ you want to prepare for removal.
 # Select the organ and hit okay, this will cause a progress bar to appear.
-# Once that bar is filled, you'll be able to use a '''hemostat''' on the patient to bring up a window asking you which organ you want to remove.
-# Select the organ you want and hit okay, then wait for the progress bar to finish like before. With the '''hemostat''' you might have to try more than once, but failing 'to grab something' doesn't damage the patient.
+# Once that bar is filled, you'll be able to use a hemostat on the patient to bring up a window asking you which organ you want to remove.
+# Select the organ you want and hit okay, then wait for the progress bar to finish like before. With the hemostat you might have to try more than once, but failing 'to grab something' doesn't damage the patient.
 # With that, the organ should be out!
 
 === In A Pinch ===
@@ -674,50 +674,5 @@ If the driver of a mecha is unconscious in his mech; you are able to remove him/
 * Make sure maintenance protocols are enabled.
 * [[Wrench]] 
 * [[Crowbar]]
-* [[Multitool]]
-
-= Vehicles =
-Robotics can also construct a couple of kinds of vehicles!
-
-== Quadbike ==
-A quick four wheeled all terrain vehicle.
-
-Instructions
-*Create the Quadbike Chassis from the exosuit fabricator
-*Create a Console Screen, a Spring, and a Motor from the autolathe
-*Then apply plastic to the Quadbike Chassis
-*Console Screen
-*Spring
-*Cable Coil
-*A Power Cell
-*Motor
-*Plasteel
-*[[Wrench]]
-
-== Trailer ==
-A trailer to latch to the Quadbike.
-
-Instructions
-*Create the Quadbike Chassis from the exosuit fabricator
-*Create a console screen from the autolathe
-*Then apply plastic to the Quadbike Chassis
-*Console Screen
-*Steel
-*Cable Coil
-*[[Screwdriver]]
-
-== Spacebike==
-A hovering vehicle to get around quickly in.
-
-Instructions
-*Create the Spacebike Chassis from the exosuit fabricator
-*Create a or acquire a jetpack, or create a jetpack upgrade motule from the prosthetics fabricator
-*Create a console screen, and a spring from the autolathe
-*Then apply the jetpack to the Quadbike Chassis
-*Cable Coil
-*Plastic
-*Console Screen
-*Spring
-*A Power Cell
-*[[Wrench]]                      [[Category:Guides]] 
+* [[Multitool]]                    [[Category:Guides]] 
 {{Gameplay guides}}

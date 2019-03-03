@@ -397,7 +397,7 @@ and get away with it, so long as it ends in vore.
     away from the crowd.
 -   The moment your victim is in handcuffs, remove their headset.
     Probably a good idea to take their PDA too. If they protest this,
-    use [whatever means you see fit](vore "wikilink") to shut them up.
+    use whatever means you see fit to shut them up.
 -   When you've captured someone, escort your victim into a maintenance
     shaft or anywhere without cameras.
 -   When your prey is secure and no one is coming to help them, enjoy

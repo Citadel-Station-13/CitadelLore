@@ -47,9 +47,6 @@ sent to this colony. It also serves as a hub for interacting with
 galactic societies by the frontier, making it less than a day's transit
 from Virgo.
 
-Quarter Rest Whole Note. Sanctum's First planetary colony for angels and
-immigrants who have lived above four hundred years.
-
 Infernum. A colony originally used for holding prisoners, it's now a
 separate nation of it's own. While it's in the same system as Sanctum,
 it's rarely visited by angels. All of the population is composed of
@@ -135,15 +132,6 @@ top of any mental issues and to prevent them from becoming worse,
 usually with a volunteer doctor assisted by a database and an AI. As a
 result of this, it's very rare for any mental illness to significantly
 affect their loves.
-
-Angels and Immigrants who live above four hundred years now are sent to
-Quarter Rest Whole Note to make room for new angels and aliens being
-born. More colonies for angels will be popping up in the future. Living
-past four hundred years requires a ten year break from living. They are
-put into a virtual rehabilitation program with their memories backed up
-and removed, then slowly reintroduced over several years. Once stable,
-they are resleeved at the new colony, and then given portable servers
-for old overflow brain data to be stored, in the form of a halo.
 
 ##### Citizens Today
 
@@ -589,6 +577,3 @@ fallback currencies. Angel lifespan is now three hundred eighty years.
 showed interest and promptly outbid them. They refused to take Greed's
 corporation's offer of transporting the phoron to Sanctum for a fee as
 well as the phoron's cost.
-
-2562-03-11, AC.: Sanctum has removed the ban on living past four hundred
-years due to medical advancement.

@@ -271,7 +271,7 @@ with training in Virology will likely be aware of the medical term
 "Roanoake Syndrome" for a crewmember that has been infected with
 primordial chimera matter, but modern medical treatments are capable of
 bringing such an infection under control rather handily - simple
-spaceacillin treatment has proven effective at putting a Roanoake
+spaceacillin treatment has proven effective at putting a Roakoake
 infection into remission.
 
 Xenochimera are generally identical to other biological crew when it

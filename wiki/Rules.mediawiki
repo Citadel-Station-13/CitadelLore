@@ -137,7 +137,7 @@ Although this is a roleplaying server based around the completely fantasy fetish
 *The setting contains no magic. Your character cannot have any superpowers, magical abilities, or anything that does not exist in the setting or cannot be reasonably replicated with game mechanics. If they are not someone who has a good reason to work on the station, they should not be here.
 **The exception to this is purely private roleplay. For example: If your character and another character are in a dorm by themselves, and the other is OOCly fine with it, your character can display potentially supernatural abilities. This is limited to that roleplay, though. You should not discuss anything about that in public. Use magic at your own risk however, because technically the moment your RP is discovered by someone else, it stops being private, putting you in potential violation of this rule.
 
-*Obscenely oversized or undersized characters are forbidden. Minimum height is at least a few inches. Maximum height is about 30 feet. Anything more or less really pushes the already shaky believably of micros or macros existing on the station—and that's coming from a server whose theme is ''eating people''.
+*Obscenely oversized or undersized characters are forbidden. Minimum height is at least a few inches. Maximum height is about 30 feet. Anything more or less really pushes the already shaky believably of micros or macros existing on the station--and that's coming from a server whose theme is ''eating people''.
 
 *If you are playing a whitelisted species such as Diona, Vox, Xenochimera, or whatever else we add in the future, you are expected to play the race as they are canonically meant to be played.
 
@@ -188,7 +188,7 @@ When your character joins the round, you are accepting the responsibilities that
 *A player must take into account the qualifications (both physical and mental) of their character’s role before placing them into it. If staff find your character to be unsatisfactory in fulfilling the requirements of the role, we may instruct you to revise your character.
 **This includes majorly disabled characters — quadruple amputees, deaf, or blind characters, and so on — which are only permitted on the station in the Assistant (and associated alt-titles) job slot.
 
-*We reserve the right to ban players from jobs who repeatedly fail to perform to an acceptable standard until we're confident that they will be able to perform the job in question. For instance, joining as [[Colony Director]] but '''never''' doing anything related to that job over multiple shifts.
+*We reserve the right to ban players from jobs who repeatedly fail to perform to an acceptable standard until we're confident that they will be able to perform the job in question.
 
 *If you are going AFK for an extended period of time (more than 15 minutes), and are occupying a limited-number job slot (any slot other than assistant), you must remove your character from the round using a cryopod (or other similar means) to free the slot. Repeated failure to do this may result in being banned from that job.
 
@@ -196,7 +196,7 @@ When your character joins the round, you are accepting the responsibilities that
 
 *Do not hijack other people's jobs. For example, if you're a chemist but someone needs surgery, and there's already a surgeon who isn't currently busy, then don't perform the surgery instead of letting them do it. Similar examples exist with every department, so use your judgement. Basically, if you're ''actively getting in the way'' of someone else trying to play the game, you're probably breaking this rule.
 
-*If an emergency happens that requires you to do your job, you are expected to respond if you are not in the middle of a scene that you cannot feasibly escape. For instance, say you're a Paramedic and somebody calls for medical help. If you're just banging an intern, pull your dick out and go help, or there may be IC consequences. On the other hand if you're ''trapped'' in that nurse's ''stomach'', nobody can really ''force'' you out except the nurse that ate you, so generally you won't be punished at all for things not in your character's control. If however you ''knowingly start'' a scene ''as'' the emergency is happening, that's a clear violation of this rule, which may result in OOC punishment (banning).
+*Playing jobs that can be called upon at any time to assist other crew members in emergencies waives your right to have interruption-free (E)RP sessions in private, including the dorms. If you join as a paramedic, expect to be interrupted out of private scenes. If you’re an engineer, you are expected to set up power systems and repair any large-scale damage that hampers the rest of the crew, regardless of your intent to have sex with the assistants.
 
 === You are expected to obey the chain of command (within reason) ===
 *The [[Colony Director]] is the station's boss, so listen to them. Likewise, you should obey [[Job_Guides#Heads_of_Staff|your department's Head of Staff]] unless directly overridden by the Colony Director. If you consistently do not follow reasonable orders, you will be job banned.

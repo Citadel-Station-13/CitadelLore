@@ -22,7 +22,7 @@ The explorer's main job function is to explore, locate any devices or artifacts 
 
 '''WIP exploration guide.'''
 
-You should be familiar with [[Standard Operating Procedure#Scientific Expeditions|Standard Operating Procedure]] with regards to away missions, and make sure you follow the directions of the [[Pathfinder]] or [[Research Director]] if present. However, When off station the Pathfinder gains command over the Research director.
+You should be familiar with [[Standard Operating Procedure#Scientific Expeditions|Standard Operating Procedure]] with regards to away missions, and make sure you follow the directions of the [[Research Director]] if present.
 
 == Weaponry and You ==
 Unlike the rest of science, who are not permitted to leave the R&D area with live weapons, you are permitted to carry weapons to further your job as necessary, but '''only to and from the shuttle or gateway''' <s>legally, anyway</s>. For legal purposes, you should leave your weapons in R&D or Security when going off-duty. Any explorer weapons recovered by a [[Search and Rescue]] crew member for example, should be <s>kept to defend against wily predators</s> turned over to R&D or Security for safe keeping.

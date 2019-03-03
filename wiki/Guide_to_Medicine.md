@@ -689,8 +689,6 @@ Foxes. That's about it.
         face.
 -   Being covered in water will inhibit a Promethean's ability to
     regenerate.
--   Prometheans Melt on death. They can be revived by injecting their
-    core with 40u Phoron.
 
 ### [Nevrean](/wiki/Nevrean "wikilink")
 

@@ -3,9 +3,8 @@
 <!--        Nanotrasen Guide to Living on the Virgo Orbital Research Establishment        -->
 {| style="width:100%; border:none; background:none; margin-left: 0em"
 | style="text-align:center; color:#000;" |
-<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Welcome to the '''V.O.R.E.''' wiki</div>
-<div style="position: relative; top:0.2em; font-size:95%;">Read the [[Rules]] and join us at: '''byond://vore-station.net:2303'''
-You must use your https://auth.vore-station.net account to sign in on this wiki.
+<div style="font-size:162%; border:none; margin:0; padding:.1em; color:#000;">Welcome to the '''Citadel Station Wiki''' wiki</div>
+<div style="position: relative; top:0.2em; font-size:95%;">Read the [[Rules]] and join us at: '''byond://citadel-station.net:44150'''
 </div>
 |}
 |}
@@ -15,7 +14,8 @@ You must use your https://auth.vore-station.net account to sign in on this wiki.
 | class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;" |
 {| style="vertical-align:top; text-align: center; background:#fcf9ff; color:#000; width:100%"
 ! style="padding:2px" | <div id="np-g" style="margin:3px; font-size:150%; font-weight:bold; border:1px solid #dfd3ef; text-align: center; color:#000; padding:0.1em 
-p0.1em">[[Image:Assistant_in_Shuttle.png]] New to VORE Station?  Check out the [[The Basics|Guide for New Players]] and the [[Mission Statement]]</div>We also have a bugtracker at https://github.com/VOREStation/VOREStation/issues
+p0.1em">[[Image:Assistant_in_Shuttle.png]] New to Citadel Station?  Check out the [[The Basics|Guide for New Players]] and the [[Mission Statement]]</div>We also have a bugtracker at https://github.com/Citadel-Station-13/Citadel-Station-13-RP/issues</br>
+We are a downstream of the Virgo Orbital Research Establishment Station, located at https://wiki.vore-station.net
 |}
 |}
 <!--        END NEW PLAYER GUIDE       -->
@@ -44,8 +44,8 @@ p0.1em">[[Image:Assistant_in_Shuttle.png]] New to VORE Station?  Check out the [
 {| style="width: 100%;"
   | valign="top" |<div style="width: 100%; float:center; border:1px solid #ddcef2; background:#faf5ff; "><div style="margin-left:12%; margin-right:12%; margin-top:5px; "><center>'''More Navigation'''</center>
   {| width="100%" ;"
-    | valign="center" width="300px" |'''[[Rules|Game Rules]]'''<br>[https://discord.gg/0yCTdQTDRZL5CFSN Discord Chat] <br>[http://forum.vore-station.net Forums]<br>[[Guides]]
-    | valign="center" width="300px" |[[General Help]]<br>[[Guide to Chemistry]]<br>[[Guide to Food and Drink]]
+    | valign="center" width="300px" |'''[[Rules|Game Rules]]'''<br>[https://discord.gg/rbDT89 Discord Chat] <br>[https://ss13.polymorph.blue/forum/ Forums]<br>[[Guides]]
+    | valign="center" width="300px" |[[General Help]]<br>[[Staff|Staff]]<br>[[Guide to Chemistry]]<br>[[Guide to Food and Drink]]
     | valign="center" width="300px" |[[Statistics|Wiki Statistics]]<br>[[Guide to Contributing to the Wiki|How to Contribute to the Wiki]]<br>[[Reading Material]]
     | valign="center" width="300px" |[[Guide to Mapping|Guide to Mapping]]<br>[[Guide to Spriting|Guide to Spriting]]<br>[[Basics of Coding in BYOND]] <br>
 |}
@@ -54,10 +54,10 @@ p0.1em">[[Image:Assistant_in_Shuttle.png]] New to VORE Station?  Check out the [
 {| style="margin:4px 0 0 0; width:100%; background:none;"
 | class="MainPageBG" style="width:100%; border:1px solid #ddcef2; background:#faf5ff; vertical-align:top; color:#000;" |
 {| style="vertical-align:top; background:#faf5ff; color:#000; width:100%"
-! style="padding:2px" | <h2 id="mp-tfp-h2" style="margin:3px; background:#FF9933; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em">Virgo Orbital Research Establishment</h2>
+! style="padding:2px" | <h2 id="mp-tfp-h2" style="margin:3px; background:#FF9933; font-size:120%; font-weight:bold; border:1px solid #afa3bf; text-align:left; color:#000; padding:0.2em 0.4em">Citadel Station</h2>
 |-
 | style="color:#000;padding: 2px" | <div id="mp-tfp">
-Greetings and welcome to the VORE Station wiki! Our largest difference from other Space Station 13 servers is that [[roleplaying]] is enforced here. However, we use such roleplaying to help aid our enjoyment and fun, not to enforce ways of playing on others. Feel free to drop by! '''Also we're [https://en.wikipedia.org/wiki/Vorarephilia a fringe group of perverts who fantasize about people getting eaten and get off on it] so if that isn't your thing that's cool just leave us be.'''
+Greetings and welcome to the Citadel station wiki! Our largest difference from other Space Station 13 servers is that [[roleplaying]] is enforced here. However, we use such roleplaying to help aid our enjoyment and fun, not to enforce ways of playing on others. Feel free to drop by!
 
 ==For Editors==
 Registration is now open for everyone!

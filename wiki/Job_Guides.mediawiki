@@ -150,10 +150,6 @@ Due to NanoTrasen equal rights laws, you might encounter some interesting new [[
 |Breed gooey slimes. Love the slimes. Watch when one slime decides to bully another because their color is different. Teach them speech. Accidentally put an amber with other slimes and get overrun with constantly repopulating slimes. <s>Get your DNA digested.</s>
 !Medium
 |-
-![[File:Pathfinder.png|link=Pathfinder|64x64px]]<br>[[Pathfinder]]
-|Command a troop of the stations finest on a mission to boldly go where no one has gone before. <s>And take all the credit.</s> Encourage cooperation among your ranks, <s>Gazing in awe as they ignore your every word sliding down a natives gullet.</s> Execute grand coordinated strategies, <s>Only a true cat herder could comprehend.</s> Plan expeditions then tear your hair our as no other explorers join the shift. Invite volunteers from other departments. <s>Make them explore your digestive tract.</s>
-!Hard
-|-
 ![[File:explorer.png|link=Explorer|64px]]<br>[[Explorer]]
 |Go out in search of interesting discoveries. Try to avoid having the discoveries kill you along the way. <s>Be the embodiment of gun science.</s> Carry weapons to defend other more squishy miners or researchers. <s>Powergame until the devs nerf you again.</s>
 !Medium
@@ -165,7 +161,7 @@ Due to NanoTrasen equal rights laws, you might encounter some interesting new [[
 ! style="background-color:#577A3A;" |Role
 ! style="background-color:#577A3A;" width="100" |Difficulty
 |-
-![[File:Assistant.png|link=Assistant|64px]]<br>[[Visitor]]
+![[File:Visitor.png|link=Visitor|64px]]<br>[[Visitor]]
 |Run around without a job and be lazy. <s>Get eaten.</s> Backseat professionals and tell them how to do their job. <s>Get eaten.</s> Get implanted and cryo right after. <s>Get eaten.</s> Get eaten. <s>Get eaten</s>
 !Very Easy
 |-

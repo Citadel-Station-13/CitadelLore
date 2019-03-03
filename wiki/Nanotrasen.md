@@ -287,7 +287,7 @@ determining one's superiors is relatively straightforward.
     Director](/wiki/Colony_Director "wikilink") is assigned to the location by
     the Administrative Human Resources Director, and an advisory
     internal affairs agent is assigned by the *Chief of Social
-    Resources*.
+    Services*.
 -   *Heads of Staff* are assigned for the distinct departments and/or
     administrative duties by HR under the Captain/DoO.
     -   Individual departments occasionally have delegations of command,
@@ -313,34 +313,33 @@ the hospitality of CentCom as they work out their station's issues and
 report success to their superiors. The following are administrative
 departments found there.
 
-#### Social Resources
+#### Social Services
 
 Formerly known as Human Resources: These guys who decide if you get a
 paycheck, and they also read most of the faxes directed to CentCom.
 After each shift, most administrative staff of the check in and out with
-the Social Resources department. Social Resources coordinates heavily
-with Accounting and Internal Affairs in order to ensure their people are
-generating a profit and aren't causing a loss. Social Resources has two
+the Social Services department. Social Services coordinates heavily with
+Accounting and Internal Affairs in order to ensure their people are
+generating a profit and aren't causing a loss. Social Services has two
 primary agents: Investigators, and Auditors.
 
 **Investigators** are bad news to have show up, usually called in by
 Internal Affairs when a grievous error is made by ranking staff. They
 ensure productivity isn't impaired by rampant stupidity. A legal Human
 Resources Investigator must have a *permit of operations* signed by the
-Social Resources Department, and valid for the ship/station/base they
-are investigating, and a valid and up to date identification card from
-their administrative station/base. They have the authority to strip any
-crew of rank for the duration of a shift, and hold it suspended until
-audit.
+Social Services Department, and valid for the ship/station/base they are
+investigating, and a valid and up to date identification card from their
+administrative station/base. They have the authority to strip any crew
+of rank for the duration of a shift, and hold it suspended until audit.
 
 **Auditors** carry the dread their name implies. When a complaint is
 filed against a crew member, auditors are the individuals who carry out
 the interrogations(audits) of the employee in person if IA cannot,
-submitting their personal suggestion to the Social Resources Department
+submitting their personal suggestion to the Social Services Department
 regarding an employee's continued paycheck gathering after reviewing the
 math from Accounting and a fully compiled case from Internal Affairs.
 These individuals also conduct annual audits for general purposes as
-well. They are effectively secretaries for the Social Resources
+well. They are effectively secretaries for the Social Services
 Department, but highly respected ones.
 
 #### Internal Affairs
@@ -365,7 +364,7 @@ the company that keeps any big mega-corporation moving; with money.
 Accounting sets the bars and lays out what goals need met and where the
 company stands. Suffice to say, most other parts of the company are
 forced to take Accounting seriously, or be at risk in their own jobs.
-Social Resources and Accounting tend to be joined at the hip in most
+Social Services and Accounting tend to be joined at the hip in most
 systems and sectors, as their work often impacts the choices of the
 other, and accounting ordinarily chokes Asset Protection's chain when
 they start chomping at the bit.

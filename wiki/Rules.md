@@ -444,7 +444,7 @@ immersion.
 -   Obscenely oversized or undersized characters are forbidden. Minimum
     height is at least a few inches. Maximum height is about 30 feet.
     Anything more or less really pushes the already shaky believably of
-    micros or macros existing on the station—and that's coming from a
+    micros or macros existing on the station--and that's coming from a
     server whose theme is *eating people*.
 
 <!-- -->
@@ -620,9 +620,7 @@ that you have signed up for!
 
 -   We reserve the right to ban players from jobs who repeatedly fail to
     perform to an acceptable standard until we're confident that they
-    will be able to perform the job in question. For instance, joining
-    as [Colony Director](/wiki/Colony_Director "wikilink") but **never** doing
-    anything related to that job over multiple shifts.
+    will be able to perform the job in question.
 
 <!-- -->
 
@@ -653,17 +651,13 @@ that you have signed up for!
 
 <!-- -->
 
--   If an emergency happens that requires you to do your job, you are
-    expected to respond if you are not in the middle of a scene that you
-    cannot feasibly escape. For instance, say you're a Paramedic and
-    somebody calls for medical help. If you're just banging an intern,
-    pull your dick out and go help, or there may be IC consequences. On
-    the other hand if you're *trapped* in that nurse's *stomach*, nobody
-    can really *force* you out except the nurse that ate you, so
-    generally you won't be punished at all for things not in your
-    character's control. If however you *knowingly start* a scene *as*
-    the emergency is happening, that's a clear violation of this rule,
-    which may result in OOC punishment (banning).
+-   Playing jobs that can be called upon at any time to assist other
+    crew members in emergencies waives your right to have
+    interruption-free (E)RP sessions in private, including the dorms. If
+    you join as a paramedic, expect to be interrupted out of private
+    scenes. If you’re an engineer, you are expected to set up power
+    systems and repair any large-scale damage that hampers the rest of
+    the crew, regardless of your intent to have sex with the assistants.
 
 ### You are expected to obey the chain of command (within reason)
 

@@ -197,9 +197,9 @@ Communities of demi-humans exist scattered across the galaxy because of
 [Project Jasher](/wiki/Project_Jasher "wikilink"), though the most notable
 community of demi-humans exists within the United Federation.
 
-Today, splicing is a common and legal practice, but still prohibitively
-expensive when done by qualified professionals. As such, most splicing
-is still performed by unsanctioned genetic engineers.
+Today, splicing is common and legal but still prohibitively expensive
+procedure. Most splicing is still performed by unsanctioned biogenetic
+engineers.
 
 Behavior
 ========

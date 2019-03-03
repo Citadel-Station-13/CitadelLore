@@ -59,8 +59,3 @@ helpful suggestion, add it to this list.
 14. Breaks are not allowed unless you've been working steady for 4
     hours, in which case, you're allowed a 30 minute meal break.
     Otherwise, get back to work.
-15. All AI laws must be reset immediately without even asking what they
-    are, the instant the RD becomes aware of them.
-16. Anyone who does anything that so much as touches your job is
-    breaking the rules. Even if it's also their job. *Especially* if
-    it's also their job.

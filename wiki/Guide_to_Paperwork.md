@@ -793,7 +793,7 @@ Heads of Department
 
     [hr]
 
-    [b]Sender's signature: [/b][field]
+    [b]Sender's signature: [/b][sign]
 
     [b]Signatures of additional authorities:[/b]
     [field]

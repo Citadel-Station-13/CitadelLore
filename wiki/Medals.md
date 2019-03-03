@@ -58,11 +58,6 @@ teamwork to achieve a notable feat.
     was collectively awarded during the [Redspace
     Crisis](/wiki/Redspace_Crisis "wikilink"). Only one actual medal was
     distributed however, which sits in a plaque at CentCom.
--   A portion of crew from the [Virgo Orbital Research
-    Establishment](/wiki/Virgo_Orbital_Research_Establishment "wikilink") was
-    awarded this medal after infiltrating and destroying one of the many
-    golden empire abduction vessels in the sector- leading to a direct
-    reduction in their activity.
 
 Medal of Valor
 --------------

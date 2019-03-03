@@ -296,7 +296,6 @@ Foxes. That's about it.
 *Require a Bio-Adaptive NIF if they want a NIF at all.
 **Can implant a NIF into them by just slam dunking it into their face.
 *Being covered in water will inhibit a Promethean's ability to regenerate.
-*Prometheans Melt on death. They can be revived by injecting their core with 40u Phoron.
 
 ===[[Nevrean]]===
 *Brute Modifier: 1

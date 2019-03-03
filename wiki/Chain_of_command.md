@@ -131,8 +131,8 @@ cameras.
 <td><p>CMA is a title designated to a professional whose responsibility is to manage different marketing activities in and around the local star system. Although this is a mid-level rank in the hierarchy, the CMA reports directly to a chief executive officer (CEO), bypassing the usual chain of command. There's no good reason to contact them ever.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Chief_of_Social_Resources" title="wikilink">Chief of Social Resources</a></p></td>
-<td><p>Formerly known as the Chief of Human Affairs, the CSR is a mid-level rank in the hierarchy taking care of the employee's resources department for the corporation. The CSS reports to the chief administrative officer only. The Chief of Social Resources is the manager of the Social Resources (formerly Human Resources) department, and should be the last person you ever have to speak to in order to deal with complaints or requests relating to the company without a lawyer or a union by your side. The Social Resources department can be contacted for matters regarding crew conduct, violations of standard operating procedure, promotions, demotions, retirement planning, and job transfers. Ensure that if you choose to contact them with a complaint, you've already attempted (and failed) to resolve the issue with the station's on-board command staff.</p></td>
+<td><p><a href="Chief_of_Social_Services" title="wikilink">Chief of Social Services</a></p></td>
+<td><p>Formerly known as the Chief of Human Affairs, the CSS is a mid-level rank in the hierarchy taking care of the employee's resources department for the corporation. The CSS reports to the chief administrative officer only. The Chief of Social Services is the manager of the Social Services (formerly Human Affairs) department, and should be the last person you ever have to speak to in order to deal with complaints or requests relating to the company without a lawyer or a union by your side. The Social Services department can be contacted for matters regarding crew conduct, violations of standard operating procedure, promotions, demotions, retirement planning, and job transfers. Ensure that if you choose to contact them with a complaint, you've already attempted (and failed) to resolve the issue with the station's on-board command staff.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="Chief_of_Security" title="wikilink">Chief of Security</a></p></td>
@@ -191,7 +191,7 @@ aboard the station and should be well respected and protected.
 <tr class="even">
 <td><p><img src="HeadOfPersonnel.png" title="fig:HeadOfPersonnel.png" alt="HeadOfPersonnel.png" width="64" /><br />
 <a href="Head_of_Personnel" title="wikilink">Head of Personnel</a></p></td>
-<td><p>Please See <a href="Head_of_Personnel" title="wikilink">Head of Personnel</a>, it's complicated.</p></td>
+<td><p>Equal with other Heads of Staff excluding the Colony Director. The HoP <strong>automatically</strong> becomes acting Captain if the original Captain is absent or dead. This is the only non-captain job who can alter jobs and ID access. The HoP can fire and reassign people with other head's consent, can assign people freely, and can substitute the role of another head of staff in their absence, excluding <a href="Head_of_Security" title="wikilink">Head of Security</a>. (Note, this does not mean that HoP characters magically know how every department works.) Holds direct authority over the <a href="Janitor" title="wikilink">Janitor</a>, <a href="Chaplain" title="wikilink">Chaplain</a>, <a href="Chef" title="wikilink">Chef</a>, <a href="Botanist" title="wikilink">Botanist</a>, <a href="Bartender" title="wikilink">Bartender</a>, <a href="Assistant" title="wikilink">Assistants</a>, <a href="Quartermaster" title="wikilink">Quartermaster</a>, <a href="Shaft_Miner" title="wikilink">Shaft Miners</a>, and <a href="Cargo_Technician" title="wikilink">Cargo Technicians</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p><img src="Generic_hos.png" title="fig:Generic_hos.png" alt="Generic_hos.png" width="64" /><br />
@@ -283,12 +283,6 @@ majority vote.
 
 Acting Colony Director, and you
 -------------------------------
-
-By default, this role falls on the [Head of
-Personnel](/wiki/Head_of_Personnel "wikilink") in the absence of a [Colony
-Director](/wiki/Colony_Director "wikilink"). In the absence of a Head of
-Personnel, the other heads may determine who will take up the mantle by
-a simple vote of majority amongst themselves.
 
 What is the Acting Colony Director? What are their expectations, their
 rights, and for that matter, their purpose? The Colony Director is a

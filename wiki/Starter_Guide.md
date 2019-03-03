@@ -49,14 +49,6 @@ If all has gone well, congratulations! You're on the server! Before you
 can jump in and start playing, we strongly recommend you set up your
 character first.
 
-As an extra note, if you need to leave the round for any reason, you may
-do so at one of several locations. There is the tram on the ground
-floor, cryo, which is to the right of the bridge, and the teleporter, to
-the left of medbay's entrance. "Quit-The-Round" should only be used in
-situations where you no longer wish to play as that character for the
-rest of a particular shift, as it locks you out of rejoining as that
-character.
-
 Character Setup
 ===============
 

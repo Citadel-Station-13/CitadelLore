@@ -184,7 +184,7 @@ There are two points where the furnace can be loaded - One is on the port side o
 ![[File:Diamondore.png|50px]] [[File:Platinumore.png|50px]][[File:Coalore.png|50px]][[File:Ironore.png|50px]]
 |
 |Durasteel
-|Incredibly tough and also reflective. The inner walls of the AI core are made of this. Reflects Lasers
+|Generally used for robotics and mechs.
 |-
 | <span style="color:white">----------</span>[[File:Platinumore.png|50px]][[File:Sandore.png|50px]]
 |

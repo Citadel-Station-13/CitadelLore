@@ -110,13 +110,6 @@ simply because they should be self-explanatory.
 
 ### Be respectful to other players
 
--   Gatekeeping/elitist behaviour definitely falls under this rule. This
-    includes making broad sweeping statements or making up "rules" in
-    department channels about how to play "correctly" that imply that
-    other players are playing the game wrong if they don't follow it.
-    Especially if the thing they're doing "wrong" is explicitly allowed
-    by the rules.
-
 #### ERP preferences must be respected
 
 -   Going out of your way to actively seek out or prevent people from
@@ -264,9 +257,6 @@ simply because they should be self-explanatory.
     they're probably okay. If your character is capable of playing
     multiple department *heads* then they're most likely in violation of
     this rule.
--   OOCly snarking at other people for failing to powergame to your
-    standards will attract the sort of admin attention you really don't
-    want.
 
 #### Do not godmode
 
@@ -306,13 +296,6 @@ another dude, for instance.
     miner's gonna think you're a cunt and a shitty roleplayer to boot.
     Like if you're in the supermarket do you randomly root in other
     shoppers' carts? No? Then why would your character?
--   Don't go stealing/breaking all of a department's stuff for no good
-    reason. If people are literally unable to do their job because you
-    deprived them of the things they need to do so, that's probably a
-    bit much. To a lesser extent, hogging resources to yourself might
-    get you whacked for this if it proves detrimental to other players
-    (such as a cargotech running in and ordering fifty crates of hats so
-    there's no points left for anyone else in the department)
 -   Most of the actions that break this particular clause are things
     that fall foul of the "don't be an asshole" rules. If what you're
     doing is of zero benefit to you besides making people upset, and it
@@ -321,29 +304,6 @@ another dude, for instance.
 #### You are expected to perform the job you signed up for
 
 -   This includes borgs. No, really.
--   The rule about emergencies says "emergencies" for a reason. If you
-    go screeching at people to get out of the dorms *right now* and do
-    their jobs and it turns out the thing you need their help with is
-    something literally any rube could have helped you with, or you're
-    demanding they drop *their* scene so they can enable *your own*, you
-    won't be popular. Likewise, being promptly resleeved is *nice* but
-    you don't get to demand that people drop their own scenes right now
-    because you want to have a second one.
--   Basically, "The cargotech needs to get me this crate I want for
-    personal reasons" is not an emergency that requires them to drop
-    everything they're doing though it would be nice if they got to it
-    if they're able to, "Cargo needs to get a new engine starter because
-    everything went to shit" could be considered an emergency and they
-    should really do that ASAP, and "This cargotech is never seen at
-    cargo at all in the half a dozen shifts we've been watching" is an
-    actual offense.
--   A good rule of thumb for heads of staff is that you should be able
-    to *teach* the department's basic functions to a new player. If
-    you're not confident in your ability to do so, maybe play the lower
-    ranks until you're more experienced.
--   If your job is showing no clear signs of happening any time soon,
-    you're free to pursue your own projects. There is no requirement to
-    leave and rejoin off-duty or get a job change.
 
 #### You are expected to obey the chain of command (within reason)
 

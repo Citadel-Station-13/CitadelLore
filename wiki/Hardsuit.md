@@ -6,7 +6,7 @@ tags:
  - Guides
 ---
 
-<div class="smallpic">
+<div class='smallpic'>
 
 Hardsuits (also known as Resource Integration Gear, or RIG) are robust
 and (somewhat) modular pieces of EVA equipment fitted with a plethora of
@@ -72,12 +72,12 @@ barely protects against ballistics and lasers.
 -------------------------------------------------------------------------------------------------------------------
 
 An Anomalous Material Interaction hardsuit that protects against the
-strangest energies the universe can throw at it. Located in Research
-Directors Office. Comes with integrated magboots, maneuvering jets,
-helmet light, helmet camera, heatsink, AI suite, and a cover lock.
-Provides immunity to biohazards and radiation, very robust defense
-against energy, strong defense against explosions, moderate defense
-against lasers and blunt force, and barely protects against ballistics.
+strangest energies the universe can throw at it. Located in Anomaly Lab.
+Comes with integrated magboots, maneuvering jets, helmet light, helmet
+camera, heatsink, AI suite, and a cover lock. Provides immunity to
+biohazards and radiation, very robust defense against energy, strong
+defense against explosions, moderate defense against lasers and blunt
+force, and barely protects against ballistics.
 
 **Modules:**
 

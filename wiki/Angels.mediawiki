@@ -19,8 +19,6 @@ Flat note two. An empty colony maintained by drones. The planet is entirely over
 
 High note Eight. A colony on a moon. It is inside of a teraformed dome, used as a backup for a mass extinction event. Periodically backups are sent to this colony. It also serves as a hub for interacting with galactic societies by the frontier, making it less than a day's transit from Virgo.
 
-Quarter Rest Whole Note. Sanctum's First planetary colony for angels and immigrants who have lived above four hundred years.
-
 Infernum. A colony originally used for holding prisoners, it's now a separate nation of it's own. While it's in the same system as Sanctum, it's rarely visited by angels. All of the population is composed of demons, angels who gene modded their selves excessively.
 
 ===== The Angels =====
@@ -53,8 +51,6 @@ Prison networks are virtual spaces where individuals who are threats to their se
 Modern day medicine is as advanced as the humans, but is much more obtainable to the citizens of Sanctum. Injuries are common, often caused by flight accidents in youth. Often enough for serious injuries, new organs or limbs can be regrown in printers. Resleeving itself is not frowned upon and is common place for high risk jobs or activities. 
 
 Locals of Sanctum are expected to get counseling once a week to keep on top of any mental issues and to prevent them from becoming worse, usually with a volunteer doctor assisted by a database and an AI. As a result of this, it's very rare for any mental illness to significantly affect their loves.
-
-Angels and Immigrants who live above four hundred years now are sent to Quarter Rest Whole Note to make room for new angels and aliens being born. More colonies for angels will be popping up in the future. Living past four hundred years requires a ten year break from living. They are put into a virtual rehabilitation program with their memories backed up and removed, then slowly reintroduced over several years. Once stable, they are resleeved at the new colony, and then given portable servers for old overflow brain data to be stored, in the form of a halo.
 
 ===== Citizens Today =====
 
@@ -258,5 +254,3 @@ Sanctum's recorded history dates back to 7,000 B.C and will be referred to as BC
 2561, A.C.: Modern day. Angels don't tend to take part in galactic society. At most, they trade off excess materials in exchange for fallback currencies. Angel lifespan is now three hundred eighty years.
 
 2562-03-11, AC.: Sanctum Backed out of a trade for phoron after Infernum showed interest and promptly outbid them. They refused to take Greed's corporation's offer of transporting the phoron to Sanctum for a fee as well as the phoron's cost.
-
-2562-03-11, AC.: Sanctum has removed the ban on living past four hundred years due to medical advancement.

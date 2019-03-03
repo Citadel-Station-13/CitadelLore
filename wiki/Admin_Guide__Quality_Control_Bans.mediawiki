@@ -17,7 +17,5 @@ If you feel '''sorry''' for the person, and they show no signs of improving, tha
 
 If it is ever found that you have attempted to QC ban someone for unethical reasons (don’t like them, private disagreement, different vore prefs, etc), you will be removed as staff, and will find yourself regretting this decision.
 
-'''QC bans require at least 75% admin support from all current administration staff (excluding those who have opted out).'''
-
-Admins can choose to opt-out of the vote, and are disregarded from the final 75% total. Developers and other staff can submit advisory opinions towards the result, but are not considered part of the required 75%.
+'''QC bans require 75% admin support from all current administration staff. Developers and other staff can submit advisory opinions towards the result, but are not considered part of the required 75%.'''
 [[Category:Admin Guides]]

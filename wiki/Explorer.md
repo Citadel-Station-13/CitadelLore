@@ -37,9 +37,7 @@ knowledge.
 You should be familiar with [Standard Operating
 Procedure](/wiki/Standard_Operating_Procedure#Scientific_Expeditions "wikilink")
 with regards to away missions, and make sure you follow the directions
-of the [Pathfinder](/wiki/Pathfinder "wikilink") or [Research
-Director](/wiki/Research_Director "wikilink") if present. However, When off
-station the Pathfinder gains command over the Research director.
+of the [Research Director](/wiki/Research_Director "wikilink") if present.
 
 Weaponry and You
 ----------------
