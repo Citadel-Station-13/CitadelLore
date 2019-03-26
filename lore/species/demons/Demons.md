@@ -29,6 +29,15 @@ Demons primarily speak Infernal, a twisted, often disturbing chanting that has m
 
 While demons have a great many colonies outside of infernum, most are disorganized, independent, and simply not notable when compared to the great territories of the burning planet.  Demons fairly frequently poke their head into intergalactic politics however, often to devastating effect.  GreedCorp specifically has been known to corrupt and lobby for their interests on a regular basis, and the Lords of Lust are nearly never far behind.  Demons are well equipped at dismantling and modifying angel tech, and taps in the extensive angel sensory array of listening posts are commonplace for rich demons.  As much as the Angels try, nearly always a demonic culture will learn about something through their own lines before so much as a word pops up onto their screen. 
 
+
+### Angelic War
+
+The demons and their neighbors, the Angels have been feuding and in a constant arms race since before any demonic history recounts.  Old stories and songs often recount being angel prisoners sent to Infernum in camps for various crimes against holy law.  After a revolution against their fellow Angels, they were forced to adapt themselves to the landscape, often citing transformations and changes in appearance as a result.  It was said that the harsh weather and hostile nature of their new home kept the Angels one step behind them, those who couldn’t adapt either died to their harsh environment, or the Angels on their heels.  Stories of a great war and retaking of land follow, until the first real documentation begins with the founding of the first Demonic territories on Infernum.  
+
+Most prominent modern historians discredit these stories, and belief in them varies from Demon to Demon.  The many internal struggles that have scarred the blasted landscape of Infernum have likely since washed away the markings of the first struggles, and the searching for them has been strangely off and on, even as interest piques in newly found old structures. 
+
+What is currently known is that the animosity has not died down since whatever first struggles the Demons had against Angels, and generations have not forgotten whatever horrible atrocities were committed.  While the ongoing conflict doesn’t have the massive land invasions and bombs it once did, that’s only due to countermeasures in place by both sides.  It’s not uncommon to see Angel and Demon ships go missing even today, and their wreckages litter the system. 
+
 ### Demonic Territories and Cultures
 
 ##### Lust
