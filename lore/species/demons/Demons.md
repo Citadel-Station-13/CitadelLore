@@ -4,420 +4,129 @@ permalink: wiki/Demons/
 layout: wiki
 ---
 
-Brief history of Infernum
--------------------------
-
-Infernum is known as a world where chaos and impropriety reign and is
-home to the various races of Demons. Before there were Demons though,
-there were the [Angels](/wiki/Angels "wikilink") and they lived in the clouded
-cities of Sanctum, however a subset of Angels did not agree with its
-repressive culture and the stifling of the ambitions they hold so dear,
-so they congregated and rebelled, this event is known as the Fall and
-the [Angels](/wiki/Angels "wikilink") who lost the conflict have henceforth
-been known as the Fallen. The Fallen have been banished to a harsh
-planet in the same system, leaving Sanctum behind to start a
-civilization of their own. In the effort of building a civilization for
-themselves the Fallen have rallied behind seven leaders who embodied
-their ambitions best and set out to found seven cities based on their
-ideals. This effort transformed them, sometimes unrecognizably so, into
-what we now know as demons.
-
-Races of Demons
----------------
-
-**Royals**
-
-The Royals are what you’d think of as a demon in the first place. Their
-skin is often red or black, they are large and bulky, their hands and
-feet often bear talons and depending on the individual they may have a
-tail like a goat or a spaded tail, perhaps even a set of wings. They
-have taken this monstrous form to delineate themselves clearly from the
-angels they have decended from. They are stronger and smarter that most
-and often take positions of dominance and gravitas. Royals dominate
-Pride and can be found in positions of power in any city beside Envy and
-Sloth.
-
-**Succubi/Incubi**
-
-The Succubi and their male counterparts, the Incubi are by far the
-fairest of the demon races, but their beauty and attraction belies a
-need for reciprocation, one that not many can meet. They are usually
-identified by their charming appearance, horns, spaded tails and
-leathery wings. They generally add great value to their beauty and as
-such take modifying their body to meet their current ideal very
-seriously. They come in a variety of colours and some attain features
-like hypnotic eyes and skin contact effects. Succubi and Incubi are
-prone to possessiveness and obsession about their sexual partners. They
-dominate Lust and are often sought as concubines and status symbols in
-Pride and Greed.
-
-**Satyr**
-
-Satyr are goatlike creatures, generally from the waist down, though the
-males may display excessive chest hair as well. They have cloven hoofed
-feet, bent knees and short horns on their head. Their tails are not
-prehensile like those of the Succubi or Imps, but can still move in a
-broad range of directions. Satyr usually stand two to four feet in
-height, making them one of the smaller races of demons. They are usually
-shy, but the males have been known to enter stages of enormous sexual
-proclivity, known as satyriasis. Satyr are common to Sloth and Lust.
-
-**Imps**
-
-Imps are the smallest of the demons, varying in size from one to three
-feet with rare exceptions growing taller. Imps are notable for their
-often conspicuous colors, horns, tiny wings on their back and sinewy
-tails ending in either a heart, spade, diamond or club like shape, their
-tail is often prehensile and they use it like a kind of extra hand.
-Despite their small stature, imps are very brave creatures and use their
-bravery to play pranks on people, ranging from innocent to
-life-wreckingly horrible. This feature is generally adored by other
-demons so long as they are not on the receiving end of it. Imps are
-especially common in Greed and Wrath.
-
-**Hybrids**
-
-Hybrids are so diverse they are lumped together into a classification of
-their own. They often adapt to their environment, taking on animalistic
-features and organs to suit their particular needs. They choose this
-form out of a deep hatred of the forms descended from Angels. The advent
-of gene modification technology from the spacefaring humans has made
-their changes all the more rapid and all the more drastic. They gather
-mostly in Envy, Greed and Gluttony, where they can best put their new
-forms to use. Their situation is akin to that of human hybrids, the only
-difference is that unlike the humans the demon hybrids have descended
-from the Angels.
-
-**Fallen**
-
-The Fall has been relegated to ancient myth, but the Fallen still keep
-coming, every now and again Sanctum still banishes undesirables to
-Infernum, they retain their angelic frames, but often take on darker
-aspects in clothing and makeup to signify their change. Some go so far
-as to dye their wings intentionally, to others it just happens. Their
-adaptation into Infernum’s society is often a rough one as they did not
-entirely think their ambitions and the risks inherent therein through.
-Therefore the Fallen are very welcoming to the newly arrived of their
-kind, teaching them the ways of the world in whatever city they happen
-to be in.
-
-**Lifespan**
-
-Having descended from Angels, most Demons retain their long lifespan,
-with some notable exceptions. The average demon can live up to 300
-years, but the chance of them making it that long is very slim. The
-exceptions to this are the Imps, who live up to 60 years, but
-proliferate faster than the other demons and the Royals, who live up to
-380. The reason for the lifespan of imps being so short is due to stress
-and abuse mostly and few of them ever escape it. Longer lifespans may be
-projected if taken out of Infernum. The demon lords all seem to have
-ascended into a form of immortality, though none but them really knows
-why or how.
-
-Infernum society
-----------------
-
-**Language**
-
-Daemon is the official language of Infernum and is both a written and
-spoken language that has evolved from Enochian, however where Enochian
-is choirlike and light in its tones, Daemon is gluttural and sounds
-ominous no matter how it is spoken. Daemon has a similar writing system
-to Sol common based on phonemes, however instead uses a runelike script
-rather than the Roman alphabet. A few of the sounds common to Sol
-Commmon do not appear in it, which gives demons aspiring to learn to
-communicate with outsiders a significant hurdle to overcome. For this
-reason phoneticists have been brought into Pride's education centers to
-offer Demon and offworlder alike a chance to familiarize themselves with
-and teach tricks to master either language. Offworlders cannot speak
-Daemon for an extended period of time though as the gluttural tones work
-their throats raw in ways comparable to a death metal concert.
-
-**Social status**
-
-Infernum is a rough place, let’s say that up front and your position in
-society is determined largely on your own merits. Each city has its own
-structure of values and those who play to them rise in esteem, those who
-do not are subjugated or eliminated altogether. Infernum is highly
-individualistic in attitude and group denomination only matters if you
-represent your group on business.
-
-**Education**
-
-Infernum barely has any formal education and what little it has is
-usually made use of by visitors. Demons strive to be well connected and
-barter skill for skill. A succubus will pay in sex for instruction, a
-satyr in labor or an imp in favors. Among demons the skills that are
-valued vary based on the city the demons find themselves in. Lust values
-sexual fetishes and ways to gain social influence, Wrath relies on
-martial prowess and tactical knowledge, Pride values rhetoric and power
-above all, whereas Greed is economically minded and Envy artistically.
-It is a society where knowledge is quite literally power.
-
-**Healthcare**
-
-Healthcare is a newer concept to Infernum and one demons look at a bit
-dodgily. Lust has fully embraced it in an effort to quell STDs and
-supply the demand for plastic surgeries. The position of doctor is
-unpopular among demons since they lack the empathy required to help
-others if there is no active self-interest, so the few doctors there are
-are usually outsiders. As for the matter of payment, the scarce few
-doctors that are there usually adhere to the Hippocratic oath, so they
-will help anyone, even if they cannot pay. The demons however are then
-obligated to repay their debt in labor and any skills they have
-available.
-
-**Crime**
-
-Crime is a foreign concept to Infernum’s inhabitants, they are used to a
-might makes right society where if you pissed off the one tyrant that
-runs your city, you’re basically done for to begin with. So a codified
-law was a concept many took to learning about with gusto and set out
-into Space to become lawyers, judges and prosecutors. Most of Infernum’s
-peacekeeping is done through private contractors and security teams.
-Outside of Wrath riots and violent uprisings are exceedingly uncommon as
-demons prefer to settle scores one on one.
-
-**Infernum and the Galaxy beyond**
-
-With the advent of space travel and Infernum’s official discovery, much
-has changed about the dark planet. It has been given an attempt at
-terraforming and several plants and animals have been introduced, but
-many don’t do well and those that did have adapted to Infernum’s more
-nocturnal lifestyle. Infernum raised great protest against the banning
-of slavery and still practices ownership of others as personal property.
-They are however not allowed to enforce their ownership offworld and are
-not allowed to enslave any offworlder, though there are ways to be
-imagined around that. Overall Infernum has benefitted greatly from the
-influx in technology and the improvements to the planet made and its
-inhabitants gladly travel into Space to ply their trades and garner
-influence that can’t be gotten on the planet itself. They do
-occasionally run into other races preconceived notions about their kind
-and mythologies surrounding them that come across as racist, if usually
-accurate in spirit.
-
-The Seven Cities of Sin
------------------------
-
-Infernum has seven cities based around the proclivities of its
-inhabitants. It is upon these vices that the concept of the Seven Deadly
-Sins is based, this concept later materialized all over the known
-galaxy, but on Infernum each of them takes physical form. These cities
-function more or less independently of eachother and have a huge,
-sustainable population, they also have a high turnover rate, so if you
-find yourself there, always look out for number one.
-
-### Pride
-
-Pride can be seen from far in the distance and has some of the most
-enormous towering structures. It is a tiered city, surrounded by walls
-crowned with ornaments and statues of stone and precious metal. When
-gazing upon it for the first time the city may appear like a mountain,
-which is correct because it was built atop a mountain, leaving the
-surrounding area barren and stripped for resources in its construction.
-The first tier is home to the outsiders, employees and craftsmen that
-keep the city going and is the largest part of the city, surrounding it
-on the lower slopes. It's also home to Infernum's largest spaceport, as
-the Royals that inhabit the city compete fiercely over who can get the
-sweetest deals on the latest tech. It also houses some of the only
-institutions of education in all of Infernum, the most prestigious ones
-are the Cocytus Institute of Higher Learning, also referred to as
-Treachery High, the Malebranche School of Discipline and Governance,
-which teaches tactics and group psychology to breed effective leaders
-and ruthless disciplinarians, and the Satanic Academy of Esoteric Arts,
-which is so exclusive that they have managed to keep the esoteric part
-of their name a fact. The reason these institutions are located in the
-outer ring is to keep their attendants motivated to get through their
-curriculum as quickly and excellently as possible so they may rise
-again. The second tier houses Infernum natives exclusively and social
-status is marked by your proximity to the third tier, the higher up you
-climb, the closer you are to power and the more influence and prestige
-you can add to your already enormous gravitas, the upper reaches of this
-tier is almost entirely inhabited by the Royals and Greater, who house
-the best staff their money can buy and their pride will allow, the
-finest concubines from Lust, the best accountants from Greed, stylists
-from Envy and security from Wrath can be found here, in their employ.
-Some clever Greater sought to rise to status by elevating their
-dwellings with towers and raised walkways, making the streets below very
-dark and the atmosphere feels oppressive. Things considered demonic in
-nature are considered of extreme value and Redspace artefacts are in
-high demand. At the top of the mountainous city, radiant for miles is
-the Hall of Pandemonium, here Lucifer holds court as leader as the
-Fallen, bearer of the Light, Adversary of Sanctum and profound Lord of
-all demons. Pandemonium is coated in thick layers of solid gold and
-cleaned daily, no tower rises as high as to impune its glory. Every year
-the highest of demon society congregates there for Lucifer’s Remembrance
-Day event, which celebrates the demons’ break away from the angels of
-Sanctum.
-
-### Wrath
-
-Wrath is a bustling city with an even more bustling turnover rate. The
-city is in a constant state of gang war and while life there is harsh,
-there is much to be won. The gangs primarily fight over territory and
-spread their influence to catch the attention of the PMCs that use them
-as a recruitment opportunity waiting to happen. These PMCs are the real
-powerbase in Wrath and while private military corporations, together
-they form Infernum’s standing army. They invest heavily in new gear,
-weapons and upgrades for the technology they have, which is why the city
-looks very utilitarian, aside from the often elaborate gangsigns that
-delineate the constant struggle. The city is also known for its
-inhabitants proclivity towards keeping others as pets. The stronger or
-more charismatic demons usually keep an imp or a satyr around as a pet.
-Wrath has no particular makeup and almost any race of demon can be found
-there. Some succubi are attracted to the bad boy attitudes the gangs
-breed, imps and satyr see the violence as a way up in the world and some
-Greater find a perverse prestige in sending minions to their deaths.
-Even a few of the Fallen have found their way there, though their wings
-tar black in the constant smoke of the city, a stain that may never wash
-out again. The PMCs fortresses aside the city looks like it’s gone
-through a lot. There is scarcely a wall to find that does not have some
-kind of bullet hole in it or laser burn blackening its surface. Due to
-the constant violence civil services are impossible and as such garbage
-is often just burnt on the street, giving the city a dangerous character
-and a shady, smoke filled atmosphere. Wherever a gang consolidates their
-territory for long enough, additional services set up shop, generally
-owned and operated by the gang holding the territory, these are most
-often liquor stores, corner shops and bars, which double as meeting
-points. At the center of Wrath there is one building so unbelievably
-impractical it could only really be found in Wrath. A giant cannon,
-covered in spikes, bayonets and other useless pointy protrusions aims
-high up into Space. No demon can recall if it has ever been fired in
-living memory, but it is one of the most intimidating sights you can
-find on Wrath. As if its sheer nature was not enough, it is considered a
-particular honor to your enemies to hang them from the cannon’s spikes.
-It is rumored that the cannon was built by Satan himself and that he
-lingers in the bowels of the construction, awaiting the day he can fire
-it as his ultimate revenge.
-
-### Lust
-
-Lust is almost entirely a red light district and is visibly built to the
-whims of the omnipresent succubi. It is also the most visited and
-arguably safest city on Infernum, which makes it popular with tourists.
-Whereas to the common man there may be little difference, the demons of
-lust have a social structure based on desirability, the better, kinkier,
-more niche fetishes you can indulge can raise a demon to great
-prominence in Lust and the more exclusive their services, often the more
-desired. Cheap slatterns fill windows and street corners looking for
-quick cash and a quicker fuck, while incubi and satyr try to lure you
-into lavish brothels, dungeons and hotel arrangements with guaranteed
-happy endings, the best companions can only be gotten by those with
-connections, refined taste and a ransom only Pride or Greed’s elite
-could muster. The Second Circle is the city’s most luxurious palace and
-houses Asmodeus’ private harem of girls from all over the known
-universe. Lust runs almost entirely on prostitution, with a cashflow
-that flows out for the other city’s exports as quickly as they bring it
-back in. Luxurious foods from Gluttony are one of the primary imports,
-accountants from Greed and security personnel from Wrath are also in
-high demand, as are clothes and accessories from Envy. The city is also
-home to a variety of chemists, abortion clinics and shady doctors who
-supply the city with contraceptives, mind expanding substances, STD
-treatments, spikes you really don’t want in your drink and all manner of
-ways to handle unwanted pregnancies. Lust is, next to Greed, by far the
-most visited place on Infernum, due to its lavish charms and sexual
-pleasures, giving rise to a seedy underbelly of paparazzi, private
-detectives and other investigators, dealing with disappearances, rape
-and even people trafficking on a regular basis.
-
-### Greed
-
-Money is power, but you’d be hard pressed to find a place where this is
-more so than Greed. Greed is on the one hand a garish place, littered
-with casinos, gambling dens and old fashioned speakeasies and on the
-other hand it’s full of soul crushing skyscrapers, where overpaid
-numbercrunchers make sure that the checkbooks are in order for their
-paymasters. People from Greed flaunt their wealth with gusto, those who
-can display it, generally do with gold, gems, fancy clothes and
-expensive company, but will guard themselves against those who would
-steal from them with a paranoia that nearly rivals their obsession for
-money. When it comes to fashion in Greed, there is little room for
-distinguished style, tacky is the point. It’s considered particularly
-fashionable to have your own imp and imps feature prominently as mascot
-characters, models and casino employees. Supposedly Greed is led by a
-demon known as the Mammon, wealthy beyond imagination and secluded in
-his casino-palace, keeping check on his balance with one eye and the
-players with the other. Mammon is, along with Beelzebub and Lucifer, one
-of the more public of the demon lords. He takes business pitches every
-week and if not overlooking his personal casino, he can be found in a
-boardroom discussing his myriad businesses. Common knowledge dictates
-that if the numbers are on the rise though, Mammon is happy and your job
-is safe... until the next time he checks.
-
-### Gluttony
-
-Widely renowned to be a city of exquisite food and exotic drinks, but
-there is more to Gluttony than just that, in fact while most cities on
-Infernum have their poor and destitute out on the streets, Gluttony’s
-streets are quite clean and have very little waste on them. Gluttony’s
-primary export if obviously food and its primary import is the
-ingredients for said food, the nature of which varies from the mundane,
-herbs, spices, livestock of various kinds, to the exotic, rare animals,
-illicit chemicals, to the downright immoral, harvested organs, dangerous
-aliens and even whole people are smuggled in. All of the aforementioned
-disappear into the various storerooms and kitchens that line Gluttony’s
-streets. Often you’ll also find that Gluttony’s restaurants have several
-doors and whether or not you survive your stay can be dependent on which
-door you enter through. Gluttony’s population though is morbidly obese
-in extremely high percentages. They prefer comfortable clothing to
-anything posh or elegant, because they are going to spill food and drink
-on it anyway. They are however a generally cheerful bunch, since they
-live for the next culinary thrill and know their life could be over if
-they wind up on the street after too drunk a night, but do not seem to
-be too bothered by this. There is a saying that everything is edible,
-all the time and to excess in Gluttony, discounting the pavements, most
-buildings and furniture though this largely holds true as day in and day
-out the restaurants are open and at the regular festivals entirely
-edible monuments are set up to the chef’s prestige and culinary glory.
-Almost invariably these monuments last no more than a few hours after
-presentation. The most lavish is made in honor of Beelzebub and is often
-eaten entirely by the demon lord himself, Beelzebub is the most public
-of the rulers of the seven cities and can usually be seen sampling the
-various restaurants of his great city.
-
-### Envy
-
-Envy isn’t so much a city as an artificial island that grew together
-through attrition. It floats wherever it goes on the ocean and has the
-greatest population of aquatic hybrids as a result. Envy is most known
-for its community of artists, tailors, sommeliers, collectors and the
-thieves that steal from them. Having collected all that many
-possessions, but having no landline to Wrath makes hiring professional
-security hard, so Envy’s inhabitants get very idiosyncratic, making it
-easy to associate items with the person and even if they are stolen,
-they can usually still be identified as their makers, lest the item
-itself would be damaged. Whenever Envy makes land somewhere the
-merchants travel out in droves to the nearest city to sell their wares
-and steal whatever tickles their particular fancy, making Envy’s
-irregular landfalls seem a mixed blessing to the rest of Infernum’s
-inhabitants. Envy is supposedly run by a demon lord by the name of
-Leviathan, but for a creature that is supposedly enormous, nobody has
-seen it for a long time. Though there is an urban legend that states
-that Leviathan was so obsessed with possessing everything that he became
-the city itself and guides it along the waves by sheer force of will,
-its inhabitants slaves to its fancies to bring in ever more and more
-exotic possessions.
-
-### Sloth
-
-Sloth is located in the most remote, frozen over ice floes on the sea of
-Cocytus and it was founded by Belphegor… whose foundation story is well
-known since there isn’t much going on in Sloth at all. Sloth is best
-appreciated as a retreat for the people who do not want to be found, the
-people get by on a minimum effort. Belphegor built a hut to sleep in and
-has been doing so ever since. He is one of the few things that could be
-called touristic about Sloth. Him and ice fishing. The inhabitants of
-Sloth are a primal people, most of them do what they can to get by and
-go back to sleep. They haven’t the inclination to pay attention to
-eachother nor do they have the energy to spare. Sloth consists mainly of
-large igloos that house a family each. The demons there, for all their
-laziness, are a hardy people though, stout and furry to adapt to the
-climate. Notably, Sloth gets active in April as the inhabitants suddenly
-get the urge to find a new mate to spend their long nights with. Being
-so far north Sloth barely ever gets any sun and its inhabitants are
-known to be more comfortable in the dark. It occurs on rare occassions
-that someone from Sloth engages in the arts and often gives up halfway
-through making something. These attempts have caught the attention of
-the inhabitants of Pride and Envy as curiosities and things they want to
-have just by dint of how rare they are and are often amazed at the ease
-with which the Sloths part with them.
+### Demons
+
+Demons are a humanoid, spacefaring race that has a history older than most.  Demons typically come in all shapes and sizes, and there are no clear markers for what makes a demon a demon.  They’re far closer to a loose conglomerate of individuals whom all proclaim to be under the same banner.  They have a highly social, well-involved society that pokes its head in wherever there’s profit or excitement to be had. Demons have a number of notable colonies outside of their homeworld; Each one is primarily tied back to their cities on their home planet of Infernum, which have varying and distinct cultures.  Demons typically go against most cultural norms, but due to their varied skillset, useful specializations, and uncanny abilities to influence others through various means, they usually receive some accommodations for themselves. They are locked in an age-old struggle with the only other race inhabiting their home system, the Angels. 
+
+### Demon Physiology
+
+Demons come in all shapes and sizes, although most conform to the image gleaned by passages in bible verses or popular culture relating to Christian themes, almost strangely so.  Goat legs, unusual red or blue skin colors, unusual hair colors, spaded tails, scaly skin, reptilian features, and/or goat-like features are all heard of and passed around in the demon gene pool too frequently to ever label them with one specific set of traits.  Many demons tend to refer to themselves by a sub-group of the overall species; often biblical figures that they tend to resemble in personality and/or appearance, such as imps, succubi, satyr, etc.  Demons tend to live about as long as angels do, an average of about five hundred years. 
+
+### Infernum
+
+Infernum is a large, hostile planet with largely infertile soil and, a nearly unbearable climate, little water, and frequently igniting gas vents that spew fire from the burning depths of the hostile world.  What little wildlife can be found here is hardy and durable, the wilds of Infernum often forced to regrow after catastrophe day after day.  What isn’t conquered by Demons often changes by the month, wildlife always migrating with food, and food always having to find new ways to not let the killer planet eat them alive. 
+
+### Demon Society
+
+Demon society on Infernum is usually segregated into seven different cities or ‘cults’ of belief, While each of these mini-nations has their own capital of the same name, generally they have their own territory ruled by the same ideology.  Strangely, these cities share rough translations and ideas with the ‘seven deadly sins’ of old human Christian belief.  Each of these takes up a small part of Infernum’s surface, which in most other places is rendered uninhabitable by it’s harsh and near burning environment.  
+
+Despite differences in all of the city’s respective cultures, a few things remain consistent amongst Demons.  Oftentimes niceties and politeness come off as condescending and ‘fake’ when perceived by a demon.  Oftentimes the more correct thing to do is address things exactly like you actually think of them, regardless of negative or positive thoughts.  Honesty and brutality are almost always the core tenets of demon culture.  However, that’s not to say that their capacity for misdirection can’t be tapped into when they want something. 
+
+### Demon Language
+
+Demons primarily speak Infernal, a twisted, often disturbing chanting that has many different ties to Enochian’s complexity.  People often find it much easier to learn than the high pitched, beautiful song of their angel neighbors, citing the language as simply “clicking” with the mind easier.  
+
+### Galactic Influence
+
+While Demons have a great many colonies outside of Infernum, most are disorganized, independent, and simply not notable when compared to the great territories of the burning planet.  Demons fairly frequently poke their head into intergalactic politics however, often to devastating effect.  GreedCorp specifically has been known to corrupt and lobby for their interests on a regular basis, and the Lords of Lust are nearly never far behind.  Demons are well equipped at dismantling and modifying angel tech, and taps in the extensive angel sensory array of listening posts are commonplace for rich Demons.  As much as the Angels try, nearly always a demonic culture will learn about something through their own lines before so much as a word pops up onto their screen. 
+
+### Angelic War
+
+The Demons and their neighbors, the Angels, have been feuding and in a constant arms race since before any demonic history recounts.  Old stories and songs often recount being angel prisoners sent to Infernum in camps for various crimes against holy law.  After a revolution against their fellow Angels, they were forced to adapt themselves to the landscape, often citing transformations and changes in appearance as a result.  It was said that the harsh weather and hostile nature of their new home kept the Angels one step behind them;  Those who couldn’t adapt either died to their harsh environment or the Angels on their heels.  Stories of a great war and retaking of land follow, until the first real documentation begins with the founding of the first Demonic territories on Infernum.  
+
+Most prominent modern historians discredit these stories, and belief in them varies from Demon to Demon.  The many internal struggles that have scarred the blasted landscape of Infernum have likely since washed away the markings of the first struggles, and the searching for them has been strangely off and on, even as interest piques in newly found old structures. 
+
+What is currently known is that the animosity has not died down since whatever first struggles the Demons had against Angels, and generations have not forgotten whatever horrible atrocities were committed.  While the ongoing conflict doesn’t have the massive land invasions and bombings it once did, that’s only due to countermeasures in place by both sides.  It’s not uncommon to see Angel and Demon ships go missing even today, and their wreckages litter the system. 
+
+
+### Demonic Territories and Cultures
+
+##### Lust
+
+Lust is a territory of excess and excitement.  It’s exceptionally small when compared to other territories, but it can be equated to a casino, brothel, and extraterrestrial wildlife reserve all rolled into one.  Most permanent residents of Lust serve the various establishments there, and a large portion of its populace is actually comprised of visitors from other demonic territories on Infernum.  It’s common for demonic residents of Lust to refer to themselves as succubi or incubi.
+
+What little territory Lust occupies has been terraformed through ‘generous donations’ from other richer territories like Pride and Greed, not to mention what may have come from other galactic societies, turning the entire area around it into a lush paradise.   It has its own biosphere complete with wildlife imported from Sanctum, Earth, Moghes, and Qerrbalak alike, carefully groomed into its own living ecosystem.  Nobody is sure what exactly keeps the area so much cooler and the soil so much richer than it is on the rest of the planet, but hushed whispers of stolen angel tech merged with the work of a corrupt and perverted Skrellian scientist are the leading explanation.  Nobody has actually laid witness to the mechanism at work, but one would have to imagine massive subterranean tunnels of terraforming and atmospheric equipment.  What can be confirmed is that there are vents coming from underground all around the territory, keeping the air fresh and clear. 
+
+This paradise-like environment is seamlessly integrated with the beautiful aesthetics of the resort-like, well-tended garden city itself.  Many casinos and buildings have small exteriors that stretch far underground in an impressive feat of architecture and city planning.  The tops of buildings often have beautiful hanging gardens well tended to by contracted succubi gardeners.  
+
+The casinos and brothels below the city are always abuzz with activity and ruthlessly compete with one another as to who can pull in the most customers per day.  The lords of Lust are as varied as they come, each owning one of the massive subterranean establishments that are the city’s claim to fame. They pride themselves on who can satisfy their customers the best, lavishing important visitors in gifts, consorts, and the freedom to use exclusive services.  It’s not unheard of for politicians in SolGov to be bribed with all expense paid trips to Lust, with good reason. 
+
+Protected unions for prostitution are commonplace and offer many benefits to the age-old profession’s practitioners.  It keeps sex in the city as safer and cleaner than you’d find anywhere else, and better regulated too.  Each of Lust’s establishments typically hosts its own union, allowing them to offer better services from their most practiced experts to any VIPs that may require impressing. 
+
+Lust has a running rivalry with Greed, who continually attempts to buy out or undercut many of the larger establishments in the city.  They find little to no success in the effort, many succubi would rather go bankrupt than sell their property to Greed.  Bringing up one city in the other often elicits snide remarks and sneers.
+
+
+##### Gluttony
+
+Gluttony is a territory of excess in a whole different sense.  It’s the breadbasket of Infernum, a center for innovation in how best to feed the planet’s populace, and make a nice penny exporting the excess.   It’s mostly comprised of massive complexes that breed genetically altered food products of all different make.  The center of the city is dominated by various kitchens and food production companies.  Gluttony covers the largest amount of land among any of the sedentary territories. 
+
+Gluttony’s sprawling network of fields, pens, and factories dominates most of its expansive territory, almost all of them producing some different and experimental crop.  Every single experiment is constantly driven to make the food bigger, more delicious, and more inexpensive.  It’s hard to come across anything natural in Gluttony, but even harder to come across any food for free.  
+
+Most of Gluttony’s populace is comprised of chefs, mechanics, and scientists.   Each tending to the massive food production machine in their own way.  There’s also a few logistical professionals that oversee the export of food products, specifically the ever-flowing export of luxury products to Lust and Pride.  
+
+There’s no small amount of tourism to see the massive and prestigious restaurant complexes there either.  Scouting agencies from all around the galaxy often look for cooks certified in Gluttony for hiring in high up establishments across the galaxy, usually paying the good ones a king’s ransom. 
+
+The social constructs of Gluttony are a constant series of priding oneself on a new dish, making something bigger, better, more filling, tastier than the last.  It’s truly an insatiable economy of creation and consumption.  The menus at each and every restaurant seldom have dishes that stick around for over five years.
+
+
+##### Greed
+
+Greed isn’t so much a territory as it is a massive, sprawling metropolis.  It stands tall with massive skyscrapers in defiance of the miles of open, burning plains surrounding it, construction crews often working to tame the landscape before claiming yet more territory.  Greed has the most spaceports on the planet, and as such is often referred to as the planet’s general center of commerce.  It’s hard to find an off-world product being sold on Infernum that hasn’t been passed through Greed at one point or another.  The strangest part?  It’s all owned and loaned out by a single monopoly, GreedCorp.  The company seems to have been a central part of the city for eons, even owing its current name to the all-encompassing business. 
+
+Greed typically makes its money in logistics, legal jargon, and ruthless deals with other space-faring races.  Despite their size, most of their business happens off-world.  GreedCorp often sinks its paws into just about anything and everything, mining rights, trade routes, construction, manufacturing, there are even rumors of trained mercenaries being recruited and contracted out of Greed.  
+
+GreedCorp is also often contracted by outside powers to help conduct negotiations and contract agreements.  Due to their large corporate thinktanks and lawyers well versed in any known codes of law used by other races, they are often quite adept at this task- they have an unbelievably high success rate.  They also usually ask for alternative payment rather than a flat fee- the price may not be worth the deal you get, success or not. 
+
+While Greed’s tendrils are far-reaching, owning large parts of Sloth, Gluttony, and Envy, they seem to be stuck out of the deal when it comes to the resort city, Lust.  While they certainly make deals with Lust, it seems that their autonomy is secured from the sheer amount of galactic attention that the place receives.  Most Lords of Lust would instead go bankrupt than sell their businesses to Greed, something that GreedCorp has taken notice of.  These two cities share a rivalry ages old, often bringing up one in the other will elicit sneers and scoffs. 
+
+Life in Greed is far less stellar and scenic than the beautiful skyscrapers may initially lead you to believe.  Generally, if you aren’t useful to the corporation, you aren’t useful;  If you aren’t useful, Greed can make you useful.  Call centers, cafeteria workers, accountants, salesmen, ditch diggers, janitors, construction workers, etcetera.  There’s no shortage of jobs in Greed.  No matter who you are, Greed will place you somewhere, and you will work. 
+ 
+
+##### Sloth
+
+Sloth is what can be amounted to as a massive factory the size of a city.  While comprised of many, many different facilities- the streets are comprised of domed, cooled conveyor belts, moving seating, all in programmable pathways between the large, solar panel covered metallic cubes of factory complexes and homes.  Sometimes both rolled into one.  Sloth is the industrial powerhouse and the technological innovator on Infernum, but most of the innovation they do is just making those jobs as simple and easy as possible. 
+
+For most Demons living in Sloth, interaction with machinery is their day to day lives.  Programming it, keeping it running, informing machines to make repairs, diagnostics, problem-solving, creating failsafes, improvement, etcetera.  It’s nearly all they do.  Of course, whoever a Slothites employer is typically paying them a large amount of money to keep the machines up and running, and often withhold pay should there be excessive downtime.  While this would be the demon’s job, they often go about it with a sort of lackadaisical uncaring, except for when it might come back to bite them.  Sloth mechanic and programmer subculture entirely revolves around making a machine so perfect it nearly fixes itself and does everything for you.  The city itself is the result of that obsession.
+
+The mechanical city does nearly everything for you.  It wakes you up, it cooks you breakfast, it showers you, it brushes your teeth, it dresses you up and walks you to work, where it then proceeds to adjust your chair however you want and bring you snacks and coffee from the frequently used breakroom.  Most residents of Sloth end up making or modifying systems to work for themselves specifically, there’s no city committee keeping track of all of this- it’s all idiot proofed by disgruntled users.  
+
+Your typical Sloth engineer has most of his work created by the folly of his peers.  With hundreds if not thousands of workers all entirely unorganized and working on the same machines, it's not at all uncommon to find new modifications to machines each day.  Some are better documented and better planned than others.  More often than not this can end in damaged equipment, lost materials, and a disgruntled mechanic quite displeased with the fact that he actually has to do his job today. 
+
+Sloth has a production quota, unlike any other factory, creating hundreds of thousands of products for both on-world and off-world clients, almost any product being shipped off-world has passed through Sloth at least for packaging if nothing else.  Half of the city is owned by GreedCorp, the other parts taking orders from independent Gluttony businesses, or places in Lust. 
+
+Technological literacy and genius is an essential skill to live here for any period of time.  The sheer amount of civilian created robots and interfaces lining the streets require constant tinkering and maintenance in order to bypass with minimal effort.  It’s almost antithetical to the laziness and ease of access they’re usually created to preserve. 
+
+While obviously largely powered by solar energy, Sloth actually pulls most of its power from massive geothermal generators established in the burning landscape surrounding the city in ages long past, theorized to be created in order to bypass paying for power or using something that’d require more maintenance. 
+
+
+##### Wrath
+
+Wrath is a great exception amongst the demon’s cultures.  They don’t have a set location, or even really a set population.  Wrath is comprised of one of three known traveling caravans of Demons, all surviving in the highly specialized, highly dangerous volcanic wildlands of Infernum.
+
+Wrath is referred to as a sort of boogeyman amongst most of the territories, often raiding transports, stealing food, stealing technology, scrapping vehicles, taking anything and everything that isn’t bolted down and may assist their hit and run survival out in the harsh burning landscape.  
+
+Wrath seems to be obsessed with speed and force, striking down an enemy, bringing them low, and taking what is theirs before they even have a chance to react.  So much so that this is their primary form of authority and governance.  The leader of Wrath is whoever can forcibly shut everyone else up long enough to give out orders.  This person is known as a ‘Khan’ and is always regarded as an exceptionally strong warrior.  While duels for supremacy are rare, this isn’t out of a sense of order in the caravan, it’s simply because these people live and breathe battle.  They constantly watch one another, keeping tabs on who is and isn’t stronger, improvements, decay.  One only fights when one is sure of victory, and training dedication and power ensure victory.  
+
+Wrath caravans often move in an unpredictable pattern between predetermined drop points and previously set up encampments, often created sites or scavenged and repurposed buildings from territories long past repurposed to be able to become set up or abandoned quickly.  Wrath never stays in one place for too long, but when they leave they often have more than they came with. 
+
+Wrath also has a subclass of mechanics, most enamored with the idea of creating vehicles that can move fast and carry through a speedy assault.  Speed and precision are tenets of their guerilla fighting style, and it carries through in nearly everything that these mechanics build.  While one might imagine that Wrath is confined to the surface of Infernum, occasionally a group of these mechanics will have built a small fleet of ships, entirely geared towards sabotaging angelic vessels or GreedCorp transports.  Most Wrath tech looks cobbled together and scavenged from their surroundings, but often work to deadly effect.
+
+##### Envy
+
+Envy is situated in a massive valley, leading down into a yawning crevasse in Infernum’s surface that seemingly leads deep into the planet’s crust.  The entirety of the territory’s economy is centered around taking everything possible from the weathered and age-old bisection of their planet’s rocky outer layer, often taking any risks required and taking out any competition possible.  
+
+The scar in the earth that Envy is built on is anomalous in that it contains many useful and often rare materials that can be easily sold for a high price if the information is given to the correct people.  The people of Envy are often caught chasing an improbable dream of getting rich quick and often fight one another directly over who’s going to get their next big score.  
+
+Many interstellar mining guilds from both across Infernum and across the galaxy take up a presence in Envy, however not many stay long.  The cutthroat competition doesn’t stop at its citizens, after all.  With how little regulations there are on Infernum, petty sabotage and seizure of another company’s property is a frequent and real threat for any investors.  
+
+There’s a real possibility to get rich in Envy if you’re clever, skilled, and ruthless.  Many find themselves killed in the gulch, or worse.  There are no lords of Envy, and it’s not even officially a territory- it’s simply what the area has been labeled over years of settlement and infighting. 
+
+##### Pride
+
+Pride is situated in a large, cozy valley safe from most of the planet’s violent weather and outbursts.  It too is an exception in its disorganization, the entire territory is more an uncollected territory of mansions, support structures, gardens, pools, all curled up and interlocked with one another.  One can swear that the walls and fence posts change in position from time to time.  The populace is about what you’d expect from such an area, usually extended families of ancient demon bloodlines, funded by old crypts of money.  Usually, they have an extended suite of staff that tend to nearly everything for them, and often have an extensive list of rituals, customs, and regular gatherings between families fuelled by a genuine social desire to prove themselves as better than one another.  The residents of Pride often refer to themselves as Royals or Archdemons- but the title has little meaning outside of Pride, simply means the demon has more money.  
+
+Nobody quite knows when Pride was formed, but it’s rumored to be older than any of the other current territories, the logbooks of some family crypts going back to humanity ’s prehistory and beyond.  There’s been a history of families coming and going under new heads, but most tend to float through the careful investment of funds and hired experts from other territories, most often Greed.  
+
+Visitors are seldom welcome in the gated community of Pride, always having to carry the seal of the house that brought them in.  Even then, they’ll often be judged in accordance with the extensive list of customs involved in dealing with said family, which often require extensive research to even begin to practice.  As such, Pride families are often careful in whom they associate with.  
+
+Midnight parties and gatherings amongst the nobility have been reported to actually be quite fun once you get the hang of the social intrigue and careful rituals involved, the families in the mess of courtyards often seem to find their biggest form of entertainment in one another.  However, the families also seem intent on presiding over the entire complex, age-old family rivalries and even raids have been documented throughout Pride’s history, although should a family want to pull the trigger, the use of assassins and careful placement of heirs is always more favored. 
